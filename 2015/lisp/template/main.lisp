@@ -1,7 +1,6 @@
-(in-package :cl-user) ; No package for now, or define one if needed.
+(in-package :cl-user)
 
-(defun run-day01a ()
-  (let ((input (helper-utils:read-input-lines "input.txt")))
-    ;; Solve the challenge here.
-    input))
+(defun run (input-file)
+  (let ((input (helper-utils:read-input-lines input-file)))
+    (format t "Running with input from ~A~%First line: ~A~%" input-file (first input))))
 
