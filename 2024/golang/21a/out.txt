@@ -1,0 +1,30 @@
+Keypad:
+1 -> map[0:[>vA] 1:[A] 2:[>A] 3:[>>A] 4:[^A] 5:[>^A ^>A] 6:[>>^A >^>A ^>>A] 7:[^^A] 8:[>^^A ^>^A ^^>A] 9:[>>^^A >^>^A >^^>A ^>>^A ^>^>A ^^>>A] A:[>>vA >v>A]]
+2 -> map[0:[vA] 1:[<A] 2:[A] 3:[>A] 4:[<^A ^<A] 5:[^A] 6:[>^A ^>A] 7:[<^^A ^<^A ^^<A] 8:[^^A] 9:[>^^A ^>^A ^^>A] A:[>vA v>A]]
+3 -> map[0:[<vA v<A] 1:[<<A] 2:[<A] 3:[A] 4:[<<^A <^<A ^<<A] 5:[<^A ^<A] 6:[^A] 7:[<<^^A <^<^A <^^<A ^<<^A ^<^<A ^^<<A] 8:[<^^A ^<^A ^^<A] 9:[^^A] A:[vA]]
+6 -> map[0:[<vvA v<vA vv<A] 1:[<<vA <v<A v<<A] 2:[<vA v<A] 3:[vA] 4:[<<A] 5:[<A] 6:[A] 7:[<<^A <^<A ^<<A] 8:[<^A ^<A] 9:[^A] A:[vvA]]
+A -> map[0:[<A] 1:[<^<A ^<<A] 2:[<^A ^<A] 3:[^A] 4:[<^<^A <^^<A ^<<^A ^<^<A ^^<<A] 5:[<^^A ^<^A ^^<A] 6:[^^A] 7:[<^<^^A <^^<^A <^^^<A ^<<^^A ^<^<^A ^<^^<A ^^<<^A ^^<^<A ^^^<<A] 8:[<^^^A ^<^^A ^^<^A ^^^<A] 9:[^^^A] A:[A]]
+0 -> map[0:[A] 1:[^<A] 2:[^A] 3:[>^A ^>A] 4:[^<^A ^^<A] 5:[^^A] 6:[>^^A ^>^A ^^>A] 7:[^<^^A ^^<^A ^^^<A] 8:[^^^A] 9:[>^^^A ^>^^A ^^>^A ^^^>A] A:[>A]]
+4 -> map[0:[>vvA v>vA] 1:[vA] 2:[>vA v>A] 3:[>>vA >v>A v>>A] 4:[A] 5:[>A] 6:[>>A] 7:[^A] 8:[>^A ^>A] 9:[>>^A >^>A ^>>A] A:[>>vvA >v>vA >vv>A v>>vA v>v>A]]
+5 -> map[0:[vvA] 1:[<vA v<A] 2:[vA] 3:[>vA v>A] 4:[<A] 5:[A] 6:[>A] 7:[<^A ^<A] 8:[^A] 9:[>^A ^>A] A:[>vvA v>vA vv>A]]
+7 -> map[0:[>vvvA v>vvA vv>vA] 1:[vvA] 2:[>vvA v>vA vv>A] 3:[>>vvA >v>vA >vv>A v>>vA v>v>A vv>>A] 4:[vA] 5:[>vA v>A] 6:[>>vA >v>A v>>A] 7:[A] 8:[>A] 9:[>>A] A:[>>vvvA >v>vvA >vv>vA >vvv>A v>>vvA v>v>vA v>vv>A vv>>vA vv>v>A]]
+8 -> map[0:[vvvA] 1:[<vvA v<vA vv<A] 2:[vvA] 3:[>vvA v>vA vv>A] 4:[<vA v<A] 5:[vA] 6:[>vA v>A] 7:[<A] 8:[A] 9:[>A] A:[>vvvA v>vvA vv>vA vvv>A]]
+9 -> map[0:[<vvvA v<vvA vv<vA vvv<A] 1:[<<vvA <v<vA <vv<A v<<vA v<v<A vv<<A] 2:[<vvA v<vA vv<A] 3:[vvA] 4:[<<vA <v<A v<<A] 5:[<vA v<A] 6:[vA] 7:[<<A] 8:[<A] 9:[A] A:[vvvA]]
+Dpad:
+A -> map[<:[<v<A v<<A] >:[vA] A:[A] ^:[<A] v:[<vA v<A]]
+< -> map[<:[A] >:[>>A] A:[>>^A >^>A] ^:[>^A] v:[>A]]
+> -> map[<:[<<A] >:[A] A:[^A] ^:[<^A ^<A] v:[<A]]
+^ -> map[<:[v<A] >:[>vA v>A] A:[>A] ^:[A] v:[vA]]
+v -> map[<:[<A] >:[>A] A:[>^A ^>A] ^:[^A] v:[A]]
+879A
+Level 1:
+Level 2:Level 3:508A
+Level 1:
+Level 2:Level 3:463A
+Level 1:
+Level 2:Level 3:593A
+Level 1:
+Level 2:Level 3:189A
+Level 1:
+Level 2:Level 3: -> Sum: 188384
+Processing complete!

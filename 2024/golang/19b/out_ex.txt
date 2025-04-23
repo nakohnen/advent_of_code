@@ -1,0 +1,110 @@
+Towels [b br bwu g gb r rb wr]
+Towels [b bwu g r wr]
+Design brwrr is possible
+brwrr -> rwrr (len 4) with b as [b]
+Continued
+rwrr -> wrr (len 3) with r as [b r]
+Continued
+wrr -> r (len 1) with wr as [b r wr]
+Continued
+r ->  (len 0) with r as [b r wr r]
+appended
+Design brwrr can be done using 1 base towels
+using [b r wr r]
+Reintroduced: [br rb]
+Combined Positions: [[0 1]]
+Borders: [0 1 2 3]
+Worker 1 processed job: brwrr -> 2
+
+Design bggr is possible
+bggr -> ggr (len 3) with b as [b]
+Continued
+ggr -> gr (len 2) with g as [b g]
+Continued
+gr -> r (len 1) with g as [b g g]
+Continued
+r ->  (len 0) with r as [b g g r]
+appended
+Design bggr can be done using 1 base towels
+using [b g g r]
+Reintroduced: [br gb rb]
+Combined Positions: []
+Borders: [0 1 2 3]
+Worker 1 processed job: bggr -> 1
+
+Design gbbr is possible
+gbbr -> bbr (len 3) with g as [g]
+Continued
+bbr -> br (len 2) with b as [g b]
+Continued
+br -> r (len 1) with b as [g b b]
+Continued
+r ->  (len 0) with r as [g b b r]
+appended
+Design gbbr can be done using 1 base towels
+using [g b b r]
+Reintroduced: [br gb rb]
+Combined Positions: [[0 1] [2 3]]
+Borders: [0 1 2 3]
+Worker 1 processed job: gbbr -> 4
+
+Design rrbgbr is possible
+rrbgbr -> rbgbr (len 5) with r as [r]
+Continued
+rbgbr -> bgbr (len 4) with r as [r r]
+Continued
+bgbr -> gbr (len 3) with b as [r r b]
+Continued
+gbr -> br (len 2) with g as [r r b g]
+Continued
+br -> r (len 1) with b as [r r b g b]
+Continued
+r ->  (len 0) with r as [r r b g b r]
+appended
+Design rrbgbr can be done using 1 base towels
+using [r r b g b r]
+Reintroduced: [br gb rb]
+Combined Positions: [[1 2] [3 4] [4 5]]
+Borders: [0 1 2 3 4 5]
+Worker 1 processed job: rrbgbr -> 6
+
+Worker 1 processed job: ubwu -> 0
+
+Design bwurrg is possible
+bwurrg -> wurrg (len 5) with b as [b]
+Continued
+bwurrg -> rrg (len 3) with bwu as [bwu]
+Continued
+rrg -> rg (len 2) with r as [bwu r]
+Continued
+rg -> g (len 1) with r as [bwu r r]
+Continued
+g ->  (len 0) with g as [bwu r r g]
+appended
+Design bwurrg can be done using 1 base towels
+using [bwu r r g]
+Reintroduced: []
+Combined Positions: []
+Borders: [0 1 2 3]
+Worker 1 processed job: bwurrg -> 1
+
+Design brgr is possible
+brgr -> rgr (len 3) with b as [b]
+Continued
+rgr -> gr (len 2) with r as [b r]
+Continued
+gr -> r (len 1) with g as [b r g]
+Continued
+r ->  (len 0) with r as [b r g r]
+appended
+Design brgr can be done using 1 base towels
+using [b r g r]
+Reintroduced: [br gb rb]
+Combined Positions: [[0 1]]
+Borders: [0 1 2 3]
+Worker 1 processed job: brgr -> 2
+
+Worker 1 processed job: bbrgwb -> 0
+
+ -> Sum: 16
+Processing complete!

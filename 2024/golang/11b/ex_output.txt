@@ -1,0 +1,3 @@
+Stones: [125 17]
+ -> Sum: 65601038650482
+Processing complete!

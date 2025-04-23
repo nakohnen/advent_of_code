@@ -1,0 +1,45 @@
+Stones: [125 17]
+0 - Stones: [253000]
+1 - Stones: [253 0]
+2 - Stones: [512072 1]
+3 - Stones: [512 72 2024]
+4 - Stones: [1036288 7 2 20 24]
+5 - Stones: [4048 14168 2 0 2 4 2097446912]
+6 - Stones: [40 48 28676032 4048 1 4048 8096 20974 46912]
+7 - Stones: [4 0 4 8 2867 6032 40 48 2024 40 48 80 96 42451376 94949888]
+8 - Stones count: 26
+9 - Stones count: 38
+10 - Stones count: 56
+11 - Stones count: 82
+12 - Stones count: 126
+13 - Stones count: 189
+14 - Stones count: 283
+15 - Stones count: 467
+16 - Stones count: 682
+17 - Stones count: 978
+18 - Stones count: 1575
+19 - Stones count: 2395
+20 - Stones count: 3625
+21 - Stones count: 5390
+22 - Stones count: 8173
+23 - Stones count: 12846
+24 - Stones count: 19025
+25 - Stones count: 28994
+26 - Stones count: 44502
+27 - Stones count: 66490
+28 - Stones count: 102144
+29 - Stones count: 154793
+30 - Stones count: 235088
+31 - Stones count: 358137
+32 - Stones count: 538264
+33 - Stones count: 826739
+34 - Stones count: 1254365
+35 - Stones count: 1892247
+36 - Stones count: 2894453
+37 - Stones count: 4376459
+38 - Stones count: 6661849
+39 - Stones count: 10127226
+40 - Stones count: 15327410
+41 - Stones count: 23392904
+42 - Stones count: 35404018
+43 - Stones count: 53792008

@@ -1,0 +1,84 @@
+Towels [b br bwu g gb r rb wr]
+Towels [b bwu g r wr]
+Design brwrr is possible
+There is no memo of brwrr
+There is no memo of rwrr
+There is no memo of wrr
+There is no memo of rr
+There is no memo of r
+Memo exists: 1 for rr
+Memo exists: 1 for r
+Memo exists: 1 for wrr
+Memo exists: 1 for rr
+Memo exists: 1 for r
+Worker 1 processed job: brwrr -> 2
+
+Design bggr is possible
+There is no memo of bggr
+There is no memo of ggr
+There is no memo of gr
+There is no memo of r
+Memo exists: 1 for gr
+Memo exists: 1 for r
+Worker 1 processed job: bggr -> 1
+
+Design gbbr is possible
+There is no memo of gbbr
+There is no memo of bbr
+There is no memo of br
+There is no memo of r
+Memo exists: 2 for br
+Memo exists: 1 for r
+Worker 1 processed job: gbbr -> 4
+
+Design rrbgbr is possible
+There is no memo of rrbgbr
+There is no memo of rbgbr
+There is no memo of bgbr
+There is no memo of gbr
+There is no memo of br
+There is no memo of r
+Memo exists: 2 for br
+Memo exists: 1 for r
+Memo exists: 3 for gbr
+Memo exists: 2 for br
+Memo exists: 1 for r
+Memo exists: 3 for bgbr
+Memo exists: 3 for gbr
+Memo exists: 2 for br
+Memo exists: 1 for r
+Worker 1 processed job: rrbgbr -> 6
+
+Worker 1 processed job: ubwu -> 0
+
+Design bwurrg is possible
+There is no memo of bwurrg
+There is no memo of wurrg
+There is no memo of urrg
+There is no memo of rrg
+There is no memo of rg
+There is no memo of g
+Memo exists: 1 for rg
+Memo exists: 1 for g
+Memo exists: 1 for rrg
+Memo exists: 1 for rg
+Memo exists: 1 for g
+Memo exists: 0 for urrg
+Memo exists: 1 for rrg
+Memo exists: 1 for rg
+Memo exists: 1 for g
+Worker 1 processed job: bwurrg -> 1
+
+Design brgr is possible
+There is no memo of brgr
+There is no memo of rgr
+There is no memo of gr
+There is no memo of r
+Memo exists: 1 for gr
+Memo exists: 1 for r
+Worker 1 processed job: brgr -> 2
+
+Worker 1 processed job: bbrgwb -> 0
+
+ -> Sum: 16
+Processing complete!

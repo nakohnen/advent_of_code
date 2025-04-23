@@ -1,0 +1,456 @@
+Keypad:
+0 -> map[0:[A] 1:[^<A] 2:[^A] 3:[>^A ^>A] 4:[^<^A ^^<A] 5:[^^A] 6:[>^^A ^>^A ^^>A] 7:[^<^^A ^^<^A ^^^<A] 8:[^^^A] 9:[>^^^A ^>^^A ^^>^A ^^^>A] A:[>A]]
+5 -> map[0:[vvA] 1:[<vA v<A] 2:[vA] 3:[>vA v>A] 4:[<A] 5:[A] 6:[>A] 7:[<^A ^<A] 8:[^A] 9:[>^A ^>A] A:[>vvA v>vA vv>A]]
+6 -> map[0:[<vvA v<vA vv<A] 1:[<<vA <v<A v<<A] 2:[<vA v<A] 3:[vA] 4:[<<A] 5:[<A] 6:[A] 7:[<<^A <^<A ^<<A] 8:[<^A ^<A] 9:[^A] A:[vvA]]
+7 -> map[0:[>vvvA v>vvA vv>vA] 1:[vvA] 2:[>vvA v>vA vv>A] 3:[>>vvA >v>vA >vv>A v>>vA v>v>A vv>>A] 4:[vA] 5:[>vA v>A] 6:[>>vA >v>A v>>A] 7:[A] 8:[>A] 9:[>>A] A:[>>vvvA >v>vvA >vv>vA >vvv>A v>>vvA v>v>vA v>vv>A vv>>vA vv>v>A]]
+9 -> map[0:[<vvvA v<vvA vv<vA vvv<A] 1:[<<vvA <v<vA <vv<A v<<vA v<v<A vv<<A] 2:[<vvA v<vA vv<A] 3:[vvA] 4:[<<vA <v<A v<<A] 5:[<vA v<A] 6:[vA] 7:[<<A] 8:[<A] 9:[A] A:[vvvA]]
+1 -> map[0:[>vA] 1:[A] 2:[>A] 3:[>>A] 4:[^A] 5:[>^A ^>A] 6:[>>^A >^>A ^>>A] 7:[^^A] 8:[>^^A ^>^A ^^>A] 9:[>>^^A >^>^A >^^>A ^>>^A ^>^>A ^^>>A] A:[>>vA >v>A]]
+2 -> map[0:[vA] 1:[<A] 2:[A] 3:[>A] 4:[<^A ^<A] 5:[^A] 6:[>^A ^>A] 7:[<^^A ^<^A ^^<A] 8:[^^A] 9:[>^^A ^>^A ^^>A] A:[>vA v>A]]
+3 -> map[0:[<vA v<A] 1:[<<A] 2:[<A] 3:[A] 4:[<<^A <^<A ^<<A] 5:[<^A ^<A] 6:[^A] 7:[<<^^A <^<^A <^^<A ^<<^A ^<^<A ^^<<A] 8:[<^^A ^<^A ^^<A] 9:[^^A] A:[vA]]
+4 -> map[0:[>vvA v>vA] 1:[vA] 2:[>vA v>A] 3:[>>vA >v>A v>>A] 4:[A] 5:[>A] 6:[>>A] 7:[^A] 8:[>^A ^>A] 9:[>>^A >^>A ^>>A] A:[>>vvA >v>vA >vv>A v>>vA v>v>A]]
+8 -> map[0:[vvvA] 1:[<vvA v<vA vv<A] 2:[vvA] 3:[>vvA v>vA vv>A] 4:[<vA v<A] 5:[vA] 6:[>vA v>A] 7:[<A] 8:[A] 9:[>A] A:[>vvvA v>vvA vv>vA vvv>A]]
+A -> map[0:[<A] 1:[<^<A ^<<A] 2:[<^A ^<A] 3:[^A] 4:[<^<^A <^^<A ^<<^A ^<^<A ^^<<A] 5:[<^^A ^<^A ^^<A] 6:[^^A] 7:[<^<^^A <^^<^A <^^^<A ^<<^^A ^<^<^A ^<^^<A ^^<<^A ^^<^<A ^^^<<A] 8:[<^^^A ^<^^A ^^<^A ^^^<A] 9:[^^^A] A:[A]]
+Dpad:
+A -> A : [A]
+A -> < : [<v<A v<<A]
+A -> > : [vA]
+A -> ^ : [<A]
+A -> v : [<vA v<A]
+< -> A : [>>^A >^>A]
+< -> < : [A]
+< -> > : [>>A]
+< -> ^ : [>^A]
+< -> v : [>A]
+> -> A : [^A]
+> -> < : [<<A]
+> -> > : [A]
+> -> ^ : [<^A ^<A]
+> -> v : [<A]
+^ -> A : [>A]
+^ -> < : [v<A]
+^ -> > : [>vA v>A]
+^ -> ^ : [A]
+^ -> v : [vA]
+v -> A : [>^A ^>A]
+v -> < : [<A]
+v -> > : [>A]
+v -> ^ : [^A]
+v -> v : [A]
+Dpad level 2
+2: A to A -> 
+New perms size: 1
+1 perms with minLen 1
+2: A to < -> 
+New perms size: 8
+2 perms with minLen 10
+2: A to > -> 
+New perms size: 4
+4 perms with minLen 6
+2: A to ^ -> 
+New perms size: 4
+1 perms with minLen 8
+2: A to v -> 
+New perms size: 8
+2 perms with minLen 9
+2: < to A -> 
+New perms size: 6
+2 perms with minLen 8
+2: < to < -> 
+New perms size: 1
+1 perms with minLen 1
+2: < to > -> 
+New perms size: 1
+1 perms with minLen 5
+2: < to ^ -> 
+New perms size: 2
+2 perms with minLen 7
+2: < to v -> 
+New perms size: 1
+1 perms with minLen 4
+2: > to A -> 
+New perms size: 1
+1 perms with minLen 4
+2: > to < -> 
+New perms size: 4
+1 perms with minLen 9
+2: > to > -> 
+New perms size: 1
+1 perms with minLen 1
+2: > to ^ -> 
+New perms size: 4
+1 perms with minLen 9
+2: > to v -> 
+New perms size: 4
+1 perms with minLen 8
+2: ^ to A -> 
+New perms size: 1
+1 perms with minLen 4
+2: ^ to < -> 
+New perms size: 4
+2 perms with minLen 9
+2: ^ to > -> 
+New perms size: 4
+2 perms with minLen 7
+2: ^ to ^ -> 
+New perms size: 1
+1 perms with minLen 1
+2: ^ to v -> 
+New perms size: 4
+4 perms with minLen 6
+2: v to A -> 
+New perms size: 4
+4 perms with minLen 7
+2: v to < -> 
+New perms size: 4
+1 perms with minLen 8
+2: v to > -> 
+New perms size: 1
+1 perms with minLen 4
+2: v to ^ -> 
+New perms size: 1
+1 perms with minLen 4
+2: v to v -> 
+New perms size: 1
+1 perms with minLen 1
+2 level dpad:
+A -> A : [A]
+A -> < : [<vA<AA>>^A]
+A -> > : [<vA>^A]
+A -> ^ : [v<<A>>^A]
+A -> v : [v<<A>A^>A]
+< -> > : [vAA^A]
+< -> ^ : [vA^<A>A]
+< -> v : [vA^A]
+< -> A : [vAA<^A>A]
+< -> < : [A]
+> -> > : [A]
+> -> ^ : [v<<A>^A>A]
+> -> v : [v<<A>>^A]
+> -> A : [<A>A]
+> -> < : [v<<AA>>^A]
+^ -> A : [vA^A]
+^ -> < : [<vA<A>>^A]
+^ -> > : [<vA>A^A]
+^ -> ^ : [A]
+^ -> v : [<vA>^A]
+v -> A : [vA^<A>A]
+v -> < : [v<<A>>^A]
+v -> > : [vA^A]
+v -> ^ : [<A>A]
+v -> v : [A]
+
+Dpad level 3
+3: A to A -> 
+New perms size: 1
+1 perms with minLen 1
+3: A to < -> 
+New perms size: 32
+4 perms with minLen 26
+3: A to > -> 
+New perms size: 8
+4 perms with minLen 16
+3: A to ^ -> 
+New perms size: 8
+4 perms with minLen 18
+3: A to v -> 
+New perms size: 8
+4 perms with minLen 21
+3: < to A -> 
+New perms size: 8
+4 perms with minLen 20
+3: < to < -> 
+New perms size: 1
+1 perms with minLen 1
+3: < to > -> 
+New perms size: 4
+4 perms with minLen 11
+3: < to ^ -> 
+New perms size: 8
+4 perms with minLen 19
+3: < to v -> 
+New perms size: 4
+4 perms with minLen 10
+3: > to A -> 
+New perms size: 4
+1 perms with minLen 12
+3: > to < -> 
+New perms size: 8
+4 perms with minLen 19
+3: > to > -> 
+New perms size: 1
+1 perms with minLen 1
+3: > to ^ -> 
+New perms size: 8
+4 perms with minLen 21
+3: > to v -> 
+New perms size: 8
+4 perms with minLen 18
+3: ^ to A -> 
+New perms size: 4
+4 perms with minLen 10
+3: ^ to < -> 
+New perms size: 32
+4 perms with minLen 25
+3: ^ to > -> 
+New perms size: 4
+2 perms with minLen 17
+3: ^ to ^ -> 
+New perms size: 1
+1 perms with minLen 1
+3: ^ to v -> 
+New perms size: 8
+4 perms with minLen 16
+3: v to A -> 
+New perms size: 8
+4 perms with minLen 19
+3: v to < -> 
+New perms size: 8
+4 perms with minLen 18
+3: v to > -> 
+New perms size: 4
+4 perms with minLen 10
+3: v to ^ -> 
+New perms size: 4
+1 perms with minLen 12
+3: v to v -> 
+New perms size: 1
+1 perms with minLen 1
+3 level dpad:
+v -> < : [<vA<AA>>^AvAA<^A>A]
+v -> > : [<vA>^A<A>A]
+v -> ^ : [v<<A>>^AvA^A]
+v -> v : [A]
+v -> A : [v<A^>A<Av<A>>^AvA^A]
+A -> A : [A]
+A -> < : [v<<A>A>^Av<<A>>^AAvAA<^A>A]
+A -> > : [v<<A>A>^AvA<^A>A]
+A -> ^ : [<vA<AA>>^AvAA<^A>A]
+A -> v : [<vA<AA>>^AvA^A<Av>A^A]
+< -> A : [<vA^>AAv<<A>^A>AvA^A]
+< -> < : [A]
+< -> > : [<vA>^AA<A>A]
+< -> ^ : [v<A^>A<Av<A>>^AvA^A]
+< -> v : [<vA^>A<A>A]
+> -> A : [v<<A>>^AvA^A]
+> -> < : [v<A<AA>>^AAvAA<^A>A]
+> -> > : [A]
+> -> ^ : [<vA<AA>>^AvA<^A>AvA^A]
+> -> v : [<vA<AA>>^AvAA<^A>A]
+^ -> > : [v<<A>A>^AvA^A<A>A]
+^ -> ^ : [A]
+^ -> v : [v<<A>A^>AvA<^A>A]
+^ -> A : [v<A>^A<A>A]
+^ -> < : [v<<A>A>^Av<<A>>^AvAA<^A>A]
+
+Dpad level 4
+4: A to A -> 
+New perms size: 1
+1 perms with minLen 1
+4: A to < -> 
+New perms size: 512
+64 perms with minLen 60
+4: A to > -> 
+New perms size: 64
+16 perms with minLen 40
+4: A to ^ -> 
+New perms size: 256
+16 perms with minLen 46
+4: A to v -> 
+New perms size: 1024
+32 perms with minLen 55
+4: < to A -> 
+New perms size: 256
+64 perms with minLen 48
+4: < to < -> 
+New perms size: 1
+1 perms with minLen 1
+4: < to > -> 
+New perms size: 32
+4 perms with minLen 29
+4: < to ^ -> 
+New perms size: 1024
+64 perms with minLen 51
+4: < to v -> 
+New perms size: 32
+4 perms with minLen 28
+4: > to A -> 
+New perms size: 32
+16 perms with minLen 28
+4: > to < -> 
+New perms size: 256
+16 perms with minLen 47
+4: > to > -> 
+New perms size: 1
+1 perms with minLen 1
+4: > to ^ -> 
+New perms size: 1024
+64 perms with minLen 55
+4: > to v -> 
+New perms size: 256
+16 perms with minLen 46
+4: ^ to A -> 
+New perms size: 32
+4 perms with minLen 28
+4: ^ to < -> 
+New perms size: 512
+64 perms with minLen 59
+4: ^ to > -> 
+New perms size: 128
+16 perms with minLen 43
+4: ^ to ^ -> 
+New perms size: 1
+1 perms with minLen 1
+4: ^ to v -> 
+New perms size: 64
+16 perms with minLen 40
+4: v to A -> 
+New perms size: 1024
+64 perms with minLen 51
+4: v to < -> 
+New perms size: 256
+16 perms with minLen 46
+4: v to > -> 
+New perms size: 32
+4 perms with minLen 28
+4: v to ^ -> 
+New perms size: 32
+16 perms with minLen 28
+4: v to v -> 
+New perms size: 1
+1 perms with minLen 1
+4 level dpad:
+A -> v : [v<<A>A>^Av<<A>>^AAvAA^<A>A<vA>^A<A>Av<<A>>^A<vA>A^A<A>A]
+A -> A : [A]
+A -> < : [v<A<AA>>^AvA^AvA<^A>Av<A<AA>>^AvAA<^A>AA<vA^>AAv<<A>^A>AvA^A]
+A -> > : [<vA<AA>>^AvA^AvA^<A>Av<A>^Av<<A>^A>AvA^A]
+A -> ^ : [v<<A>A>^Av<<A>>^AAvAA<^A>Av<A^>AAv<<A>^A>AvA^A]
+< -> A : [v<<A>A>^A<A>vA^AA<vA<AA>>^AvA^<A>AvA^A<vA^>A<A>A]
+< -> < : [A]
+< -> > : [v<<A>A>^AvA^<A>AAv<<A>>^AvA^A]
+< -> ^ : [v<A<A>>^A<A>vA^Av<<A>>^A<vA<A>>^AvAA^<A>A<vA>^A<A>A]
+< -> v : [v<<A>A>^A<Av>A^Av<<A>>^AvA^A]
+> -> ^ : [v<<A>A>^Av<<A>>^AAvAA<^A>A<vA>^Av<<A>^A>AvA^Av<A>^A<A>A]
+> -> v : [v<<A>A^>Av<<A>>^AAvAA^<A>Av<A>^AAv<<A>^A>AvA^A]
+> -> A : [<vA<AA>>^AvAA<^A>A<vA>^A<A>A]
+> -> < : [v<A<A>>^Av<<A>>^AAvAA<^A>AAv<A^>AAv<<A>^A>AvA^A]
+> -> > : [A]
+^ -> v : [v<A<AA>>^AvA^A<Av>A^A<vA>^Av<<A>^A>AvA^A]
+^ -> A : [v<A<A>>^AvA^<A>Av<<A>>^AvA^A]
+^ -> < : [v<A<AA>>^AvA^AvA^<A>A<vA<AA>>^AvAA^<A>Av<A>^AAv<<A>^A>AvA^A]
+^ -> > : [<vA<AA>>^AvA^AvA<^A>Av<A^>A<A>Av<<A>>^AvA^A]
+^ -> ^ : [A]
+v -> v : [A]
+v -> A : [v<A<A>>^A<Av>A^Av<<A>>^A<vA<A>>^AvAA^<A>Av<A>^A<A>A]
+v -> < : [v<<A>A>^Av<<A>>^AAvAA<^A>Av<A>^AAv<<A>^A>AvA^A]
+v -> > : [v<<A>A^>AvA^<A>Av<<A>>^AvA^A]
+v -> ^ : [<vA<AA>>^AvAA<^A>A<vA^>A<A>A]
+
+Dpad level 5
+5: A to A -> 
+New perms size: 1
+1 perms with minLen 1
+5: A to < -> 
+New perms size: 67108864
+65536 perms with minLen 150
+5: A to > -> 
+New perms size: 262144
+4096 perms with minLen 102
+5: A to ^ -> 
+New perms size: 131072
+4096 perms with minLen 108
+5: A to v -> 
+New perms size: 2097152
+2048 perms with minLen 135
+5: < to A -> 
+New perms size: 2097152
+2048 perms with minLen 124
+5: < to < -> 
+New perms size: 1
+1 perms with minLen 1
+5: < to > -> 
+New perms size: 2048
+256 perms with minLen 69
+5: < to ^ -> 
+New perms size: 16777216
+2048 perms with minLen 135
+5: < to v -> 
+New perms size: 2048
+128 perms with minLen 68
+5: > to A -> 
+New perms size: 8192
+64 perms with minLen 74
+5: > to < -> 
+New perms size: 524288
+4096 perms with minLen 113
+5: > to > -> 
+New perms size: 1
+1 perms with minLen 1
+5: > to ^ -> 
+New perms size: 4194304
+16384 perms with minLen 135
+5: > to v -> 
+New perms size: 131072
+4096 perms with minLen 108
+5: ^ to A -> 
+New perms size: 8192
+256 perms with minLen 72
+5: ^ to < -> 
+New perms size: 67108864
+65536 perms with minLen 149
+5: ^ to > -> 
+New perms size: 1048576
+4096 perms with minLen 111
+5: ^ to ^ -> 
+New perms size: 1
+1 perms with minLen 1
+5: ^ to v -> 
+New perms size: 262144
+2048 perms with minLen 102
+5: v to A -> 
+New perms size: 16777216
+2048 perms with minLen 135
+5: v to < -> 
+New perms size: 131072
+4096 perms with minLen 108
+5: v to > -> 
+New perms size: 2048
+256 perms with minLen 68
+5: v to ^ -> 
+New perms size: 8192
+64 perms with minLen 74
+5: v to v -> 
+New perms size: 1
+1 perms with minLen 1
+5 level dpad:
+A -> v : [v<A<AA>>^AvA^AvA<^A>Av<A<AA>>^AvAA<^A>AAv<A^>AA<Av<A>>^AvA^Av<<A>A^>AvA<^A>Av<<A>>^AvA^Av<A<AA>>^AvAA<^A>Av<<A>A^>AvA^A<A>Av<<A>>^AvA^A]
+A -> A : [A]
+A -> < : [v<A<A>>^Av<<A>>^AAvAA<^A>A<vA>^A<A>A<vA^>Av<<A>^A>AvA^Av<A<A>>^Av<<A>>^AAvAA^<A>A<vA>^AAv<<A>^A>AvA^AAv<<A>A^>A<Av>A^AA<vA<AA>>^AvA<^A>AvA^Av<A^>A<A>A]
+A -> > : [v<<A>A^>Av<<A>>^AAvAA<^A>A<vA^>A<A>A<vA>^A<Av<A>>^AvA^A<vA<A>>^AvA^<A>A<vA<AA>>^AvA^<A>AvA^A<vA>^A<A>A]
+A -> ^ : [<vA<AA>>^AvA^AvA^<A>A<vA<AA>>^AvAA<^A>AAv<A>^AAv<<A>^A>AvA^A<vA<A>>^A<Av>A^AAv<A<AA>>^AvA^<A>AvA^Av<A>^A<A>A]
+< -> ^ : [v<A<A>>^Av<<A>>^AvAA<^A>Av<<A>>^AvA<A>^A<A>A<vA<AA>>^AvAA^<A>Av<<A>A>^Av<<A>>^AvAA<^A>Av<A>^AA<Av<A>>^AvA^Av<<A>A^>AvA<^A>Av<<A>>^AvA^A]
+< -> v : [v<A<AA>>^AvA^AvA<^A>Av<<A>>^A<vA>A^A<A>A<vA<AA>>^AvAA<^A>A<vA^>A<A>A]
+< -> A : [<vA<AA>>^AvA^AvA<^A>Av<<A>>^AvA<A>^A<A>AAv<<A>A>^Av<<A>>^AAvAA<^A>Av<A^>A<Av<A>>^AvA^A<vA>^A<A>Av<<A>A^>A<A>vA^Av<<A>>^AvA^A]
+< -> < : [A]
+< -> > : [<vA<AA>>^AvA^AvA<^A>A<vA^>A<Av<A>>^AvA^AA<vA<AA>>^AvAA<^A>Av<A^>A<A>A]
+> -> A : [v<<A>A>^Av<<A>>^AAvAA^<A>A<vA>^AAv<<A>^A>AvA^Av<<A>A^>AvA^<A>Av<<A>>^AvA^A]
+> -> < : [<vA<A>>^Av<<A>>^AvAA^<A>Av<A<AA>>^AvAA<^A>AAv<A>^AAv<<A>^A>AvA^AA<vA<A>>^A<A>vA^AA<vA<AA>>^AvA<^A>AvA^Av<A>^A<A>A]
+> -> > : [A]
+> -> ^ : [v<A<AA>>^AvA^AvA<^A>Av<A<AA>>^AvAA<^A>AA<vA>^AAv<<A>^A>AvA^Av<<A>A>^AvA^<A>A<vA<AA>>^AvA<^A>AvA^A<vA^>A<A>Av<A<A>>^AvA^<A>Av<<A>>^AvA^A]
+> -> v : [<vA<AA>>^AvA^A<Av>A^A<vA<AA>>^AvAA<^A>AA<vA^>AA<Av<A>>^AvA^A<vA<A>>^AvA^<A>AA<vA<AA>>^AvA<^A>AvA^Av<A>^A<A>A]
+^ -> A : [v<A<A>>^Av<<A>>^AvAA<^A>A<vA>^A<Av<A>>^AvA^Av<A<AA>>^AvAA<^A>Av<A^>A<A>A]
+^ -> < : [v<A<A>>^Av<<A>>^AAvAA<^A>A<vA>^A<A>Av<A^>A<Av<A>>^AvA^Av<<A>A>^Av<<A>>^AAvAA^<A>A<vA^>AA<Av<A>>^AvA^A<vA<A>>^AvA^<A>AAv<A<AA>>^AvA^<A>AvA^A<vA^>A<A>A]
+^ -> > : [v<<A>A>^Av<<A>>^AAvAA^<A>Av<A>^A<A>Av<A^>Av<<A>^A>AvA^Av<A<A>>^A<A>vA^Av<<A>>^AvA^A<vA<AA>>^AvAA<^A>A<vA>^A<A>A]
+^ -> ^ : [A]
+^ -> v : [<vA<A>>^Av<<A>>^AAvAA^<A>A<vA>^A<A>Av<<A>>^Av<A>A^A<A>Av<<A>A>^AvA^<A>A<vA<AA>>^AvA<^A>AvA^Av<A>^A<A>A]
+v -> A : [<vA<A>>^Av<<A>>^AvAA^<A>Av<<A>>^A<vA>A^A<A>Av<A<AA>>^AvAA<^A>Av<<A>A^>Av<<A>>^AvAA<^A>Av<A>^AA<Av<A>>^AvA^Av<A<A>>^AvA<^A>Av<<A>>^AvA^A]
+v -> < : [v<A<AA>>^AvA^AvA<^A>Av<A<AA>>^AvAA<^A>AAv<A^>AAv<<A>^A>AvA^Av<A<A>>^AvA<^A>AA<vA<AA>>^AvA<^A>AvA^Av<A>^A<A>A]
+v -> > : [<vA<AA>>^AvA^A<Av>A^A<vA>^A<Av<A>>^AvA^A<vA<AA>>^AvAA<^A>Av<A^>A<A>A]
+v -> ^ : [v<<A>A^>Av<<A>>^AAvAA^<A>A<vA>^AAv<<A>^A>AvA^Av<<A>A^>A<Av>A^Av<<A>>^AvA^A]
+v -> v : [A]
+
+Dpad level 6
+6: A to A -> 
+New perms size: 1
+1 perms with minLen 1
+6: A to < -> 
+signal: killed

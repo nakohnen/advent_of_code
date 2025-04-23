@@ -1,0 +1,830 @@
+Towels [ugbb bgubg brbw buru uggwrr wur rrb ruuur rbggrw uwuwwww wubugb wgg wrrbru bgb wrub bubruu wggg rbw ubw bwugw ruw gbbbgb uw urwrb ubgrbug wwwbbg wwgw wgrbbr wrbgwgu buwb uwrrbb bbrgbgr uuug gbwbbg grr ugw bgbrb ggrwu brbggb bwbb wbb ggruw rwr grugwr rrgwgur wrgrw buw urbbbr rgub bbwgr gubu rgubb ub rgb brwuu bbg rwwg ubrbrwg ggbr rgw wgwb bwr bbbwuww bbgr gbbrw wwurrb guur rrwg urwwbu uurr wwwg bwrrguug rb urrr rbrw bgrrb bu uuw bbr gbgg br wbwbuurb wr ggbu brbbug u guwuww ggrr bwubw wb rruwbw wgrgguu ubuwg bururr rgwg bbbr gbugwr ubrgw buuugb wrru bwgb wbwwbb bwru wrw wuu ruu ggbg urw rgwwr uug rr gub rwb wbw uugbw gwbrbw bgggur rrg bbbwbruw wrb wrguw bwg brrg rbbru gg gbgwurg wrrr urwwbg ruuw rwrurrrb ubrb ubbwg urbbbggb rwuwb urbrgu wwbbr ruurg urrb b ugg ubru rww ubggu urrwrw uu urbw ubbr ggu bbbug wggbr rubwggub rwgb brug ggug ggbwugw gru urrw bwrubgu uwr wbwuuwb brb brwb bubrru wgwrg rub rwbww g urb uwuwu rbu wbggb guu wgrr rgr rwwggu buguurg ggwr rrgw uwuwwbr bw wrr wruww bwb bwrb ubb gguru rur ubgwr rrw gwugrr gggr wuwgwg rbr bwwb ubbgr ugu wwu rwuw wbggu grwrbwrg gbbg brw burw gbgbrw bbwbbug wgggw grwbwrg gbw wgu guuwg gur grrw rug gwb gbb wbgb bbb rrbubbu bggrrbb grbg bgrrruu bwuw wwgubgbr wgw gbugr wuubgb bwww guwwwb rbrug uubrr rbur uuu rwu ggugb guw gruw buu brubr uwuuw rwru bg rrbb bbbw wwrr ugurb uwb wrwbur ubgbuwb wbbb rbb ugrw wgwbwg rrwb brg bwguu uwgb ubgu ugb rbbwuwub gbr uwu rw wru wub wgrbgrr rugbrwb www grw ugug rrbg gbuw grwbu ururgbw buuwrw bbrw ubr bb ubrrwwr buwgb bur ww ugbgb bbu bugr ugr rwuu rgrgwbru bgurwu uru gwuu brbg rgrwwuww bwuwg wbbg rbg gwu bbrgg urrrrbu grbbu gburb wbuu rgwr ggb gurbwbuw bru ru rrr wugugwrg wg ubwwub bbwwbg ggg wbwgrbg bgg wruw ugrgg buurub wu wwuugub rgugbw wgb brru ubu brggr rgg urgbgbb bggrww wrbgrugw wrwbgubg buwgbr gu rrgrb uwwguwu brr uubbuuu wbu bwbwb uuww wrwgu rwwbw gwwbubw wgr rrgurrg bwu bub wwguu rbrrrwbr wgrbrrb ur bugbg wwgr bugww uwub rrwbrbbg wwuwg rggu gbu uruu rgu bgwr guuwgww wrwb ubbgu wgbbbw wrg wwb ruuuwg rbwgru guwr rwbuur grurrb uwg rguguur urww wbgggg gww rugwrw uub bbw rugwb w rurbg rwbw wwbrr wbuuu urgwu wuwwbr uww uwrwbrrw grb bwbug wgrubgw ubbbgu rru bbbbbw wwgu bgr grg rrrr wuwuw brwugrwb rbrgw rgbwbr ggbrr wbg uurur bgu rrrug rgug ubg buwrbbbr bug ggruuu bww rwgwrub urr wuwwugb bbgwg gw wwg ugrruuw ggbgr wwr bggw gwuurr gwr ugbwbu wuw gwg wug gug gwbu guugbub rg bubbu gwugw uugb ggbrw rbwubb rwg ugwg rwur wwbrgg ggw gb ubwb uur]
+Removing ugbb at 0
+Removing bgubg at 1
+Removing brbw at 2
+Removing buru at 3
+Removing uggwrr at 4
+Removing wur at 5
+Removing rrb at 6
+Removing ruuur at 7
+Removing rbggrw at 8
+Removing uwuwwww at 9
+Removing wubugb at 10
+Removing wgg at 11
+Removing wrrbru at 12
+Removing bgb at 13
+Removing wrub at 14
+Removing bubruu at 15
+Removing wggg at 16
+Removing rbw at 17
+Removing ubw at 18
+Removing bwugw at 19
+Removing ruw at 20
+Removing gbbbgb at 21
+Removing uw at 22
+Removing urwrb at 23
+Removing ubgrbug at 24
+Removing wwwbbg at 25
+Removing wwgw at 26
+Removing wgrbbr at 27
+Removing wrbgwgu at 28
+Removing buwb at 29
+Removing uwrrbb at 30
+Removing bbrgbgr at 31
+Removing uuug at 32
+Removing gbwbbg at 33
+Removing grr at 34
+Removing ugw at 35
+Removing bgbrb at 36
+Removing ggrwu at 37
+Removing brbggb at 38
+Removing bwbb at 39
+Removing wbb at 40
+Removing ggruw at 41
+Removing grugwr at 43
+Removing rrgwgur at 44
+Removing wrgrw at 45
+Removing buw at 46
+Removing urbbbr at 47
+Removing rgub at 48
+Removing bbwgr at 49
+Removing gubu at 50
+Removing rgubb at 51
+Removing ub at 52
+Removing rgb at 53
+Removing brwuu at 54
+Removing bbg at 55
+Removing rwwg at 56
+Removing ubrbrwg at 57
+Removing ggbr at 58
+Removing rgw at 59
+Removing wgwb at 60
+Removing bwr at 61
+Removing bbbwuww at 62
+Removing bbgr at 63
+Removing gbbrw at 64
+Removing wwurrb at 65
+Removing guur at 66
+Removing rrwg at 67
+Removing urwwbu at 68
+Removing uurr at 69
+Removing wwwg at 70
+Removing bwrrguug at 71
+Removing urrr at 73
+Removing rbrw at 74
+Removing bgrrb at 75
+Removing bu at 76
+Removing uuw at 77
+Removing bbr at 78
+Removing gbgg at 79
+Removing wbwbuurb at 81
+Removing ggbu at 83
+Removing brbbug at 84
+Removing guwuww at 86
+Removing ggrr at 87
+Removing bwubw at 88
+Removing wb at 89
+Removing rruwbw at 90
+Removing wgrgguu at 91
+Removing ubuwg at 92
+Removing bururr at 93
+Removing rgwg at 94
+Removing bbbr at 95
+Removing gbugwr at 96
+Removing ubrgw at 97
+Removing buuugb at 98
+Removing wrru at 99
+Removing bwgb at 100
+Removing wbwwbb at 101
+Removing bwru at 102
+Removing wrw at 103
+Removing wuu at 104
+Removing ruu at 105
+Removing ggbg at 106
+Removing urw at 107
+Removing rgwwr at 108
+Removing uug at 109
+Removing gub at 111
+Removing rwb at 112
+Removing wbw at 113
+Removing uugbw at 114
+Removing gwbrbw at 115
+Removing bgggur at 116
+Removing rrg at 117
+Removing bbbwbruw at 118
+Removing wrb at 119
+Removing wrguw at 120
+Removing bwg at 121
+Removing brrg at 122
+Removing rbbru at 123
+Removing gg at 124
+Removing gbgwurg at 125
+Removing wrrr at 126
+Removing urwwbg at 127
+Removing ruuw at 128
+Removing rwrurrrb at 129
+Removing ubrb at 130
+Removing ubbwg at 131
+Removing urbbbggb at 132
+Removing rwuwb at 133
+Removing urbrgu at 134
+Removing wwbbr at 135
+Removing ruurg at 136
+Removing urrb at 137
+Removing ugg at 139
+Removing ubru at 140
+Removing rww at 141
+Removing ubggu at 142
+Removing urrwrw at 143
+Removing uu at 144
+Removing urbw at 145
+Removing ubbr at 146
+Removing ggu at 147
+Removing bbbug at 148
+Removing wggbr at 149
+Removing rubwggub at 150
+Removing rwgb at 151
+Removing brug at 152
+Removing ggug at 153
+Removing ggbwugw at 154
+Removing gru at 155
+Removing urrw at 156
+Removing bwrubgu at 157
+Removing uwr at 158
+Removing wbwuuwb at 159
+Removing brb at 160
+Removing brwb at 161
+Removing bubrru at 162
+Removing wgwrg at 163
+Removing rub at 164
+Removing rwbww at 165
+Removing urb at 167
+Removing uwuwu at 168
+Removing rbu at 169
+Removing wbggb at 170
+Removing guu at 171
+Removing wgrr at 172
+Removing rwwggu at 174
+Removing buguurg at 175
+Removing ggwr at 176
+Removing rrgw at 177
+Removing uwuwwbr at 178
+Removing bw at 179
+Removing wrr at 180
+Removing wruww at 181
+Removing bwb at 182
+Removing bwrb at 183
+Removing ubb at 184
+Removing gguru at 185
+Removing ubgwr at 187
+Removing rrw at 188
+Removing gwugrr at 189
+Removing wuwgwg at 191
+Removing bwwb at 193
+Removing ubbgr at 194
+Removing ugu at 195
+Removing wwu at 196
+Removing rwuw at 197
+Removing wbggu at 198
+Removing grwrbwrg at 199
+Removing gbbg at 200
+Removing brw at 201
+Removing burw at 202
+Removing gbgbrw at 203
+Removing bbwbbug at 204
+Removing wgggw at 205
+Removing grwbwrg at 206
+Removing gbw at 207
+Removing wgu at 208
+Removing guuwg at 209
+Removing gur at 210
+Removing grrw at 211
+Removing rug at 212
+Removing gwb at 213
+Removing gbb at 214
+Removing wbgb at 215
+Removing bbb at 216
+Removing rrbubbu at 217
+Removing bggrrbb at 218
+Removing grbg at 219
+Removing bgrrruu at 220
+Removing bwuw at 221
+Removing wwgubgbr at 222
+Removing wgw at 223
+Removing gbugr at 224
+Removing wuubgb at 225
+Removing bwww at 226
+Removing guwwwb at 227
+Removing rbrug at 228
+Removing uubrr at 229
+Removing rbur at 230
+Removing uuu at 231
+Removing rwu at 232
+Removing ggugb at 233
+Removing guw at 234
+Removing gruw at 235
+Removing buu at 236
+Removing brubr at 237
+Removing uwuuw at 238
+Removing rwru at 239
+Removing bg at 240
+Removing rrbb at 241
+Removing bbbw at 242
+Removing wwrr at 243
+Removing ugurb at 244
+Removing uwb at 245
+Removing wrwbur at 246
+Removing ubgbuwb at 247
+Removing wbbb at 248
+Removing rbb at 249
+Removing ugrw at 250
+Removing wgwbwg at 251
+Removing rrwb at 252
+Removing brg at 253
+Removing bwguu at 254
+Removing uwgb at 255
+Removing ubgu at 256
+Removing ugb at 257
+Removing rbbwuwub at 258
+Removing gbr at 259
+Removing uwu at 260
+Removing wru at 262
+Removing wub at 263
+Removing wgrbgrr at 264
+Removing rugbrwb at 265
+Removing www at 266
+Removing grw at 267
+Removing ugug at 268
+Removing rrbg at 269
+Removing gbuw at 270
+Removing grwbu at 271
+Removing ururgbw at 272
+Removing buuwrw at 273
+Removing bbrw at 274
+Removing ubr at 275
+Removing bb at 276
+Removing ubrrwwr at 277
+Removing buwgb at 278
+Removing bur at 279
+Removing ww at 280
+Removing ugbgb at 281
+Removing bbu at 282
+Removing bugr at 283
+Removing rwuu at 285
+Removing rgrgwbru at 286
+Removing bgurwu at 287
+Removing uru at 288
+Removing gwuu at 289
+Removing brbg at 290
+Removing rgrwwuww at 291
+Removing bwuwg at 292
+Removing wbbg at 293
+Removing rbg at 294
+Removing gwu at 295
+Removing bbrgg at 296
+Removing urrrrbu at 297
+Removing grbbu at 298
+Removing gburb at 299
+Removing wbuu at 300
+Removing rgwr at 301
+Removing ggb at 302
+Removing gurbwbuw at 303
+Removing bru at 304
+Removing wugugwrg at 307
+Removing wg at 308
+Removing ubwwub at 309
+Removing bbwwbg at 310
+Removing ggg at 311
+Removing wbwgrbg at 312
+Removing bgg at 313
+Removing wruw at 314
+Removing ugrgg at 315
+Removing buurub at 316
+Removing wu at 317
+Removing wwuugub at 318
+Removing rgugbw at 319
+Removing wgb at 320
+Removing brru at 321
+Removing ubu at 322
+Removing rgg at 324
+Removing urgbgbb at 325
+Removing bggrww at 326
+Removing wrbgrugw at 327
+Removing wrwbgubg at 328
+Removing buwgbr at 329
+Removing gu at 330
+Removing rrgrb at 331
+Removing uwwguwu at 332
+Removing brr at 333
+Removing uubbuuu at 334
+Removing wbu at 335
+Removing bwbwb at 336
+Removing uuww at 337
+Removing wrwgu at 338
+Removing rwwbw at 339
+Removing gwwbubw at 340
+Removing rrgurrg at 342
+Removing bwu at 343
+Removing bub at 344
+Removing wwguu at 345
+Removing rbrrrwbr at 346
+Removing wgrbrrb at 347
+Removing bugbg at 349
+Removing wwgr at 350
+Removing bugww at 351
+Removing uwub at 352
+Removing rrwbrbbg at 353
+Removing wwuwg at 354
+Removing rggu at 355
+Removing gbu at 356
+Removing uruu at 357
+Removing rgu at 358
+Removing bgwr at 359
+Removing guuwgww at 360
+Removing wrwb at 361
+Removing ubbgu at 362
+Removing wgbbbw at 363
+Removing wrg at 364
+Removing wwb at 365
+Removing ruuuwg at 366
+Removing rbwgru at 367
+Removing guwr at 368
+Removing rwbuur at 369
+Removing grurrb at 370
+Removing uwg at 371
+Removing rguguur at 372
+Removing urww at 373
+Removing wbgggg at 374
+Removing gww at 375
+Removing rugwrw at 376
+Removing uub at 377
+Removing bbw at 378
+Removing rugwb at 379
+Removing rurbg at 381
+Removing rwbw at 382
+Removing wwbrr at 383
+Removing wbuuu at 384
+Removing urgwu at 385
+Removing wuwwbr at 386
+Removing uww at 387
+Removing uwrwbrrw at 388
+Removing grb at 389
+Removing bwbug at 390
+Removing wgrubgw at 391
+Removing ubbbgu at 392
+Removing rru at 393
+Removing bbbbbw at 394
+Removing wwgu at 395
+Removing grg at 397
+Removing rrrr at 398
+Removing wuwuw at 399
+Removing brwugrwb at 400
+Removing rbrgw at 401
+Removing rgbwbr at 402
+Removing ggbrr at 403
+Removing wbg at 404
+Removing uurur at 405
+Removing bgu at 406
+Removing rrrug at 407
+Removing rgug at 408
+Removing ubg at 409
+Removing buwrbbbr at 410
+Removing bug at 411
+Removing ggruuu at 412
+Removing bww at 413
+Removing rwgwrub at 414
+Removing urr at 415
+Removing wuwwugb at 416
+Removing bbgwg at 417
+Removing gw at 418
+Removing wwg at 419
+Removing ugrruuw at 420
+Removing ggbgr at 421
+Removing wwr at 422
+Removing bggw at 423
+Removing gwuurr at 424
+Removing gwr at 425
+Removing ugbwbu at 426
+Removing wuw at 427
+Removing gwg at 428
+Removing wug at 429
+Removing gug at 430
+Removing gwbu at 431
+Removing guugbub at 432
+Removing bubbu at 434
+Removing gwugw at 435
+Removing uugb at 436
+Removing ggbrw at 437
+Removing rbwubb at 438
+Removing rwg at 439
+Removing ugwg at 440
+Removing rwur at 441
+Removing wwbrgg at 442
+Removing ggw at 443
+Removing gb at 444
+Removing ubwb at 445
+Removing uur at 446
+Towels [rwr rb br wr u rr b g rgr rur gggr rbr rw ugr ru rrr brggr wgr ur w bgr rg]
+Designs [wuuugbrrgwbuuwrugbgugbbrwuuwubgurrbbbugubwuuggb wwgrbrwwrugbrrrgbwuggwwgrgruguwrwuugrgrgwubbwubbbrrgw ggwgwugwuuruburbbgruwgggbbrwbgrurggubugrwbuu rbggwuwgruwubrgwwgbwgwuggwgururrggbruuugrggbugwugr wwbbbwrbwwgwgrwgubuurrwrrggurubrbwgwgbwwwrbwrwuubgr bwwuwbgrrbuwbbuuubuwurwbgwugggwrbrrgwugbwrubgubbgrwwbrwggr wgruwwbbbuwbwuuuuwuwbugbubbrbgwwuugbgwwwrg bbrbubbuurgwuubwbrrggwwrbrrbggbruuuuwgbgrgrgrubwgur ggbuwgbwbubugwrgggwggwbwbugwubgwuubbbrgrurbrubgggwuwbrwrr rbuubrwggurbgbwrugbuguwurrbgrbwurrwrburbgbgrgb uurrubruubgwrwubuuugwuwguwgggwrggbrruuwrgrwrguubbuguwu gbbuurbbwwwugrruubrgwbrurrwuuuwbbubggrugbbwubbr wburbggrgbwububwbbwbbgwuuuwrgrrguuuburwrgururrugrbwrbb ugwubrgbguubrrgwgguguguuurbbgggwurgbbwbugbu rubbbuburwrrwwuwurgwuugbbburugrurbubbgbwgbwgrbuw rwwbrwubwuwuwubugwwurbwrgrwbgwwwbrwwwuuwwwgrwbgwwg urgbuwrurrubbuugwrurrurwgggugwwrgbggbbggr rwwbrbuwruubggruuuurrgbbuuwruuwgbgubrwrrwwbggr brguwwurugubuwuwbburgrgbbuuuwgggbuwgbwgbwgrgwrgubwrubgurbggr bruuwrugwbgwrwwgwugwuugurrubgurguwuuuwrbwrrgwrrwbbubuww uwgbwbgrrbgwbgugwuwrwbrrwwrwwuwrbbwuubggburruguuuu wuugwrgggggruwrgugbwrgbgurrbgrbrggwruuuuwbrugwuubrgub rwubgbrgruwgrurrrggwwubguwbbrwuwrbgubrgruubwggrgrguwg rwbrgbubugubgbbgbuwbrgwwgbrgrwwrubgrurbbwggr ubwbuwburrurrwwwgggubrwbuwrgrrwbrwgurwwwurbwrrgb gwwrbguuuubwubuugbbuugwwrwrwubuwbwrbwuurggrwubgrbguuggrggr rgwbrgwguggwbwbgugwbwwwrwbbwubwgwrrgbgrbwugrbwgwur rgwugrwurrggubwwuwgubgrggwububggwrwwgurwuwwbbbwbruwgggrubr ugbwgbwrgubbrgrgrugrgrgggwbrbrrrwgwbguwgbg rurggbuubwugggwgbrgugruwwugrwgrgrwgwgbwbbggwwggr uubwubbburuggrbwgwrubuwuwggrbgrugbgguwgrwugbgrbwbgwbgwbw bgrbuggurwbrrggwbuwbrgwgrrwurrbrwwuubbgwurgwruuwgbg gwubbgbrgwbrgrwugugwrgubgwrrrgrugrgrgggbgbwwurggr rruuguwgrbwggubrwrurrrbggbwbbwubgwuwugrubub ggwgugburuwbwubbuwrwbrrwubgbwgrrwgguguwruuruggr grrgrrggbuggwrrbwggbbrrbgbguubuwururbrbggr ugrrbgwwgwgbbrbbbwgrurwuruwrggrrguuuubwwugwgbgb gwrggrruwbgwugrgrwbwuubrruuwuurgubuwurrruwbubrbubrrrurrw rrbrbwruwuurwrrurrwbrbbrwugbgrwbwwugwugwguggr rrwbbuwrwwuuwburguwurwrwggwrwrwuwwbgggubgrwrbg ggrwggrbwubuugwuuwggwubgwrgrgwbwrwrbguuuurugggbugugrgww uubwbgbbubwubrguwbuuwbgurwwggrguuggrwrurbwgbbwr wrbburgrguggrgrrgugbbgwbbbwbgrbubwuugwrbwbguwrwrrguwu rbbuwgguuuubwuwrbbrrurwgwbbbbruggggwuwggbb bubwbwgbubuwrgbrwbwbrbrrrrgwurgbrruuwbwrbrgb gbrubrwgubwwwwwwubrugrrbuubugrwruugggbugbbrrwgbbwbg bggrgurwbgbggguuwgurrggrubwbrgwugwubwruuuurgggwwuwubrugrwggr gbgwrbgwggruwugwwrrubbrgrgwguwgbgrgrrgwubbggguwwrwrgubrr gbrgguwubbbuwrgrbrwuuggwuuururuugrgrwwugbbww wbubwrbwrwguuuuwwbrrrwwrrbwubruwrwgbwggr ugwbrwbbbrggwbuggburubbrubugburbwbbuuruggwurrbwwggru gurwwbgrwgwwgbwuuuwugubgbwbgugwgrggrburwrbu buwrbgbuubrgbwwubwbgbrubuubugbbwbbuwrbbbrbggr bgrurrrgbubuugugrbubwurgbbgbuggrbggbrrguwuwwub brrbrubrwgrrrgrbwrrrwbuwburgwggrrbrugugguuwbggwwuggr gwuubrrbugbggbwbrwuwgbuuugwrbwwrubgrrgrrbbgubwwugrggr wrrrbwbgrwgbgbrbwgurrwrgwbbbgrrbrrgrgwggugbbw bgggbubuuguggbrbbwuwubwbbgwguggrburrgbggruburwrwrwrrwwggr wbbbbubwubgubburbbwrbrbbgwrrwruwugbbgugubwbgugubuurugrgrbggr gwbugbrbbubrgurrbguurwurbguwrgbrgrgrwwuuwbgwbggbgurrgur ugwrbwrugbgwgbwwbgugwrwrgbwrbugggrguuwuwuugbruu ubwwrbugwgrubgubbbwwggugrubgbguruurubgwbbububrbbbgguurrw rguuwwbrrggbrurwwgubuwrwruubwubrgbrgwggwrrgggwrwrggr rruuggwruuwrrwbgbgububurrrbbwggrgburwrrbwwrburgbuurbbuggg ruurgrruwuuruwuwuugrbbbwruwbbwurguburuwuuwrbrr rbwrrwrgubugwurwrrururrgrugwwgrrwrbubruwwuwrww rrgbwwgubwwbrrrrgggwguwgbuuwgurubbgwwggwubwugr gbrbubbrugbwbwwrugugbrubbbggubwwbuwugurugrgrgwburruwwg wrgbwrugwwrgrrgrbwubrrrrrgrrurbrgrbwuguuwrrg wguwbrrbuuwwbrrwgruubbugwrrrwubuugugbuuruggwbbgw ugrugrgbuuubgwwrrrrbbgugubgbbwgrwrbuugwbwgggrugwbubwgwruggr wruubggwugwggrggbwgwbrrgrwwwugbwrbwgrggr grgwrwwrgbbrguggguubbrbgrbrrrwbrgbrwbrruurggburrwww rbubgbrubwugbuurbrrwguwguwgbgwwguuururbbbggbg rggwwwwrguurgwuuwguugbugrggrrbuuubwrbgbwuwbrrrgrggr uwgwbuuuubwrruguurrruuuwurwwbugbwuwguwuuubuguwggbrrrugrb uwuuruwwbgwuuwbrgbbuwbrwruuwbwrrbuuubwwggr wrbgwwggbuuwwgbubgbuurrggurwrrrugrugbbrbggr bwrwgbubrwruwgrgwuuurrbbwrggbgubwbrburrbbgwurguugrrugrgbg bgwwwgbrbbwwbwrbubbgbwgruugbwgubbwuggbrrbggwruggrggggr guuwguuubuwrbwbgwugwwgwgbubbbwugbbggrrgubuwrwgggwbrbbwru ruwburwgrgbbbubrbubwrbrgwburrubwggbgugrrwgwr gugbwuuurwgwwbwuugubbbruurwugguuubwrugwbgburwb rgwbrguwgrgwbwrgbgwwubrbuugugbgwrbrbbgugruwrbwrbbggrbgr wbwwwwbggwugwurgrbgrgwbgwubgwrwgwrgubugbubuub rgrruwrrwruwbrbggwrbuubrrbrwgrwuwwwwurgwbubgbwuugbwrgg rurgubgrbururwwbggwwrruggbguwgbbwugubwgrbbruuurgwurburrr rgwbwrbbwrgbgbgbgbbbbuurbuwubrrurgrrurrgbuubbwurggr rwuruuurrrurururbwggbrurwguurbrggbgrgwgurgr wuwuruubuggrwbbggbgrgggrwwwurwwuwuubbrrbwubb bwwgggrgbrwrbwggbgwubwgrwruwgubgwbwguwubbbugggrrbg wwururrbwwbgwbwbuguurbgwggurbwbuwbuwbggururggrugr wgwggwubrugrbbwbwbrwgbbrwbwwbgguwubgwuuuuwrbg wrwurbgrugrwuubgrurwurrguurwubbgubrrwruwuwrbrgwuwbb gurwrwbbbwgrwwggbgugwubrurbrwbwrruburgbrwuwgwgbuwgbwggg bwgwwrgubggwrbbbbgugwugbwwbuwuwbrbwgrgggrguuururggw wwugbrwbguuuubrwbwbwuwwrbburbubbwwrrgrruww urbbbubbrugrburbuggwggurwbwbrwurruggbuggbuwggg bubbgbgrwwwggbrbugwrrwbwrgbbrrubrwuwugrguwgrggbuurrgu wgbburwbuurwwwgurggrwuubrrubwuuwbwgrwururggurrgbubwb ubbwgrbbrggbbbwwuwgruguwwbrwwbwwrbgrbuugwrgwubbgwbbgbuggwg gggruuwgrwubrbgwuwgwggrbbububbwrubbubwrbbuggr brwwbugwwugrbguwwugugwrgwwrwwubgububugrbwgwb wbgwubrgrbrwbggugwbbubgrgwbgbrwbwguugrrrwbrrwuu wgbwgrgwwbggwwuwgbbuwwbgrbugrgwurbbbwwwrgurgbrrbww bwwwbbrruubwbrgwbuuwwugubububgrwwbrbwbbwuruggr bbrrbrrwbwuubwgggbbrwbruwwburrwwubrbbbburggrgugg wuburgbrbwwrbbwrguwuwbruwrrrbgwgwuwrrurwwrgrgbwwrrwrwgbrr wwrrububgurwrrgwrgbbbubrruwuugbuurbgugurggr wgurwwbgrgrbwbrgrgwbruurbbubrwguwubggrrgubwubuugr gubugwruwbwrgurwrwuwrggrbuuwuwgrrbgrwuwggwurbu ggbbgbwuwwwgwrbbwuwubgwgruwugbubwrgubwugbwrrururgbgbururbw wugrrrbbgrguuggwbugburwgrbgwguwwwgbbburruurwbbuur ruwubbwbgbburrrgbbrggwrgbuwbrwguruwgrrgwggr uwwuubugrrbrwbuguuguwbgrguuwrbgrwrggrbrugugugb burwuruwwubbwwgurggbggbbrurwwwgwggruwbuggbrurwg gbrgbgbbbwwgbwrwbugguuwgbrbbubwuuurggrurrwuwbbwub rgburwrwrgbrbwrbgwrbbgwwbwgwrwwbgugwgubugurbguwgwrrurbuggr wgubuwbubbuuwrbwbrwwwrgwbbbwbggwwubwburwrwwwwggr uuugwbgguggbbgwwgrgurgrgwgwrwgwgurrbwwrgbrwrbr bbwrugbgwwgwugrgwguwrrwrrwwuwrgrrgbgrurwbbgrrrrurbggr brgbbwgwbbbgwgwbwrwwggurbubrruwrbbbggwuguwrugrgbwgruurrggr bgwwwgruwwubrbrgubbgrrgugwuurguggubwbuwwwuuubrrgbbbbw wwbugrgggrrguuugrbbgwwuubrruwrggwubrbbrwwugbgrggr wgwgruwwgubgwwuwurgrwwwbugugurwwubbbuwwwrggwrruwggwwubuggr bburubuuugbgwrugrwggbbrrruurrbwrggguubrrbbwggrwggwubu wrwuwugbgugwgrbuurgbggwugrubbuuugwuwrrgbgbwuggb ugruwrrwbuurbbubrrwbguurggwrgwbwwrguwrruuwbwguwbguwuwrwrrr ruuburrrwrgugwrbrwgwwrggwuwgbbugbuwrubbwuw wrbrburgrrrgrbbbbggwbrubgubgrguuwwwgwrrggwu rbggugggwrubwwrrbrrububuwrubrugbgrgwurrgubrrg buubbubwguuwuburbuuuruwbburwurwwbbrrgurruwbgrgwbuurru wwbwbbuurwwggrwrrrgbugwrrgggrbwrbwubgwggr gbrurbwbbgurwuwuwwubbrugruwwrwgwguwwgrgbrwbgruubwurgrbrggg rwbguwrggwbbwbwgbbwwrrubrrbrbrgurgwgugggrgwgrbbwrgrrgrugu brubguguwbubgruggggrwwubbrgbruwrwwurwggwruwrgwgwuwgubbg bbgugrgubbwwrurrrrgrururruwwwbubgwrbgguuwgwwwwrgugbugwuwg gugubguwgrrbwwububrrgggbrrrgbrbugrwrwuuggbwuwbbgwug guurwgrwbgbbrbwurbrwbgwgrugwbbgwrwwwrbubgw brrbbgwuruwuuuuwwwrggruurbgggbrwbwgrubbwgrwbrgwgwwrgg wwugbwwrbbruwgwwgggugrwuruwgrggbrwrbwwguwgu grrwbuuwuwgwrbgbbbggggwwrubuwwwrwuggrgbbbuuwwuuuwb rbwwruggbbrgwwwrggugrbrbwwwwwbwbuurbrgburwr wrgrgburbruwuuwrgururbbubbwwubuwwgwwubbuubgbugwrrbu wwguguwrguburwwuugurbwbbwgrurwbugbwgurwgrgg uwuwwwgubgbrruwwbrurwgruubuwuwuurrwurbrrrbwrwggr wgruwugwugrgwurbwugbubwwrruuwwrbgwwugrwgrubwbrburbu ubbrurbrgugwubwurbruruubwwbrbuwwgrrrwwubguurrgwwuwwrggr urguugbrburubwbgrgggrgrrubwwggbrgurbruuugbuugggguggr rwguuggwbgrgbbgurwrbbbrrwubbuwbuwubgwgwbbru ruugbbggwbwrwubbgrwbbuwrwwurubbbbgwugguwuwrrwbwuggr ugwburggrwgbgwrrgruwbbbgwurbururwbbgbgwrbrwbgrbbb bbwwggruuwrbuggwggwuwwugubrbgwwbuwubgwbrrbrrgrbgurbrrw rwbwrbwgwwugbbrurbrgrbgrgrugruwwuuubrrbbgwrrwuwbrubuwg wburuwbrwrwugubwwbwwugwrbwububrgrrbuuurwwgguug uwrrbrgwgwbbubwrugrwwwuuwugugbbbrwguuugrbgwgubwr bugrgwbggrbggbbggbwbgwguwrbwgrbrguurgbububbgurwwbwrrwbwr wubrwrrruuwubrgbbubrwggbwggurgwbuwuuwrgbwuwbrbrwrgubw wbbbrgguugrrbwbuwburbrbwggguugruugwrbguuwbrgbrrgugub rugrugrwrugruubburrguuwrrrrbwwgbgwggrrbrwbrbguwgbwrugwbw wwugbwrbrgbubwgbgbbuurbgbuwrguruurgrggbwugrgbrgggwbgug wgrgwruwbwuuwgubuurgrwwuwwugwrwwgwwgwrrggr guugubrbgubgurbrugbrbggruwbbrururgrrbbuguugggwbgbwgb wbbbggubrbwbwugwbbuwrbrrrwgurgugbwwrgrwwbbgwbwgbwugwbgbwbb ubuwrruurbgrgrrrbwwbggbrugurrbwwwgbbgbburggr ugrrrgbbubbguubguuurruuruugbrubggrugwgbwrrbgbubrgbrrbggr brrbrwubuwgubgwrgwwwggrrggbrgurwwrgwuuurruurgbrwubwg grbbwwbbwwrbrgbwubugbrrrrbrwwbgrgrwrrbugurbwgrbubbbbu wbruwwwruurbwburubrguwwwruwwgubgbrguuuwbgb rrgbugbbbrbbgurgrgrrruggwbwgwubwgrbgrggwbb bwgwbuwrrbrwbuwwugrwwwuuurbbbggbbrwbbgwbwwggr uburuwbuburuwbbwuruugrubwubwwuggrggrwgugwwubgbgbbw ruurubrwrgbwrgwuruwubbwububwwbrgurgggbggwuw urgrrrwbbwugbgrbgbbwbbbgbrrwbggubggubggbrbrbubrugrgb uggwubgbgwggwuwbbuguubgwruuwwggwbwrugurwgrrubgrubbrr wuwwuurwgubbbggbbbrubbrgruwwwurububgrggr wgrugrgbgbuguuuubbuubbguggwbwwguwgrugwwbubgwuwrubg gwguuwuuuwrurwrrggbrwwrruwbwuugbrwbubrbbbrg buwrubrgurugrggrggugrwrwrgrbgguuurbuwuwbrugbruggwrgrbrw wuurggbwwbgwgggrurbbgwrrbbwuugrurwwuwggwwgr wurgbrbrurwugrbwbguwruwbrgrubrbbbbrrbguggr wgwbwwwgugwbwrbubuubbugruuubbbwurugrrrbbwuwgrww bwgbwwbruuuuwgbrrgrgbbwgrbbgwrgwgrwgrbguguww wwruwubbbwwgbwrwrrbbbbuugggbbrurgbwuugwrwwwgwrrrruwggb wuuwuwubgugurubggwwgbgrbrrgrgugrbrubguuurbbggwrbuuruuw grururwbrbwrgburbgrbwbuuwbwgrurruwuwwurubbrgggruwgggrgg rwuugggwbwrwrwgrrbbwrrwbbgbrwrgurbbbugubuugruwgruw rgubggrggguwbuwbrurbrgbrbuwrwgbuguuwwbwrwbrurguwrrbuwguw brggbbuubwbrrwrgbwwbbwuwrggubwwgwgbbgwwrwbr gurgurbbbbugurgrwugbbrbrbwggwgrruggwbbrgbwrr gubbwgruruugwwgbwurbugugbwubguwggruuurgbggurugww ubbubrwrrbrrgbuwggrrwbgggruwrbgrugwwbbggrg gbrwurubuubrrrbwwwwgrwguurrbgruwggbrgggugbbwr ruugbgwgubgwugwrbrrrgrruurgwubbbbbbgbguggrgrwbbbbg wrwbgubgugrurggbgbggrbgbgubgggbrwuwrbggburbrgwurwu bwrbgruugbwbgbugwrbruwruuuubwugrrugbrwggubgwrguubbbrwrg rwbrrbuwrgrwwuwwrgubuugbgurrubbbuuwbbgubbbrw gurwwrgrgbggbbruururrrbwubwwbrubrrgugugbwuuuguubrb uguwwububbugrbubuuuwwwbwgbbrrbbbbbbururrubwgrwrurbbbgrgb ugbwwrgguwururbwgwugbgggbrbuwwurubwgrburwbrgrwggruu wrurbbruwuuwwwwuubbbgggbrrbwuuwbubbgwrgbrwbrur rgwrggbgwgrwwurubgrrrgubwggrrggwgrwrbbgbruggubugbubwbgwuwb gggwbggguggwgggggbwwggwruwwwwubwgwgbgugrubggggguggr ugurgrguubuggugwrgwbuuurwuwuwrrrrrbbggrrbwbuubwrrbwbwbur rruggwgwbrbwrgrubrwurrwuwuwururwgruggrrwbugwwbugurubuwuwr urgbbwrbwuwrgwrbwuwrururbugbbgrwbgurburbbuww gbuwwuwwuwbbggruuruwrwwwugbrwbrbgbwwbrrbrugggrrwbgbgrggru rgbwbguurbwrwbbugwwrrwbwruwwrgwrbgrugwwwbbwbggr rbgrbbggbwbbwbururguuuggrubbubbgugbwuuggruwrwwurgggrugbbggr uubgguwrwbrbwwubbgggbrrrgurburuwgrwgurwrubwwwgwwrbwwbgrwrr bggwrwuwbuwwuugbgwgbwruuurruwrbgwrrwubgrwbgwwr burrubwwugrgrgwbrurrrguggbgbbbrrwwuwugwrbrburggr ubwguurwggugwuubbwgruuwrbwubgrwugwgguuggr wgwuwwwrgrgurwurgbwrbgugbgugwwugurggwrwbggwuruw rubgwuurwwbrbrrwubrrubrgrugwrwrwrbwuguugguruggurr urbgrwgrbbwwrubwurgbgggbugubbrbbrwgubuwwgggbrwrgrgwbw wguuwubugruwrurbwrrurgggwrbgrurbwuurbrubwbgurbgwbbubrrurgw rrurbrwbrgwrbgugbrurbrrbrbgwwurbrrwugwgbgbrrubbrwrrbggu wgrgbuuwbwbrubrgwuuugrgrrrrbugwwrugrbggbrrwggr wguuurrrgbuuurwgububgrrbwrwwrwgguwrrrwbbbggbwwrwggr uuwwbbbubruurggugwbwuwbggbgggubrwbgwbbwgrbrguwrw gbggggbugbbrbruwruurwuwrurwgurggbwgwgggubgggbubrgbbbw wwwrrrbuwrurgwgwgggwwurugggbbbgwurrrugrggr bubbubruburgwggrbrugrwwuwwrwgwwbuurbrggrgwg rgwwrgbwgwubwbrrrgruggggrbguwwbgrbwbrbrubuwuugrrgrrrbg wwbguwgwuwuwbbrggruurwugbbggwuugwrwwrwrugwu grwwurbugbbbwgwgwwbwguurrbrwrrbgbrrrwugwbggbg bubbbwwbbgubwbwbgruwggrbbrwbbbbrrbbubwwrbrbbugbu wurgrwugrwbrrrugrgwgrrwuwururwwubuwgbggwrrrwrwbwurgwguwg wgwrrbuurrbwuburgrgbrrgbgurwrggwrrrurwwbuwrbbggr ggrggrrgurrwrrrubguruwwurwbgubrgrwwbgbgbrgbbwgbwuggr wwrgrgbbbgwburubwrrburwrurgbrgrbgrwgwgubgur rrurrurbgwurbwrbbugrwbrbbrwgburrrwruurgrgrubrrwbrbbggr gbubrwbbuuurwbrwggrwwgwwbgrubwgrbbbbgrwruwgwgwrbruruu wgrbwbbwrbgurugbrbgrrgubruwbrrbwwbbugwggr bubgrrwbwrwuburwwbgubrrrbbgwwubgrwwguwbbwburuurrwwbguuw wggugwbwruguwrugrbwrrwwuwwwwwgubggrbrbwgrrwrwugr rrrruurwrurbggwrgwgburggrbbwwgwbwubrwrrwgruwwgwurwwr rbbugbuwurbwgbuurwgbuwrgubuuuwguuwurbwbbwuwbbrrgrugbw wgrgguuuugrrrubggbrwwgbrrgwuwwbwurgbwgrwurrwwgruugbwbub grwwwbwuwuburrugugrwwurgubgbrgggbbrrgbgrrggburgggwuuwrrwr gbbrwwbrwuwubbrubguuwbbbbwbbgbwbuugwgwuubrwrwbwbbggggbbbrg wuugrurwuwbubrwrrggwgbburubrbwubggbgbwrurbgw bbuwgbuurbuurguwubrubugburrrwbggubrurbrgwrgbwr rbwrururwbuubwgwbrbwbbbburbwwrbubrwrwgrrgwbrwwbbgwbg rwurwwbggbuugwwuwbrgwwurbwgrgwbgrrggbugwgwubwrrbwwbugrggr gwrwrbbwguwgugruugrguggrbrugrwruwwbgurwwwubwbbg uugwuwwggrbbggbrbrbgrbrrugbwgubbrgururwbgwburwgwurru rgrwruwwruwruggrbuggrrwbguugwuuuuwggwuwwrurgubrggwur wgrubuuwggwgrwgrgwruubbubbrgurrrgwrggugbgbgugwb buwwrubrrrwruwubggwwbwrrbgbubugbugbwrrbwwrgwwububwbggr rwwrrwbuburwggbbwubgggruurgrgwrrwuwbgurwbwugbrbbwbrgrrgwr wgwwugwggbuwwbwgwgrrwrwbuwwbgbbuuwurwwwwrgbbrbbgrbubrbbg grgbgwwruwggwwrruwubwbwgrbrgugbubrbwgwrrwr brbgwugbggguuwwwgburbguwbgurbrubbrugubrugwubwuuwuruurrrbu rwuwurgrurbgurrwggbruggugurwgwbbwgwrwwbruwwwurgugurub rburwgbwrbgwwguruburwguubrrgwwrgbrwggbgwbguwwbbwgrgrwuuw rbrbbguwwwuubgwgbgrwrrggrbwggbubrgubrbrbwwgguwwggwwggr ugruruggwguwubgrwrwbuwuwwuguguugrwbgrrbrggwwuugbbrwgwbg wrgbugbbbwuwurbbwbbbrggwuggguwgbgugrgbrbuuwruurgwbbrwggr wbrgwrgbwugbrwrbgrgrbgwrguruwrgwrbgurrugrbbbbgu wuwbwurbrugruurrurwrggbuuruuuubbwbwurgbuubbbbwgbubrgbrbbgu uggwrrubugburguwbbrbwbbrwgwwugwwgwwuwbrbbggr wubbwruurbbbgwrbwurrwuwwgrgwwurbggwgugggbr ugwbwgugbrwrrrrbrbugwgbbuuuuwbbrbguwrbrrgbrbgbuuwg rururuwrbgugbugbbwrbguruubwgbubrrbubrbrwwww guurbubrbbrubwgbuuuwwbrgbrwbgrruurgrbguuugbgbuwggbuwu brubrrggruurwwwwwbbuggrrwggbguuurrwwgbbgwrbgwwrwwrwrwgbuu wgbbwwwwbbwbrgbwugbbwuggrbwgubuuwgububguwrgrbgrbwrrwwbggg urgbgrwwrgugbgwgwgrbuwrgwuwggrbgbugrgwwgwwbwbbrwuruwbb ubwrwbbgwwwubuwrgggrwuwbwwgbubgrbgbrguruuwwbuwwgbgwbbb uuruwgrwuwburbrwgrubuwgbbwurrwuurbgrbrurbgruruwb wwbwbggurwwgwbgrwuwurwrwbuwuuuwugwwggwrugbu ugwwurgrburwguwwuurggbwwgbguwrubbgrggurwwrwrwugbbggr rwggburbrbrrrwrbubuuwgugbwuuubbgubbrggrbrgbugggwbr bwbwgubbwgurwgrrwbuwrrgrwuwrggrgrrwbguuuwgwuwbrbggr bwguuwgrbbuurrwrbbbgrbgwurwgbugbwwgubrbruuggbrwgrrgggu wbwwwwugrwrbwbuburbugrgbrrgurubbbrgggbwubruw wbbwuububrggbbrwbgwrwubgrgwburrgwrwwrugruwwrbg grbbururuwburggbgguwguggbwuwwgubuwbwubrurbwu rwrrwwbgbuuwrggbwubbbwrrwgwggugurrwguggwurguwrrurruwu bbrrwuwgrrbrbbwgrbgrrwgbwburrruugurbuwbwrwwbgrggr wwbruggrruwgrrgubruwbguwbgubbburrgrrwwgrbrurugbrbuggbrbub guruwrururbgrgbrwuurwuurrrgggrwwguugrbggrbrbbrrwggr rrrguwgbwbrwbgwwrgrgbrbbggwbgugrgbbwgbggrbbgbbwubw gwbrugwwguuurwbugrugwgruruwgwrrururwrrgbbgrrwwugwrrwbrbbg wugwurrubgrubbwgbgbgwwwggwbwgrubggggurwgwbubgbwwurb rgwbrgrwruwgrbbbrrggwwbuurrrguubuggrgrurbrggb bgggrrwruwuggrguwwwuwbgwrrubwggubgwwgggrbgwwwbgrrbuguggub uruwugrrwwrgwuubwbrbwwuurbubwbwbbuwubrubuu gbwwbbuuwuuuuggbugbuwrbrugrwggrbgguwrwubbwwugrb ubrbggurgruugrugrrurrbgrwrgburruwwguuwwguwgruuwuwuwuurwrwggr bgrwgbgwgwbwggwgbbrrwgbgwuguurrubbburuwwrbbu uuugrrgwgguwwbwgrwrurrrbrrgggwugrburggwbgubggr rrguwrwwbwwrugrwbrbrwwuuuwbrburrgbguuguggggwrwwwg gugwwgwwrbrbrwbrugurrruwgbbbbuurwuggbrrgbbrbu uggubwuwgububurrgwrgwubwgwgwwrrbgggugurgwuwurbuwbwbwb brrugugrbugwwuurgbwrwwburbubgguguuuwgrgrwr uguwurwrwbuwrbbbrwguggurbgbrwrugbwbrrgrwwrubwwbrrgg grbrguruwurggrguggburwuwbwwwubbwwbubgrwrrbbrgwgguwru wbggwubgrgrwrgbbuwrbrurgugbbrurbguwruwwbgbbrgrguu gbgwrubwbwruwgbwbuwubrwrgbrwwrwwrwguwbgwrrugbuw bugwruwwuruubuwbwbbbgrguuugbuubugwgbuuwgbwbgbgw bburbrwrbubuubbrwuubbururgbrrggugguuurbbbwwwb grugbuugrrrbgrbgugrwggrrrbwbbgbgrbgbwwgwgrgwbrrbrbrgru ugrbwuurbrggrwrguwwwbguggbguwwwrbbwwrurrgrubwrbbwurb rwgrrwrruubrgbuugrgugbwwruguwrbbuwrwgrwgbgbbgbbwgbr rurrrbbbwrwgggurubgggwruwgwubbbbwbubgwrbuuuubrb gwwwugrrguwwrwwrwwwuurbwwurwwrgwbrrrgbrrrrgbu uuwbgwgubbrbubbwurbwwgubbbbbugbbuwgwwwbrrbrrrwur wwbrubgwgrbbggwuwrurrrbubrwurwwbwggrbrrgggwgbbgwgbggg wrguwruguwwgrbrwrbgwbwuubbubggubrwbgbrrgrggr gubrwrgrbbguwwgbgbgrguggburggwbgbwuwuuuwbuubbwubrwurrrwrr bbrgbrwgbwbwwwguwgwbrwuwgubgguurrbwubbwgbuwwwrggrrgr wwwgugwuwwwubbbwgguuburbbbggburwbuugubrrugbbgruwr rgrwbggubgguwwuwwwrrurrbruguwggguggbgrwwgubrbrrwrrwwrrrw wuwurgwuburbbbgbrgwbbrbgururbggruuguwwrrrbguuug uugbrgbgwuggrrwwwrbuwwbgrrwbbrrruuuugrgwgrbwwwguuubuubbu brbgbbwggbwbrrurrrgugwbbwbrbuggwuurrurwubruruggwuuurrrgr gbrgbwgggbruuwwwurwrrgwubrggbwrgurbgwurrwgrurgbugrurguuu wbrgburguwrbbbuwbubbruugbrbuurwggburugbwugguwubrbguwwbg wgwguguurbbwgrbgugubbuwbubururbgwwrguurbgrrrgb rbrrgbbbrwbbrguububwuurgburuwwurwbgbbuggbrububugbururubrgu wguguubugbgwurggwrrrugrwgurbuggbbbrwbgrwrgwuwbwruwrbgb rgwwwwubbbgbruuggrurwbuwgbwgrbrubwggubbggr rwwbggwrbwbrbbwbbuurbgbggrrrbgrwuwrrwrugwrgguwwuwb urbwrgwgrgrwrbwrgwgbgwwbgrrrbbbrrrrbwrwrgrrwbg wuuggrgguwbwbuurbuwwwwbbrwwrrwrggurbruggr ruruwrburwwgugurguwurwugrwgbrrgrwrrbburburuubgbrgrwuggr gruwrbrrguuruwwbbuuwgurgbwugwguruwbwbgrgugw brwrgrgbbbwbwrgguuwbrrgruruwuwgbbgbbrgbwbr rwbbgrwguruurrwwuggbwggbwgwubrbbburbgubbgb wwgbbguwbwugrbwubrwugrwbbggubugrrwgugrgwuwgbubggr gububbbbrwrbrrurrwwwruguwrurbbruubrurbubuug ubwggwbrgbgwbwbrwbruwwbrrbburuugrruguguwwuggbbww gbuuubbwgwwbbwuubguugbbwgbgubbrbwwwgrurugwwwwrr ruwwgbwuuugbrgrwggwrbrwggbgwbugururwbubububbuugrwwwgbb ubrwwurrggrwbrwbgugggbwgguwwgrubgbbwrrguugbrwgbbgrbwrg gurwbgwbugwurwrruguuwwugbwruwruubbwbbuwurbbbuwbrwgbbwwwgbb rgwurrbuwugurbwrrwuwgbrwbbbwubuwuwwbgwbbrggrg ruwgwbbbwuwugwgrbgrbrbrwgwwggrgwwuruwgbruugggurwruuruwbgg wgwuwrwrbrwruwggwbgrggrubbgrugubgbbwrrguuggr wguwbbrruwwrggbrgwbbrwubrgwuubuwwwwrrrguwugrwrugbgggbwbu ggbbbuuwgwbgwbwwwggbrwrggurrrbgwwugwubbggr bgwbwbbwrbwubruugwrbrwgggrrgbbrbubuggubuwrurgbugrb ruuruuwggbwbwrgbruguwgurwwrwwrgruwrgrbgwwggr rwrgrgbbgubggrwbwrgbgrggbbbwbuuubwrgwrgwwuwwwruwgugbg gbwbrbbwgurwrwuruwwwugugwrgrwbgrwrgwrgwgggbwwguwg brrugwuubguurbbburuwbggwrbwuwuwurbggburwgrwurw brbrbwuggubuwurruguuwruubgwbgurwugugwuwwwugugugwr grrgrgbugrbgrgguggggrbgruuwbwbgrgbgbgbwrwubgubwwubwgu brgruubwbuurugbbbwggbwbrrrrugrububgurrrgwrrbwgg bbbwruuwwuuguwwubbbuuuuwbrrbbbwruwrrwbuwwuwr uwguubwgugrbuwugbrrgrrwbwuwwbbrrwbguurbgbwgbbwgwbrrbb rbbuurgrubuwgugubgbbbbwuuruwruwrbbrbgbbrubwbuwbwg brubrrrbuwrrwbubwguwggrbggggbgubbwgrguurwrrrwggr ubrrgubwuurubrgwbwgbbbwgbwgbruubrubwrguguguuuwwbgugbrgu uwubrubuwbubwbggggrgwrwrwwwrwruubbwgrbbuwgrwrg buwgwbuurrgrwrrwrurubbubrbrbbbgggrguugbgwurbugwubgu gbugrrgwwuubrbrbururguburbbugbgwwbbbgbrgrurguurrrggbwgwrggr gbruwgbgbbbgurgwwbbgbwwgbgbrwgubwbbubwbugg wguugwbwrgguwrgbrrbggguwrugrggugbugbuugwwuw uwrwbgubgggrrrgruwbgrbgwugugwwwuburgbwwguuwuruggr urgrrwgwbrubgbggrruwrwuwbbburgggwugbgbgwwrwgwgrgurrrwggwrb bbgbwgwubbbwwwwwguuwbrrrrurbuuuugguburugww rrgwgggrubgbbwrrgrurgrubguwrggurbrgbguwwugw wurwruwugrbrbbrbgbbwgbwbbbgwbugrurwwbwubruu bruwrbggubwwwwrurbbbuwwrgbwbbbubuubgbggruwurrw rgrwbbwwwwbrggrburgrubrguugubuuwuubgrbbwrrrbr rguuwbuwbbwrbwwbwuurugrwwgrwrbuwwwwrwrrbggr gubbgbbwbrrrwrwruwgrwgbbbwwbgrwwwggrbruwgrwbgbbggr rwbwbugbbrwgbwgwgbburbgubuugrrrwwwubbrggbugb gurrbuurrbgbgwrgbgggwgwbbuwbrrwrgurguggwwrwgbrgbugwgrrwggr bbbbwbruwggrgbubrubwbbbbugbbbgrwurrbwgrgurwbuggr gbbbuguubrbrbubruubbwwrrwbubgrgbbbgruwuwbbugwbgrgbuu wugrwwbwrbggubrgubrwbwurubrbrbwgrwrbwrgguwbwwbggrugr rrubwbuuggbuwuggbwggbbrrrrgbwgwbwgwugwrggr uwguwbgwuruuuwrggrgggwrwugurgggubuurggrbuwrrbuwgruurbbg wbwrwrgrgwbbrbggrwwubrgurggburbbrrgwubwwbw rgbguuggrubbugwgggurubbbrwubrrbgbwbggbggrrbuubb urggbugrwuwuurubbbbbgbrruuwwwguwubbrrgwgubbwrruwu grbugwrrwurwgurbwbuwbwrbwbwurgwwugubgwbwbuw urgrbrburbuwubbugbbubrwuwgwrubruuuwrbwbbbwrgbrwrr rgguurbuugrwbbrgwrrurwgruwbggbwugguwuuwbgg ugbbggburwguwbgugwbbgbbwgrgguwbgrrwwwwugrbrgwwrguggbrurgrggr gurbbwwuwgwburugbrgrwwurbuuubwwbrrrbrrurbggurggr rbuuruwbwbwgbbrurugbwbwugbwuuwwbrrgggwbrrwggurwubbrgrggr ruggubwwbwbubuurwbgbbrbgwuggwgrbrrrwbrugrurggwwrggbgwruuggr bubbrrbgwwwbbwwgwwrbrgbwwrgrbbuggbubrwgbruruuwugbggr gwugrwgwgurrgurbrgguubrburgurwugugggurgwubrgwgubg rbuurbuubggbwgwrbrgrgbrurbwrrrwwbbwburwbwurbgbwrrbggr rbgubrrgwrwurwrgrgbbrrwbrurrrwwugugbbrwugrwbgbgguuuugw ugrwwgbwrwrruggrgugbuuwbgwbbwwbrgwurgruwrwwrwrw buuwgurbbggwrrgrurrwuwgrruwbbrubuuwgruguubrw bgurugrbbbgrbugbwuwggruruuguwbbbwuwwbrugbgwrruwburbguur gggrwbwuwrbgwbwrurwwwrbwggbbgbugwrgggggubgu wrrbbuugrbbubgbwbwwrrguggrguwrwguruwrwguwrrg rugbbbbuuuugbrrrgrbrgbwuwbruwbbrwbbwuwbggwubugggguguwbbwwggr wgugwugwguugwwgugubbbrrggugwuruwrwbbgugwurgu grwgugrggggbruurbwgwgwuururugbbrbwuurbbbrbbwrbuggbubwr]
+Worker 14 processed job: wuuugbrrgwbuuwrugbgugbbrwuuwubgurrbbbugubwuuggb -> 1
+Worker 7 processed job: ggwgwugwuuruburbbgruwgggbbrwbgrurggubugrwbuu -> 1
+Worker 11 processed job: wgruwwbbbuwbwuuuuwuwbugbubbrbgwwuugbgwwwrg -> 1
+Worker 11 processed job: ggbuwgbwbubugwrgggwggwbwbugwubgwuubbbrgrurbrubgggwuwbrwrr -> 1
+Worker 7 processed job: rbggwuwgruwubrgwwgbwgwuggwgururrggbruuugrggbugwugr -> 1
+Worker 10 processed job: wwbbbwrbwwgwgrwgubuurrwrrggurubrbwgwgbwwwrbwrwuubgr -> 1
+Worker 10 processed job: rubbbuburwrrwwuwurgwuugbbburugrurbubbgbwgbwgrbuw -> 1
+Worker 10 processed job: uwgbwbgrrbgwbgugwuwrwbrrwwrwwuwrbbwuubggburruguuuu -> 1
+Worker 11 processed job: rbuubrwggurbgbwrugbuguwurrbgrbwurrwrburbgbgrgb -> 1
+Worker 10 processed job: wuugwrgggggruwrgugbwrgbgurrbgrbrggwruuuuwbrugwuubrgub -> 1
+Worker 10 processed job: rwbrgbubugubgbbgbuwbrgwwgbrgrwwrubgrurbbwggr -> 0
+Worker 8 processed job: bbrbubbuurgwuubwbrrggwwrbrrbggbruuuuwgbgrgrgrubwgur -> 1
+Worker 10 processed job: ubwbuwburrurrwwwgggubrwbuwrgrrwbrwgurwwwurbwrrgb -> 1
+Worker 10 processed job: rgwbrgwguggwbwbgugwbwwwrwbbwubwgwrrgbgrbwugrbwgwur -> 1
+Worker 11 processed job: rwubgbrgruwgrurrrggwwubguwbbrwuwrbgubrgruubwggrgrguwg -> 1
+Worker 8 processed job: gwwrbguuuubwubuugbbuugwwrwrwubuwbwrbwuurggrwubgrbguuggrggr -> 0
+Worker 10 processed job: rgwugrwurrggubwwuwgubgrggwububggwrwwgurwuwwbbbwbruwgggrubr -> 1
+Worker 8 processed job: rurggbuubwugggwgbrgugruwwugrwgrgrwgwgbwbbggwwggr -> 0
+Worker 10 processed job: uubwubbburuggrbwgwrubuwuwggrbgrugbgguwgrwugbgrbwbgwbgwbw -> 1
+Worker 11 processed job: ugbwgbwrgubbrgrgrugrgrgggwbrbrrrwgwbguwgbg -> 1
+Worker 11 processed job: rruuguwgrbwggubrwrurrrbggbwbbwubgwuwugrubub -> 1
+Worker 11 processed job: ggwgugburuwbwubbuwrwbrrwubgbwgrrwgguguwruuruggr -> 0
+Worker 10 processed job: gwubbgbrgwbrgrwugugwrgubgwrrrgrugrgrgggbgbwwurggr -> 0
+Worker 10 processed job: ugrrbgwwgwgbbrbbbwgrurwuruwrggrrguuuubwwugwgbgb -> 1
+Worker 10 processed job: gwrggrruwbgwugrgrwbwuubrruuwuurgubuwurrruwbubrbubrrrurrw -> 1
+Worker 8 processed job: bgrbuggurwbrrggwbuwbrgwgrrwurrbrwwuubbgwurgwruuwgbg -> 1
+Worker 8 processed job: rrwbbuwrwwuuwburguwurwrwggwrwrwuwwbgggubgrwrbg -> 1
+Worker 8 processed job: ggrwggrbwubuugwuuwggwubgwrgrgwbwrwrbguuuurugggbugugrgww -> 1
+Worker 8 processed job: uubwbgbbubwubrguwbuuwbgurwwggrguuggrwrurbwgbbwr -> 1
+Worker 11 processed job: grrgrrggbuggwrrbwggbbrrbgbguubuwururbrbggr -> 0
+Worker 10 processed job: rrbrbwruwuurwrrurrwbrbbrwugbgrwbwwugwugwguggr -> 0
+Worker 11 processed job: rbbuwgguuuubwuwrbbrrurwgwbbbbruggggwuwggbb -> 1
+Worker 8 processed job: wrbburgrguggrgrrgugbbgwbbbwbgrbubwuugwrbwbguwrwrrguwu -> 1
+Worker 10 processed job: bubwbwgbubuwrgbrwbwbrbrrrrgwurgbrruuwbwrbrgb -> 1
+Worker 11 processed job: gbrubrwgubwwwwwwubrugrrbuubugrwruugggbugbbrrwgbbwbg -> 1
+Worker 10 processed job: gbgwrbgwggruwugwwrrubbrgrgwguwgbgrgrrgwubbggguwwrwrgubrr -> 1
+Worker 8 processed job: bggrgurwbgbggguuwgurrggrubwbrgwugwubwruuuurgggwwuwubrugrwggr -> 0
+Worker 11 processed job: gbrgguwubbbuwrgrbrwuuggwuuururuugrgrwwugbbww -> 1
+Worker 11 processed job: gurwwbgrwgwwgbwuuuwugubgbwbgugwgrggrburwrbu -> 1
+Worker 11 processed job: buwrbgbuubrgbwwubwbgbrubuubugbbwbbuwrbbbrbggr -> 0
+Worker 10 processed job: wbubwrbwrwguuuuwwbrrrwwrrbwubruwrwgbwggr -> 0
+Worker 8 processed job: ugwbrwbbbrggwbuggburubbrubugburbwbbuuruggwurrbwwggru -> 1
+Worker 11 processed job: bgrurrrgbubuugugrbubwurgbbgbuggrbggbrrguwuwwub -> 1
+Worker 8 processed job: gwuubrrbugbggbwbrwuwgbuuugwrbwwrubgrrgrrbbgubwwugrggr -> 0
+Worker 8 processed job: bgggbubuuguggbrbbwuwubwbbgwguggrburrgbggruburwrwrwrrwwggr -> 0
+Worker 11 processed job: wrrrbwbgrwgbgbrbwgurrwrgwbbbgrrbrrgrgwggugbbw -> 1
+Worker 8 processed job: wbbbbubwubgubburbbwrbrbbgwrrwruwugbbgugubwbgugubuurugrgrbggr -> 0
+Worker 8 processed job: ugwrbwrugbgwgbwwbgugwrwrgbwrbugggrguuwuwuugbruu -> 1
+Worker 8 processed job: ubwwrbugwgrubgubbbwwggugrubgbguruurubgwbbububrbbbgguurrw -> 1
+Worker 10 processed job: brrbrubrwgrrrgrbwrrrwbuwburgwggrrbrugugguuwbggwwuggr -> 0
+Worker 9 processed job: gbbuurbbwwwugrruubrgwbrurrwuuuwbbubggrugbbwubbr -> 1
+Worker 11 processed job: gwbugbrbbubrgurrbguurwurbguwrgbrgrgrwwuuwbgwbggbgurrgur -> 1
+Worker 9 processed job: ruurgrruwuuruwuwuugrbbbwruwbbwurguburuwuuwrbrr -> 1
+Worker 9 processed job: rrgbwwgubwwbrrrrgggwguwgbuuwgurubbgwwggwubwugr -> 1
+Worker 9 processed job: gbrbubbrugbwbwwrugugbrubbbggubwwbuwugurugrgrgwburruwwg -> 1
+Worker 8 processed job: rguuwwbrrggbrurwwgubuwrwruubwubrgbrgwggwrrgggwrwrggr -> 0
+Worker 8 processed job: wguwbrrbuuwwbrrwgruubbugwrrrwubuugugbuuruggwbbgw -> 1
+Worker 11 processed job: rbwrrwrgubugwurwrrururrgrugwwgrrwrbubruwwuwrww -> 1
+Worker 11 processed job: wruubggwugwggrggbwgwbrrgrwwwugbwrbwgrggr -> 0
+Worker 8 processed job: ugrugrgbuuubgwwrrrrbbgugubgbbwgrwrbuugwbwgggrugwbubwgwruggr -> 0
+Worker 8 processed job: rbubgbrubwugbuurbrrwguwguwgbgwwguuururbbbggbg -> 1
+Worker 9 processed job: wrgbwrugwwrgrrgrbwubrrrrrgrrurbrgrbwuguuwrrg -> 1
+Worker 8 processed job: rggwwwwrguurgwuuwguugbugrggrrbuuubwrbgbwuwbrrrgrggr -> 0
+Worker 9 processed job: uwgwbuuuubwrruguurrruuuwurwwbugbwuwguwuuubuguwggbrrrugrb -> 1
+Worker 8 processed job: uwuuruwwbgwuuwbrgbbuwbrwruuwbwrrbuuubwwggr -> 0
+Worker 9 processed job: wrbgwwggbuuwwgbubgbuurrggurwrrrugrugbbrbggr -> 0
+Worker 9 processed job: bgwwwgbrbbwwbwrbubbgbwgruugbwgubbwuggbrrbggwruggrggggr -> 1
+Worker 9 processed job: guuwguuubuwrbwbgwugwwgwgbubbbwugbbggrrgubuwrwgggwbrbbwru -> 1
+Worker 9 processed job: ruwburwgrgbbbubrbubwrbrgwburrubwggbgugrrwgwr -> 1
+Worker 9 processed job: gugbwuuurwgwwbwuugubbbruurwugguuubwrugwbgburwb -> 1
+Worker 10 processed job: rruuggwruuwrrwbgbgububurrrbbwggrgburwrrbwwrburgbuurbbuggg -> 1
+Worker 10 processed job: wbwwwwbggwugwurgrbgrgwbgwubgwrwgwrgubugbubuub -> 1
+Worker 9 processed job: rgwbrguwgrgwbwrgbgwwubrbuugugbgwrbrbbgugruwrbwrbbggrbgr -> 0
+Worker 8 processed job: bwrwgbubrwruwgrgwuuurrbbwrggbgubwbrburrbbgwurguugrrugrgbg -> 1
+Worker 8 processed job: rgwbwrbbwrgbgbgbgbbbbuurbuwubrrurgrrurrgbuubbwurggr -> 0
+Worker 11 processed job: grgwrwwrgbbrguggguubbrbgrbrrrwbrgbrwbrruurggburrwww -> 1
+Worker 11 processed job: wuwuruubuggrwbbggbgrgggrwwwurwwuwuubbrrbwubb -> 1
+Worker 5 processed job: urgbuwrurrubbuugwrurrurwgggugwwrgbggbbggr -> 0
+Worker 1 processed job: bwwuwbgrrbuwbbuuubuwurwbgwugggwrbrrgwugbwrubgubbgrwwbrwggr -> 0
+Worker 1 processed job: wgwggwubrugrbbwbwbrwgbbrwbwwbgguwubgwuuuuwrbg -> 1
+Worker 14 processed job: wwgrbrwwrugbrrrgbwuggwwgrgruguwrwuugrgrgwubbwubbbrrgw -> 1
+Worker 11 processed job: bwwgggrgbrwrbwggbgwubwgrwruwgubgwbwguwubbbugggrrbg -> 1
+Worker 7 processed job: uurrubruubgwrwubuuugwuwguwgggwrggbrruuwrgrwrguubbuguwu -> 1
+Worker 10 processed job: rgrruwrrwruwbrbggwrbuubrrbrwgrwuwwwwurgwbubgbwuugbwrgg -> 1
+Worker 5 processed job: wwururrbwwbgwbwbuguurbgwggurbwbuwbuwbggururggrugr -> 0
+Worker 11 processed job: bwgwwrgubggwrbbbbgugwugbwwbuwuwbrbwgrgggrguuururggw -> 1
+Worker 7 processed job: wwugbrwbguuuubrwbwbwuwwrbburbubbwwrrgrruww -> 1
+Worker 13 processed job: rwwbrwubwuwuwubugwwurbwrgrwbgwwwbrwwwuuwwwgrwbgwwg -> 1
+Worker 13 processed job: gggruuwgrwubrbgwuwgwggrbbububbwrubbubwrbbuggr -> 0
+Worker 9 processed job: rurgubgrbururwwbggwwrruggbguwgbbwugubwgrbbruuurgwurburrr -> 1
+Worker 2 processed job: brguwwurugubuwuwbburgrgbbuuuwgggbuwgbwgbwgrgwrgubwrubgurbggr -> 0
+Worker 2 processed job: wgbwgrgwwbggwwuwgbbuwwbgrbugrgwurbbbwwwrgurgbrrbww -> 1
+Worker 13 processed job: brwwbugwwugrbguwwugugwrgwwrwwubgububugrbwgwb -> 1
+Worker 2 processed job: bwwwbbrruubwbrgwbuuwwugubububgrwwbrbwbbwuruggr -> 0
+Worker 11 processed job: wgbburwbuurwwwgurggrwuubrrubwuuwbwgrwururggurrgbubwb -> 1
+Worker 9 processed job: wbgwubrgrbrwbggugwbbubgrgwbgbrwbwguugrrrwbrrwuu -> 1
+Worker 13 processed job: bbrrbrrwbwuubwgggbbrwbruwwburrwwubrbbbburggrgugg -> 1
+Worker 11 processed job: wwrrububgurwrrgwrgbbbubrruwuugbuurbgugurggr -> 0
+Worker 6 processed job: rwwbrbuwruubggruuuurrgbbuuwruuwgbgubrwrrwwbggr -> 0
+Worker 13 processed job: gubugwruwbwrgurwrwuwrggrbuuwuwgrrbgrwuwggwurbu -> 1
+Worker 11 processed job: ggbbgbwuwwwgwrbbwuwubgwgruwugbubwrgubwugbwrrururgbgbururbw -> 1
+Worker 9 processed job: wgurwwbgrgrbwbrgrgwbruurbbubrwguwubggrrgubwubuugr -> 1
+Worker 6 processed job: wugrrrbbgrguuggwbugburwgrbgwguwwwgbbburruurwbbuur -> 1
+Worker 3 processed job: bruuwrugwbgwrwwgwugwuugurrubgurguwuuuwrbwrrgwrrwbbubuww -> 1
+Worker 11 processed job: uwwuubugrrbrwbuguuguwbgrguuwrbgrwrggrbrugugugb -> 1
+Worker 6 processed job: gbrgbgbbbwwgbwrwbugguuwgbrbbubwuuurggrurrwuwbbwub -> 1
+Worker 9 processed job: burwuruwwubbwwgurggbggbbrurwwwgwggruwbuggbrurwg -> 1
+Worker 13 processed job: ruwubbwbgbburrrgbbrggwrgbuwbrwguruwgrrgwggr -> 0
+Worker 8 processed job: rwuruuurrrurururbwggbrurwguurbrggbgrgwgurgr -> 1
+Worker 12 processed job: ugwubrgbguubrrgwgguguguuurbbgggwurgbbwbugbu -> 1
+Worker 7 processed job: ubbwgrbbrggbbbwwuwgruguwwbrwwbwwrbgrbuugwrgwubbgwbbgbuggwg -> 1
+Worker 4 processed job: wburbggrgbwububwbbwbbgwuuuwrgrrguuuburwrgururrugrbwrbb -> 1
+Worker 11 processed job: wgubuwbubbuuwrbwbrwwwrgwbbbwbggwwubwburwrwwwwggr -> 0
+Worker 7 processed job: wgwgruwwgubgwwuwurgrwwwbugugurwwubbbuwwwrggwrruwggwwubuggr -> 0
+Worker 12 processed job: wwbugrgggrrguuugrbbgwwuubrruwrggwubrbbrwwugbgrggr -> 0
+Worker 8 processed job: bgwwwgruwwubrbrgubbgrrgugwuurguggubwbuwwwuuubrrgbbbbw -> 1
+Worker 11 processed job: wrwuwugbgugwgrbuurgbggwugrubbuuugwuwrrgbgbwuggb -> 1
+Worker 6 processed job: uuugwbgguggbbgwwgrgurgrgwgwrwgwgurrbwwrgbrwrbr -> 1
+Worker 11 processed job: rbggugggwrubwwrrbrrububuwrubrugbgrgwurrgubrrg -> 1
+Worker 4 processed job: bburubuuugbgwrugrwggbbrrruurrbwrggguubrrbbwggrwggwubu -> 1
+Worker 13 processed job: brgbbwgwbbbgwgwbwrwwggurbubrruwrbbbggwuguwrugrgbwgruurrggr -> 0
+Worker 6 processed job: buubbubwguuwuburbuuuruwbburwurwwbbrrgurruwbgrgwbuurru -> 1
+Worker 1 processed job: wrwurbgrugrwuubgrurwurrguurwubbgubrrwruwuwrbrgwuwbb -> 1
+Worker 5 processed job: bubbgbgrwwwggbrbugwrrwbwrgbbrrubrwuwugrguwgrggbuurrgu -> 1
+Worker 11 processed job: wwbwbbuurwwggrwrrrgbugwrrgggrbwrbwubgwggr -> 0
+Worker 12 processed job: ruuburrrwrgugwrbrwgwwrggwuwgbbugbuwrubbwuw -> 1
+Worker 5 processed job: gugubguwgrrbwwububrrgggbrrrgbrbugrwrwuuggbwuwbbgwug -> 1
+Worker 8 processed job: wrbrburgrrrgrbbbbggwbrubgubgrguuwwwgwrrggwu -> 1
+Worker 11 processed job: guurwgrwbgbbrbwurbrwbgwgrugwbbgwrwwwrbubgw -> 1
+Worker 8 processed job: grrwbuuwuwgwrbgbbbggggwwrubuwwwrwuggrgbbbuuwwuuuwb -> 1
+Worker 5 processed job: wwugbwwrbbruwgwwgggugrwuruwgrggbrwrbwwguwgu -> 1
+Worker 10 processed job: urbbbubbrugrburbuggwggurwbwbrwurruggbuggbuwggg -> 1
+Worker 11 processed job: rbwwruggbbrgwwwrggugrbrbwwwwwbwbuurbrgburwr -> 1
+Worker 12 processed job: brrbbgwuruwuuuuwwwrggruurbgggbrwbwgrubbwgrwbrgwgwwrgg -> 1
+Worker 5 processed job: wwguguwrguburwwuugurbwbbwgrurwbugbwgurwgrgg -> 1
+Worker 3 processed job: rgburwrwrgbrbwrbgwrbbgwwbwgwrwwbgugwgubugurbguwgwrrurbuggr -> 0
+Worker 11 processed job: wgruwugwugrgwurbwugbubwwrruuwwrbgwwugrwgrubwbrburbu -> 1
+Worker 10 processed job: uwuwwwgubgbrruwwbrurwgruubuwuwuurrwurbrrrbwrwggr -> 0
+Worker 8 processed job: wrgrgburbruwuuwrgururbbubbwwubuwwgwwubbuubgbugwrrbu -> 1
+Worker 7 processed job: ugruwrrwbuurbbubrrwbguurggwrgwbwwrguwrruuwbwguwbguwuwrwrrr -> 1
+Worker 11 processed job: ruugbbggwbwrwubbgrwbbuwrwwurubbbbgwugguwuwrrwbwuggr -> 0
+Worker 8 processed job: bbwwggruuwrbuggwggwuwwugubrbgwwbuwubgwbrrbrrgrbgurbrrw -> 1
+Worker 3 processed job: rwguuggwbgrgbbgurwrbbbrrwubbuwbuwubgwgwbbru -> 1
+Worker 8 processed job: uwrrbrgwgwbbubwrugrwwwuuwugugbbbrwguuugrbgwgubwr -> 1
+Worker 10 processed job: ugwburggrwgbgwrrgruwbbbgwurbururwbbgbgwrbrwbgrbbb -> 1
+Worker 11 processed job: wburuwbrwrwugubwwbwwugwrbwububrgrrbuuurwwgguug -> 1
+Worker 3 processed job: bugrgwbggrbggbbggbwbgwguwrbwgrbrguurgbububbgurwwbwrrwbwr -> 1
+Worker 5 processed job: urguugbrburubwbgrgggrgrrubwwggbrgurbruuugbuugggguggr -> 0
+Worker 10 processed job: wbbbrgguugrrbwbuwburbrbwggguugruugwrbguuwbrgbrrgugub -> 1
+Worker 11 processed job: rugrugrwrugruubburrguuwrrrrbwwgbgwggrrbrwbrbguwgbwrugwbw -> 1
+Worker 5 processed job: wgrgwruwbwuuwgubuurgrwwuwwugwrwwgwwgwrrggr -> 0
+Worker 3 processed job: wwugbwrbrgbubwgbgbbuurbgbuwrguruurgrggbwugrgbrgggwbgug -> 1
+Worker 1 processed job: bbgugrgubbwwrurrrrgrururruwwwbubgwrbgguuwgwwwwrgugbugwuwg -> 1
+Worker 6 processed job: brubguguwbubgruggggrwwubbrgbruwrwwurwggwruwrgwgwuwgubbg -> 1
+Worker 7 processed job: rwbwrbwgwwugbbrurbrgrbgrgrugruwwuuubrrbbgwrrwuwbrubuwg -> 1
+Worker 3 processed job: ugrrrgbbubbguubguuurruuruugbrubggrugwgbwrrbgbubrgbrrbggr -> 0
+Worker 4 processed job: gbrurbwbbgurwuwuwwubbrugruwwrwgwguwwgrgbrwbgruubwurgrbrggg -> 1
+Worker 3 processed job: rrgbugbbbrbbgurgrgrrruggwbwgwubwgrbgrggwbb -> 1
+Worker 1 processed job: brrbrwubuwgubgwrgwwwggrrggbrgurwwrgwuuurruurgbrwubwg -> 1
+Worker 8 processed job: wubrwrrruuwubrgbbubrwggbwggurgwbuwuuwrgbwuwbrbrwrgubw -> 1
+Worker 7 processed job: wbruwwwruurbwburubrguwwwruwwgubgbrguuuwbgb -> 1
+Worker 5 processed job: ubuwrruurbgrgrrrbwwbggbrugurrbwwwgbbgbburggr -> 0
+Worker 7 processed job: uggwubgbgwggwuwbbuguubgwruuwwggwbwrugurwgrrubgrubbrr -> 1
+Worker 7 processed job: wgrugrgbgbuguuuubbuubbguggwbwwguwgrugwwbubgwuwrubg -> 1
+Worker 5 processed job: wuwwuurwgubbbggbbbrubbrgruwwwurububgrggr -> 0
+Worker 8 processed job: urgrrrwbbwugbgrbgbbwbbbgbrrwbggubggubggbrbrbubrugrgb -> 1
+Worker 11 processed job: wbbbggubrbwbwugwbbuwrbrrrwgurgugbwwrgrwwbbgwbwgbwugwbgbwbb -> 1
+Worker 3 processed job: uburuwbuburuwbbwuruugrubwubwwuggrggrwgugwwubgbgbbw -> 1
+Worker 7 processed job: gwguuwuuuwrurwrrggbrwwrruwbwuugbrwbubrbbbrg -> 1
+Worker 7 processed job: bwgbwwbruuuuwgbrrgrgbbwgrbbgwrgwgrwgrbguguww -> 1
+Worker 3 processed job: wgwbwwwgugwbwrbubuubbugruuubbbwurugrrrbbwuwgrww -> 1
+Worker 8 processed job: wuurggbwwbgwgggrurbbgwrrbbwuugrurwwuwggwwgr -> 1
+Worker 9 processed job: bbwrugbgwwgwugrgwguwrrwrrwwuwrgrrgbgrurwbbgrrrrurbggr -> 0
+Worker 10 processed job: guugubrbgubgurbrugbrbggruwbbrururgrrbbuguugggwbgbwgb -> 1
+Worker 7 processed job: wwruwubbbwwgbwrwrrbbbbuugggbbrurgbwuugwrwwwgwrrrruwggb -> 1
+Worker 3 processed job: wuuwuwubgugurubggwwgbgrbrrgrgugrbrubguuurbbggwrbuuruuw -> 1
+Worker 14 processed job: gurwrwbbbwgrwwggbgugwubrurbrwbwrruburgbrwuwgwgbuwgbwggg -> 1
+Worker 7 processed job: brggbbuubwbrrwrgbwwbbwuwrggubwwgwgbbgwwrwbr -> 1
+Worker 14 processed job: gubbwgruruugwwgbwurbugugbwubguwggruuurgbggurugww -> 1
+Worker 7 processed job: ubbubrwrrbrrgbuwggrrwbgggruwrbgrugwwbbggrg -> 1
+Worker 1 processed job: ruurubrwrgbwrgwuruwubbwububwwbrgurgggbggwuw -> 1
+Worker 7 processed job: ruugbgwgubgwugwrbrrrgrruurgwubbbbbbgbguggrgrwbbbbg -> 1
+Worker 6 processed job: grbbwwbbwwrbrgbwubugbrrrrbrwwbgrgrwrrbugurbwgrbubbbbu -> 1
+Worker 3 processed job: gurgurbbbbugurgrwugbbrbrbwggwgrruggwbbrgbwrr -> 1
+Worker 9 processed job: rwuugggwbwrwrwgrrbbwrrwbbgbrwrgurbbbugubuugruwgruw -> 1
+Worker 4 processed job: bwgwbuwrrbrwbuwwugrwwwuuurbbbggbbrwbbgwbwwggr -> 0
+Worker 6 processed job: rwbrrbuwrgrwwuwwrgubuugbgurrubbbuuwbbgubbbrw -> 1
+Worker 1 processed job: wrwbgubgugrurggbgbggrbgbgubgggbrwuwrbggburbrgwurwu -> 1
+Worker 9 processed job: uguwwububbugrbubuuuwwwbwgbbrrbbbbbbururrubwgrwrurbbbgrgb -> 1
+Worker 9 processed job: gggwbggguggwgggggbwwggwruwwwwubwgwgbgugrubggggguggr -> 0
+Worker 12 processed job: ubbrurbrgugwubwurbruruubwwbrbuwwgrrrwwubguurrgwwuwwrggr -> 0
+Worker 6 processed job: wrurbbruwuuwwwwuubbbgggbrrbwuuwbubbgwrgbrwbrur -> 1
+Worker 14 processed job: gbrwurubuubrrrbwwwwgrwguurrbgruwggbrgggugbbwr -> 1
+Worker 13 processed job: rwbguwrggwbbwbwgbbwwrrubrrbrbrgurgwgugggrgwgrbbwrgrrgrugu -> 1
+Worker 7 processed job: bwrbgruugbwbgbugwrbruwruuuubwugrrugbrwggubgwrguubbbrwrg -> 1
+Worker 7 processed job: rbgrbbggbwbbwbururguuuggrubbubbgugbwuuggruwrwwurgggrugbbggr -> 0
+Worker 13 processed job: rgbwbguurbwrwbbugwwrrwbwruwwrgwrbgrugwwwbbwbggr -> 0
+Worker 3 processed job: gurwwrgrgbggbbruururrrbwubwwbrubrrgugugbwuuuguubrb -> 1
+Worker 14 processed job: gbuwwuwwuwbbggruuruwrwwwugbrwbrbgbwwbrrbrugggrrwbgbgrggru -> 1
+Worker 13 processed job: bggwrwuwbuwwuugbgwgbwruuurruwrbgwrrwubgrwbgwwr -> 1
+Worker 4 processed job: ugbwwrgguwururbwgwugbgggbrbuwwurubwgrburwbrgrwggruu -> 1
+Worker 14 processed job: ubwguurwggugwuubbwgruuwrbwubgrwugwgguuggr -> 0
+Worker 12 processed job: rruggwgwbrbwrgrubrwurrwuwuwururwgruggrrwbugwwbugurubuwuwr -> 1
+Worker 1 processed job: rgwrggbgwgrwwurubgrrrgubwggrrggwgrwrbbgbruggubugbubwbgwuwb -> 1
+Worker 13 processed job: wgwuwwwrgrgurwurgbwrbgugbgugwwugurggwrwbggwuruw -> 1
+Worker 8 processed job: grururwbrbwrgburbgrbwbuuwbwgrurruwuwwurubbrgggruwgggrgg -> 1
+Worker 14 processed job: urbgrwgrbbwwrubwurgbgggbugubbrbbrwgubuwwgggbrwrgrgwbw -> 1
+Worker 9 processed job: ugurgrguubuggugwrgwbuuurwuwuwrrrrrbbggrrbwbuubwrrbwbwbur -> 1
+Worker 14 processed job: uuwwbbbubruurggugwbwuwbggbgggubrwbgwbbwgrbrguwrw -> 1
+Worker 13 processed job: wgrgbuuwbwbrubrgwuuugrgrrrrbugwwrugrbggbrrwggr -> 0
+Worker 10 processed job: rgubggrggguwbuwbrurbrgbrbuwrwgbuguuwwbwrwbrurguwrrbuwguw -> 1
+Worker 13 processed job: bubbubruburgwggrbrugrwwuwwrwgwwbuurbrggrgwg -> 1
+Worker 14 processed job: wwwrrrbuwrurgwgwgggwwurugggbbbgwurrrugrggr -> 0
+Worker 13 processed job: wwbguwgwuwuwbbrggruurwugbbggwuugwrwwrwrugwu -> 1
+Worker 14 processed job: grwwurbugbbbwgwgwwbwguurrbrwrrbgbrrrwugwbggbg -> 1
+Worker 13 processed job: bubbbwwbbgubwbwbgruwggrbbrwbbbbrrbbubwwrbrbbugbu -> 1
+Worker 10 processed job: rgwwrgbwgwubwbrrrgruggggrbguwwbgrbwbrbrubuwuugrrgrrrbg -> 1
+Worker 8 processed job: wguuurrrgbuuurwgububgrrbwrwwrwgguwrrrwbbbggbwwrwggr -> 0
+Worker 11 processed job: wurgbrbrurwugrbwbguwruwbrgrubrbbbbrrbguggr -> 0
+Worker 3 processed job: burrubwwugrgrgwbrurrrguggbgbbbrrwwuwugwrbrburggr -> 0
+Worker 3 processed job: gbubrwbbuuurwbrwggrwwgwwbgrubwgrbbbbgrwruwgwgwrbruruu -> 1
+Worker 8 processed job: wwrgrgbbbgwburubwrrburwrurgbrgrbgrwgwgubgur -> 1
+Worker 9 processed job: gbggggbugbbrbruwruurwuwrurwgurggbwgwgggubgggbubrgbbbw -> 1
+Worker 9 processed job: wggugwbwruguwrugrbwrrwwuwwwwwgubggrbrbwgrrwrwugr -> 1
+Worker 8 processed job: bubgrrwbwrwuburwwbgubrrrbbgwwubgrwwguwbbwburuurrwwbguuw -> 1
+Worker 3 processed job: wgrbwbbwrbgurugbrbgrrgubruwbrrbwwbbugwggr -> 0
+Worker 8 processed job: rbbugbuwurbwgbuurwgbuwrgubuuuwguuwurbwbbwuwbbrrgrugbw -> 1
+Worker 2 processed job: wuburgbrbwwrbbwrguwuwbruwrrrbgwgwuwrrurwwrgrgbwwrrwrwgbrr -> 1
+Worker 8 processed job: grwwwbwuwuburrugugrwwurgubgbrgggbbrrgbgrrggburgggwuuwrrwr -> 1
+Worker 2 processed job: gbbrwwbrwuwubbrubguuwbbbbwbbgbwbuugwgwuubrwrwbwbbggggbbbrg -> 1
+Worker 7 processed job: uubgguwrwbrbwwubbgggbrrrgurburuwgrwgurwrubwwwgwwrbwwbgrwrr -> 1
+Worker 3 processed job: wgrgguuuugrrrubggbrwwgbrrgwuwwbwurgbwgrwurrwwgruugbwbub -> 1
+Worker 8 processed job: wuugrurwuwbubrwrrggwgbburubrbwubggbgbwrurbgw -> 1
+Worker 10 processed job: ggrggrrgurrwrrrubguruwwurwbgubrgrwwbgbgbrgbbwgbwuggr -> 0
+Worker 4 processed job: rubgwuurwwbrbrrwubrrubrgrugwrwrwrbwuguugguruggurr -> 1
+Worker 5 processed job: buwrubrgurugrggrggugrwrwrgrbgguuurbuwuwbrugbruggwrgrbrw -> 1
+Worker 4 processed job: rgrwruwwruwruggrbuggrrwbguugwuuuuwggwuwwrurgubrggwur -> 1
+Worker 10 processed job: uugwuwwggrbbggbrbrbgrbrrugbwgubbrgururwbgwburwgwurru -> 1
+Worker 8 processed job: gwrwrbbwguwgugruugrguggrbrugrwruwwbgurwwwubwbbg -> 1
+Worker 8 processed job: wgwwugwggbuwwbwgwgrrwrwbuwwbgbbuuwurwwwwrgbbrbbgrbubrbbg -> 1
+Worker 5 processed job: wgrubuuwggwgrwgrgwruubbubbrgurrrgwrggugbgbgugwb -> 1
+Worker 8 processed job: grgbgwwruwggwwrruwubwbwgrbrgugbubrbwgwrrwr -> 1
+Worker 10 processed job: rwwrrwbuburwggbbwubgggruurgrgwrrwuwbgurwbwugbrbbwbrgrrgwr -> 1
+Worker 4 processed job: buwwrubrrrwruwubggwwbwrrbgbubugbugbwrrbwwrgwwububwbggr -> 0
+Worker 3 processed job: rwurwwbggbuugwwuwbrgwwurbwgrgwbgrrggbugwgwubwrrbwwbugrggr -> 0
+Worker 4 processed job: rbrbbguwwwuubgwgbgrwrrggrbwggbubrgubrbrbwwgguwwggwwggr -> 0
+Worker 2 processed job: bbuwgbuurbuurguwubrubugburrrwbggubrurbrgwrgbwr -> 1
+Worker 5 processed job: brbgwugbggguuwwwgburbguwbgurbrubbrugubrugwubwuuwuruurrrbu -> 1
+Worker 4 processed job: wrgbugbbbwuwurbbwbbbrggwuggguwgbgugrgbrbuuwruurgwbbrwggr -> 0
+Worker 6 processed job: urgbbwrbwuwrgwrbwuwrururbugbbgrwbgurburbbuww -> 1
+Worker 9 processed job: rrrruurwrurbggwrgwgburggrbbwwgwbwubrwrrwgruwwgwurwwr -> 1
+Worker 6 processed job: wubbwruurbbbgwrbwurrwuwwgrgwwurbggwgugggbr -> 1
+Worker 4 processed job: uggwrrubugburguwbbrbwbbrwgwwugwwgwwuwbrbbggr -> 0
+Worker 7 processed job: rbwrururwbuubwgwbrbwbbbburbwwrbubrwrwgrrgwbrwwbbgwbg -> 1
+Worker 6 processed job: rururuwrbgugbugbbwrbguruubwgbubrrbubrbrwwww -> 1
+Worker 8 processed job: rwuwurgrurbgurrwggbruggugurwgwbbwgwrwwbruwwwurgugurub -> 1
+Worker 6 processed job: wgbbwwwwbbwbrgbwugbbwuggrbwgubuuwgububguwrgrbgrbwrrwwbggg -> 1
+Worker 8 processed job: urgbgrwwrgugbgwgwgrbuwrgwuwggrbgbugrgwwgwwbwbbrwuruwbb -> 1
+Worker 7 processed job: guurbubrbbrubwgbuuuwwbrgbrwbgrruurgrbguuugbgbuwggbuwu -> 1
+Worker 7 processed job: wwbwbggurwwgwbgrwuwurwrwbuwuuuwugwwggwrugbu -> 1
+Worker 12 processed job: wguuwubugruwrurbwrrurgggwrbgrurbwuurbrubwbgurbgwbbubrrurgw -> 1
+Worker 6 processed job: ubwrwbbgwwwubuwrgggrwuwbwwgbubgrbgbrguruuwwbuwwgbgwbbb -> 1
+Worker 8 processed job: uuruwgrwuwburbrwgrubuwgbbwurrwuurbgrbrurbgruruwb -> 1
+Worker 5 processed job: wuwbwurbrugruurrurwrggbuuruuuubbwbwurgbuubbbbwgbubrgbrbbgu -> 1
+Worker 10 processed job: rburwgbwrbgwwguruburwguubrrgwwrgbrwggbgwbguwwbbwgrgrwuuw -> 1
+Worker 6 processed job: bwbwgubbwgurwgrrwbuwrrgrwuwrggrgrrwbguuuwgwuwbrbggr -> 0
+Worker 10 processed job: wbbwuububrggbbrwbgwrwubgrgwburrgwrwwrugruwwrbg -> 1
+Worker 9 processed job: ugwbwgugbrwrrrrbrbugwgbbuuuuwbbrbguwrbrrgbrbgbuuwg -> 1
+Worker 6 processed job: grbbururuwburggbgguwguggbwuwwgubuwbwubrurbwu -> 1
+Worker 3 processed job: ugruruggwguwubgrwrwbuwuwwuguguugrwbgrrbrggwwuugbbrwgwbg -> 1
+Worker 4 processed job: brubrrggruurwwwwwbbuggrrwggbguuurrwwgbbgwrbgwwrwwrwrwgbuu -> 1
+Worker 12 processed job: rwggburbrbrrrwrbubuuwgugbwuuubbgubbrggrbrgbugggwbr -> 1
+Worker 4 processed job: rrrguwgbwbrwbgwwrgrgbrbbggwbgugrgbbwgbggrbbgbbwubw -> 1
+Worker 7 processed job: ugwwurgrburwguwwuurggbwwgbguwrubbgrggurwwrwrwugbbggr -> 0
+Worker 5 processed job: wbwwwwugrwrbwbuburbugrgbrrgurubbbrgggbwubruw -> 1
+Worker 6 processed job: wwbruggrruwgrrgubruwbguwbgubbburrgrrwwgrbrurugbrbuggbrbub -> 1
+Worker 4 processed job: wugwurrubgrubbwgbgbgwwwggwbwgrubggggurwgwbubgbwwurb -> 1
+Worker 5 processed job: bgggrrwruwuggrguwwwuwbgwrrubwggubgwwgggrbgwwwbgrrbuguggub -> 1
+Worker 4 processed job: gbwwbbuuwuuuuggbugbuwrbrugrwggrbgguwrwubbwwugrb -> 1
+Worker 4 processed job: bgrwgbgwgwbwggwgbbrrwgbgwuguurrubbburuwwrbbu -> 1
+Worker 6 processed job: uruwugrrwwrgwuubwbrbwwuurbubwbwbbuwubrubuu -> 1
+Worker 8 processed job: bwguuwgrbbuurrwrbbbgrbgwurwgbugbwwgubrbruuggbrwgrrgggu -> 1
+Worker 7 processed job: rgwbrgrwruwgrbbbrrggwwbuurrrguubuggrgrurbrggb -> 1
+Worker 10 processed job: rwrrwwbgbuuwrggbwubbbwrrwgwggugurrwguggwurguwrrurruwu -> 1
+Worker 7 processed job: uggubwuwgububurrgwrgwubwgwgwwrrbgggugurgwuwurbuwbwbwb -> 1
+Worker 8 processed job: gugwwgwwrbrbrwbrugurrruwgbbbbuurwuggbrrgbbrbu -> 1
+Worker 10 processed job: brrugugrbugwwuurgbwrwwburbubgguguuuwgrgrwr -> 1
+Worker 6 processed job: rrguwrwwbwwrugrwbrbrwwuuuwbrburrgbguuguggggwrwwwg -> 1
+Worker 14 processed job: wurgrwugrwbrrrugrgwgrrwuwururwwubuwgbggwrrrwrwbwurgwguwg -> 1
+Worker 4 processed job: uuugrrgwgguwwbwgrwrurrrbrrgggwugrburggwbgubggr -> 0
+Worker 14 processed job: bugwruwwuruubuwbwbbbgrguuugbuubugwgbuuwgbwbgbgw -> 1
+Worker 14 processed job: grugbuugrrrbgrbgugrwggrrrbwbbgbgrbgbwwgwgrgwbrrbrbrgru -> 1
+Worker 8 processed job: grbrguruwurggrguggburwuwbwwwubbwwbubgrwrrbbrgwgguwru -> 1
+Worker 6 processed job: gbgwrubwbwruwgbwbuwubrwrgbrwwrwwrwguwbgwrrugbuw -> 1
+Worker 9 processed job: bbrrwuwgrrbrbbwgrbgrrwgbwburrruugurbuwbwrwwbgrggr -> 0
+Worker 6 processed job: rurrrbbbwrwgggurubgggwruwgwubbbbwbubgwrbuuuubrb -> 1
+Worker 6 processed job: uuwbgwgubbrbubbwurbwwgubbbbbugbbuwgwwwbrrbrrrwur -> 1
+Worker 8 processed job: rwgrrwrruubrgbuugrgugbwwruguwrbbuwrwgrwgbgbbgbbwgbr -> 1
+Worker 13 processed job: wgwrrbuurrbwuburgrgbrrgbgurwrggwrrrurwwbuwrbbggr -> 0
+Worker 14 processed job: ugrbwuurbrggrwrguwwwbguggbguwwwrbbwwrurrgrubwrbbwurb -> 1
+Worker 9 processed job: gwwwugrrguwwrwwrwwwuurbwwurwwrgwbrrrgbrrrrgbu -> 1
+Worker 14 processed job: bbrgbrwgbwbwwwguwgwbrwuwgubgguurrbwubbwgbuwwwrggrrgr -> 0
+Worker 9 processed job: wwwgugwuwwwubbbwgguuburbbbggburwbuugubrrugbbgruwr -> 1
+Worker 2 processed job: wbrgwrgbwugbrwrbgrgrbgwrguruwrgwrbgurrugrbbbbgu -> 1
+Worker 13 processed job: gubrwrgrbbguwwgbgbgrguggburggwbgbwuwuuuwbuubbwubrwurrrwrr -> 1
+Worker 6 processed job: wwbrubgwgrbbggwuwrurrrbubrwurwwbwggrbrrgggwgbbgwgbggg -> 1
+Worker 2 processed job: uugbrgbgwuggrrwwwrbuwwbgrrwbbrrruuuugrgwgrbwwwguuubuubbu -> 1
+Worker 9 processed job: wuwurgwuburbbbgbrgwbbrbgururbggruuguwwrrrbguuug -> 1
+Worker 14 processed job: rgrwbggubgguwwuwwwrrurrbruguwggguggbgrwwgubrbrrwrrwwrrrw -> 1
+Worker 4 processed job: bburbrwrbubuubbrwuubbururgbrrggugguuurbbbwwwb -> 1
+Worker 9 processed job: wgwguguurbbwgrbgugubbuwbubururbgwwrguurbgrrrgb -> 1
+Worker 9 processed job: rgwwwwubbbgbruuggrurwbuwgbwgrbrubwggubbggr -> 0
+Worker 9 processed job: rwwbggwrbwbrbbwbbuurbgbggrrrbgrwuwrrwrugwrgguwwuwb -> 1
+Worker 8 processed job: wrguwruguwwgrbrwrbgwbwuubbubggubrwbgbrrgrggr -> 0
+Worker 8 processed job: wuuggrgguwbwbuurbuwwwwbbrwwrrwrggurbruggr -> 0
+Worker 13 processed job: brbgbbwggbwbrrurrrgugwbbwbrbuggwuurrurwubruruggwuuurrrgr -> 1
+Worker 13 processed job: gruwrbrrguuruwwbbuuwgurgbwugwguruwbwbgrgugw -> 1
+Worker 7 processed job: uguwurwrwbuwrbbbrwguggurbgbrwrugbwbrrgrwwrubwwbrrgg -> 1
+Worker 10 processed job: wbggwubgrgrwrgbbuwrbrurgugbbrurbguwruwwbgbbrgrguu -> 1
+Worker 7 processed job: rwbbgrwguruurrwwuggbwggbwgwubrbbburbgubbgb -> 1
+Worker 10 processed job: wwgbbguwbwugrbwubrwugrwbbggubugrrwgugrgwuwgbubggr -> 0
+Worker 12 processed job: gwbrugwwguuurwbugrugwgruruwgwrrururwrrgbbgrrwwugwrrwbrbbg -> 1
+Worker 12 processed job: gbuuubbwgwwbbwuubguugbbwgbgubbrbwwwgrurugwwwwrr -> 1
+Worker 12 processed job: ruwwgbwuuugbrgrwggwrbrwggbgwbugururwbubububbuugrwwwgbb -> 1
+Worker 12 processed job: ubrwwurrggrwbrwbgugggbwgguwwgrubgbbwrrguugbrwgbbgrbwrg -> 1
+Worker 13 processed job: brwrgrgbbbwbwrgguuwbrrgruruwuwgbbgbbrgbwbr -> 1
+Worker 13 processed job: rgwurrbuwugurbwrrwuwgbrwbbbwubuwuwwbgwbbrggrg -> 1
+Worker 4 processed job: wguguubugbgwurggwrrrugrwgurbuggbbbrwbgrwrgwuwbwruwrbgb -> 1
+Worker 6 processed job: gbrgbwgggbruuwwwurwrrgwubrggbwrgurbgwurrwgrurgbugrurguuu -> 1
+Worker 4 processed job: wgwuwrwrbrwruwggwbgrggrubbgrugubgbbwrrguuggr -> 0
+Worker 4 processed job: ggbbbuuwgwbgwbwwwggbrwrggurrrbgwwugwubbggr -> 0
+Worker 1 processed job: rrurbrwbrgwrbgugbrurbrrbrbgwwurbrrwugwgbgbrrubbrwrrbggu -> 1
+Worker 2 processed job: wbrgburguwrbbbuwbubbruugbrbuurwggburugbwugguwubrbguwwbg -> 1
+Worker 13 processed job: ruwgwbbbwuwugwgrbgrbrbrwgwwggrgwwuruwgbruugggurwruuruwbgg -> 1
+Worker 2 processed job: rwrgrgbbgubggrwbwrgbgrggbbbwbuuubwrgwrgwwuwwwruwgugbg -> 1
+Worker 10 processed job: ubwggwbrgbgwbwbrwbruwwbrrbburuugrruguguwwuggbbww -> 1
+Worker 1 processed job: ruuruuwggbwbwrgbruguwgurwwrwwrgruwrgrbgwwggr -> 0
+Worker 14 processed job: rbrrgbbbrwbbrguububwuurgburuwwurwbgbbuggbrububugbururubrgu -> 1
+Worker 10 processed job: brbrbwuggubuwurruguuwruubgwbgurwugugwuwwwugugugwr -> 1
+Worker 7 processed job: gububbbbrwrbrrurrwwwruguwrurbbruubrurbubuug -> 1
+Worker 10 processed job: bbbwruuwwuuguwwubbbuuuuwbrrbbbwruwrrwbuwwuwr -> 1
+Worker 1 processed job: grrgrgbugrbgrgguggggrbgruuwbwbgrgbgbgbwrwubgubwwubwgu -> 1
+Worker 12 processed job: gurwbgwbugwurwrruguuwwugbwruwruubbwbbuwurbbbuwbrwgbbwwwgbb -> 1
+Worker 6 processed job: wguwbbrruwwrggbrgwbbrwubrgwuubuwwwwrrrguwugrwrugbgggbwbu -> 1
+Worker 1 processed job: brubrrrbuwrrwbubwguwggrbggggbgubbwgrguurwrrrwggr -> 0
+Worker 4 processed job: bgwbwbbwrbwubruugwrbrwgggrrgbbrbubuggubuwrurgbugrb -> 1
+Worker 10 processed job: rbbuurgrubuwgugubgbbbbwuuruwruwrbbrbgbbrubwbuwbwg -> 1
+Worker 9 processed job: urbwrgwgrgrwrbwrgwgbgwwbgrrrbbbrrrrbwrwrgrrwbg -> 1
+Worker 10 processed job: gbruwgbgbbbgurgwwbbgbwwgbgbrwgubwbbubwbugg -> 1
+Worker 9 processed job: wguugwbwrgguwrgbrrbggguwrugrggugbugbuugwwuw -> 1
+Worker 13 processed job: gbwbrbbwgurwrwuruwwwugugwrgrwbgrwrgwrgwgggbwwguwg -> 1
+Worker 5 processed job: ubrbggurgruugrugrrurrbgrwrgburruwwguuwwguwgruuwuwuwuurwrwggr -> 0
+Worker 13 processed job: bbgbwgwubbbwwwwwguuwbrrrrurbuuuugguburugww -> 1
+Worker 10 processed job: uwrwbgubgggrrrgruwbgrbgwugugwwwuburgbwwguuwuruggr -> 0
+Worker 14 processed job: brgruubwbuurugbbbwggbwbrrrrugrububgurrrgwrrbwgg -> 1
+Worker 6 processed job: uwubrubuwbubwbggggrgwrwrwwwrwruubbwgrbbuwgrwrg -> 1
+Worker 12 processed job: ubrrgubwuurubrgwbwgbbbwgbwgbruubrubwrguguguuuwwbgugbrgu -> 1
+Worker 2 processed job: brrugwuubguurbbburuwbggwrbwuwuwurbggburwgrwurw -> 1
+Worker 7 processed job: uwguubwgugrbuwugbrrgrrwbwuwwbbrrwbguurbgbwgbbwgwbrrbb -> 1
+Worker 3 processed job: guruwrururbgrgbrwuurwuurrrgggrwwguugrbggrbrbbrrwggr -> 0
+Worker 10 processed job: bruwrbggubwwwwrurbbbuwwrgbwbbbubuubgbggruwurrw -> 1
+Worker 5 processed job: rrgwgggrubgbbwrrgrurgrubguwrggurbrgbguwwugw -> 1
+Worker 13 processed job: wurwruwugrbrbbrbgbbwgbwbbbgwbugrurwwbwubruu -> 1
+Worker 13 processed job: rrubwbuuggbuwuggbwggbbrrrrgbwgwbwgwugwrggr -> 0
+Worker 14 processed job: rgrwbbwwwwbrggrburgrubrguugubuuwuubgrbbwrrrbr -> 1
+Worker 2 processed job: rwbwbugbbrwgbwgwgbburbgubuugrrrwwwubbrggbugb -> 1
+Worker 3 processed job: bbbbwbruwggrgbubrubwbbbbugbbbgrwurrbwgrgurwbuggr -> 0
+Worker 2 processed job: rgbguuggrubbugwgggurubbbrwubrrbgbwbggbggrrbuubb -> 1
+Worker 9 processed job: urgrrwgwbrubgbggrruwrwuwbbburgggwugbgbgwwrwgwgrgurrrwggwrb -> 1
+Worker 2 processed job: grbugwrrwurwgurbwbuwbwrbwbwurgwwugubgwbwbuw -> 1
+Worker 13 processed job: uwguwbgwuruuuwrggrgggwrwugurgggubuurggrbuwrrbuwgruurbbg -> 1
+Worker 10 processed job: gbbbuguubrbrbubruubbwwrrwbubgrgbbbgruwuwbbugwbgrgbuu -> 1
+Worker 12 processed job: gubbgbbwbrrrwrwruwgrwgbbbwwbgrwwwggrbruwgrwbgbbggr -> 0
+Worker 1 processed job: buwgwbuurrgrwrrwrurubbubrbrbbbgggrguugbgwurbugwubgu -> 1
+Worker 6 processed job: rguuwbuwbbwrbwwbwuurugrwwgrwrbuwwwwrwrrbggr -> 0
+Worker 3 processed job: urggbugrwuwuurubbbbbgbrruuwwwguwubbrrgwgubbwrruwu -> 1
+Worker 12 processed job: rbuuruwbwbwgbbrurugbwbwugbwuuwwbrrgggwbrrwggurwubbrgrggr -> 0
+Worker 2 processed job: rgguurbuugrwbbrgwrrurwgruwbggbwugguwuuwbgg -> 1
+Worker 6 processed job: bubbrrbgwwwbbwwgwwrbrgbwwrgrbbuggbubrwgbruruuwugbggr -> 0
+Worker 7 processed job: gurrbuurrbgbgwrgbgggwgwbbuwbrrwrgurguggwwrwgbrgbugwgrrwggr -> 0
+Worker 10 processed job: gurbbwwuwgwburugbrgrwwurbuuubwwbrrrbrrurbggurggr -> 0
+Worker 14 processed job: wbwrwrgrgwbbrbggrwwubrgurggburbbrrgwubwwbw -> 1
+Worker 6 processed job: ugrwwgbwrwrruggrgugbuuwbgwbbwwbrgwurgruwrwwrwrw -> 1
+Worker 14 processed job: gggrwbwuwrbgwbwrurwwwrbwggbbgbugwrgggggubgu -> 1
+Worker 10 processed job: bgurugrbbbgrbugbwuwggruruuguwbbbwuwwbrugbgwrruwburbguur -> 1
+Worker 9 processed job: urgrbrburbuwubbugbbubrwuwgwrubruuuwrbwbbbwrgbrwrr -> 1
+Worker 10 processed job: wgugwugwguugwwgugubbbrrggugwuruwrwbbgugwurgu -> 1
+Worker 14 processed job: rugbbbbuuuugbrrrgrbrgbwuwbruwbbrwbbwuwbggwubugggguguwbbwwggr -> 0
+Worker 13 processed job: ugbbggburwguwbgugwbbgbbwgrgguwbgrrwwwwugrbrgwwrguggbrurgrggr -> 0
+Worker 6 processed job: wrrbbuugrbbubgbwbwwrrguggrguwrwguruwrwguwrrg -> 1
+Worker 7 processed job: buuwgurbbggwrrgrurrwuwgrruwbbrubuuwgruguubrw -> 1
+Worker 3 processed job: gwugrwgwgurrgurbrgguubrburgurwugugggurgwubrgwgubg -> 1
+Worker 1 processed job: ruggubwwbwbubuurwbgbbrbgwuggwgrbrrrwbrugrurggwwrggbgwruuggr -> 0
+Worker 9 processed job: grwgugrggggbruurbwgwgwuururugbbrbwuurbbbrbbwrbuggbubwr -> 1
+Worker 12 processed job: rbuurbuubggbwgwrbrgrgbrurbwrrrwwbbwburwbwurbgbwrrbggr -> 0
+Worker 4 processed job: gbugrrgwwuubrbrbururguburbbugbgwwbbbgbrgrurguurrrggbwgwrggr -> 0
+Worker 5 processed job: wugrwwbwrbggubrgubrwbwurubrbrbwgrwrbwrgguwbwwbggrugr -> 0
+Worker 2 processed job: rbgubrrgwrwurwrgrgbbrrwbrurrrwwugugbbrwugrwbgbgguuuugw -> 1
+Worker 8 processed job: ruruwrburwwgugurguwurwugrwgbrrgrwrrbburburuubgbrgrwuggr -> 0
+Worker 11 processed job: rrurrurbgwurbwrbbugrwbrbbrwgburrrwruurgrgrubrrwbrbbggr -> 0
+ -> Sum: 304
+Processing complete!

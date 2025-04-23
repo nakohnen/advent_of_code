@@ -1,0 +1,140 @@
+Towels [b br bwu g gb r rb wr]
+Towels [b bwu g r wr]
+Design brwrr is possible
+There is no memo of brwrr
+There is no memo of b
+There is no memo of rwrr
+There is no memo of r
+There is no memo of wrr
+There is no memo of w
+There is no memo of rr
+There is no memo of wr
+Memo exists: 1 for r
+We need to check w rr and wr r
+Results: 0 * 1 + 1 * 1 = 1
+There is no memo of rw
+Memo exists: 1 for rr
+We need to check r wrr and rw rr
+Results: 1 * 1 + 0 * 1 = 1
+There is no memo of br
+Memo exists: 1 for wrr
+We need to check b rwrr and br wrr
+Results: 1 * 1 + 2 * 1 = 3
+Memo map[b:1 br:2 brwrr:3 r:1 rr:1 rw:0 rwrr:1 w:0 wr:1 wrr:1]
+Worker 1 processed job: brwrr -> 3
+
+Design bggr is possible
+There is no memo of bggr
+There is no memo of b
+There is no memo of ggr
+There is no memo of g
+There is no memo of gr
+There is no memo of gg
+There is no memo of r
+We need to check g gr and gg r
+Results: 1 * 1 + 1 * 1 = 2
+There is no memo of bg
+Memo exists: 1 for gr
+We need to check b ggr and bg gr
+Results: 1 * 2 + 1 * 1 = 3
+Memo map[b:1 bg:1 bggr:3 g:1 gg:1 ggr:2 gr:1 r:1]
+Worker 1 processed job: bggr -> 3
+
+Design gbbr is possible
+There is no memo of gbbr
+There is no memo of g
+There is no memo of bbr
+There is no memo of b
+There is no memo of br
+There is no memo of bb
+There is no memo of r
+We need to check b br and bb r
+Results: 1 * 2 + 1 * 1 = 3
+There is no memo of gb
+Memo exists: 2 for br
+We need to check g bbr and gb br
+Results: 1 * 3 + 2 * 2 = 7
+Memo map[b:1 bb:1 bbr:3 br:2 g:1 gb:2 gbbr:7 r:1]
+Worker 1 processed job: gbbr -> 7
+
+Design rrbgbr is possible
+There is no memo of rrbgbr
+There is no memo of r
+There is no memo of rbgbr
+Memo exists: 1 for r
+There is no memo of bgbr
+There is no memo of b
+There is no memo of gbr
+There is no memo of g
+There is no memo of br
+There is no memo of gb
+Memo exists: 1 for r
+We need to check g br and gb r
+Results: 1 * 2 + 2 * 1 = 4
+There is no memo of bg
+Memo exists: 2 for br
+We need to check b gbr and bg br
+Results: 1 * 4 + 1 * 2 = 6
+There is no memo of rb
+Memo exists: 4 for gbr
+We need to check r bgbr and rb gbr
+Results: 1 * 6 + 2 * 4 = 14
+There is no memo of rr
+Memo exists: 6 for bgbr
+We need to check r rbgbr and rr bgbr
+Results: 1 * 14 + 1 * 6 = 20
+Memo map[b:1 bg:1 bgbr:6 br:2 g:1 gb:2 gbr:4 r:1 rb:2 rbgbr:14 rr:1 rrbgbr:20]
+Worker 1 processed job: rrbgbr -> 20
+
+Worker 1 processed job: ubwu -> 0
+
+Design bwurrg is possible
+There is no memo of bwurrg
+There is no memo of b
+There is no memo of wurrg
+There is no memo of w
+There is no memo of urrg
+There is no memo of u
+There is no memo of rrg
+There is no memo of r
+There is no memo of rg
+There is no memo of rr
+There is no memo of g
+We need to check r rg and rr g
+Results: 1 * 1 + 1 * 1 = 2
+There is no memo of ur
+Memo exists: 1 for rg
+We need to check u rrg and ur rg
+Results: 0 * 2 + 0 * 1 = 0
+There is no memo of wu
+Memo exists: 2 for rrg
+We need to check w urrg and wu rrg
+Results: 0 * 0 + 0 * 2 = 0
+There is no memo of bw
+Memo exists: 0 for urrg
+We need to check b wurrg and bw urrg
+Results: 1 * 0 + 0 * 0 = 0
+Memo map[b:1 bw:0 bwurrg:0 g:1 r:1 rg:1 rr:1 rrg:2 u:0 ur:0 urrg:0 w:0 wu:0 wurrg:0]
+Worker 1 processed job: bwurrg -> 0
+
+Design brgr is possible
+There is no memo of brgr
+There is no memo of b
+There is no memo of rgr
+There is no memo of r
+There is no memo of gr
+There is no memo of rg
+Memo exists: 1 for r
+We need to check r gr and rg r
+Results: 1 * 1 + 1 * 1 = 2
+There is no memo of br
+Memo exists: 1 for gr
+We need to check b rgr and br gr
+Results: 1 * 2 + 2 * 1 = 4
+Memo map[b:1 br:2 brgr:4 gr:1 r:1 rg:1 rgr:2]
+Worker 1 processed job: brgr -> 4
+
+Worker 1 processed job: bbrgwb -> 0
+
+ -> Sum: 37
+Processing complete!

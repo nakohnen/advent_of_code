@@ -1,0 +1,294 @@
+Registers A: 61657405, B: 0, C: 0
+iPointer: 0
+Program: [2 4 1 2 7 5 4 3 0 3 1 7 5 5 3 0]
+Output: []
+code: 2, operand 4
+Registers A: 61657405, B: 5, C: 0
+iPointer: 2
+Output: []
+code: 1, operand 2
+Registers A: 61657405, B: 7, C: 0
+iPointer: 4
+Output: []
+code: 7, operand 5
+Registers A: 61657405, B: 7, C: 481698
+iPointer: 6
+Output: []
+code: 4, operand 3
+Registers A: 61657405, B: 481701, C: 481698
+iPointer: 8
+Output: []
+code: 0, operand 3
+Registers A: 7707175, B: 481701, C: 481698
+iPointer: 10
+Output: []
+code: 1, operand 7
+Registers A: 7707175, B: 481698, C: 481698
+iPointer: 12
+Output: []
+code: 5, operand 5
+Registers A: 7707175, B: 481698, C: 481698
+iPointer: 14
+Output: [2]
+code: 3, operand 0
+Registers A: 7707175, B: 481698, C: 481698
+iPointer: 0
+Output: [2]
+code: 2, operand 4
+Registers A: 7707175, B: 7, C: 481698
+iPointer: 2
+Output: [2]
+code: 1, operand 2
+Registers A: 7707175, B: 5, C: 481698
+iPointer: 4
+Output: [2]
+code: 7, operand 5
+Registers A: 7707175, B: 5, C: 240849
+iPointer: 6
+Output: [2]
+code: 4, operand 3
+Registers A: 7707175, B: 240852, C: 240849
+iPointer: 8
+Output: [2]
+code: 0, operand 3
+Registers A: 963396, B: 240852, C: 240849
+iPointer: 10
+Output: [2]
+code: 1, operand 7
+Registers A: 963396, B: 240851, C: 240849
+iPointer: 12
+Output: [2]
+code: 5, operand 5
+Registers A: 963396, B: 240851, C: 240849
+iPointer: 14
+Output: [2 3]
+code: 3, operand 0
+Registers A: 963396, B: 240851, C: 240849
+iPointer: 0
+Output: [2 3]
+code: 2, operand 4
+Registers A: 963396, B: 4, C: 240849
+iPointer: 2
+Output: [2 3]
+code: 1, operand 2
+Registers A: 963396, B: 6, C: 240849
+iPointer: 4
+Output: [2 3]
+code: 7, operand 5
+Registers A: 963396, B: 6, C: 15053
+iPointer: 6
+Output: [2 3]
+code: 4, operand 3
+Registers A: 963396, B: 15051, C: 15053
+iPointer: 8
+Output: [2 3]
+code: 0, operand 3
+Registers A: 120424, B: 15051, C: 15053
+iPointer: 10
+Output: [2 3]
+code: 1, operand 7
+Registers A: 120424, B: 15052, C: 15053
+iPointer: 12
+Output: [2 3]
+code: 5, operand 5
+Registers A: 120424, B: 15052, C: 15053
+iPointer: 14
+Output: [2 3 4]
+code: 3, operand 0
+Registers A: 120424, B: 15052, C: 15053
+iPointer: 0
+Output: [2 3 4]
+code: 2, operand 4
+Registers A: 120424, B: 0, C: 15053
+iPointer: 2
+Output: [2 3 4]
+code: 1, operand 2
+Registers A: 120424, B: 2, C: 15053
+iPointer: 4
+Output: [2 3 4]
+code: 7, operand 5
+Registers A: 120424, B: 2, C: 30106
+iPointer: 6
+Output: [2 3 4]
+code: 4, operand 3
+Registers A: 120424, B: 30104, C: 30106
+iPointer: 8
+Output: [2 3 4]
+code: 0, operand 3
+Registers A: 15053, B: 30104, C: 30106
+iPointer: 10
+Output: [2 3 4]
+code: 1, operand 7
+Registers A: 15053, B: 30111, C: 30106
+iPointer: 12
+Output: [2 3 4]
+code: 5, operand 5
+Registers A: 15053, B: 30111, C: 30106
+iPointer: 14
+Output: [2 3 4 7]
+code: 3, operand 0
+Registers A: 15053, B: 30111, C: 30106
+iPointer: 0
+Output: [2 3 4 7]
+code: 2, operand 4
+Registers A: 15053, B: 5, C: 30106
+iPointer: 2
+Output: [2 3 4 7]
+code: 1, operand 2
+Registers A: 15053, B: 7, C: 30106
+iPointer: 4
+Output: [2 3 4 7]
+code: 7, operand 5
+Registers A: 15053, B: 7, C: 117
+iPointer: 6
+Output: [2 3 4 7]
+code: 4, operand 3
+Registers A: 15053, B: 114, C: 117
+iPointer: 8
+Output: [2 3 4 7]
+code: 0, operand 3
+Registers A: 1881, B: 114, C: 117
+iPointer: 10
+Output: [2 3 4 7]
+code: 1, operand 7
+Registers A: 1881, B: 117, C: 117
+iPointer: 12
+Output: [2 3 4 7]
+code: 5, operand 5
+Registers A: 1881, B: 117, C: 117
+iPointer: 14
+Output: [2 3 4 7 5]
+code: 3, operand 0
+Registers A: 1881, B: 117, C: 117
+iPointer: 0
+Output: [2 3 4 7 5]
+code: 2, operand 4
+Registers A: 1881, B: 1, C: 117
+iPointer: 2
+Output: [2 3 4 7 5]
+code: 1, operand 2
+Registers A: 1881, B: 3, C: 117
+iPointer: 4
+Output: [2 3 4 7 5]
+code: 7, operand 5
+Registers A: 1881, B: 3, C: 235
+iPointer: 6
+Output: [2 3 4 7 5]
+code: 4, operand 3
+Registers A: 1881, B: 232, C: 235
+iPointer: 8
+Output: [2 3 4 7 5]
+code: 0, operand 3
+Registers A: 235, B: 232, C: 235
+iPointer: 10
+Output: [2 3 4 7 5]
+code: 1, operand 7
+Registers A: 235, B: 239, C: 235
+iPointer: 12
+Output: [2 3 4 7 5]
+code: 5, operand 5
+Registers A: 235, B: 239, C: 235
+iPointer: 14
+Output: [2 3 4 7 5 7]
+code: 3, operand 0
+Registers A: 235, B: 239, C: 235
+iPointer: 0
+Output: [2 3 4 7 5 7]
+code: 2, operand 4
+Registers A: 235, B: 3, C: 235
+iPointer: 2
+Output: [2 3 4 7 5 7]
+code: 1, operand 2
+Registers A: 235, B: 1, C: 235
+iPointer: 4
+Output: [2 3 4 7 5 7]
+code: 7, operand 5
+Registers A: 235, B: 1, C: 117
+iPointer: 6
+Output: [2 3 4 7 5 7]
+code: 4, operand 3
+Registers A: 235, B: 116, C: 117
+iPointer: 8
+Output: [2 3 4 7 5 7]
+code: 0, operand 3
+Registers A: 29, B: 116, C: 117
+iPointer: 10
+Output: [2 3 4 7 5 7]
+code: 1, operand 7
+Registers A: 29, B: 115, C: 117
+iPointer: 12
+Output: [2 3 4 7 5 7]
+code: 5, operand 5
+Registers A: 29, B: 115, C: 117
+iPointer: 14
+Output: [2 3 4 7 5 7 3]
+code: 3, operand 0
+Registers A: 29, B: 115, C: 117
+iPointer: 0
+Output: [2 3 4 7 5 7 3]
+code: 2, operand 4
+Registers A: 29, B: 5, C: 117
+iPointer: 2
+Output: [2 3 4 7 5 7 3]
+code: 1, operand 2
+Registers A: 29, B: 7, C: 117
+iPointer: 4
+Output: [2 3 4 7 5 7 3]
+code: 7, operand 5
+Registers A: 29, B: 7, C: 0
+iPointer: 6
+Output: [2 3 4 7 5 7 3]
+code: 4, operand 3
+Registers A: 29, B: 7, C: 0
+iPointer: 8
+Output: [2 3 4 7 5 7 3]
+code: 0, operand 3
+Registers A: 3, B: 7, C: 0
+iPointer: 10
+Output: [2 3 4 7 5 7 3]
+code: 1, operand 7
+Registers A: 3, B: 0, C: 0
+iPointer: 12
+Output: [2 3 4 7 5 7 3]
+code: 5, operand 5
+Registers A: 3, B: 0, C: 0
+iPointer: 14
+Output: [2 3 4 7 5 7 3 0]
+code: 3, operand 0
+Registers A: 3, B: 0, C: 0
+iPointer: 0
+Output: [2 3 4 7 5 7 3 0]
+code: 2, operand 4
+Registers A: 3, B: 3, C: 0
+iPointer: 2
+Output: [2 3 4 7 5 7 3 0]
+code: 1, operand 2
+Registers A: 3, B: 1, C: 0
+iPointer: 4
+Output: [2 3 4 7 5 7 3 0]
+code: 7, operand 5
+Registers A: 3, B: 1, C: 1
+iPointer: 6
+Output: [2 3 4 7 5 7 3 0]
+code: 4, operand 3
+Registers A: 3, B: 0, C: 1
+iPointer: 8
+Output: [2 3 4 7 5 7 3 0]
+code: 0, operand 3
+Registers A: 0, B: 0, C: 1
+iPointer: 10
+Output: [2 3 4 7 5 7 3 0]
+code: 1, operand 7
+Registers A: 0, B: 7, C: 1
+iPointer: 12
+Output: [2 3 4 7 5 7 3 0]
+code: 5, operand 5
+Registers A: 0, B: 7, C: 1
+iPointer: 14
+Output: [2 3 4 7 5 7 3 0 7]
+code: 3, operand 0
+Registers A: 0, B: 7, C: 1
+iPointer: 16
+Output: [2 3 4 7 5 7 3 0 7]
+ -> Sum: 2,3,4,7,5,7,3,0,7
+Processing complete!

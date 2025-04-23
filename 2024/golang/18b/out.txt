@@ -1,0 +1,48 @@
+len corruption 1024
+Count 1024, sum 382
+len corruption 2024
+Count 2024, sum 406
+len corruption 3024
+Count 3024, sum 9223372036854775807
+len corruption 3014
+Count 3014, sum 9223372036854775807
+len corruption 3004
+Count 3004, sum 9223372036854775807
+len corruption 2994
+Count 2994, sum 9223372036854775807
+len corruption 2984
+Count 2984, sum 9223372036854775807
+len corruption 2974
+Count 2974, sum 9223372036854775807
+len corruption 2964
+Count 2964, sum 9223372036854775807
+len corruption 2954
+Count 2954, sum 9223372036854775807
+len corruption 2944
+Count 2944, sum 9223372036854775807
+len corruption 2934
+Count 2934, sum 9223372036854775807
+len corruption 2924
+Count 2924, sum 816
+len corruption 2925
+Count 2925, sum 816
+len corruption 2926
+Count 2926, sum 816
+len corruption 2927
+Count 2927, sum 816
+len corruption 2928
+Count 2928, sum 816
+len corruption 2929
+Count 2929, sum 816
+len corruption 2930
+Count 2930, sum 816
+len corruption 2931
+Count 2931, sum 816
+len corruption 2932
+Count 2932, sum 816
+len corruption 2933
+Count 2933, sum 816
+len corruption 2934
+Count 2934, sum 9223372036854775807
+ -> Sum: {6 36}
+Processing complete!

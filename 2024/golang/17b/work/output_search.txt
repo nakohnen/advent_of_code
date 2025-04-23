@@ -1,0 +1,151 @@
+Program: [2 4 1 2 7 5 4 3 0 3 1 7 5 5 3 0]
+Register A := 180990818401295 (octal o511160653403607)
+Register B := 0 (octal o0)
+Register C := 0 (octal o0)
+0: bst => register B := combo mod 8 (o7 = o511160653403607 mod 8)
+2: bxl => register B := literal operand XOR register B (o5 = o2 XOR o7)
+4: adv => register C := register A / 2^combo (o12223415270070 = o511160653403607 / %!s(int=32) with combo o5)
+6: bxc => register B := register B XOR register C (o12223415270075 = o5 XOR o12223415270070)
+8: adv => register A := register A / 2^combo (o51116065340361 = o511160653403607 / %!s(int=8) with combo o3)
+10: bxl => register B := literal operand XOR register B (o12223415270072 = o7 XOR o12223415270075)
+12: out => output := combo mod 8 (o2 = o12223415270072 mod 8)
+14: jnz => Jumping from 14 to 0
+
+0: bst => register B := combo mod 8 (o1 = o51116065340361 mod 8)
+2: bxl => register B := literal operand XOR register B (o3 = o2 XOR o1)
+4: adv => register C := register A / 2^combo (o5111606534030 = o51116065340361 / %!s(int=8) with combo o3)
+6: bxc => register B := register B XOR register C (o5111606534033 = o3 XOR o5111606534030)
+8: adv => register A := register A / 2^combo (o5111606534030 = o51116065340361 / %!s(int=8) with combo o3)
+10: bxl => register B := literal operand XOR register B (o5111606534034 = o7 XOR o5111606534033)
+12: out => output := combo mod 8 (o4 = o5111606534034 mod 8)
+14: jnz => Jumping from 14 to 0
+
+0: bst => register B := combo mod 8 (o0 = o5111606534030 mod 8)
+2: bxl => register B := literal operand XOR register B (o2 = o2 XOR o0)
+4: adv => register C := register A / 2^combo (o1222341527004 = o5111606534030 / %!s(int=4) with combo o2)
+6: bxc => register B := register B XOR register C (o1222341527006 = o2 XOR o1222341527004)
+8: adv => register A := register A / 2^combo (o511160653406 = o5111606534030 / %!s(int=8) with combo o3)
+10: bxl => register B := literal operand XOR register B (o1222341527001 = o7 XOR o1222341527006)
+12: out => output := combo mod 8 (o1 = o1222341527001 mod 8)
+14: jnz => Jumping from 14 to 0
+
+0: bst => register B := combo mod 8 (o6 = o511160653406 mod 8)
+2: bxl => register B := literal operand XOR register B (o4 = o2 XOR o6)
+4: adv => register C := register A / 2^combo (o24447032561 = o511160653406 / %!s(int=16) with combo o4)
+6: bxc => register B := register B XOR register C (o24447032565 = o4 XOR o24447032561)
+8: adv => register A := register A / 2^combo (o51116065343 = o511160653406 / %!s(int=8) with combo o3)
+10: bxl => register B := literal operand XOR register B (o24447032562 = o7 XOR o24447032565)
+12: out => output := combo mod 8 (o2 = o24447032562 mod 8)
+14: jnz => Jumping from 14 to 0
+
+0: bst => register B := combo mod 8 (o3 = o51116065343 mod 8)
+2: bxl => register B := literal operand XOR register B (o1 = o2 XOR o3)
+4: adv => register C := register A / 2^combo (o24447032561 = o51116065343 / %!s(int=2) with combo o1)
+6: bxc => register B := register B XOR register C (o24447032560 = o1 XOR o24447032561)
+8: adv => register A := register A / 2^combo (o5111606530 = o51116065343 / %!s(int=8) with combo o3)
+10: bxl => register B := literal operand XOR register B (o24447032567 = o7 XOR o24447032560)
+12: out => output := combo mod 8 (o7 = o24447032567 mod 8)
+14: jnz => Jumping from 14 to 0
+
+0: bst => register B := combo mod 8 (o0 = o5111606530 mod 8)
+2: bxl => register B := literal operand XOR register B (o2 = o2 XOR o0)
+4: adv => register C := register A / 2^combo (o1222341520 = o5111606530 / %!s(int=4) with combo o2)
+6: bxc => register B := register B XOR register C (o1222341522 = o2 XOR o1222341520)
+8: adv => register A := register A / 2^combo (o511160654 = o5111606530 / %!s(int=8) with combo o3)
+10: bxl => register B := literal operand XOR register B (o1222341525 = o7 XOR o1222341522)
+12: out => output := combo mod 8 (o5 = o1222341525 mod 8)
+14: jnz => Jumping from 14 to 0
+
+0: bst => register B := combo mod 8 (o4 = o511160654 mod 8)
+2: bxl => register B := literal operand XOR register B (o6 = o2 XOR o4)
+4: adv => register C := register A / 2^combo (o5111605 = o511160654 / %!s(int=64) with combo o6)
+6: bxc => register B := register B XOR register C (o5111603 = o6 XOR o5111605)
+8: adv => register A := register A / 2^combo (o51116063 = o511160654 / %!s(int=8) with combo o3)
+10: bxl => register B := literal operand XOR register B (o5111604 = o7 XOR o5111603)
+12: out => output := combo mod 8 (o4 = o5111604 mod 8)
+14: jnz => Jumping from 14 to 0
+
+0: bst => register B := combo mod 8 (o3 = o51116063 mod 8)
+2: bxl => register B := literal operand XOR register B (o1 = o2 XOR o3)
+4: adv => register C := register A / 2^combo (o24447035 = o51116063 / %!s(int=2) with combo o1)
+6: bxc => register B := register B XOR register C (o24447034 = o1 XOR o24447035)
+8: adv => register A := register A / 2^combo (o5111605 = o51116063 / %!s(int=8) with combo o3)
+10: bxl => register B := literal operand XOR register B (o24447033 = o7 XOR o24447034)
+12: out => output := combo mod 8 (o3 = o24447033 mod 8)
+14: jnz => Jumping from 14 to 0
+
+0: bst => register B := combo mod 8 (o5 = o5111605 mod 8)
+2: bxl => register B := literal operand XOR register B (o7 = o2 XOR o5)
+4: adv => register C := register A / 2^combo (o24440 = o5111605 / %!s(int=128) with combo o7)
+6: bxc => register B := register B XOR register C (o24447 = o7 XOR o24440)
+8: adv => register A := register A / 2^combo (o511166 = o5111605 / %!s(int=8) with combo o3)
+10: bxl => register B := literal operand XOR register B (o24440 = o7 XOR o24447)
+12: out => output := combo mod 8 (o0 = o24440 mod 8)
+14: jnz => Jumping from 14 to 0
+
+0: bst => register B := combo mod 8 (o6 = o511166 mod 8)
+2: bxl => register B := literal operand XOR register B (o4 = o2 XOR o6)
+4: adv => register C := register A / 2^combo (o24440 = o511166 / %!s(int=16) with combo o4)
+6: bxc => register B := register B XOR register C (o24444 = o4 XOR o24440)
+8: adv => register A := register A / 2^combo (o51110 = o511166 / %!s(int=8) with combo o3)
+10: bxl => register B := literal operand XOR register B (o24443 = o7 XOR o24444)
+12: out => output := combo mod 8 (o3 = o24443 mod 8)
+14: jnz => Jumping from 14 to 0
+
+0: bst => register B := combo mod 8 (o0 = o51110 mod 8)
+2: bxl => register B := literal operand XOR register B (o2 = o2 XOR o0)
+4: adv => register C := register A / 2^combo (o12224 = o51110 / %!s(int=4) with combo o2)
+6: bxc => register B := register B XOR register C (o12226 = o2 XOR o12224)
+8: adv => register A := register A / 2^combo (o5116 = o51110 / %!s(int=8) with combo o3)
+10: bxl => register B := literal operand XOR register B (o12221 = o7 XOR o12226)
+12: out => output := combo mod 8 (o1 = o12221 mod 8)
+14: jnz => Jumping from 14 to 0
+
+0: bst => register B := combo mod 8 (o6 = o5116 mod 8)
+2: bxl => register B := literal operand XOR register B (o4 = o2 XOR o6)
+4: adv => register C := register A / 2^combo (o244 = o5116 / %!s(int=16) with combo o4)
+6: bxc => register B := register B XOR register C (o240 = o4 XOR o244)
+8: adv => register A := register A / 2^combo (o511 = o5116 / %!s(int=8) with combo o3)
+10: bxl => register B := literal operand XOR register B (o247 = o7 XOR o240)
+12: out => output := combo mod 8 (o7 = o247 mod 8)
+14: jnz => Jumping from 14 to 0
+
+0: bst => register B := combo mod 8 (o1 = o511 mod 8)
+2: bxl => register B := literal operand XOR register B (o3 = o2 XOR o1)
+4: adv => register C := register A / 2^combo (o51 = o511 / %!s(int=8) with combo o3)
+6: bxc => register B := register B XOR register C (o52 = o3 XOR o51)
+8: adv => register A := register A / 2^combo (o51 = o511 / %!s(int=8) with combo o3)
+10: bxl => register B := literal operand XOR register B (o55 = o7 XOR o52)
+12: out => output := combo mod 8 (o5 = o55 mod 8)
+14: jnz => Jumping from 14 to 0
+
+0: bst => register B := combo mod 8 (o1 = o51 mod 8)
+2: bxl => register B := literal operand XOR register B (o3 = o2 XOR o1)
+4: adv => register C := register A / 2^combo (o1 = o51 / %!s(int=8) with combo o3)
+6: bxc => register B := register B XOR register C (o2 = o3 XOR o1)
+8: adv => register A := register A / 2^combo (o1 = o51 / %!s(int=8) with combo o3)
+10: bxl => register B := literal operand XOR register B (o5 = o7 XOR o2)
+12: out => output := combo mod 8 (o5 = o5 mod 8)
+14: jnz => Jumping from 14 to 0
+
+0: bst => register B := combo mod 8 (o1 = o1 mod 8)
+2: bxl => register B := literal operand XOR register B (o3 = o2 XOR o1)
+4: adv => register C := register A / 2^combo (o5 = o1 / %!s(int=8) with combo o3)
+6: bxc => register B := register B XOR register C (o6 = o3 XOR o5)
+8: adv => register A := register A / 2^combo (o5 = o1 / %!s(int=8) with combo o3)
+10: bxl => register B := literal operand XOR register B (o1 = o7 XOR o6)
+12: out => output := combo mod 8 (o1 = o1 mod 8)
+14: jnz => Jumping from 14 to 0
+
+0: bst => register B := combo mod 8 (o5 = o5 mod 8)
+2: bxl => register B := literal operand XOR register B (o7 = o2 XOR o5)
+4: adv => register C := register A / 2^combo (o0 = o5 / %!s(int=128) with combo o7)
+6: bxc => register B := register B XOR register C (o7 = o7 XOR o0)
+8: adv => register A := register A / 2^combo (o0 = o5 / %!s(int=8) with combo o3)
+10: bxl => register B := literal operand XOR register B (o0 = o7 XOR o7)
+12: out => output := combo mod 8 (o0 = o0 mod 8)
+14: jnz => Jumping ignored as register A is zero
+Final Output: [2 4 1 2 7 5 4 3 0 3 1 7 5 5 1 0]
+Program: [2 4 1 2 7 5 4 3 0 3 1 7 5 5 3 0]
+ -> Sum: 2,4,1,2,7,5,4,3,0,3,1,7,5,5,1,0
+Processing complete!

@@ -1,0 +1,764 @@
+Towels [b bb bbb bbbbbw bbbr bbbug bbbw bbbwbruw bbbwuww bbg bbgr bbgwg bbr bbrgbgr bbrgg bbrw bbu bbw bbwbbug bbwgr bbwwbg bg bgb bgbrb bgg bgggur bggrrbb bggrww bggw bgr bgrrb bgrrruu bgu bgubg bgurwu bgwr br brb brbbug brbg brbggb brbw brg brggr brr brrg brru bru brubr brug brw brwb brwugrwb brwuu bu bub bubbu bubrru bubruu bug bugbg bugr buguurg bugww bur buru bururr burw buu buurub buuugb buuwrw buw buwb buwgb buwgbr buwrbbbr bw bwb bwbb bwbug bwbwb bwg bwgb bwguu bwr bwrb bwrrguug bwru bwrubgu bwu bwubw bwugw bwuw bwuwg bww bwwb bwww g gb gbb gbbbgb gbbg gbbrw gbgbrw gbgg gbgwurg gbr gbu gbugr gbugwr gburb gbuw gbw gbwbbg gg ggb ggbg ggbgr ggbr ggbrr ggbrw ggbu ggbwugw ggg gggr ggrr ggruuu ggruw ggrwu ggu ggug ggugb gguru ggw ggwr grb grbbu grbg grg grr grrw gru grugwr grurrb gruw grw grwbu grwbwrg grwrbwrg gu gub gubu gug gur gurbwbuw guu guugbub guur guuwg guuwgww guw guwr guwuww guwwwb gw gwb gwbrbw gwbu gwg gwr gwu gwugrr gwugw gwuu gwuurr gww gwwbubw rb rbb rbbru rbbwuwub rbg rbggrw rbr rbrgw rbrrrwbr rbrug rbrw rbu rbur rbw rbwgru rbwubb rg rgb rgbwbr rgg rggu rgr rgrgwbru rgrwwuww rgu rgub rgubb rgug rgugbw rguguur rgw rgwg rgwr rgwwr rr rrb rrbb rrbg rrbubbu rrg rrgrb rrgurrg rrgw rrgwgur rrr rrrr rrrug rru rruwbw rrw rrwb rrwbrbbg rrwg ru rub rubwggub rug rugbrwb rugwb rugwrw rur rurbg ruu ruurg ruuur ruuuwg ruuw ruw rw rwb rwbuur rwbw rwbww rwg rwgb rwgwrub rwr rwru rwrurrrb rwu rwur rwuu rwuw rwuwb rww rwwbw rwwg rwwggu u ub ubb ubbbgu ubbgr ubbgu ubbr ubbwg ubg ubgbuwb ubggu ubgrbug ubgu ubgwr ubr ubrb ubrbrwg ubrgw ubrrwwr ubru ubu ubuwg ubw ubwb ubwwub ugb ugbb ugbgb ugbwbu ugg uggwrr ugr ugrgg ugrruuw ugrw ugu ugug ugurb ugw ugwg ur urb urbbbggb urbbbr urbrgu urbw urgbgbb urgwu urr urrb urrr urrrrbu urrw urrwrw uru ururgbw uruu urw urwrb urww urwwbg urwwbu uu uub uubbuuu uubrr uug uugb uugbw uur uurr uurur uuu uuug uuw uuww uw uwb uwg uwgb uwr uwrrbb uwrwbrrw uwu uwub uwuuw uwuwu uwuwwbr uwuwwww uww uwwguwu w wb wbb wbbb wbbg wbg wbgb wbggb wbgggg wbggu wbu wbuu wbuuu wbw wbwbuurb wbwgrbg wbwuuwb wbwwbb wg wgb wgbbbw wgg wggbr wggg wgggw wgr wgrbbr wgrbgrr wgrbrrb wgrgguu wgrr wgrubgw wgu wgw wgwb wgwbwg wgwrg wr wrb wrbgrugw wrbgwgu wrg wrgrw wrguw wrr wrrbru wrrr wrru wru wrub wruw wruww wrw wrwb wrwbgubg wrwbur wrwgu wu wub wubugb wug wugugwrg wur wuu wuubgb wuw wuwgwg wuwuw wuwwbr wuwwugb ww wwb wwbbr wwbrgg wwbrr wwg wwgr wwgu wwgubgbr wwguu wwgw wwr wwrr wwu wwurrb wwuugub wwuwg www wwwbbg wwwg]
+Towels [b bgr br brggr g gggr rb rbr rg rgr rr rrr ru rur rw rwr u ugr ur w wgr wr]
+Design wuuugbrrgwbuuwrugbgugbbrwuuwubgurrbbbugubwuuggb is possible
+wuuugbrrgwbuuwrugbgugbbrwuuwubgurrbbbugubwuuggb -> uuugbrrgwbuuwrugbgugbbrwuuwubgurrbbbugubwuuggb (len 46) with w as [w]
+Continued
+uuugbrrgwbuuwrugbgugbbrwuuwubgurrbbbugubwuuggb -> uugbrrgwbuuwrugbgugbbrwuuwubgurrbbbugubwuuggb (len 45) with u as [w u]
+Continued
+uugbrrgwbuuwrugbgugbbrwuuwubgurrbbbugubwuuggb -> ugbrrgwbuuwrugbgugbbrwuuwubgurrbbbugubwuuggb (len 44) with u as [w u u]
+Continued
+ugbrrgwbuuwrugbgugbbrwuuwubgurrbbbugubwuuggb -> gbrrgwbuuwrugbgugbbrwuuwubgurrbbbugubwuuggb (len 43) with u as [w u u u]
+Continued
+gbrrgwbuuwrugbgugbbrwuuwubgurrbbbugubwuuggb -> brrgwbuuwrugbgugbbrwuuwubgurrbbbugubwuuggb (len 42) with g as [w u u u g]
+Continued
+brrgwbuuwrugbgugbbrwuuwubgurrbbbugubwuuggb -> rrgwbuuwrugbgugbbrwuuwubgurrbbbugubwuuggb (len 41) with b as [w u u u g b]
+Continued
+brrgwbuuwrugbgugbbrwuuwubgurrbbbugubwuuggb -> rgwbuuwrugbgugbbrwuuwubgurrbbbugubwuuggb (len 40) with br as [w u u u g br]
+Continued
+rrgwbuuwrugbgugbbrwuuwubgurrbbbugubwuuggb -> gwbuuwrugbgugbbrwuuwubgurrbbbugubwuuggb (len 39) with rr as [w u u u g b rr]
+Continued
+rgwbuuwrugbgugbbrwuuwubgurrbbbugubwuuggb -> wbuuwrugbgugbbrwuuwubgurrbbbugubwuuggb (len 38) with rg as [w u u u g br rg]
+Continued
+gwbuuwrugbgugbbrwuuwubgurrbbbugubwuuggb -> wbuuwrugbgugbbrwuuwubgurrbbbugubwuuggb (len 38) with g as [w u u u g b rr g]
+Continued
+wbuuwrugbgugbbrwuuwubgurrbbbugubwuuggb -> buuwrugbgugbbrwuuwubgurrbbbugubwuuggb (len 37) with w as [w u u u g br rg w]
+Continued
+wbuuwrugbgugbbrwuuwubgurrbbbugubwuuggb -> buuwrugbgugbbrwuuwubgurrbbbugubwuuggb (len 37) with w as [w u u u g b rr g w]
+Continued
+buuwrugbgugbbrwuuwubgurrbbbugubwuuggb -> uuwrugbgugbbrwuuwubgurrbbbugubwuuggb (len 36) with b as [w u u u g br rg w b]
+Continued
+buuwrugbgugbbrwuuwubgurrbbbugubwuuggb -> uuwrugbgugbbrwuuwubgurrbbbugubwuuggb (len 36) with b as [w u u u g b rr g w b]
+Continued
+uuwrugbgugbbrwuuwubgurrbbbugubwuuggb -> uwrugbgugbbrwuuwubgurrbbbugubwuuggb (len 35) with u as [w u u u g br rg w b u]
+Continued
+uuwrugbgugbbrwuuwubgurrbbbugubwuuggb -> uwrugbgugbbrwuuwubgurrbbbugubwuuggb (len 35) with u as [w u u u g b rr g w b u]
+Continued
+uwrugbgugbbrwuuwubgurrbbbugubwuuggb -> wrugbgugbbrwuuwubgurrbbbugubwuuggb (len 34) with u as [w u u u g br rg w b u u]
+Continued
+uwrugbgugbbrwuuwubgurrbbbugubwuuggb -> wrugbgugbbrwuuwubgurrbbbugubwuuggb (len 34) with u as [w u u u g b rr g w b u u]
+Continued
+wrugbgugbbrwuuwubgurrbbbugubwuuggb -> rugbgugbbrwuuwubgurrbbbugubwuuggb (len 33) with w as [w u u u g br rg w b u u w]
+Continued
+wrugbgugbbrwuuwubgurrbbbugubwuuggb -> ugbgugbbrwuuwubgurrbbbugubwuuggb (len 32) with wr as [w u u u g br rg w b u u wr]
+Continued
+wrugbgugbbrwuuwubgurrbbbugubwuuggb -> rugbgugbbrwuuwubgurrbbbugubwuuggb (len 33) with w as [w u u u g b rr g w b u u w]
+Continued
+wrugbgugbbrwuuwubgurrbbbugubwuuggb -> ugbgugbbrwuuwubgurrbbbugubwuuggb (len 32) with wr as [w u u u g b rr g w b u u wr]
+Continued
+rugbgugbbrwuuwubgurrbbbugubwuuggb -> gbgugbbrwuuwubgurrbbbugubwuuggb (len 31) with ru as [w u u u g br rg w b u u w ru]
+Continued
+ugbgugbbrwuuwubgurrbbbugubwuuggb -> gbgugbbrwuuwubgurrbbbugubwuuggb (len 31) with u as [w u u u g br rg w b u u wr u]
+Continued
+rugbgugbbrwuuwubgurrbbbugubwuuggb -> gbgugbbrwuuwubgurrbbbugubwuuggb (len 31) with ru as [w u u u g b rr g w b u u w ru]
+Continued
+ugbgugbbrwuuwubgurrbbbugubwuuggb -> gbgugbbrwuuwubgurrbbbugubwuuggb (len 31) with u as [w u u u g b rr g w b u u wr u]
+Continued
+gbgugbbrwuuwubgurrbbbugubwuuggb -> bgugbbrwuuwubgurrbbbugubwuuggb (len 30) with g as [w u u u g br rg w b u u w ru g]
+Continued
+gbgugbbrwuuwubgurrbbbugubwuuggb -> bgugbbrwuuwubgurrbbbugubwuuggb (len 30) with g as [w u u u g br rg w b u u wr u g]
+Continued
+gbgugbbrwuuwubgurrbbbugubwuuggb -> bgugbbrwuuwubgurrbbbugubwuuggb (len 30) with g as [w u u u g b rr g w b u u w ru g]
+Continued
+gbgugbbrwuuwubgurrbbbugubwuuggb -> bgugbbrwuuwubgurrbbbugubwuuggb (len 30) with g as [w u u u g b rr g w b u u wr u g]
+Continued
+bgugbbrwuuwubgurrbbbugubwuuggb -> gugbbrwuuwubgurrbbbugubwuuggb (len 29) with b as [w u u u g br rg w b u u w ru g b]
+Continued
+bgugbbrwuuwubgurrbbbugubwuuggb -> gugbbrwuuwubgurrbbbugubwuuggb (len 29) with b as [w u u u g br rg w b u u wr u g b]
+Continued
+bgugbbrwuuwubgurrbbbugubwuuggb -> gugbbrwuuwubgurrbbbugubwuuggb (len 29) with b as [w u u u g b rr g w b u u w ru g b]
+Continued
+bgugbbrwuuwubgurrbbbugubwuuggb -> gugbbrwuuwubgurrbbbugubwuuggb (len 29) with b as [w u u u g b rr g w b u u wr u g b]
+Continued
+gugbbrwuuwubgurrbbbugubwuuggb -> ugbbrwuuwubgurrbbbugubwuuggb (len 28) with g as [w u u u g br rg w b u u w ru g b g]
+Continued
+gugbbrwuuwubgurrbbbugubwuuggb -> ugbbrwuuwubgurrbbbugubwuuggb (len 28) with g as [w u u u g br rg w b u u wr u g b g]
+Continued
+gugbbrwuuwubgurrbbbugubwuuggb -> ugbbrwuuwubgurrbbbugubwuuggb (len 28) with g as [w u u u g b rr g w b u u w ru g b g]
+Continued
+gugbbrwuuwubgurrbbbugubwuuggb -> ugbbrwuuwubgurrbbbugubwuuggb (len 28) with g as [w u u u g b rr g w b u u wr u g b g]
+Continued
+ugbbrwuuwubgurrbbbugubwuuggb -> gbbrwuuwubgurrbbbugubwuuggb (len 27) with u as [w u u u g br rg w b u u w ru g b g u]
+Continued
+ugbbrwuuwubgurrbbbugubwuuggb -> gbbrwuuwubgurrbbbugubwuuggb (len 27) with u as [w u u u g br rg w b u u wr u g b g u]
+Continued
+ugbbrwuuwubgurrbbbugubwuuggb -> gbbrwuuwubgurrbbbugubwuuggb (len 27) with u as [w u u u g b rr g w b u u w ru g b g u]
+Continued
+ugbbrwuuwubgurrbbbugubwuuggb -> gbbrwuuwubgurrbbbugubwuuggb (len 27) with u as [w u u u g b rr g w b u u wr u g b g u]
+Continued
+gbbrwuuwubgurrbbbugubwuuggb -> bbrwuuwubgurrbbbugubwuuggb (len 26) with g as [w u u u g br rg w b u u w ru g b g u g]
+Continued
+gbbrwuuwubgurrbbbugubwuuggb -> bbrwuuwubgurrbbbugubwuuggb (len 26) with g as [w u u u g br rg w b u u wr u g b g u g]
+Continued
+gbbrwuuwubgurrbbbugubwuuggb -> bbrwuuwubgurrbbbugubwuuggb (len 26) with g as [w u u u g b rr g w b u u w ru g b g u g]
+Continued
+gbbrwuuwubgurrbbbugubwuuggb -> bbrwuuwubgurrbbbugubwuuggb (len 26) with g as [w u u u g b rr g w b u u wr u g b g u g]
+Continued
+bbrwuuwubgurrbbbugubwuuggb -> brwuuwubgurrbbbugubwuuggb (len 25) with b as [w u u u g br rg w b u u w ru g b g u g b]
+Continued
+bbrwuuwubgurrbbbugubwuuggb -> brwuuwubgurrbbbugubwuuggb (len 25) with b as [w u u u g br rg w b u u wr u g b g u g b]
+Continued
+bbrwuuwubgurrbbbugubwuuggb -> brwuuwubgurrbbbugubwuuggb (len 25) with b as [w u u u g b rr g w b u u w ru g b g u g b]
+Continued
+bbrwuuwubgurrbbbugubwuuggb -> brwuuwubgurrbbbugubwuuggb (len 25) with b as [w u u u g b rr g w b u u wr u g b g u g b]
+Continued
+brwuuwubgurrbbbugubwuuggb -> rwuuwubgurrbbbugubwuuggb (len 24) with b as [w u u u g br rg w b u u w ru g b g u g b b]
+Continued
+brwuuwubgurrbbbugubwuuggb -> wuuwubgurrbbbugubwuuggb (len 23) with br as [w u u u g br rg w b u u w ru g b g u g b br]
+Continued
+brwuuwubgurrbbbugubwuuggb -> rwuuwubgurrbbbugubwuuggb (len 24) with b as [w u u u g br rg w b u u wr u g b g u g b b]
+Continued
+brwuuwubgurrbbbugubwuuggb -> wuuwubgurrbbbugubwuuggb (len 23) with br as [w u u u g br rg w b u u wr u g b g u g b br]
+Continued
+brwuuwubgurrbbbugubwuuggb -> rwuuwubgurrbbbugubwuuggb (len 24) with b as [w u u u g b rr g w b u u w ru g b g u g b b]
+Continued
+brwuuwubgurrbbbugubwuuggb -> wuuwubgurrbbbugubwuuggb (len 23) with br as [w u u u g b rr g w b u u w ru g b g u g b br]
+Continued
+brwuuwubgurrbbbugubwuuggb -> rwuuwubgurrbbbugubwuuggb (len 24) with b as [w u u u g b rr g w b u u wr u g b g u g b b]
+Continued
+brwuuwubgurrbbbugubwuuggb -> wuuwubgurrbbbugubwuuggb (len 23) with br as [w u u u g b rr g w b u u wr u g b g u g b br]
+Continued
+rwuuwubgurrbbbugubwuuggb -> uuwubgurrbbbugubwuuggb (len 22) with rw as [w u u u g br rg w b u u w ru g b g u g b b rw]
+Continued
+wuuwubgurrbbbugubwuuggb -> uuwubgurrbbbugubwuuggb (len 22) with w as [w u u u g br rg w b u u w ru g b g u g b br w]
+Continued
+rwuuwubgurrbbbugubwuuggb -> uuwubgurrbbbugubwuuggb (len 22) with rw as [w u u u g br rg w b u u wr u g b g u g b b rw]
+Continued
+wuuwubgurrbbbugubwuuggb -> uuwubgurrbbbugubwuuggb (len 22) with w as [w u u u g br rg w b u u wr u g b g u g b br w]
+Continued
+rwuuwubgurrbbbugubwuuggb -> uuwubgurrbbbugubwuuggb (len 22) with rw as [w u u u g b rr g w b u u w ru g b g u g b b rw]
+Continued
+wuuwubgurrbbbugubwuuggb -> uuwubgurrbbbugubwuuggb (len 22) with w as [w u u u g b rr g w b u u w ru g b g u g b br w]
+Continued
+rwuuwubgurrbbbugubwuuggb -> uuwubgurrbbbugubwuuggb (len 22) with rw as [w u u u g b rr g w b u u wr u g b g u g b b rw]
+Continued
+wuuwubgurrbbbugubwuuggb -> uuwubgurrbbbugubwuuggb (len 22) with w as [w u u u g b rr g w b u u wr u g b g u g b br w]
+Continued
+uuwubgurrbbbugubwuuggb -> uwubgurrbbbugubwuuggb (len 21) with u as [w u u u g br rg w b u u w ru g b g u g b b rw u]
+Continued
+uuwubgurrbbbugubwuuggb -> uwubgurrbbbugubwuuggb (len 21) with u as [w u u u g br rg w b u u w ru g b g u g b br w u]
+Continued
+uuwubgurrbbbugubwuuggb -> uwubgurrbbbugubwuuggb (len 21) with u as [w u u u g br rg w b u u wr u g b g u g b b rw u]
+Continued
+uuwubgurrbbbugubwuuggb -> uwubgurrbbbugubwuuggb (len 21) with u as [w u u u g br rg w b u u wr u g b g u g b br w u]
+Continued
+uuwubgurrbbbugubwuuggb -> uwubgurrbbbugubwuuggb (len 21) with u as [w u u u g b rr g w b u u w ru g b g u g b b rw u]
+Continued
+uuwubgurrbbbugubwuuggb -> uwubgurrbbbugubwuuggb (len 21) with u as [w u u u g b rr g w b u u w ru g b g u g b br w u]
+Continued
+uuwubgurrbbbugubwuuggb -> uwubgurrbbbugubwuuggb (len 21) with u as [w u u u g b rr g w b u u wr u g b g u g b b rw u]
+Continued
+uuwubgurrbbbugubwuuggb -> uwubgurrbbbugubwuuggb (len 21) with u as [w u u u g b rr g w b u u wr u g b g u g b br w u]
+Continued
+uwubgurrbbbugubwuuggb -> wubgurrbbbugubwuuggb (len 20) with u as [w u u u g br rg w b u u w ru g b g u g b b rw u u]
+Continued
+uwubgurrbbbugubwuuggb -> wubgurrbbbugubwuuggb (len 20) with u as [w u u u g br rg w b u u w ru g b g u g b br w u u]
+Continued
+uwubgurrbbbugubwuuggb -> wubgurrbbbugubwuuggb (len 20) with u as [w u u u g br rg w b u u wr u g b g u g b b rw u u]
+Continued
+uwubgurrbbbugubwuuggb -> wubgurrbbbugubwuuggb (len 20) with u as [w u u u g br rg w b u u wr u g b g u g b br w u u]
+Continued
+uwubgurrbbbugubwuuggb -> wubgurrbbbugubwuuggb (len 20) with u as [w u u u g b rr g w b u u w ru g b g u g b b rw u u]
+Continued
+uwubgurrbbbugubwuuggb -> wubgurrbbbugubwuuggb (len 20) with u as [w u u u g b rr g w b u u w ru g b g u g b br w u u]
+Continued
+uwubgurrbbbugubwuuggb -> wubgurrbbbugubwuuggb (len 20) with u as [w u u u g b rr g w b u u wr u g b g u g b b rw u u]
+Continued
+uwubgurrbbbugubwuuggb -> wubgurrbbbugubwuuggb (len 20) with u as [w u u u g b rr g w b u u wr u g b g u g b br w u u]
+Continued
+wubgurrbbbugubwuuggb -> ubgurrbbbugubwuuggb (len 19) with w as [w u u u g br rg w b u u w ru g b g u g b b rw u u w]
+Continued
+wubgurrbbbugubwuuggb -> ubgurrbbbugubwuuggb (len 19) with w as [w u u u g br rg w b u u w ru g b g u g b br w u u w]
+Continued
+wubgurrbbbugubwuuggb -> ubgurrbbbugubwuuggb (len 19) with w as [w u u u g br rg w b u u wr u g b g u g b b rw u u w]
+Continued
+wubgurrbbbugubwuuggb -> ubgurrbbbugubwuuggb (len 19) with w as [w u u u g br rg w b u u wr u g b g u g b br w u u w]
+Continued
+wubgurrbbbugubwuuggb -> ubgurrbbbugubwuuggb (len 19) with w as [w u u u g b rr g w b u u w ru g b g u g b b rw u u w]
+Continued
+wubgurrbbbugubwuuggb -> ubgurrbbbugubwuuggb (len 19) with w as [w u u u g b rr g w b u u w ru g b g u g b br w u u w]
+Continued
+wubgurrbbbugubwuuggb -> ubgurrbbbugubwuuggb (len 19) with w as [w u u u g b rr g w b u u wr u g b g u g b b rw u u w]
+Continued
+wubgurrbbbugubwuuggb -> ubgurrbbbugubwuuggb (len 19) with w as [w u u u g b rr g w b u u wr u g b g u g b br w u u w]
+Continued
+ubgurrbbbugubwuuggb -> bgurrbbbugubwuuggb (len 18) with u as [w u u u g br rg w b u u w ru g b g u g b b rw u u w u]
+Continued
+ubgurrbbbugubwuuggb -> bgurrbbbugubwuuggb (len 18) with u as [w u u u g br rg w b u u w ru g b g u g b br w u u w u]
+Continued
+ubgurrbbbugubwuuggb -> bgurrbbbugubwuuggb (len 18) with u as [w u u u g br rg w b u u wr u g b g u g b b rw u u w u]
+Continued
+ubgurrbbbugubwuuggb -> bgurrbbbugubwuuggb (len 18) with u as [w u u u g br rg w b u u wr u g b g u g b br w u u w u]
+Continued
+ubgurrbbbugubwuuggb -> bgurrbbbugubwuuggb (len 18) with u as [w u u u g b rr g w b u u w ru g b g u g b b rw u u w u]
+Continued
+ubgurrbbbugubwuuggb -> bgurrbbbugubwuuggb (len 18) with u as [w u u u g b rr g w b u u w ru g b g u g b br w u u w u]
+Continued
+ubgurrbbbugubwuuggb -> bgurrbbbugubwuuggb (len 18) with u as [w u u u g b rr g w b u u wr u g b g u g b b rw u u w u]
+Continued
+ubgurrbbbugubwuuggb -> bgurrbbbugubwuuggb (len 18) with u as [w u u u g b rr g w b u u wr u g b g u g b br w u u w u]
+Continued
+bgurrbbbugubwuuggb -> gurrbbbugubwuuggb (len 17) with b as [w u u u g br rg w b u u w ru g b g u g b b rw u u w u b]
+Continued
+bgurrbbbugubwuuggb -> gurrbbbugubwuuggb (len 17) with b as [w u u u g br rg w b u u w ru g b g u g b br w u u w u b]
+Continued
+bgurrbbbugubwuuggb -> gurrbbbugubwuuggb (len 17) with b as [w u u u g br rg w b u u wr u g b g u g b b rw u u w u b]
+Continued
+bgurrbbbugubwuuggb -> gurrbbbugubwuuggb (len 17) with b as [w u u u g br rg w b u u wr u g b g u g b br w u u w u b]
+Continued
+bgurrbbbugubwuuggb -> gurrbbbugubwuuggb (len 17) with b as [w u u u g b rr g w b u u w ru g b g u g b b rw u u w u b]
+Continued
+bgurrbbbugubwuuggb -> gurrbbbugubwuuggb (len 17) with b as [w u u u g b rr g w b u u w ru g b g u g b br w u u w u b]
+Continued
+bgurrbbbugubwuuggb -> gurrbbbugubwuuggb (len 17) with b as [w u u u g b rr g w b u u wr u g b g u g b b rw u u w u b]
+Continued
+bgurrbbbugubwuuggb -> gurrbbbugubwuuggb (len 17) with b as [w u u u g b rr g w b u u wr u g b g u g b br w u u w u b]
+Continued
+gurrbbbugubwuuggb -> urrbbbugubwuuggb (len 16) with g as [w u u u g br rg w b u u w ru g b g u g b b rw u u w u b g]
+Continued
+gurrbbbugubwuuggb -> urrbbbugubwuuggb (len 16) with g as [w u u u g br rg w b u u w ru g b g u g b br w u u w u b g]
+Continued
+gurrbbbugubwuuggb -> urrbbbugubwuuggb (len 16) with g as [w u u u g br rg w b u u wr u g b g u g b b rw u u w u b g]
+Continued
+gurrbbbugubwuuggb -> urrbbbugubwuuggb (len 16) with g as [w u u u g br rg w b u u wr u g b g u g b br w u u w u b g]
+Continued
+gurrbbbugubwuuggb -> urrbbbugubwuuggb (len 16) with g as [w u u u g b rr g w b u u w ru g b g u g b b rw u u w u b g]
+Continued
+gurrbbbugubwuuggb -> urrbbbugubwuuggb (len 16) with g as [w u u u g b rr g w b u u w ru g b g u g b br w u u w u b g]
+Continued
+gurrbbbugubwuuggb -> urrbbbugubwuuggb (len 16) with g as [w u u u g b rr g w b u u wr u g b g u g b b rw u u w u b g]
+Continued
+gurrbbbugubwuuggb -> urrbbbugubwuuggb (len 16) with g as [w u u u g b rr g w b u u wr u g b g u g b br w u u w u b g]
+Continued
+urrbbbugubwuuggb -> rrbbbugubwuuggb (len 15) with u as [w u u u g br rg w b u u w ru g b g u g b b rw u u w u b g u]
+Continued
+urrbbbugubwuuggb -> rbbbugubwuuggb (len 14) with ur as [w u u u g br rg w b u u w ru g b g u g b b rw u u w u b g ur]
+Continued
+urrbbbugubwuuggb -> rrbbbugubwuuggb (len 15) with u as [w u u u g br rg w b u u w ru g b g u g b br w u u w u b g u]
+Continued
+urrbbbugubwuuggb -> rbbbugubwuuggb (len 14) with ur as [w u u u g br rg w b u u w ru g b g u g b br w u u w u b g ur]
+Continued
+urrbbbugubwuuggb -> rrbbbugubwuuggb (len 15) with u as [w u u u g br rg w b u u wr u g b g u g b b rw u u w u b g u]
+Continued
+urrbbbugubwuuggb -> rbbbugubwuuggb (len 14) with ur as [w u u u g br rg w b u u wr u g b g u g b b rw u u w u b g ur]
+Continued
+urrbbbugubwuuggb -> rrbbbugubwuuggb (len 15) with u as [w u u u g br rg w b u u wr u g b g u g b br w u u w u b g u]
+Continued
+urrbbbugubwuuggb -> rbbbugubwuuggb (len 14) with ur as [w u u u g br rg w b u u wr u g b g u g b br w u u w u b g ur]
+Continued
+urrbbbugubwuuggb -> rrbbbugubwuuggb (len 15) with u as [w u u u g b rr g w b u u w ru g b g u g b b rw u u w u b g u]
+Continued
+urrbbbugubwuuggb -> rbbbugubwuuggb (len 14) with ur as [w u u u g b rr g w b u u w ru g b g u g b b rw u u w u b g ur]
+Continued
+urrbbbugubwuuggb -> rrbbbugubwuuggb (len 15) with u as [w u u u g b rr g w b u u w ru g b g u g b br w u u w u b g u]
+Continued
+urrbbbugubwuuggb -> rbbbugubwuuggb (len 14) with ur as [w u u u g b rr g w b u u w ru g b g u g b br w u u w u b g ur]
+Continued
+urrbbbugubwuuggb -> rrbbbugubwuuggb (len 15) with u as [w u u u g b rr g w b u u wr u g b g u g b b rw u u w u b g u]
+Continued
+urrbbbugubwuuggb -> rbbbugubwuuggb (len 14) with ur as [w u u u g b rr g w b u u wr u g b g u g b b rw u u w u b g ur]
+Continued
+urrbbbugubwuuggb -> rrbbbugubwuuggb (len 15) with u as [w u u u g b rr g w b u u wr u g b g u g b br w u u w u b g u]
+Continued
+urrbbbugubwuuggb -> rbbbugubwuuggb (len 14) with ur as [w u u u g b rr g w b u u wr u g b g u g b br w u u w u b g ur]
+Continued
+rrbbbugubwuuggb -> bbbugubwuuggb (len 13) with rr as [w u u u g br rg w b u u w ru g b g u g b b rw u u w u b g u rr]
+Continued
+rbbbugubwuuggb -> bbugubwuuggb (len 12) with rb as [w u u u g br rg w b u u w ru g b g u g b b rw u u w u b g ur rb]
+Continued
+rrbbbugubwuuggb -> bbbugubwuuggb (len 13) with rr as [w u u u g br rg w b u u w ru g b g u g b br w u u w u b g u rr]
+Continued
+rbbbugubwuuggb -> bbugubwuuggb (len 12) with rb as [w u u u g br rg w b u u w ru g b g u g b br w u u w u b g ur rb]
+Continued
+rrbbbugubwuuggb -> bbbugubwuuggb (len 13) with rr as [w u u u g br rg w b u u wr u g b g u g b b rw u u w u b g u rr]
+Continued
+rbbbugubwuuggb -> bbugubwuuggb (len 12) with rb as [w u u u g br rg w b u u wr u g b g u g b b rw u u w u b g ur rb]
+Continued
+rrbbbugubwuuggb -> bbbugubwuuggb (len 13) with rr as [w u u u g br rg w b u u wr u g b g u g b br w u u w u b g u rr]
+Continued
+rbbbugubwuuggb -> bbugubwuuggb (len 12) with rb as [w u u u g br rg w b u u wr u g b g u g b br w u u w u b g ur rb]
+Continued
+rrbbbugubwuuggb -> bbbugubwuuggb (len 13) with rr as [w u u u g b rr g w b u u w ru g b g u g b b rw u u w u b g u rr]
+Continued
+rbbbugubwuuggb -> bbugubwuuggb (len 12) with rb as [w u u u g b rr g w b u u w ru g b g u g b b rw u u w u b g ur rb]
+Continued
+rrbbbugubwuuggb -> bbbugubwuuggb (len 13) with rr as [w u u u g b rr g w b u u w ru g b g u g b br w u u w u b g u rr]
+Continued
+rbbbugubwuuggb -> bbugubwuuggb (len 12) with rb as [w u u u g b rr g w b u u w ru g b g u g b br w u u w u b g ur rb]
+Continued
+rrbbbugubwuuggb -> bbbugubwuuggb (len 13) with rr as [w u u u g b rr g w b u u wr u g b g u g b b rw u u w u b g u rr]
+Continued
+rbbbugubwuuggb -> bbugubwuuggb (len 12) with rb as [w u u u g b rr g w b u u wr u g b g u g b b rw u u w u b g ur rb]
+Continued
+rrbbbugubwuuggb -> bbbugubwuuggb (len 13) with rr as [w u u u g b rr g w b u u wr u g b g u g b br w u u w u b g u rr]
+Continued
+rbbbugubwuuggb -> bbugubwuuggb (len 12) with rb as [w u u u g b rr g w b u u wr u g b g u g b br w u u w u b g ur rb]
+Continued
+bbbugubwuuggb -> bbugubwuuggb (len 12) with b as [w u u u g br rg w b u u w ru g b g u g b b rw u u w u b g u rr b]
+Continued
+bbugubwuuggb -> bugubwuuggb (len 11) with b as [w u u u g br rg w b u u w ru g b g u g b b rw u u w u b g ur rb b]
+Continued
+bbbugubwuuggb -> bbugubwuuggb (len 12) with b as [w u u u g br rg w b u u w ru g b g u g b br w u u w u b g u rr b]
+Continued
+bbugubwuuggb -> bugubwuuggb (len 11) with b as [w u u u g br rg w b u u w ru g b g u g b br w u u w u b g ur rb b]
+Continued
+bbbugubwuuggb -> bbugubwuuggb (len 12) with b as [w u u u g br rg w b u u wr u g b g u g b b rw u u w u b g u rr b]
+Continued
+bbugubwuuggb -> bugubwuuggb (len 11) with b as [w u u u g br rg w b u u wr u g b g u g b b rw u u w u b g ur rb b]
+Continued
+bbbugubwuuggb -> bbugubwuuggb (len 12) with b as [w u u u g br rg w b u u wr u g b g u g b br w u u w u b g u rr b]
+Continued
+bbugubwuuggb -> bugubwuuggb (len 11) with b as [w u u u g br rg w b u u wr u g b g u g b br w u u w u b g ur rb b]
+Continued
+bbbugubwuuggb -> bbugubwuuggb (len 12) with b as [w u u u g b rr g w b u u w ru g b g u g b b rw u u w u b g u rr b]
+Continued
+bbugubwuuggb -> bugubwuuggb (len 11) with b as [w u u u g b rr g w b u u w ru g b g u g b b rw u u w u b g ur rb b]
+Continued
+bbbugubwuuggb -> bbugubwuuggb (len 12) with b as [w u u u g b rr g w b u u w ru g b g u g b br w u u w u b g u rr b]
+Continued
+bbugubwuuggb -> bugubwuuggb (len 11) with b as [w u u u g b rr g w b u u w ru g b g u g b br w u u w u b g ur rb b]
+Continued
+bbbugubwuuggb -> bbugubwuuggb (len 12) with b as [w u u u g b rr g w b u u wr u g b g u g b b rw u u w u b g u rr b]
+Continued
+bbugubwuuggb -> bugubwuuggb (len 11) with b as [w u u u g b rr g w b u u wr u g b g u g b b rw u u w u b g ur rb b]
+Continued
+bbbugubwuuggb -> bbugubwuuggb (len 12) with b as [w u u u g b rr g w b u u wr u g b g u g b br w u u w u b g u rr b]
+Continued
+bbugubwuuggb -> bugubwuuggb (len 11) with b as [w u u u g b rr g w b u u wr u g b g u g b br w u u w u b g ur rb b]
+Continued
+bbugubwuuggb -> bugubwuuggb (len 11) with b as [w u u u g br rg w b u u w ru g b g u g b b rw u u w u b g u rr b b]
+Continued
+bugubwuuggb -> ugubwuuggb (len 10) with b as [w u u u g br rg w b u u w ru g b g u g b b rw u u w u b g ur rb b b]
+Continued
+bbugubwuuggb -> bugubwuuggb (len 11) with b as [w u u u g br rg w b u u w ru g b g u g b br w u u w u b g u rr b b]
+Continued
+bugubwuuggb -> ugubwuuggb (len 10) with b as [w u u u g br rg w b u u w ru g b g u g b br w u u w u b g ur rb b b]
+Continued
+bbugubwuuggb -> bugubwuuggb (len 11) with b as [w u u u g br rg w b u u wr u g b g u g b b rw u u w u b g u rr b b]
+Continued
+bugubwuuggb -> ugubwuuggb (len 10) with b as [w u u u g br rg w b u u wr u g b g u g b b rw u u w u b g ur rb b b]
+Continued
+bbugubwuuggb -> bugubwuuggb (len 11) with b as [w u u u g br rg w b u u wr u g b g u g b br w u u w u b g u rr b b]
+Continued
+bugubwuuggb -> ugubwuuggb (len 10) with b as [w u u u g br rg w b u u wr u g b g u g b br w u u w u b g ur rb b b]
+Continued
+bbugubwuuggb -> bugubwuuggb (len 11) with b as [w u u u g b rr g w b u u w ru g b g u g b b rw u u w u b g u rr b b]
+Continued
+bugubwuuggb -> ugubwuuggb (len 10) with b as [w u u u g b rr g w b u u w ru g b g u g b b rw u u w u b g ur rb b b]
+Continued
+bbugubwuuggb -> bugubwuuggb (len 11) with b as [w u u u g b rr g w b u u w ru g b g u g b br w u u w u b g u rr b b]
+Continued
+bugubwuuggb -> ugubwuuggb (len 10) with b as [w u u u g b rr g w b u u w ru g b g u g b br w u u w u b g ur rb b b]
+Continued
+bbugubwuuggb -> bugubwuuggb (len 11) with b as [w u u u g b rr g w b u u wr u g b g u g b b rw u u w u b g u rr b b]
+Continued
+bugubwuuggb -> ugubwuuggb (len 10) with b as [w u u u g b rr g w b u u wr u g b g u g b b rw u u w u b g ur rb b b]
+Continued
+bbugubwuuggb -> bugubwuuggb (len 11) with b as [w u u u g b rr g w b u u wr u g b g u g b br w u u w u b g u rr b b]
+Continued
+bugubwuuggb -> ugubwuuggb (len 10) with b as [w u u u g b rr g w b u u wr u g b g u g b br w u u w u b g ur rb b b]
+Continued
+bugubwuuggb -> ugubwuuggb (len 10) with b as [w u u u g br rg w b u u w ru g b g u g b b rw u u w u b g u rr b b b]
+Continued
+ugubwuuggb -> gubwuuggb (len 9) with u as [w u u u g br rg w b u u w ru g b g u g b b rw u u w u b g ur rb b b u]
+Continued
+bugubwuuggb -> ugubwuuggb (len 10) with b as [w u u u g br rg w b u u w ru g b g u g b br w u u w u b g u rr b b b]
+Continued
+ugubwuuggb -> gubwuuggb (len 9) with u as [w u u u g br rg w b u u w ru g b g u g b br w u u w u b g ur rb b b u]
+Continued
+bugubwuuggb -> ugubwuuggb (len 10) with b as [w u u u g br rg w b u u wr u g b g u g b b rw u u w u b g u rr b b b]
+Continued
+ugubwuuggb -> gubwuuggb (len 9) with u as [w u u u g br rg w b u u wr u g b g u g b b rw u u w u b g ur rb b b u]
+Continued
+bugubwuuggb -> ugubwuuggb (len 10) with b as [w u u u g br rg w b u u wr u g b g u g b br w u u w u b g u rr b b b]
+Continued
+ugubwuuggb -> gubwuuggb (len 9) with u as [w u u u g br rg w b u u wr u g b g u g b br w u u w u b g ur rb b b u]
+Continued
+bugubwuuggb -> ugubwuuggb (len 10) with b as [w u u u g b rr g w b u u w ru g b g u g b b rw u u w u b g u rr b b b]
+Continued
+ugubwuuggb -> gubwuuggb (len 9) with u as [w u u u g b rr g w b u u w ru g b g u g b b rw u u w u b g ur rb b b u]
+Continued
+bugubwuuggb -> ugubwuuggb (len 10) with b as [w u u u g b rr g w b u u w ru g b g u g b br w u u w u b g u rr b b b]
+Continued
+ugubwuuggb -> gubwuuggb (len 9) with u as [w u u u g b rr g w b u u w ru g b g u g b br w u u w u b g ur rb b b u]
+Continued
+bugubwuuggb -> ugubwuuggb (len 10) with b as [w u u u g b rr g w b u u wr u g b g u g b b rw u u w u b g u rr b b b]
+Continued
+ugubwuuggb -> gubwuuggb (len 9) with u as [w u u u g b rr g w b u u wr u g b g u g b b rw u u w u b g ur rb b b u]
+Continued
+bugubwuuggb -> ugubwuuggb (len 10) with b as [w u u u g b rr g w b u u wr u g b g u g b br w u u w u b g u rr b b b]
+Continued
+ugubwuuggb -> gubwuuggb (len 9) with u as [w u u u g b rr g w b u u wr u g b g u g b br w u u w u b g ur rb b b u]
+Continued
+ugubwuuggb -> gubwuuggb (len 9) with u as [w u u u g br rg w b u u w ru g b g u g b b rw u u w u b g u rr b b b u]
+Continued
+gubwuuggb -> ubwuuggb (len 8) with g as [w u u u g br rg w b u u w ru g b g u g b b rw u u w u b g ur rb b b u g]
+Continued
+ugubwuuggb -> gubwuuggb (len 9) with u as [w u u u g br rg w b u u w ru g b g u g b br w u u w u b g u rr b b b u]
+Continued
+gubwuuggb -> ubwuuggb (len 8) with g as [w u u u g br rg w b u u w ru g b g u g b br w u u w u b g ur rb b b u g]
+Continued
+ugubwuuggb -> gubwuuggb (len 9) with u as [w u u u g br rg w b u u wr u g b g u g b b rw u u w u b g u rr b b b u]
+Continued
+gubwuuggb -> ubwuuggb (len 8) with g as [w u u u g br rg w b u u wr u g b g u g b b rw u u w u b g ur rb b b u g]
+Continued
+ugubwuuggb -> gubwuuggb (len 9) with u as [w u u u g br rg w b u u wr u g b g u g b br w u u w u b g u rr b b b u]
+Continued
+gubwuuggb -> ubwuuggb (len 8) with g as [w u u u g br rg w b u u wr u g b g u g b br w u u w u b g ur rb b b u g]
+Continued
+ugubwuuggb -> gubwuuggb (len 9) with u as [w u u u g b rr g w b u u w ru g b g u g b b rw u u w u b g u rr b b b u]
+Continued
+gubwuuggb -> ubwuuggb (len 8) with g as [w u u u g b rr g w b u u w ru g b g u g b b rw u u w u b g ur rb b b u g]
+Continued
+ugubwuuggb -> gubwuuggb (len 9) with u as [w u u u g b rr g w b u u w ru g b g u g b br w u u w u b g u rr b b b u]
+Continued
+gubwuuggb -> ubwuuggb (len 8) with g as [w u u u g b rr g w b u u w ru g b g u g b br w u u w u b g ur rb b b u g]
+Continued
+ugubwuuggb -> gubwuuggb (len 9) with u as [w u u u g b rr g w b u u wr u g b g u g b b rw u u w u b g u rr b b b u]
+Continued
+gubwuuggb -> ubwuuggb (len 8) with g as [w u u u g b rr g w b u u wr u g b g u g b b rw u u w u b g ur rb b b u g]
+Continued
+ugubwuuggb -> gubwuuggb (len 9) with u as [w u u u g b rr g w b u u wr u g b g u g b br w u u w u b g u rr b b b u]
+Continued
+gubwuuggb -> ubwuuggb (len 8) with g as [w u u u g b rr g w b u u wr u g b g u g b br w u u w u b g ur rb b b u g]
+Continued
+gubwuuggb -> ubwuuggb (len 8) with g as [w u u u g br rg w b u u w ru g b g u g b b rw u u w u b g u rr b b b u g]
+Continued
+ubwuuggb -> bwuuggb (len 7) with u as [w u u u g br rg w b u u w ru g b g u g b b rw u u w u b g ur rb b b u g u]
+Continued
+gubwuuggb -> ubwuuggb (len 8) with g as [w u u u g br rg w b u u w ru g b g u g b br w u u w u b g u rr b b b u g]
+Continued
+ubwuuggb -> bwuuggb (len 7) with u as [w u u u g br rg w b u u w ru g b g u g b br w u u w u b g ur rb b b u g u]
+Continued
+gubwuuggb -> ubwuuggb (len 8) with g as [w u u u g br rg w b u u wr u g b g u g b b rw u u w u b g u rr b b b u g]
+Continued
+ubwuuggb -> bwuuggb (len 7) with u as [w u u u g br rg w b u u wr u g b g u g b b rw u u w u b g ur rb b b u g u]
+Continued
+gubwuuggb -> ubwuuggb (len 8) with g as [w u u u g br rg w b u u wr u g b g u g b br w u u w u b g u rr b b b u g]
+Continued
+ubwuuggb -> bwuuggb (len 7) with u as [w u u u g br rg w b u u wr u g b g u g b br w u u w u b g ur rb b b u g u]
+Continued
+gubwuuggb -> ubwuuggb (len 8) with g as [w u u u g b rr g w b u u w ru g b g u g b b rw u u w u b g u rr b b b u g]
+Continued
+ubwuuggb -> bwuuggb (len 7) with u as [w u u u g b rr g w b u u w ru g b g u g b b rw u u w u b g ur rb b b u g u]
+Continued
+gubwuuggb -> ubwuuggb (len 8) with g as [w u u u g b rr g w b u u w ru g b g u g b br w u u w u b g u rr b b b u g]
+Continued
+ubwuuggb -> bwuuggb (len 7) with u as [w u u u g b rr g w b u u w ru g b g u g b br w u u w u b g ur rb b b u g u]
+Continued
+gubwuuggb -> ubwuuggb (len 8) with g as [w u u u g b rr g w b u u wr u g b g u g b b rw u u w u b g u rr b b b u g]
+Continued
+ubwuuggb -> bwuuggb (len 7) with u as [w u u u g b rr g w b u u wr u g b g u g b b rw u u w u b g ur rb b b u g u]
+Continued
+gubwuuggb -> ubwuuggb (len 8) with g as [w u u u g b rr g w b u u wr u g b g u g b br w u u w u b g u rr b b b u g]
+Continued
+ubwuuggb -> bwuuggb (len 7) with u as [w u u u g b rr g w b u u wr u g b g u g b br w u u w u b g ur rb b b u g u]
+Continued
+ubwuuggb -> bwuuggb (len 7) with u as [w u u u g br rg w b u u w ru g b g u g b b rw u u w u b g u rr b b b u g u]
+Continued
+bwuuggb -> wuuggb (len 6) with b as [w u u u g br rg w b u u w ru g b g u g b b rw u u w u b g ur rb b b u g u b]
+Continued
+ubwuuggb -> bwuuggb (len 7) with u as [w u u u g br rg w b u u w ru g b g u g b br w u u w u b g u rr b b b u g u]
+Continued
+bwuuggb -> wuuggb (len 6) with b as [w u u u g br rg w b u u w ru g b g u g b br w u u w u b g ur rb b b u g u b]
+Continued
+ubwuuggb -> bwuuggb (len 7) with u as [w u u u g br rg w b u u wr u g b g u g b b rw u u w u b g u rr b b b u g u]
+Continued
+bwuuggb -> wuuggb (len 6) with b as [w u u u g br rg w b u u wr u g b g u g b b rw u u w u b g ur rb b b u g u b]
+Continued
+ubwuuggb -> bwuuggb (len 7) with u as [w u u u g br rg w b u u wr u g b g u g b br w u u w u b g u rr b b b u g u]
+Continued
+bwuuggb -> wuuggb (len 6) with b as [w u u u g br rg w b u u wr u g b g u g b br w u u w u b g ur rb b b u g u b]
+Continued
+ubwuuggb -> bwuuggb (len 7) with u as [w u u u g b rr g w b u u w ru g b g u g b b rw u u w u b g u rr b b b u g u]
+Continued
+bwuuggb -> wuuggb (len 6) with b as [w u u u g b rr g w b u u w ru g b g u g b b rw u u w u b g ur rb b b u g u b]
+Continued
+ubwuuggb -> bwuuggb (len 7) with u as [w u u u g b rr g w b u u w ru g b g u g b br w u u w u b g u rr b b b u g u]
+Continued
+bwuuggb -> wuuggb (len 6) with b as [w u u u g b rr g w b u u w ru g b g u g b br w u u w u b g ur rb b b u g u b]
+Continued
+ubwuuggb -> bwuuggb (len 7) with u as [w u u u g b rr g w b u u wr u g b g u g b b rw u u w u b g u rr b b b u g u]
+Continued
+bwuuggb -> wuuggb (len 6) with b as [w u u u g b rr g w b u u wr u g b g u g b b rw u u w u b g ur rb b b u g u b]
+Continued
+ubwuuggb -> bwuuggb (len 7) with u as [w u u u g b rr g w b u u wr u g b g u g b br w u u w u b g u rr b b b u g u]
+Continued
+bwuuggb -> wuuggb (len 6) with b as [w u u u g b rr g w b u u wr u g b g u g b br w u u w u b g ur rb b b u g u b]
+Continued
+bwuuggb -> wuuggb (len 6) with b as [w u u u g br rg w b u u w ru g b g u g b b rw u u w u b g u rr b b b u g u b]
+Continued
+wuuggb -> uuggb (len 5) with w as [w u u u g br rg w b u u w ru g b g u g b b rw u u w u b g ur rb b b u g u b w]
+Continued
+bwuuggb -> wuuggb (len 6) with b as [w u u u g br rg w b u u w ru g b g u g b br w u u w u b g u rr b b b u g u b]
+Continued
+wuuggb -> uuggb (len 5) with w as [w u u u g br rg w b u u w ru g b g u g b br w u u w u b g ur rb b b u g u b w]
+Continued
+bwuuggb -> wuuggb (len 6) with b as [w u u u g br rg w b u u wr u g b g u g b b rw u u w u b g u rr b b b u g u b]
+Continued
+wuuggb -> uuggb (len 5) with w as [w u u u g br rg w b u u wr u g b g u g b b rw u u w u b g ur rb b b u g u b w]
+Continued
+bwuuggb -> wuuggb (len 6) with b as [w u u u g br rg w b u u wr u g b g u g b br w u u w u b g u rr b b b u g u b]
+Continued
+wuuggb -> uuggb (len 5) with w as [w u u u g br rg w b u u wr u g b g u g b br w u u w u b g ur rb b b u g u b w]
+Continued
+bwuuggb -> wuuggb (len 6) with b as [w u u u g b rr g w b u u w ru g b g u g b b rw u u w u b g u rr b b b u g u b]
+Continued
+wuuggb -> uuggb (len 5) with w as [w u u u g b rr g w b u u w ru g b g u g b b rw u u w u b g ur rb b b u g u b w]
+Continued
+bwuuggb -> wuuggb (len 6) with b as [w u u u g b rr g w b u u w ru g b g u g b br w u u w u b g u rr b b b u g u b]
+Continued
+wuuggb -> uuggb (len 5) with w as [w u u u g b rr g w b u u w ru g b g u g b br w u u w u b g ur rb b b u g u b w]
+Continued
+bwuuggb -> wuuggb (len 6) with b as [w u u u g b rr g w b u u wr u g b g u g b b rw u u w u b g u rr b b b u g u b]
+Continued
+wuuggb -> uuggb (len 5) with w as [w u u u g b rr g w b u u wr u g b g u g b b rw u u w u b g ur rb b b u g u b w]
+Continued
+bwuuggb -> wuuggb (len 6) with b as [w u u u g b rr g w b u u wr u g b g u g b br w u u w u b g u rr b b b u g u b]
+Continued
+wuuggb -> uuggb (len 5) with w as [w u u u g b rr g w b u u wr u g b g u g b br w u u w u b g ur rb b b u g u b w]
+Continued
+wuuggb -> uuggb (len 5) with w as [w u u u g br rg w b u u w ru g b g u g b b rw u u w u b g u rr b b b u g u b w]
+Continued
+uuggb -> uggb (len 4) with u as [w u u u g br rg w b u u w ru g b g u g b b rw u u w u b g ur rb b b u g u b w u]
+Continued
+wuuggb -> uuggb (len 5) with w as [w u u u g br rg w b u u w ru g b g u g b br w u u w u b g u rr b b b u g u b w]
+Continued
+uuggb -> uggb (len 4) with u as [w u u u g br rg w b u u w ru g b g u g b br w u u w u b g ur rb b b u g u b w u]
+Continued
+wuuggb -> uuggb (len 5) with w as [w u u u g br rg w b u u wr u g b g u g b b rw u u w u b g u rr b b b u g u b w]
+Continued
+uuggb -> uggb (len 4) with u as [w u u u g br rg w b u u wr u g b g u g b b rw u u w u b g ur rb b b u g u b w u]
+Continued
+wuuggb -> uuggb (len 5) with w as [w u u u g br rg w b u u wr u g b g u g b br w u u w u b g u rr b b b u g u b w]
+Continued
+uuggb -> uggb (len 4) with u as [w u u u g br rg w b u u wr u g b g u g b br w u u w u b g ur rb b b u g u b w u]
+Continued
+wuuggb -> uuggb (len 5) with w as [w u u u g b rr g w b u u w ru g b g u g b b rw u u w u b g u rr b b b u g u b w]
+Continued
+uuggb -> uggb (len 4) with u as [w u u u g b rr g w b u u w ru g b g u g b b rw u u w u b g ur rb b b u g u b w u]
+Continued
+wuuggb -> uuggb (len 5) with w as [w u u u g b rr g w b u u w ru g b g u g b br w u u w u b g u rr b b b u g u b w]
+Continued
+uuggb -> uggb (len 4) with u as [w u u u g b rr g w b u u w ru g b g u g b br w u u w u b g ur rb b b u g u b w u]
+Continued
+wuuggb -> uuggb (len 5) with w as [w u u u g b rr g w b u u wr u g b g u g b b rw u u w u b g u rr b b b u g u b w]
+Continued
+uuggb -> uggb (len 4) with u as [w u u u g b rr g w b u u wr u g b g u g b b rw u u w u b g ur rb b b u g u b w u]
+Continued
+wuuggb -> uuggb (len 5) with w as [w u u u g b rr g w b u u wr u g b g u g b br w u u w u b g u rr b b b u g u b w]
+Continued
+uuggb -> uggb (len 4) with u as [w u u u g b rr g w b u u wr u g b g u g b br w u u w u b g ur rb b b u g u b w u]
+Continued
+uuggb -> uggb (len 4) with u as [w u u u g br rg w b u u w ru g b g u g b b rw u u w u b g u rr b b b u g u b w u]
+Continued
+uggb -> ggb (len 3) with u as [w u u u g br rg w b u u w ru g b g u g b b rw u u w u b g ur rb b b u g u b w u u]
+Continued
+uuggb -> uggb (len 4) with u as [w u u u g br rg w b u u w ru g b g u g b br w u u w u b g u rr b b b u g u b w u]
+Continued
+uggb -> ggb (len 3) with u as [w u u u g br rg w b u u w ru g b g u g b br w u u w u b g ur rb b b u g u b w u u]
+Continued
+uuggb -> uggb (len 4) with u as [w u u u g br rg w b u u wr u g b g u g b b rw u u w u b g u rr b b b u g u b w u]
+Continued
+uggb -> ggb (len 3) with u as [w u u u g br rg w b u u wr u g b g u g b b rw u u w u b g ur rb b b u g u b w u u]
+Continued
+uuggb -> uggb (len 4) with u as [w u u u g br rg w b u u wr u g b g u g b br w u u w u b g u rr b b b u g u b w u]
+Continued
+uggb -> ggb (len 3) with u as [w u u u g br rg w b u u wr u g b g u g b br w u u w u b g ur rb b b u g u b w u u]
+Continued
+uuggb -> uggb (len 4) with u as [w u u u g b rr g w b u u w ru g b g u g b b rw u u w u b g u rr b b b u g u b w u]
+Continued
+uggb -> ggb (len 3) with u as [w u u u g b rr g w b u u w ru g b g u g b b rw u u w u b g ur rb b b u g u b w u u]
+Continued
+uuggb -> uggb (len 4) with u as [w u u u g b rr g w b u u w ru g b g u g b br w u u w u b g u rr b b b u g u b w u]
+Continued
+uggb -> ggb (len 3) with u as [w u u u g b rr g w b u u w ru g b g u g b br w u u w u b g ur rb b b u g u b w u u]
+Continued
+uuggb -> uggb (len 4) with u as [w u u u g b rr g w b u u wr u g b g u g b b rw u u w u b g u rr b b b u g u b w u]
+Continued
+uggb -> ggb (len 3) with u as [w u u u g b rr g w b u u wr u g b g u g b b rw u u w u b g ur rb b b u g u b w u u]
+Continued
+uuggb -> uggb (len 4) with u as [w u u u g b rr g w b u u wr u g b g u g b br w u u w u b g u rr b b b u g u b w u]
+Continued
+uggb -> ggb (len 3) with u as [w u u u g b rr g w b u u wr u g b g u g b br w u u w u b g ur rb b b u g u b w u u]
+Continued
+uggb -> ggb (len 3) with u as [w u u u g br rg w b u u w ru g b g u g b b rw u u w u b g u rr b b b u g u b w u u]
+Continued
+ggb -> gb (len 2) with g as [w u u u g br rg w b u u w ru g b g u g b b rw u u w u b g ur rb b b u g u b w u u g]
+Continued
+uggb -> ggb (len 3) with u as [w u u u g br rg w b u u w ru g b g u g b br w u u w u b g u rr b b b u g u b w u u]
+Continued
+ggb -> gb (len 2) with g as [w u u u g br rg w b u u w ru g b g u g b br w u u w u b g ur rb b b u g u b w u u g]
+Continued
+uggb -> ggb (len 3) with u as [w u u u g br rg w b u u wr u g b g u g b b rw u u w u b g u rr b b b u g u b w u u]
+Continued
+ggb -> gb (len 2) with g as [w u u u g br rg w b u u wr u g b g u g b b rw u u w u b g ur rb b b u g u b w u u g]
+Continued
+uggb -> ggb (len 3) with u as [w u u u g br rg w b u u wr u g b g u g b br w u u w u b g u rr b b b u g u b w u u]
+Continued
+ggb -> gb (len 2) with g as [w u u u g br rg w b u u wr u g b g u g b br w u u w u b g ur rb b b u g u b w u u g]
+Continued
+uggb -> ggb (len 3) with u as [w u u u g b rr g w b u u w ru g b g u g b b rw u u w u b g u rr b b b u g u b w u u]
+Continued
+ggb -> gb (len 2) with g as [w u u u g b rr g w b u u w ru g b g u g b b rw u u w u b g ur rb b b u g u b w u u g]
+Continued
+uggb -> ggb (len 3) with u as [w u u u g b rr g w b u u w ru g b g u g b br w u u w u b g u rr b b b u g u b w u u]
+Continued
+ggb -> gb (len 2) with g as [w u u u g b rr g w b u u w ru g b g u g b br w u u w u b g ur rb b b u g u b w u u g]
+Continued
+uggb -> ggb (len 3) with u as [w u u u g b rr g w b u u wr u g b g u g b b rw u u w u b g u rr b b b u g u b w u u]
+Continued
+ggb -> gb (len 2) with g as [w u u u g b rr g w b u u wr u g b g u g b b rw u u w u b g ur rb b b u g u b w u u g]
+Continued
+uggb -> ggb (len 3) with u as [w u u u g b rr g w b u u wr u g b g u g b br w u u w u b g u rr b b b u g u b w u u]
+Continued
+ggb -> gb (len 2) with g as [w u u u g b rr g w b u u wr u g b g u g b br w u u w u b g ur rb b b u g u b w u u g]
+Continued
+ggb -> gb (len 2) with g as [w u u u g br rg w b u u w ru g b g u g b b rw u u w u b g u rr b b b u g u b w u u g]
+Continued
+gb -> b (len 1) with g as [w u u u g br rg w b u u w ru g b g u g b b rw u u w u b g ur rb b b u g u b w u u g g]
+Continued
+ggb -> gb (len 2) with g as [w u u u g br rg w b u u w ru g b g u g b br w u u w u b g u rr b b b u g u b w u u g]
+Continued
+gb -> b (len 1) with g as [w u u u g br rg w b u u w ru g b g u g b br w u u w u b g ur rb b b u g u b w u u g g]
+Continued
+ggb -> gb (len 2) with g as [w u u u g br rg w b u u wr u g b g u g b b rw u u w u b g u rr b b b u g u b w u u g]
+Continued
+gb -> b (len 1) with g as [w u u u g br rg w b u u wr u g b g u g b b rw u u w u b g ur rb b b u g u b w u u g g]
+Continued
+ggb -> gb (len 2) with g as [w u u u g br rg w b u u wr u g b g u g b br w u u w u b g u rr b b b u g u b w u u g]
+Continued
+gb -> b (len 1) with g as [w u u u g br rg w b u u wr u g b g u g b br w u u w u b g ur rb b b u g u b w u u g g]
+Continued
+ggb -> gb (len 2) with g as [w u u u g b rr g w b u u w ru g b g u g b b rw u u w u b g u rr b b b u g u b w u u g]
+Continued
+gb -> b (len 1) with g as [w u u u g b rr g w b u u w ru g b g u g b b rw u u w u b g ur rb b b u g u b w u u g g]
+Continued
+ggb -> gb (len 2) with g as [w u u u g b rr g w b u u w ru g b g u g b br w u u w u b g u rr b b b u g u b w u u g]
+Continued
+gb -> b (len 1) with g as [w u u u g b rr g w b u u w ru g b g u g b br w u u w u b g ur rb b b u g u b w u u g g]
+Continued
+ggb -> gb (len 2) with g as [w u u u g b rr g w b u u wr u g b g u g b b rw u u w u b g u rr b b b u g u b w u u g]
+Continued
+gb -> b (len 1) with g as [w u u u g b rr g w b u u wr u g b g u g b b rw u u w u b g ur rb b b u g u b w u u g g]
+Continued
+ggb -> gb (len 2) with g as [w u u u g b rr g w b u u wr u g b g u g b br w u u w u b g u rr b b b u g u b w u u g]
+Continued
+gb -> b (len 1) with g as [w u u u g b rr g w b u u wr u g b g u g b br w u u w u b g ur rb b b u g u b w u u g g]
+Continued
+gb -> b (len 1) with g as [w u u u g br rg w b u u w ru g b g u g b b rw u u w u b g u rr b b b u g u b w u u g g]
+Continued
+b ->  (len 0) with b as [w u u u g br rg w b u u w ru g b g u g b b rw u u w u b g ur rb b b u g u b w u u g g b]
+appended
+gb -> b (len 1) with g as [w u u u g br rg w b u u w ru g b g u g b br w u u w u b g u rr b b b u g u b w u u g g]
+Continued
+b ->  (len 0) with b as [w u u u g br rg w b u u w ru g b g u g b br w u u w u b g ur rb b b u g u b w u u g g b]
+appended
+gb -> b (len 1) with g as [w u u u g br rg w b u u wr u g b g u g b b rw u u w u b g u rr b b b u g u b w u u g g]
+Continued
+b ->  (len 0) with b as [w u u u g br rg w b u u wr u g b g u g b b rw u u w u b g ur rb b b u g u b w u u g g b]
+appended
+gb -> b (len 1) with g as [w u u u g br rg w b u u wr u g b g u g b br w u u w u b g u rr b b b u g u b w u u g g]
+Continued
+b ->  (len 0) with b as [w u u u g br rg w b u u wr u g b g u g b br w u u w u b g ur rb b b u g u b w u u g g b]
+appended
+gb -> b (len 1) with g as [w u u u g b rr g w b u u w ru g b g u g b b rw u u w u b g u rr b b b u g u b w u u g g]
+Continued
+b ->  (len 0) with b as [w u u u g b rr g w b u u w ru g b g u g b b rw u u w u b g ur rb b b u g u b w u u g g b]
+appended
+gb -> b (len 1) with g as [w u u u g b rr g w b u u w ru g b g u g b br w u u w u b g u rr b b b u g u b w u u g g]
+Continued
+b ->  (len 0) with b as [w u u u g b rr g w b u u w ru g b g u g b br w u u w u b g ur rb b b u g u b w u u g g b]
+appended
+gb -> b (len 1) with g as [w u u u g b rr g w b u u wr u g b g u g b b rw u u w u b g u rr b b b u g u b w u u g g]
+Continued
+b ->  (len 0) with b as [w u u u g b rr g w b u u wr u g b g u g b b rw u u w u b g ur rb b b u g u b w u u g g b]
+appended
+gb -> b (len 1) with g as [w u u u g b rr g w b u u wr u g b g u g b br w u u w u b g u rr b b b u g u b w u u g g]
+Continued
+b ->  (len 0) with b as [w u u u g b rr g w b u u wr u g b g u g b br w u u w u b g ur rb b b u g u b w u u g g b]
+appended
+b ->  (len 0) with b as [w u u u g br rg w b u u w ru g b g u g b b rw u u w u b g u rr b b b u g u b w u u g g b]
+appended
+b ->  (len 0) with b as [w u u u g br rg w b u u w ru g b g u g b br w u u w u b g u rr b b b u g u b w u u g g b]
+appended
+b ->  (len 0) with b as [w u u u g br rg w b u u wr u g b g u g b b rw u u w u b g u rr b b b u g u b w u u g g b]
+appended
+b ->  (len 0) with b as [w u u u g br rg w b u u wr u g b g u g b br w u u w u b g u rr b b b u g u b w u u g g b]
+appended
+b ->  (len 0) with b as [w u u u g b rr g w b u u w ru g b g u g b b rw u u w u b g u rr b b b u g u b w u u g g b]
+appended
+b ->  (len 0) with b as [w u u u g b rr g w b u u w ru g b g u g b br w u u w u b g u rr b b b u g u b w u u g g b]
+appended
+b ->  (len 0) with b as [w u u u g b rr g w b u u wr u g b g u g b b rw u u w u b g u rr b b b u g u b w u u g g b]
+appended
+b ->  (len 0) with b as [w u u u g b rr g w b u u wr u g b g u g b br w u u w u b g u rr b b b u g u b w u u g g b]
+appended
+Design wuuugbrrgwbuuwrugbgugbbrwuuwubgurrbbbugubwuuggb can be done using 16 base towels
+using [w u u u g br rg w b u u w ru g b g u g b b rw u u w u b g ur rb b b u g u b w u u g g b]
+using [w u u u g br rg w b u u w ru g b g u g b br w u u w u b g ur rb b b u g u b w u u g g b]
+using [w u u u g br rg w b u u wr u g b g u g b b rw u u w u b g ur rb b b u g u b w u u g g b]
+using [w u u u g br rg w b u u wr u g b g u g b br w u u w u b g ur rb b b u g u b w u u g g b]
+using [w u u u g b rr g w b u u w ru g b g u g b b rw u u w u b g ur rb b b u g u b w u u g g b]
+using [w u u u g b rr g w b u u w ru g b g u g b br w u u w u b g ur rb b b u g u b w u u g g b]
+using [w u u u g b rr g w b u u wr u g b g u g b b rw u u w u b g ur rb b b u g u b w u u g g b]
+using [w u u u g b rr g w b u u wr u g b g u g b br w u u w u b g ur rb b b u g u b w u u g g b]
+using [w u u u g br rg w b u u w ru g b g u g b b rw u u w u b g u rr b b b u g u b w u u g g b]
+using [w u u u g br rg w b u u w ru g b g u g b br w u u w u b g u rr b b b u g u b w u u g g b]
+using [w u u u g br rg w b u u wr u g b g u g b b rw u u w u b g u rr b b b u g u b w u u g g b]
+using [w u u u g br rg w b u u wr u g b g u g b br w u u w u b g u rr b b b u g u b w u u g g b]
+using [w u u u g b rr g w b u u w ru g b g u g b b rw u u w u b g u rr b b b u g u b w u u g g b]
+using [w u u u g b rr g w b u u w ru g b g u g b br w u u w u b g u rr b b b u g u b w u u g g b]
+using [w u u u g b rr g w b u u wr u g b g u g b b rw u u w u b g u rr b b b u g u b w u u g g b]
+using [w u u u g b rr g w b u u wr u g b g u g b br w u u w u b g u rr b b b u g u b w u u g g b]
+Reintroduced: [bb bbb bbbbbw bbbr bbbug bbbw bbbwbruw bbbwuww bbg bbgwg bbr bbrgg bbrw bbu bbw bbwbbug bbwwbg bg bgb bgbrb bgg bgggur bggrww bggw bgu bgubg bgurwu brb brbbug brbg brbggb brbw brg brrg brru bru brubr brug brw brwb brwugrwb brwuu bu bub bubbu bubrru bubruu bug bugbg buguurg bugww bur buru burw buu buurub buuugb buuwrw buw buwb buwgb buwgbr buwrbbbr bw bwb bwbb bwbug bwbwb bwg bwgb bwguu bwrb bwru bwrubgu bwu bwubw bwugw bwuw bwuwg bww bwwb bwww gb gbb gbbbgb gbbg gbbrw gbgbrw gbgg gbgwurg gbr gbu gburb gbuw gbw gbwbbg gg ggb ggbg ggbr ggbrw ggbu ggbwugw ggg ggruuu ggruw ggrwu ggu ggug ggugb gguru ggw grb grbbu grbg grg gru gruw grw grwbu grwbwrg grwrbwrg gu gub gubu gug gur gurbwbuw guu guugbub guur guuwg guuwgww guw guwuww guwwwb gw gwb gwbrbw gwbu gwg gwu gwugw gwuu gww gwwbubw rbb rbbru rbbwuwub rbg rbggrw rbrgw rbrug rbrw rbu rbur rbw rbwgru rbwubb rgb rgbwbr rgg rggu rgrgwbru rgrwwuww rgu rgub rgubb rgug rgugbw rguguur rgw rgwg rub rubwggub rug rugbrwb rugwb rugwrw rurbg ruu ruurg ruuur ruuuwg ruuw ruw rwb rwbuur rwbw rwbww rwg rwgb rwgwrub rwru rwu rwur rwuu rwuw rwuwb rww rwwbw rwwg rwwggu ub ubb ubbbgu ubbgu ubbr ubbwg ubg ubgbuwb ubggu ubgrbug ubgu ubr ubrb ubrbrwg ubrgw ubru ubu ubuwg ubw ubwb ubwwub ugb ugbb ugbgb ugbwbu ugg ugrgg ugrw ugu ugug ugurb ugw ugwg urb urbbbggb urbbbr urbrgu urbw urgbgbb urgwu urrb urrw urrwrw uru ururgbw uruu urw urwrb urww urwwbg urwwbu uu uub uubbuuu uug uugb uugbw uur uurur uuu uuug uuw uuww uw uwb uwg uwgb uwrwbrrw uwu uwub uwuuw uwuwu uwuwwbr uwuwwww uww uwwguwu wb wbb wbbb wbbg wbg wbgb wbggb wbgggg wbggu wbu wbuu wbuuu wbw wbwbuurb wbwgrbg wbwuuwb wbwwbb wg wgb wgbbbw wgg wggbr wggg wgggw wgrbbr wgrgguu wgrubgw wgu wgw wgwb wgwbwg wgwrg wrb wrbgrugw wrbgwgu wrg wrgrw wrguw wru wrub wruw wruww wrw wrwb wrwbgubg wrwbur wrwgu wu wub wubugb wug wugugwrg wur wuu wuubgb wuw wuwgwg wuwuw wuwwbr wuwwugb ww wwb wwbbr wwbrgg wwg wwgu wwgubgbr wwguu wwgw wwu wwurrb wwuugub wwuwg www wwwbbg wwwg]
+Combined Positions: [[0 1] [0 2] [1 2] [1 3] [1 4] [2 3] [2 4] [4 5] [5 6] [6 7] [7 8] [7 9] [7 10] [8 9] [8 10] [9 10] [9 11] [10 11] [11 12] [12 13] [13 14] [14 15] [14 16] [15 16] [15 17] [16 18] [16 19] [17 18] [17 19] [17 20] [18 19] [18 20] [19 20] [19 22] [20 21] [20 22] [21 22] [21 23] [22 23] [22 24] [22 25] [23 24] [23 25] [24 25] [24 26] [25 26] [26 27] [27 28] [28 29] [29 30] [29 31] [30 31] [30 32] [31 33] [32 33] [32 34] [33 34] [33 35] [34 35] [34 36] [35 36] [35 37] [36 37] [36 38] [37 39] [38 39] [38 40] [39 40]]
+Borders: [0 4 5 6 7 11 12 13 14 26 27 28 29 40]
+Reintroduced: [bb bbb bbbbbw bbbr bbbug bbbw bbbwbruw bbbwuww bbg bbgwg bbr bbrgg bbrw bbu bbw bbwbbug bbwwbg bg bgb bgbrb bgg bgggur bggw bgu bgubg bgurwu brb brbbug brbg brbggb brbw brg brrg brru bru brubr brug brw brwb brwuu bu bub bubbu bubrru bubruu bug bugbg buguurg bugww bur buru burw buu buurub buuugb buw buwb buwgb buwgbr buwrbbbr bw bwb bwbb bwbug bwbwb bwg bwgb bwguu bwrb bwru bwrubgu bwu bwubw bwugw bwuw bwuwg bww bwwb bwww gb gbb gbbbgb gbbg gbbrw gbgbrw gbgg gbgwurg gbr gbu gburb gbuw gbw gbwbbg gg ggb ggbg ggbr ggbrw ggbu ggbwugw ggg ggruuu ggruw ggu ggug ggugb gguru ggw grb grbbu grbg grg gru gruw gu gub gubu gug gur gurbwbuw guu guugbub guur guuwg guuwgww guw guwuww guwwwb gw gwb gwbrbw gwbu gwg gwu gwugw gwuu gww gwwbubw rbb rbbru rbbwuwub rbg rbrgw rbrug rbu rbur rbw rbwgru rbwubb rgb rgbwbr rgg rggu rgrgwbru rgu rgub rgubb rgug rgugbw rguguur rgw rgwg rub rubwggub rug rugbrwb rugwb rurbg ruu ruurg ruuur ruuuwg ruuw ruw ub ubb ubbbgu ubbgu ubbr ubbwg ubg ubgbuwb ubggu ubgrbug ubgu ubr ubrb ubrbrwg ubrgw ubru ubu ubuwg ubw ubwb ubwwub ugb ugbb ugbgb ugbwbu ugg ugrgg ugu ugug ugurb ugw ugwg urb urbbbggb urbbbr urbrgu urbw urgbgbb urgwu urrb uru ururgbw uruu urw urwrb urww urwwbg urwwbu uu uub uubbuuu uug uugb uugbw uur uurur uuu uuug uuw uuww uw uwb uwg uwgb uwu uwub uwuuw uwuwu uwuwwbr uwuwwww uww uwwguwu wb wbb wbbb wbbg wbg wbgb wbggb wbgggg wbggu wbu wbuu wbuuu wbw wbwbuurb wbwgrbg wbwuuwb wbwwbb wg wgb wgbbbw wgg wggbr wggg wgggw wgrbbr wgrgguu wgrubgw wgu wgw wgwb wgwbwg wgwrg wrb wrbgrugw wrbgwgu wrg wrguw wru wrub wruw wruww wu wub wubugb wug wugugwrg wur wuu wuubgb wuw wuwgwg wuwuw wuwwbr wuwwugb ww wwb wwbbr wwbrgg wwg wwgu wwgubgbr wwguu wwgw wwu wwurrb wwuugub wwuwg www wwwbbg wwwg]
+Combined Positions: [[0 1] [0 2] [1 2] [1 3] [1 4] [2 3] [2 4] [4 5] [5 6] [6 7] [7 8] [7 9] [7 10] [8 9] [8 10] [9 10] [9 11] [10 11] [11 12] [12 13] [13 14] [14 15] [14 16] [15 16] [15 17] [16 18] [17 18] [17 20] [18 19] [18 20] [19 20] [19 22] [20 21] [20 22] [21 22] [21 23] [22 23] [22 24] [22 25] [23 24] [23 25] [24 25] [24 26] [25 26] [26 27] [27 28] [28 29] [29 30] [29 31] [30 31] [30 32] [31 33] [32 33] [32 34] [33 34] [33 35] [34 35] [34 36] [35 36] [35 37] [36 37] [36 38] [37 39] [38 39] [38 40] [39 40]]
+Borders: [0 4 5 6 7 11 12 13 14 26 27 28 29 40]
+Reintroduced: [bb bbb bbbbbw bbbr bbbug bbbw bbbwbruw bbbwuww bbg bbgwg bbr bbrgg bbrw bbu bbw bbwbbug bbwwbg bg bgb bgbrb bgg bgggur bggrww bggw bgu bgubg bgurwu bgwr brb brbbug brbg brbggb brbw brg brrg bru brubr brug brw brwb brwugrwb brwuu bu bub bubbu bubruu bug bugbg buguurg bugww bur buru burw buu buurub buuugb buuwrw buw buwb buwgb buwgbr buwrbbbr bw bwb bwbb bwbug bwbwb bwg bwgb bwguu bwr bwrb bwrrguug bwru bwrubgu bwu bwubw bwugw bwuw bwuwg bww bwwb bwww gb gbb gbbbgb gbbg gbbrw gbgbrw gbgg gbgwurg gbr gbu gbugwr gburb gbuw gbw gbwbbg gg ggb ggbg ggbr ggbrw ggbu ggbwugw ggg ggrwu ggu ggug ggugb gguru ggw ggwr grb grbbu grbg grg grw grwbu grwbwrg grwrbwrg gu gub gubu gug gur gurbwbuw guu guugbub guur guuwg guuwgww guw guwr guwuww guwwwb gw gwb gwbrbw gwbu gwg gwr gwu gwugw gwuu gww gwwbubw rbb rbbru rbbwuwub rbg rbggrw rbrgw rbrw rbu rbur rbw rbwubb rgb rgbwbr rgg rggu rgrgwbru rgrwwuww rgu rgub rgubb rgug rgugbw rguguur rgw rgwg rgwr rgwwr rwb rwbuur rwbw rwbww rwg rwgb rwgwrub rwu rwur rwuu rwuw rwuwb rww rwwbw rwwg rwwggu ub ubb ubbbgu ubbgu ubbr ubbwg ubg ubgbuwb ubggu ubgrbug ubgu ubgwr ubr ubrb ubrbrwg ubrgw ubrrwwr ubru ubu ubuwg ubw ubwb ubwwub ugb ugbb ugbgb ugbwbu ugg ugrgg ugrw ugu ugug ugurb ugw ugwg urb urbbbggb urbbbr urbrgu urbw urgbgbb urgwu urrb urrw urrwrw uru ururgbw uruu urw urwrb urww urwwbg urwwbu uu uub uubbuuu uug uugb uugbw uur uurur uuu uuug uuw uuww uw uwb uwg uwgb uwr uwrrbb uwrwbrrw uwu uwub uwuuw uwuwu uwuwwbr uwuwwww uww uwwguwu wb wbb wbbb wbbg wbg wbgb wbggb wbgggg wbggu wbu wbuu wbuuu wbw wbwbuurb wbwgrbg wbwuuwb wbwwbb wg wgb wgbbbw wgg wggbr wggg wgggw wgrbbr wgrgguu wgu wgw wgwb wgwbwg wgwrg wrb wrbgwgu wrg wrgrw wrguw wru wrub wruw wruww wrw wrwb wrwbgubg wrwbur wrwgu wu wub wubugb wug wugugwrg wur wuu wuubgb wuw wuwgwg wuwuw wuwwbr wuwwugb ww wwb wwbbr wwbrgg wwg wwgu wwgubgbr wwguu wwgw wwr wwu wwurrb wwuugub wwuwg www wwwbbg wwwg]
+Combined Positions: [[0 1] [0 2] [1 2] [1 3] [1 4] [2 3] [2 4] [4 5] [5 6] [6 7] [7 8] [7 9] [7 10] [8 9] [8 10] [9 10] [10 11] [11 12] [12 14] [13 14] [14 15] [14 16] [15 16] [15 17] [16 18] [16 19] [17 18] [17 19] [17 20] [18 19] [18 20] [19 20] [19 22] [20 21] [20 22] [21 22] [21 23] [22 23] [22 24] [22 25] [23 24] [23 25] [24 25] [24 26] [25 26] [26 27] [27 28] [28 29] [29 30] [29 31] [30 31] [30 32] [31 33] [32 33] [32 34] [33 34] [33 35] [34 35] [34 36] [35 36] [35 37] [36 37] [36 38] [37 39] [38 39] [38 40] [39 40]]
+Borders: [0 4 5 6 7 10 11 12 14 26 27 28 29 40]
+Reintroduced: [bb bbb bbbbbw bbbr bbbug bbbw bbbwbruw bbbwuww bbg bbgwg bbr bbrgg bbrw bbu bbw bbwbbug bbwwbg bg bgb bgbrb bgg bgggur bggw bgu bgubg bgurwu bgwr brb brbbug brbg brbggb brbw brg brrg bru brubr brug brw brwb brwuu bu bub bubbu bubruu bug bugbg buguurg bugww bur buru burw buu buurub buuugb buuwrw buw buwb buwgb buwgbr buwrbbbr bw bwb bwbb bwbug bwbwb bwg bwgb bwguu bwr bwrb bwrrguug bwru bwrubgu bwu bwubw bwugw bwuw bwuwg bww bwwb bwww gb gbb gbbbgb gbbg gbbrw gbgbrw gbgg gbgwurg gbr gbu gbugwr gburb gbuw gbw gbwbbg gg ggb ggbg ggbr ggbrw ggbu ggbwugw ggg ggu ggug ggugb gguru ggw ggwr grb grbbu grbg grg gu gub gubu gug gur gurbwbuw guu guugbub guur guuwg guuwgww guw guwr guwuww guwwwb gw gwb gwbrbw gwbu gwg gwr gwu gwugw gwuu gww gwwbubw rbb rbbru rbbwuwub rbg rbrgw rbu rbur rbw rbwubb rgb rgbwbr rgg rggu rgrgwbru rgu rgub rgubb rgug rgugbw rguguur rgw rgwg rgwr rgwwr ub ubb ubbbgu ubbgu ubbr ubbwg ubg ubgbuwb ubggu ubgrbug ubgu ubgwr ubr ubrb ubrbrwg ubrgw ubru ubu ubuwg ubw ubwb ubwwub ugb ugbb ugbgb ugbwbu ugg ugrgg ugu ugug ugurb ugw ugwg urb urbbbggb urbbbr urbrgu urbw urgbgbb urgwu urrb uru ururgbw uruu urw urwrb urww urwwbg urwwbu uu uub uubbuuu uug uugb uugbw uur uurur uuu uuug uuw uuww uw uwb uwg uwgb uwr uwrrbb uwu uwub uwuuw uwuwu uwuwwbr uwuwwww uww uwwguwu wb wbb wbbb wbbg wbg wbgb wbggb wbgggg wbggu wbu wbuu wbuuu wbw wbwbuurb wbwgrbg wbwuuwb wbwwbb wg wgb wgbbbw wgg wggbr wggg wgggw wgrbbr wgrgguu wgu wgw wgwb wgwbwg wgwrg wrb wrbgwgu wrg wrguw wru wrub wruw wruww wrw wrwb wrwbgubg wrwbur wrwgu wu wub wubugb wug wugugwrg wur wuu wuubgb wuw wuwgwg wuwuw wuwwbr wuwwugb ww wwb wwbbr wwbrgg wwg wwgu wwgubgbr wwguu wwgw wwr wwu wwurrb wwuugub wwuwg www wwwbbg wwwg]
+Combined Positions: [[0 1] [0 2] [1 2] [1 3] [1 4] [2 3] [2 4] [4 5] [5 6] [6 7] [7 8] [7 9] [7 10] [8 9] [8 10] [9 10] [10 11] [11 12] [12 14] [13 14] [14 15] [14 16] [15 16] [15 17] [16 18] [17 18] [17 20] [18 19] [18 20] [19 20] [19 22] [20 21] [20 22] [21 22] [21 23] [22 23] [22 24] [22 25] [23 24] [23 25] [24 25] [24 26] [25 26] [26 27] [27 28] [28 29] [29 30] [29 31] [30 31] [30 32] [31 33] [32 33] [32 34] [33 34] [33 35] [34 35] [34 36] [35 36] [35 37] [36 37] [36 38] [37 39] [38 39] [38 40] [39 40]]
+Borders: [0 4 5 6 7 10 11 12 14 26 27 28 29 40]
+Reintroduced: [bb bbb bbbbbw bbbug bbbw bbbwbruw bbbwuww bbg bbgwg bbrw bbu bbw bbwbbug bbwwbg bg bgb bgbrb bgg bgggur bggrrbb bggrww bggw bgrrb bgrrruu bgu bgubg bgurwu brb brbbug brbg brbggb brbw brr brrg brru bru brug brw brwb brwugrwb brwuu bu bub bubbu bubrru bubruu bug bugbg buguurg bugww bur buru bururr burw buu buurub buuugb buuwrw buw buwb buwgb bw bwb bwbb bwbug bwbwb bwg bwgb bwguu bwrb bwrrguug bwru bwrubgu bwu bwubw bwugw bwuw bwuwg bww bwwb bwww gb gbb gbbbgb gbbg gbbrw gbgbrw gbgg gbgwurg gbu gburb gbuw gbw gbwbbg gg ggb ggbg ggbrr ggbrw ggbu ggbwugw ggg ggrr ggruuu ggruw ggrwu ggu ggug ggugb gguru ggw grb grbbu grbg grr grrw gru grurrb gruw grw grwbu gu gub gubu gug gur gurbwbuw guu guugbub guur guuwg guuwgww guw guwuww guwwwb gw gwb gwbrbw gwbu gwg gwu gwugrr gwugw gwuu gwuurr gww gwwbubw rbb rbbru rbbwuwub rbg rbggrw rbrug rbrw rbu rbur rbw rbwgru rbwubb rrb rrbb rrbg rrbubbu rrg rrgrb rrgurrg rrgw rrgwgur rrrr rrrug rru rruwbw rrw rrwb rrwbrbbg rrwg rub rubwggub rug rugbrwb rugwb rugwrw rurbg ruu ruurg ruuur ruuuwg ruuw ruw rwb rwbuur rwbw rwbww rwg rwgb rwgwrub rwru rwrurrrb rwu rwur rwuu rwuw rwuwb rww rwwbw rwwg rwwggu ub ubb ubbbgu ubbgu ubbwg ubg ubgbuwb ubggu ubgrbug ubgu ubrb ubrbrwg ubru ubu ubuwg ubw ubwb ubwwub ugb ugbb ugbgb ugbwbu ugg uggwrr ugrruuw ugrw ugu ugug ugurb ugw ugwg urb urbbbggb urbw urgbgbb urgwu urr urrb urrr urrrrbu urrw urrwrw uru ururgbw uruu urw urwrb urww urwwbg urwwbu uu uub uubbuuu uubrr uug uugb uugbw uur uurr uurur uuu uuug uuw uuww uw uwb uwg uwgb uwrrbb uwrwbrrw uwu uwub uwuuw uwuwu uwuwwww uww uwwguwu wb wbb wbbb wbbg wbg wbgb wbggb wbgggg wbggu wbu wbuu wbuuu wbw wbwbuurb wbwgrbg wbwuuwb wbwwbb wg wgb wgbbbw wgg wggg wgggw wgrbgrr wgrbrrb wgrr wgrubgw wgu wgw wgwb wgwbwg wrb wrbgrugw wrbgwgu wrr wrrbru wrru wru wrub wruw wruww wrw wrwb wrwbgubg wrwbur wrwgu wu wub wubugb wug wur wuu wuubgb wuw wuwgwg wuwuw wuwwugb ww wwb wwbrr wwg wwgu wwguu wwgw wwrr wwu wwurrb wwuugub wwuwg www wwwbbg wwwg]
+Combined Positions: [[0 1] [0 2] [1 2] [1 3] [1 4] [2 3] [2 4] [2 5] [3 5] [4 5] [5 6] [5 7] [6 7] [6 8] [7 8] [7 9] [7 10] [8 9] [8 10] [8 11] [9 10] [9 11] [10 11] [10 12] [11 12] [12 13] [13 14] [14 15] [15 16] [15 17] [16 17] [16 18] [17 19] [17 20] [18 19] [18 20] [18 21] [19 20] [19 21] [20 21] [20 23] [21 22] [21 23] [22 23] [22 24] [23 24] [23 25] [23 26] [24 25] [24 26] [25 26] [25 27] [26 27] [27 28] [28 29] [29 30] [30 31] [30 32] [31 32] [31 33] [32 34] [33 34] [33 35] [34 35] [34 36] [35 36] [35 37] [36 37] [36 38] [37 38] [37 39] [38 40] [39 40] [39 41] [40 41]]
+Borders: [0 5 12 13 14 15 27 28 29 30 41]
+Reintroduced: [bb bbb bbbbbw bbbr bbbug bbbw bbbwbruw bbbwuww bbg bbgwg bbr bbrgg bbrw bbu bbw bbwbbug bbwwbg bg bgb bgbrb bgg bgggur bggrrbb bggw bgrrb bgrrruu bgu bgubg bgurwu brb brbbug brbg brbggb brbw brg brr brrg brru bru brubr brug brw brwb brwuu bu bub bubbu bubrru bubruu bug bugbg buguurg bugww bur buru bururr burw buu buurub buuugb buw buwb buwgb buwgbr buwrbbbr bw bwb bwbb bwbug bwbwb bwg bwgb bwguu bwrb bwrrguug bwru bwrubgu bwu bwubw bwugw bwuw bwuwg bww bwwb bwww gb gbb gbbbgb gbbg gbbrw gbgbrw gbgg gbgwurg gbr gbu gburb gbuw gbw gbwbbg gg ggb ggbg ggbr ggbrr ggbrw ggbu ggbwugw ggg ggrr ggruuu ggruw ggu ggug ggugb gguru ggw grb grbbu grbg grr grrw gru grurrb gruw gu gub gubu gug gur gurbwbuw guu guugbub guur guuwg guuwgww guw guwuww guwwwb gw gwb gwbrbw gwbu gwg gwu gwugrr gwugw gwuu gwuurr gww gwwbubw rbb rbbru rbbwuwub rbg rbrug rbu rbur rbw rbwgru rbwubb rrb rrbb rrbg rrbubbu rrg rrgrb rrgurrg rrgw rrgwgur rrrr rrrug rru rruwbw rrw rrwb rrwbrbbg rrwg rub rubwggub rug rugbrwb rugwb rurbg ruu ruurg ruuur ruuuwg ruuw ruw ub ubb ubbbgu ubbgu ubbr ubbwg ubg ubgbuwb ubggu ubgrbug ubgu ubr ubrb ubrbrwg ubrgw ubru ubu ubuwg ubw ubwb ubwwub ugb ugbb ugbgb ugbwbu ugg uggwrr ugrruuw ugu ugug ugurb ugw ugwg urb urbbbggb urbbbr urbrgu urbw urgbgbb urgwu urr urrb urrr urrrrbu urrw uru ururgbw uruu urw urwrb urww urwwbg urwwbu uu uub uubbuuu uubrr uug uugb uugbw uur uurr uurur uuu uuug uuw uuww uw uwb uwg uwgb uwrrbb uwu uwub uwuuw uwuwu uwuwwbr uwuwwww uww uwwguwu wb wbb wbbb wbbg wbg wbgb wbggb wbgggg wbggu wbu wbuu wbuuu wbw wbwbuurb wbwgrbg wbwuuwb wbwwbb wg wgb wgbbbw wgg wggbr wggg wgggw wgrbbr wgrbgrr wgrbrrb wgrr wgrubgw wgu wgw wgwb wgwbwg wrb wrbgrugw wrbgwgu wrr wrrbru wrru wru wrub wruw wruww wu wub wubugb wug wur wuu wuubgb wuw wuwgwg wuwuw wuwwbr wuwwugb ww wwb wwbbr wwbrgg wwbrr wwg wwgu wwgubgbr wwguu wwgw wwrr wwu wwurrb wwuugub wwuwg www wwwbbg wwwg]
+Combined Positions: [[0 1] [0 2] [1 2] [1 3] [1 4] [2 3] [2 4] [2 5] [3 5] [4 5] [5 6] [5 7] [6 7] [6 8] [7 8] [7 9] [7 10] [8 9] [8 10] [8 11] [9 10] [9 11] [10 11] [10 12] [11 12] [12 13] [13 14] [14 15] [15 16] [15 17] [16 17] [16 18] [17 19] [18 19] [18 21] [19 20] [19 21] [20 21] [20 23] [21 22] [21 23] [22 23] [22 24] [23 24] [23 25] [23 26] [24 25] [24 26] [25 26] [25 27] [26 27] [27 28] [28 29] [29 30] [30 31] [30 32] [31 32] [31 33] [32 34] [33 34] [33 35] [34 35] [34 36] [35 36] [35 37] [36 37] [36 38] [37 38] [37 39] [38 40] [39 40] [39 41] [40 41]]
+Borders: [0 5 12 13 14 15 27 28 29 30 41]
+Reintroduced: [bb bbb bbbbbw bbbug bbbw bbbwuww bbg bbgwg bbrw bbu bbw bbwbbug bbwwbg bg bgb bgbrb bgg bgggur bggrrbb bggrww bggw bgrrb bgu bgubg bgurwu bgwr brb brbbug brbg brbggb brbw brr brrg brru brw brwb brwugrwb brwuu bu bub bubbu bubrru bug bugbg buguurg bugww bur buru bururr burw buu buurub buuugb buuwrw buw buwb buwgb bw bwb bwbb bwbug bwbwb bwg bwgb bwguu bwr bwrb bwrrguug bwru bwrubgu bwu bwubw bwugw bwuw bwuwg bww bwwb bwww gb gbb gbbbgb gbbg gbbrw gbgbrw gbgg gbgwurg gbu gbugwr gburb gbuw gbw gbwbbg gg ggb ggbg ggbrr ggbrw ggbu ggbwugw ggg ggrr ggrwu ggu ggug ggugb gguru ggw ggwr grb grbbu grbg grr grrw grw grwbu grwbwrg grwrbwrg gu gub gubu gug gur gurbwbuw guu guugbub guur guuwg guuwgww guw guwr guwuww guwwwb gw gwb gwbrbw gwbu gwg gwr gwu gwugrr gwugw gwuu gwuurr gww gwwbubw rbb rbbwuwub rbg rbggrw rbrw rbu rbur rbw rbwubb rrb rrbb rrbg rrbubbu rrg rrgrb rrgurrg rrgw rrgwgur rrrr rru rruwbw rrw rrwb rrwbrbbg rrwg rwb rwbuur rwbw rwbww rwg rwgb rwgwrub rwu rwur rwuu rwuw rwuwb rww rwwbw rwwg rwwggu ub ubb ubbbgu ubbgu ubbwg ubg ubgbuwb ubggu ubgrbug ubgu ubgwr ubrb ubrbrwg ubrrwwr ubu ubuwg ubw ubwb ubwwub ugb ugbb ugbgb ugbwbu ugg uggwrr ugrruuw ugrw ugu ugug ugurb ugw ugwg urb urbbbggb urbw urgbgbb urgwu urr urrb urrr urrrrbu urrw urrwrw uru ururgbw uruu urw urwrb urww urwwbg urwwbu uu uub uubbuuu uubrr uug uugb uugbw uur uurr uurur uuu uuug uuw uuww uw uwb uwg uwgb uwr uwrrbb uwrwbrrw uwu uwub uwuuw uwuwu uwuwwww uww uwwguwu wb wbb wbbb wbbg wbg wbgb wbggb wbgggg wbggu wbu wbuu wbuuu wbw wbwbuurb wbwgrbg wbwuuwb wbwwbb wg wgb wgbbbw wgg wggg wgggw wgrbgrr wgrbrrb wgrr wgu wgw wgwb wgwbwg wgwrg wrb wrbgwgu wrg wrgrw wrguw wrr wrrr wrru wru wrub wruw wruww wrw wrwb wrwbgubg wrwbur wrwgu wu wub wubugb wug wugugwrg wur wuu wuubgb wuw wuwgwg wuwuw wuwwugb ww wwb wwbrr wwg wwgu wwguu wwgw wwr wwrr wwu wwurrb wwuugub wwuwg www wwwbbg wwwg]
+Combined Positions: [[0 1] [0 2] [1 2] [1 3] [1 4] [2 3] [2 4] [2 5] [3 5] [4 5] [5 6] [5 7] [6 7] [6 8] [7 8] [7 9] [7 10] [8 9] [8 10] [8 11] [9 10] [9 11] [10 11] [11 12] [12 13] [13 15] [14 15] [15 16] [15 17] [16 17] [16 18] [17 19] [17 20] [18 19] [18 20] [18 21] [19 20] [19 21] [20 21] [20 23] [21 22] [21 23] [22 23] [22 24] [23 24] [23 25] [23 26] [24 25] [24 26] [25 26] [25 27] [26 27] [27 28] [28 29] [29 30] [30 31] [30 32] [31 32] [31 33] [32 34] [33 34] [33 35] [34 35] [34 36] [35 36] [35 37] [36 37] [36 38] [37 38] [37 39] [38 40] [39 40] [39 41] [40 41]]
+Borders: [0 5 11 12 13 15 27 28 29 30 41]
+Reintroduced: [bb bbb bbbbbw bbbr bbbug bbbw bbbwbruw bbbwuww bbg bbgwg bbr bbrgg bbrw bbu bbw bbwbbug bbwwbg bg bgb bgbrb bgg bgggur bggrrbb bggw bgrrb bgu bgubg bgurwu bgwr brb brbbug brbg brbggb brbw brg brr brrg brru bru brubr brug brw brwb brwuu bu bub bubbu bubrru bubruu bug bugbg buguurg bugww bur buru bururr burw buu buurub buuugb buuwrw buw buwb buwgb buwgbr buwrbbbr bw bwb bwbb bwbug bwbwb bwg bwgb bwguu bwr bwrb bwrrguug bwru bwrubgu bwu bwubw bwugw bwuw bwuwg bww bwwb bwww gb gbb gbbbgb gbbg gbbrw gbgbrw gbgg gbgwurg gbr gbu gbugwr gburb gbuw gbw gbwbbg gg ggb ggbg ggbr ggbrr ggbrw ggbu ggbwugw ggg ggrr ggu ggug ggugb gguru ggw ggwr grb grbbu grbg grr grrw gu gub gubu gug gur gurbwbuw guu guugbub guur guuwg guuwgww guw guwr guwuww guwwwb gw gwb gwbrbw gwbu gwg gwr gwu gwugrr gwugw gwuu gwuurr gww gwwbubw rbb rbbru rbbwuwub rbg rbu rbur rbw rbwubb rrb rrbb rrbg rrbubbu rrg rrgrb rrgurrg rrgw rrgwgur rrrr rru rruwbw rrw rrwb rrwbrbbg rrwg ub ubb ubbbgu ubbgu ubbr ubbwg ubg ubgbuwb ubggu ubgrbug ubgu ubgwr ubr ubrb ubrbrwg ubrgw ubrrwwr ubru ubu ubuwg ubw ubwb ubwwub ugb ugbb ugbgb ugbwbu ugg uggwrr ugrruuw ugu ugug ugurb ugw ugwg urb urbbbggb urbbbr urbrgu urbw urgbgbb urgwu urr urrb urrr urrrrbu urrw urrwrw uru ururgbw uruu urw urwrb urww urwwbg urwwbu uu uub uubbuuu uubrr uug uugb uugbw uur uurr uurur uuu uuug uuw uuww uw uwb uwg uwgb uwr uwrrbb uwrwbrrw uwu uwub uwuuw uwuwu uwuwwbr uwuwwww uww uwwguwu wb wbb wbbb wbbg wbg wbgb wbggb wbgggg wbggu wbu wbuu wbuuu wbw wbwbuurb wbwgrbg wbwuuwb wbwwbb wg wgb wgbbbw wgg wggbr wggg wgggw wgrbbr wgrbgrr wgrbrrb wgrr wgu wgw wgwb wgwbwg wgwrg wrb wrbgwgu wrg wrguw wrr wrrbru wrrr wrru wru wrub wruw wruww wrw wrwb wrwbgubg wrwbur wrwgu wu wub wubugb wug wugugwrg wur wuu wuubgb wuw wuwgwg wuwuw wuwwbr wuwwugb ww wwb wwbbr wwbrgg wwbrr wwg wwgu wwgubgbr wwguu wwgw wwr wwrr wwu wwurrb wwuugub wwuwg www wwwbbg wwwg]
+Combined Positions: [[0 1] [0 2] [1 2] [1 3] [1 4] [2 3] [2 4] [2 5] [3 5] [4 5] [5 6] [5 7] [6 7] [6 8] [7 8] [7 9] [7 10] [8 9] [8 10] [8 11] [9 10] [9 11] [10 11] [11 12] [12 13] [13 15] [14 15] [15 16] [15 17] [16 17] [16 18] [17 19] [18 19] [18 21] [19 20] [19 21] [20 21] [20 23] [21 22] [21 23] [22 23] [22 24] [23 24] [23 25] [23 26] [24 25] [24 26] [25 26] [25 27] [26 27] [27 28] [28 29] [29 30] [30 31] [30 32] [31 32] [31 33] [32 34] [33 34] [33 35] [34 35] [34 36] [35 36] [35 37] [36 37] [36 38] [37 38] [37 39] [38 40] [39 40] [39 41] [40 41]]
+Borders: [0 5 11 12 13 15 27 28 29 30 41]
+Reintroduced: [bb bbb bbbbbw bbbr bbbug bbbw bbbwbruw bbbwuww bbg bbgwg bbr bbrgg bbrw bbu bbw bbwbbug bbwwbg bg bgb bgbrb bgg bggrrbb bggrww bggw bgrrb bgrrruu bgu bgubg bgurwu brb brbbug brbg brbggb brbw brg brr brrg brru bru brubr brug brw brwb brwugrwb brwuu bu bub bubbu bubrru bubruu bug bugbg buguurg bugww buru bururr burw buu buurub buuugb buuwrw buw buwb buwgb buwgbr bw bwb bwbb bwbug bwbwb bwg bwgb bwguu bwrrguug bwru bwrubgu bwu bwubw bwugw bwuw bwuwg bww bwwb bwww gb gbb gbbbgb gbbg gbbrw gbgbrw gbgg gbgwurg gbr gbu gbuw gbw gbwbbg gg ggb ggbg ggbr ggbrr ggbrw ggbu ggbwugw ggg ggrr ggruuu ggruw ggrwu ggu ggug ggugb gguru ggw grg grr grrw gru grurrb gruw grw grwbu grwbwrg gu gub gubu gug guu guugbub guuwg guuwgww guw guwuww guwwwb gw gwb gwbrbw gwbu gwg gwu gwugrr gwugw gwuu gwuurr gww gwwbubw rgb rgbwbr rgg rggu rgrgwbru rgrwwuww rgu rgub rgubb rgug rgugbw rgw rgwg rrb rrbb rrbg rrbubbu rrg rrgurrg rrgw rrrr rrrug rru rruwbw rrw rrwb rrwbrbbg rrwg rub rubwggub rug rugbrwb rugwb rugwrw ruu ruurg ruuuwg ruuw ruw rwb rwbw rwbww rwg rwgb rwgwrub rwru rwu rwuu rwuw rwuwb rww rwwbw rwwg rwwggu ub ubb ubbbgu ubbgu ubbr ubbwg ubg ubgbuwb ubggu ubgu ubr ubrb ubrbrwg ubrgw ubru ubu ubuwg ubw ubwb ubwwub ugb ugbb ugbgb ugbwbu ugg uggwrr ugrgg ugrruuw ugrw ugu ugug ugw ugwg urgbgbb urgwu urr urrb urrrrbu urrw urrwrw uru ururgbw uruu urw urww urwwbg urwwbu uu uub uubbuuu uubrr uug uugb uugbw uurr uuu uuug uuw uuww uw uwb uwg uwgb uwrrbb uwrwbrrw uwu uwub uwuuw uwuwu uwuwwbr uwuwwww uww uwwguwu wb wbb wbbb wbbg wbg wbgb wbggb wbgggg wbggu wbu wbuu wbuuu wbw wbwuuwb wbwwbb wg wgb wgbbbw wgg wggbr wggg wgggw wgrgguu wgrr wgrubgw wgu wgw wgwb wgwbwg wgwrg wrg wrgrw wrguw wrr wrrbru wrru wru wrub wruw wruww wrw wrwb wrwbgubg wrwgu wu wub wubugb wug wugugwrg wuu wuubgb wuw wuwgwg wuwuw wuwwbr wuwwugb ww wwb wwbbr wwbrgg wwbrr wwg wwgu wwgubgbr wwguu wwgw wwrr wwu wwurrb wwuugub wwuwg www wwwbbg wwwg]
+Combined Positions: [[0 1] [0 2] [1 2] [1 3] [1 4] [2 3] [2 4] [4 5] [5 6] [6 7] [7 8] [7 9] [7 10] [8 9] [8 10] [9 10] [9 11] [10 11] [11 12] [12 13] [13 14] [14 15] [14 16] [15 16] [15 17] [16 18] [16 19] [17 18] [17 19] [17 20] [18 19] [18 20] [19 20] [19 22] [20 21] [20 22] [21 22] [21 23] [22 23] [22 24] [22 25] [23 24] [23 25] [24 25] [24 26] [24 27] [25 26] [25 27] [26 27] [27 28] [27 29] [28 29] [28 30] [29 30] [29 31] [29 33] [30 31] [30 32] [31 32] [31 33] [32 34] [33 34] [33 35] [34 35] [34 36] [35 36] [35 37] [36 37] [36 38] [37 38] [37 39] [38 40] [39 40] [39 41] [40 41]]
+Borders: [0 4 5 6 7 11 12 13 14 27 41]
+Reintroduced: [bb bbb bbbbbw bbbr bbbug bbbw bbbwbruw bbbwuww bbg bbgwg bbr bbrgg bbrw bbu bbw bbwbbug bbwwbg bg bgb bgbrb bgg bggrrbb bggw bgrrb bgrrruu bgu bgubg brb brbbug brbg brbggb brbw brg brr brrg brru bru brubr brug brw brwb brwuu bu bub bubbu bubrru bubruu bug bugbg buguurg bugww buru bururr buu buurub buuugb buw buwb buwgb buwgbr bw bwb bwbb bwbug bwbwb bwg bwgb bwguu bwrrguug bwru bwrubgu bwu bwubw bwugw bwuw bwuwg bww bwwb bwww gb gbb gbbbgb gbbg gbbrw gbgbrw gbgg gbgwurg gbr gbu gbuw gbw gbwbbg gg ggb ggbg ggbr ggbrr ggbrw ggbu ggbwugw ggg ggrr ggruuu ggruw ggu ggug ggugb gguru ggw grg grr grrw gru grurrb gruw gu gub gubu gug guu guugbub guuwg guuwgww guw guwuww guwwwb gw gwb gwbrbw gwbu gwg gwu gwugrr gwugw gwuu gwuurr gww gwwbubw rgb rgbwbr rgg rggu rgrgwbru rgu rgub rgubb rgug rgugbw rgw rgwg rrb rrbb rrbg rrbubbu rrg rrgurrg rrgw rrrr rrrug rru rruwbw rrw rrwb rrwbrbbg rrwg rub rubwggub rug rugbrwb rugwb ruu ruurg ruuuwg ruuw ruw ub ubb ubbbgu ubbgu ubbr ubbwg ubg ubgbuwb ubggu ubgu ubr ubrb ubrbrwg ubrgw ubru ubu ubuwg ubw ubwb ubwwub ugb ugbb ugbgb ugbwbu ugg uggwrr ugrgg ugrruuw ugu ugug ugw ugwg urgbgbb urgwu urr urrb urrrrbu urrw uru ururgbw uruu uu uub uubbuuu uubrr uug uugb uugbw uurr uuu uuug uuw uuww uw uwb uwg uwgb uwrrbb uwu uwub uwuuw uwuwu uwuwwbr uwuwwww uww uwwguwu wb wbb wbbb wbbg wbg wbgb wbggb wbgggg wbggu wbu wbuu wbuuu wbw wbwuuwb wbwwbb wg wgb wgbbbw wgg wggbr wggg wgggw wgrgguu wgrr wgrubgw wgu wgw wgwb wgwbwg wgwrg wrg wrguw wrr wrrbru wrru wru wrub wruw wruww wu wub wubugb wug wugugwrg wuu wuubgb wuw wuwgwg wuwuw wuwwbr wuwwugb ww wwb wwbbr wwbrgg wwbrr wwg wwgu wwgubgbr wwguu wwgw wwrr wwu wwurrb wwuugub wwuwg www wwwbbg wwwg]
+Combined Positions: [[0 1] [0 2] [1 2] [1 3] [1 4] [2 3] [2 4] [4 5] [5 6] [6 7] [7 8] [7 9] [7 10] [8 9] [8 10] [9 10] [9 11] [10 11] [11 12] [12 13] [13 14] [14 15] [14 16] [15 16] [15 17] [16 18] [17 18] [17 20] [18 19] [18 20] [19 20] [19 22] [20 21] [20 22] [21 22] [21 23] [22 23] [22 24] [22 25] [23 24] [23 25] [24 25] [24 26] [24 27] [25 26] [25 27] [26 27] [27 28] [27 29] [28 29] [28 30] [29 30] [29 31] [29 33] [30 31] [30 32] [31 32] [31 33] [32 34] [33 34] [33 35] [34 35] [34 36] [35 36] [35 37] [36 37] [36 38] [37 38] [37 39] [38 40] [39 40] [39 41] [40 41]]
+Borders: [0 4 5 6 7 11 12 13 14 27 41]
+Reintroduced: [bb bbb bbbbbw bbbr bbbug bbbw bbbwbruw bbbwuww bbg bbgwg bbr bbrgg bbrw bbu bbw bbwbbug bbwwbg bg bgb bgbrb bgg bggrrbb bggrww bggw bgrrb bgu bgubg bgurwu bgwr brb brbbug brbg brbggb brbw brg brr brrg brru bru brubr brug brw brwb brwugrwb brwuu bu bub bubbu bubrru bubruu bug bugbg buguurg bugww burw buu buuugb buuwrw buw buwb buwgb buwgbr buwrbbbr bw bwb bwbb bwbug bwbwb bwg bwgb bwguu bwr bwrb bwrrguug bwru bwrubgu bwu bwubw bwugw bwuw bwuwg bww bwwb bwww gb gbb gbbbgb gbbg gbbrw gbgbrw gbgg gbgwurg gbr gbu gbugwr gbuw gbw gbwbbg gg ggb ggbg ggbr ggbrr ggbrw ggbu ggbwugw ggg ggrr ggrwu ggu ggug ggugb ggw ggwr grg grr grrw grw grwbu grwbwrg gu gub gubu gug guu guugbub guuwg guuwgww guw guwr guwuww guwwwb gw gwb gwbrbw gwbu gwg gwr gwu gwugrr gwugw gwuu gwuurr gww gwwbubw rgb rgbwbr rgg rggu rgrgwbru rgrwwuww rgu rgub rgubb rgug rgugbw rgw rgwg rgwr rgwwr rrb rrbb rrbg rrbubbu rrg rrgurrg rrgw rrrr rru rruwbw rrw rrwb rrwbrbbg rrwg rwb rwbw rwbww rwg rwgb rwgwrub rwu rwuu rwuw rwuwb rww rwwbw rwwg rwwggu ub ubb ubbbgu ubbgu ubbr ubbwg ubg ubgbuwb ubggu ubgu ubgwr ubr ubrb ubrbrwg ubrgw ubrrwwr ubru ubu ubuwg ubw ubwb ubwwub ugb ugbb ugbgb ugbwbu ugg uggwrr ugrgg ugrruuw ugrw ugu ugug ugw ugwg urgbgbb urgwu urr urrb urrrrbu urrw urrwrw urw urww urwwbg urwwbu uu uub uubbuuu uubrr uug uugb uugbw uurr uuu uuug uuw uuww uw uwb uwg uwgb uwr uwrrbb uwrwbrrw uwu uwub uwuuw uwuwu uwuwwbr uwuwwww uww uwwguwu wb wbb wbbb wbbg wbg wbgb wbggb wbgggg wbggu wbu wbuu wbuuu wbw wbwuuwb wbwwbb wg wgb wgbbbw wgg wggbr wggg wgggw wgrgguu wgrr wgu wgw wgwb wgwbwg wgwrg wrb wrbgwgu wrg wrgrw wrguw wrr wrrbru wrrr wrru wru wrub wruw wruww wrw wrwb wrwbgubg wrwgu wu wub wubugb wug wugugwrg wuu wuubgb wuw wuwgwg wuwuw wuwwbr wuwwugb ww wwb wwbbr wwbrgg wwbrr wwg wwgu wwgubgbr wwguu wwgw wwr wwrr wwu wwurrb wwuugub wwuwg www wwwbbg wwwg]
+Combined Positions: [[0 1] [0 2] [1 2] [1 3] [1 4] [2 3] [2 4] [4 5] [5 6] [6 7] [7 8] [7 9] [7 10] [8 9] [8 10] [9 10] [10 11] [11 12] [12 14] [13 14] [14 15] [14 16] [15 16] [15 17] [16 18] [16 19] [17 18] [17 19] [17 20] [18 19] [18 20] [19 20] [19 22] [20 21] [20 22] [21 22] [21 23] [22 23] [22 24] [22 25] [23 24] [23 25] [24 25] [24 26] [24 27] [25 26] [25 27] [26 27] [27 28] [27 29] [28 29] [28 30] [29 30] [29 31] [29 33] [30 31] [30 32] [31 32] [31 33] [32 34] [33 34] [33 35] [34 35] [34 36] [35 36] [35 37] [36 37] [36 38] [37 38] [37 39] [38 40] [39 40] [39 41] [40 41]]
+Borders: [0 4 5 6 7 10 11 12 14 27 41]
+Reintroduced: [bb bbb bbbbbw bbbr bbbug bbbw bbbwbruw bbbwuww bbg bbgwg bbr bbrgg bbrw bbu bbw bbwbbug bbwwbg bg bgb bgbrb bgg bggrrbb bggw bgrrb bgu bgubg bgwr brb brbbug brbg brbggb brbw brg brr brrg brru bru brubr brug brw brwb brwuu bu bub bubbu bubrru bubruu bug bugbg buguurg bugww buu buuugb buuwrw buw buwb buwgb buwgbr buwrbbbr bw bwb bwbb bwbug bwbwb bwg bwgb bwguu bwr bwrb bwrrguug bwru bwrubgu bwu bwubw bwugw bwuw bwuwg bww bwwb bwww gb gbb gbbbgb gbbg gbbrw gbgbrw gbgg gbgwurg gbr gbu gbugwr gbuw gbw gbwbbg gg ggb ggbg ggbr ggbrr ggbrw ggbu ggbwugw ggg ggrr ggu ggug ggugb ggw ggwr grg grr grrw gu gub gubu gug guu guugbub guuwg guuwgww guw guwr guwuww guwwwb gw gwb gwbrbw gwbu gwg gwr gwu gwugrr gwugw gwuu gwuurr gww gwwbubw rgb rgbwbr rgg rggu rgrgwbru rgu rgub rgubb rgug rgugbw rgw rgwg rgwr rgwwr rrb rrbb rrbg rrbubbu rrg rrgurrg rrgw rrrr rru rruwbw rrw rrwb rrwbrbbg rrwg ub ubb ubbbgu ubbgu ubbr ubbwg ubg ubgbuwb ubggu ubgu ubgwr ubr ubrb ubrbrwg ubrgw ubrrwwr ubru ubu ubuwg ubw ubwb ubwwub ugb ugbb ugbgb ugbwbu ugg uggwrr ugrgg ugrruuw ugu ugug ugw ugwg urgbgbb urgwu urr urrb urrrrbu urrw urrwrw uu uub uubbuuu uubrr uug uugb uugbw uurr uuu uuug uuw uuww uw uwb uwg uwgb uwr uwrrbb uwrwbrrw uwu uwub uwuuw uwuwu uwuwwbr uwuwwww uww uwwguwu wb wbb wbbb wbbg wbg wbgb wbggb wbgggg wbggu wbu wbuu wbuuu wbw wbwuuwb wbwwbb wg wgb wgbbbw wgg wggbr wggg wgggw wgrgguu wgrr wgu wgw wgwb wgwbwg wgwrg wrb wrbgwgu wrg wrguw wrr wrrbru wrrr wrru wru wrub wruw wruww wrw wrwb wrwbgubg wrwgu wu wub wubugb wug wugugwrg wuu wuubgb wuw wuwgwg wuwuw wuwwbr wuwwugb ww wwb wwbbr wwbrgg wwbrr wwg wwgu wwgubgbr wwguu wwgw wwr wwrr wwu wwurrb wwuugub wwuwg www wwwbbg wwwg]
+Combined Positions: [[0 1] [0 2] [1 2] [1 3] [1 4] [2 3] [2 4] [4 5] [5 6] [6 7] [7 8] [7 9] [7 10] [8 9] [8 10] [9 10] [10 11] [11 12] [12 14] [13 14] [14 15] [14 16] [15 16] [15 17] [16 18] [17 18] [17 20] [18 19] [18 20] [19 20] [19 22] [20 21] [20 22] [21 22] [21 23] [22 23] [22 24] [22 25] [23 24] [23 25] [24 25] [24 26] [24 27] [25 26] [25 27] [26 27] [27 28] [27 29] [28 29] [28 30] [29 30] [29 31] [29 33] [30 31] [30 32] [31 32] [31 33] [32 34] [33 34] [33 35] [34 35] [34 36] [35 36] [35 37] [36 37] [36 38] [37 38] [37 39] [38 40] [39 40] [39 41] [40 41]]
+Borders: [0 4 5 6 7 10 11 12 14 27 41]
+Reintroduced: [bb bbb bbbbbw bbbug bbbw bbbwbruw bbbwuww bbg bbgwg bbrw bbu bbw bbwbbug bbwwbg bg bgb bgg bggrrbb bggrww bggw bgrrb bgrrruu bgu bgubg bgurwu brr brrg brru bru brug brw brwb brwugrwb brwuu bu bub bubbu bubrru bubruu bug bugbg bugww buru bururr burw buu buurub buuugb buuwrw buw buwb buwgb bw bwb bwbb bwbug bwbwb bwg bwgb bwguu bwrrguug bwru bwrubgu bwu bwubw bwugw bwuw bwuwg bww bwwb bwww gb gbb gbbbgb gbbg gbbrw gbgbrw gbgg gbu gbuw gbw gbwbbg gg ggb ggbg ggbrr ggbrw ggbu ggbwugw ggg ggrr ggruuu ggruw ggrwu ggu ggug ggugb gguru ggw grr grrw gru grurrb gruw grw grwbu gu gub gubu gug guu guugbub guuwg guuwgww guw guwuww guwwwb gw gwb gwbu gwg gwu gwugrr gwugw gwuu gwuurr gww gwwbubw rrb rrbb rrbg rrbubbu rrg rrgurrg rrgw rrrr rrrug rru rruwbw rrw rrwb rrwg rub rubwggub rug rugbrwb rugwb rugwrw ruu ruuuwg ruuw ruw rwb rwbw rwbww rwg rwgb rwgwrub rwru rwu rwuu rwuw rwuwb rww rwwbw rwwg rwwggu ub ubb ubbbgu ubbgu ubbwg ubg ubgbuwb ubggu ubgu ubru ubu ubuwg ubw ubwb ubwwub ugb ugbb ugbgb ugbwbu ugg uggwrr ugrruuw ugrw ugu ugug ugw ugwg urr urrb urrrrbu urrw urrwrw uru uruu urw urww urwwbg urwwbu uu uub uubbuuu uubrr uug uugb uugbw uurr uuu uuug uuw uuww uw uwb uwg uwgb uwrrbb uwrwbrrw uwu uwub uwuuw uwuwu uwuwwww uww uwwguwu wb wbb wbbb wbbg wbg wbgb wbggb wbgggg wbggu wbu wbuu wbuuu wbw wbwuuwb wbwwbb wg wgb wgbbbw wgg wggg wgggw wgrr wgrubgw wgu wgw wgwb wgwbwg wrr wrrbru wrru wru wrub wruw wruww wrw wrwb wrwbgubg wrwgu wu wub wubugb wug wuu wuubgb wuw wuwgwg wuwuw wuwwugb ww wwb wwbrr wwg wwgu wwguu wwgw wwrr wwu wwurrb wwuugub wwuwg www wwwbbg wwwg]
+Combined Positions: [[0 1] [0 2] [1 2] [1 3] [1 4] [2 3] [2 4] [2 5] [3 5] [4 5] [5 6] [5 7] [6 7] [6 8] [7 8] [7 9] [7 10] [8 9] [8 10] [8 11] [9 10] [9 11] [10 11] [10 12] [11 12] [12 13] [13 14] [14 15] [15 16] [15 17] [16 17] [16 18] [17 19] [17 20] [18 19] [18 20] [18 21] [19 20] [19 21] [20 21] [20 23] [21 22] [21 23] [22 23] [22 24] [23 24] [23 25] [23 26] [24 25] [24 26] [25 26] [25 27] [25 28] [26 27] [26 28] [27 28] [28 29] [28 30] [29 30] [29 31] [30 31] [30 32] [30 34] [31 32] [31 33] [32 33] [32 34] [33 35] [34 35] [34 36] [35 36] [35 37] [36 37] [36 38] [37 38] [37 39] [38 39] [38 40] [39 41] [40 41] [40 42] [41 42]]
+Borders: [0 5 12 13 14 15 28 42]
+Reintroduced: [bb bbb bbbbbw bbbr bbbug bbbw bbbwbruw bbbwuww bbg bbgwg bbr bbrgg bbrw bbu bbw bbwbbug bbwwbg bg bgb bgbrb bgg bggrrbb bggw bgrrb bgrrruu bgu bgubg brb brbbug brbg brbggb brbw brg brr brrg brru bru brubr brug brw brwb brwuu bu bub bubbu bubrru bubruu bug bugbg bugww buru bururr buu buurub buuugb buw buwb buwgb buwgbr bw bwb bwbb bwbug bwbwb bwg bwgb bwguu bwrrguug bwru bwrubgu bwu bwubw bwugw bwuw bwuwg bww bwwb bwww gb gbb gbbbgb gbbg gbbrw gbgbrw gbgg gbr gbu gbuw gbw gbwbbg gg ggb ggbg ggbr ggbrr ggbrw ggbu ggbwugw ggg ggrr ggruuu ggruw ggu ggug ggugb gguru ggw grr grrw gru grurrb gruw gu gub gubu gug guu guugbub guuwg guuwgww guw guwuww guwwwb gw gwb gwbrbw gwbu gwg gwu gwugrr gwugw gwuu gwuurr gww gwwbubw rrb rrbb rrbg rrbubbu rrg rrgurrg rrgw rrrr rrrug rru rruwbw rrw rrwb rrwbrbbg rrwg rub rubwggub rug rugbrwb rugwb ruu ruuuwg ruuw ruw ub ubb ubbbgu ubbgu ubbr ubbwg ubg ubgbuwb ubggu ubgu ubr ubrb ubrbrwg ubrgw ubru ubu ubuwg ubw ubwb ubwwub ugb ugbb ugbgb ugbwbu ugg uggwrr ugrruuw ugu ugug ugw ugwg urr urrb urrrrbu urrw uru uruu uu uub uubbuuu uubrr uug uugb uugbw uurr uuu uuug uuw uuww uw uwb uwg uwgb uwrrbb uwu uwub uwuuw uwuwu uwuwwbr uwuwwww uww uwwguwu wb wbb wbbb wbbg wbg wbgb wbggb wbgggg wbggu wbu wbuu wbuuu wbw wbwuuwb wbwwbb wg wgb wgbbbw wgg wggbr wggg wgggw wgrr wgrubgw wgu wgw wgwb wgwbwg wrr wrrbru wrru wru wrub wruw wruww wu wub wubugb wug wuu wuubgb wuw wuwgwg wuwuw wuwwbr wuwwugb ww wwb wwbbr wwbrgg wwbrr wwg wwgu wwgubgbr wwguu wwgw wwrr wwu wwurrb wwuugub wwuwg www wwwbbg wwwg]
+Combined Positions: [[0 1] [0 2] [1 2] [1 3] [1 4] [2 3] [2 4] [2 5] [3 5] [4 5] [5 6] [5 7] [6 7] [6 8] [7 8] [7 9] [7 10] [8 9] [8 10] [8 11] [9 10] [9 11] [10 11] [10 12] [11 12] [12 13] [13 14] [14 15] [15 16] [15 17] [16 17] [16 18] [17 19] [18 19] [18 21] [19 20] [19 21] [20 21] [20 23] [21 22] [21 23] [22 23] [22 24] [23 24] [23 25] [23 26] [24 25] [24 26] [25 26] [25 27] [25 28] [26 27] [26 28] [27 28] [28 29] [28 30] [29 30] [29 31] [30 31] [30 32] [30 34] [31 32] [31 33] [32 33] [32 34] [33 35] [34 35] [34 36] [35 36] [35 37] [36 37] [36 38] [37 38] [37 39] [38 39] [38 40] [39 41] [40 41] [40 42] [41 42]]
+Borders: [0 5 12 13 14 15 28 42]
+Reintroduced: [bb bbb bbbbbw bbbug bbbw bbbwuww bbg bbgwg bbrw bbu bbw bbwbbug bbwwbg bg bgb bgg bggrrbb bggrww bggw bgrrb bgu bgubg bgurwu bgwr brr brrg brru brw brwb brwugrwb brwuu bu bub bubbu bubrru bug bugbg bugww burw buu buuugb buuwrw buw buwb buwgb bw bwb bwbb bwbug bwbwb bwg bwgb bwguu bwr bwrb bwrrguug bwru bwrubgu bwu bwubw bwugw bwuw bwuwg bww bwwb bwww gb gbb gbbbgb gbbg gbbrw gbgbrw gbgg gbu gbugwr gbuw gbw gbwbbg gg ggb ggbg ggbrr ggbrw ggbu ggbwugw ggg ggrr ggrwu ggu ggug ggugb ggw ggwr grr grrw grw grwbu grwbwrg gu gub gubu gug guu guugbub guuwg guuwgww guw guwr guwuww guwwwb gw gwb gwbu gwg gwr gwu gwugrr gwugw gwuu gwuurr gww gwwbubw rrb rrbb rrbg rrbubbu rrg rrgurrg rrgw rrrr rru rruwbw rrw rrwb rrwg rwb rwbw rwbww rwg rwgb rwgwrub rwu rwuu rwuw rwuwb rww rwwbw rwwg rwwggu ub ubb ubbbgu ubbgu ubbwg ubg ubgbuwb ubggu ubgu ubgwr ubrrwwr ubu ubuwg ubw ubwb ubwwub ugb ugbb ugbgb ugbwbu ugg uggwrr ugrruuw ugrw ugu ugug ugw ugwg urr urrb urrrrbu urrw urrwrw urw urww urwwbg urwwbu uu uub uubbuuu uubrr uug uugb uugbw uurr uuu uuug uuw uuww uw uwb uwg uwgb uwr uwrrbb uwrwbrrw uwu uwub uwuuw uwuwu uwuwwww uww uwwguwu wb wbb wbbb wbbg wbg wbgb wbggb wbgggg wbggu wbu wbuu wbuuu wbw wbwuuwb wbwwbb wg wgb wgbbbw wgg wggg wgggw wgrr wgu wgw wgwb wgwbwg wgwrg wrb wrbgwgu wrg wrgrw wrguw wrr wrrr wrru wru wrub wruw wruww wrw wrwb wrwbgubg wrwgu wu wub wubugb wug wugugwrg wuu wuubgb wuw wuwgwg wuwuw wuwwugb ww wwb wwbrr wwg wwgu wwguu wwgw wwr wwrr wwu wwurrb wwuugub wwuwg www wwwbbg wwwg]
+Combined Positions: [[0 1] [0 2] [1 2] [1 3] [1 4] [2 3] [2 4] [2 5] [3 5] [4 5] [5 6] [5 7] [6 7] [6 8] [7 8] [7 9] [7 10] [8 9] [8 10] [8 11] [9 10] [9 11] [10 11] [11 12] [12 13] [13 15] [14 15] [15 16] [15 17] [16 17] [16 18] [17 19] [17 20] [18 19] [18 20] [18 21] [19 20] [19 21] [20 21] [20 23] [21 22] [21 23] [22 23] [22 24] [23 24] [23 25] [23 26] [24 25] [24 26] [25 26] [25 27] [25 28] [26 27] [26 28] [27 28] [28 29] [28 30] [29 30] [29 31] [30 31] [30 32] [30 34] [31 32] [31 33] [32 33] [32 34] [33 35] [34 35] [34 36] [35 36] [35 37] [36 37] [36 38] [37 38] [37 39] [38 39] [38 40] [39 41] [40 41] [40 42] [41 42]]
+Borders: [0 5 11 12 13 15 28 42]
+Reintroduced: [bb bbb bbbbbw bbbr bbbug bbbw bbbwbruw bbbwuww bbg bbgwg bbr bbrgg bbrw bbu bbw bbwbbug bbwwbg bg bgb bgbrb bgg bggrrbb bggw bgrrb bgu bgubg bgwr brb brbbug brbg brbggb brbw brg brr brrg brru bru brubr brug brw brwb brwuu bu bub bubbu bubrru bubruu bug bugbg bugww buu buuugb buuwrw buw buwb buwgb buwgbr buwrbbbr bw bwb bwbb bwbug bwbwb bwg bwgb bwguu bwr bwrb bwrrguug bwru bwrubgu bwu bwubw bwugw bwuw bwuwg bww bwwb bwww gb gbb gbbbgb gbbg gbbrw gbgbrw gbgg gbr gbu gbugwr gbuw gbw gbwbbg gg ggb ggbg ggbr ggbrr ggbrw ggbu ggbwugw ggg ggrr ggu ggug ggugb ggw ggwr grr grrw gu gub gubu gug guu guugbub guuwg guuwgww guw guwr guwuww guwwwb gw gwb gwbrbw gwbu gwg gwr gwu gwugrr gwugw gwuu gwuurr gww gwwbubw rrb rrbb rrbg rrbubbu rrg rrgurrg rrgw rrrr rru rruwbw rrw rrwb rrwbrbbg rrwg ub ubb ubbbgu ubbgu ubbr ubbwg ubg ubgbuwb ubggu ubgu ubgwr ubr ubrb ubrbrwg ubrgw ubrrwwr ubru ubu ubuwg ubw ubwb ubwwub ugb ugbb ugbgb ugbwbu ugg uggwrr ugrruuw ugu ugug ugw ugwg urr urrb urrrrbu urrw urrwrw uu uub uubbuuu uubrr uug uugb uugbw uurr uuu uuug uuw uuww uw uwb uwg uwgb uwr uwrrbb uwrwbrrw uwu uwub uwuuw uwuwu uwuwwbr uwuwwww uww uwwguwu wb wbb wbbb wbbg wbg wbgb wbggb wbgggg wbggu wbu wbuu wbuuu wbw wbwuuwb wbwwbb wg wgb wgbbbw wgg wggbr wggg wgggw wgrr wgu wgw wgwb wgwbwg wgwrg wrb wrbgwgu wrg wrguw wrr wrrbru wrrr wrru wru wrub wruw wruww wrw wrwb wrwbgubg wrwgu wu wub wubugb wug wugugwrg wuu wuubgb wuw wuwgwg wuwuw wuwwbr wuwwugb ww wwb wwbbr wwbrgg wwbrr wwg wwgu wwgubgbr wwguu wwgw wwr wwrr wwu wwurrb wwuugub wwuwg www wwwbbg wwwg]
+Combined Positions: [[0 1] [0 2] [1 2] [1 3] [1 4] [2 3] [2 4] [2 5] [3 5] [4 5] [5 6] [5 7] [6 7] [6 8] [7 8] [7 9] [7 10] [8 9] [8 10] [8 11] [9 10] [9 11] [10 11] [11 12] [12 13] [13 15] [14 15] [15 16] [15 17] [16 17] [16 18] [17 19] [18 19] [18 21] [19 20] [19 21] [20 21] [20 23] [21 22] [21 23] [22 23] [22 24] [23 24] [23 25] [23 26] [24 25] [24 26] [25 26] [25 27] [25 28] [26 27] [26 28] [27 28] [28 29] [28 30] [29 30] [29 31] [30 31] [30 32] [30 34] [31 32] [31 33] [32 33] [32 34] [33 35] [34 35] [34 36] [35 36] [35 37] [36 37] [36 38] [37 38] [37 39] [38 39] [38 40] [39 41] [40 41] [40 42] [41 42]]
+Borders: [0 5 11 12 13 15 28 42]
+Worker 1 processed job: wuuugbrrgwbuuwrugbgugbbrwuuwubgurrbbbugubwuuggb -> 1824
+
+ -> Sum: 1824
+Processing complete!

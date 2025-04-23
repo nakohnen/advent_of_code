@@ -1,0 +1,1108 @@
+Towels [b bb bbb bbbbbw bbbr bbbug bbbw bbbwbruw bbbwuww bbg bbgr bbgwg bbr bbrgbgr bbrgg bbrw bbu bbw bbwbbug bbwgr bbwwbg bg bgb bgbrb bgg bgggur bggrrbb bggrww bggw bgr bgrrb bgrrruu bgu bgubg bgurwu bgwr br brb brbbug brbg brbggb brbw brg brggr brr brrg brru bru brubr brug brw brwb brwugrwb brwuu bu bub bubbu bubrru bubruu bug bugbg bugr buguurg bugww bur buru bururr burw buu buurub buuugb buuwrw buw buwb buwgb buwgbr buwrbbbr bw bwb bwbb bwbug bwbwb bwg bwgb bwguu bwr bwrb bwrrguug bwru bwrubgu bwu bwubw bwugw bwuw bwuwg bww bwwb bwww g gb gbb gbbbgb gbbg gbbrw gbgbrw gbgg gbgwurg gbr gbu gbugr gbugwr gburb gbuw gbw gbwbbg gg ggb ggbg ggbgr ggbr ggbrr ggbrw ggbu ggbwugw ggg gggr ggrr ggruuu ggruw ggrwu ggu ggug ggugb gguru ggw ggwr grb grbbu grbg grg grr grrw gru grugwr grurrb gruw grw grwbu grwbwrg grwrbwrg gu gub gubu gug gur gurbwbuw guu guugbub guur guuwg guuwgww guw guwr guwuww guwwwb gw gwb gwbrbw gwbu gwg gwr gwu gwugrr gwugw gwuu gwuurr gww gwwbubw rb rbb rbbru rbbwuwub rbg rbggrw rbr rbrgw rbrrrwbr rbrug rbrw rbu rbur rbw rbwgru rbwubb rg rgb rgbwbr rgg rggu rgr rgrgwbru rgrwwuww rgu rgub rgubb rgug rgugbw rguguur rgw rgwg rgwr rgwwr rr rrb rrbb rrbg rrbubbu rrg rrgrb rrgurrg rrgw rrgwgur rrr rrrr rrrug rru rruwbw rrw rrwb rrwbrbbg rrwg ru rub rubwggub rug rugbrwb rugwb rugwrw rur rurbg ruu ruurg ruuur ruuuwg ruuw ruw rw rwb rwbuur rwbw rwbww rwg rwgb rwgwrub rwr rwru rwrurrrb rwu rwur rwuu rwuw rwuwb rww rwwbw rwwg rwwggu u ub ubb ubbbgu ubbgr ubbgu ubbr ubbwg ubg ubgbuwb ubggu ubgrbug ubgu ubgwr ubr ubrb ubrbrwg ubrgw ubrrwwr ubru ubu ubuwg ubw ubwb ubwwub ugb ugbb ugbgb ugbwbu ugg uggwrr ugr ugrgg ugrruuw ugrw ugu ugug ugurb ugw ugwg ur urb urbbbggb urbbbr urbrgu urbw urgbgbb urgwu urr urrb urrr urrrrbu urrw urrwrw uru ururgbw uruu urw urwrb urww urwwbg urwwbu uu uub uubbuuu uubrr uug uugb uugbw uur uurr uurur uuu uuug uuw uuww uw uwb uwg uwgb uwr uwrrbb uwrwbrrw uwu uwub uwuuw uwuwu uwuwwbr uwuwwww uww uwwguwu w wb wbb wbbb wbbg wbg wbgb wbggb wbgggg wbggu wbu wbuu wbuuu wbw wbwbuurb wbwgrbg wbwuuwb wbwwbb wg wgb wgbbbw wgg wggbr wggg wgggw wgr wgrbbr wgrbgrr wgrbrrb wgrgguu wgrr wgrubgw wgu wgw wgwb wgwbwg wgwrg wr wrb wrbgrugw wrbgwgu wrg wrgrw wrguw wrr wrrbru wrrr wrru wru wrub wruw wruww wrw wrwb wrwbgubg wrwbur wrwgu wu wub wubugb wug wugugwrg wur wuu wuubgb wuw wuwgwg wuwuw wuwwbr wuwwugb ww wwb wwbbr wwbrgg wwbrr wwg wwgr wwgu wwgubgbr wwguu wwgw wwr wwrr wwu wwurrb wwuugub wwuwg www wwwbbg wwwg]
+Towels [b bgr br brggr g gggr rb rbr rg rgr rr rrr ru rur rw rwr u ugr ur w wgr wr]
+Design wuuugbrrgwbuuwrugbgugbbrwuuwubgurrbbbugubwuuggb is possible
+Worker 1 processed job: wuuugbrrgwbuuwrugbgugbbrwuuwubgurrbbbugubwuuggb -> 175958918128
+
+Design wwgrbrwwrugbrrrgbwuggwwgrgruguwrwuugrgrgwubbwubbbrrgw is possible
+Worker 1 processed job: wwgrbrwwrugbrrrgbwuggwwgrgruguwrwuugrgrgwubbwubbbrrgw -> 135559297008
+
+Design ggwgwugwuuruburbbgruwgggbbrwbgrurggubugrwbuu is possible
+Worker 1 processed job: ggwgwugwuuruburbbgruwgggbbrwbgrurggubugrwbuu -> 9568285566
+
+Design rbggwuwgruwubrgwwgbwgwuggwgururrggbruuugrggbugwugr is possible
+Worker 1 processed job: rbggwuwgruwubrgwwgbwgwuggwgururrggbruuugrggbugwugr -> 21310158956
+
+Design wwbbbwrbwwgwgrwgubuurrwrrggurubrbwgwgbwwwrbwrwuubgr is possible
+Worker 1 processed job: wwbbbwrbwwgwgrwgubuurrwrrggurubrbwgwgbwwwrbwrwuubgr -> 108361817766
+
+Worker 1 processed job: bwwuwbgrrbuwbbuuubuwurwbgwugggwrbrrgwugbwrubgubbgrwwbrwggr -> 0
+
+Design wgruwwbbbuwbwuuuuwuwbugbubbrbgwwuugbgwwwrg is possible
+Worker 1 processed job: wgruwwbbbuwbwuuuuwuwbugbubbrbgwwuugbgwwwrg -> 14759342505
+
+Design bbrbubbuurgwuubwbrrggwwrbrrbggbruuuuwgbgrgrgrubwgur is possible
+Worker 1 processed job: bbrbubbuurgwuubwbrrggwwrbrrbggbruuuuwgbgrgrgrubwgur -> 74442759300
+
+Design ggbuwgbwbubugwrgggwggwbwbugwubgwuubbbrgrurbrubgggwuwbrwrr is possible
+Worker 1 processed job: ggbuwgbwbubugwrgggwggwbwbugwubgwuubbbrgrurbrubgggwuwbrwrr -> 13976287124500
+
+Design rbuubrwggurbgbwrugbuguwurrbgrbwurrwrburbgbgrgb is possible
+Worker 1 processed job: rbuubrwggurbgbwrugbuguwurrbgrbwurrwrburbgbgrgb -> 3313719498
+
+Design uurrubruubgwrwubuuugwuwguwgggwrggbrruuwrgrwrguubbuguwu is possible
+Worker 1 processed job: uurrubruubgwrwubuuugwuwguwgggwrggbrruuwrgrwrguubbuguwu -> 2886801196116
+
+Design gbbuurbbwwwugrruubrgwbrurrwuuuwbbubggrugbbwubbr is possible
+Worker 1 processed job: gbbuurbbwwwugrruubrgwbrurrwuuuwbbubggrugbbwubbr -> 17959293076
+
+Design wburbggrgbwububwbbwbbgwuuuwrgrrguuuburwrgururrugrbwrbb is possible
+Worker 1 processed job: wburbggrgbwububwbbwbbgwuuuwrgrrguuuburwrgururrugrbwrbb -> 401870377392
+
+Design ugwubrgbguubrrgwgguguguuurbbgggwurgbbwbugbu is possible
+Worker 1 processed job: ugwubrgbguubrrgwgguguguuurbbgggwurgbbwbugbu -> 10923351369
+
+Design rubbbuburwrrwwuwurgwuugbbburugrurbubbgbwgbwgrbuw is possible
+Worker 1 processed job: rubbbuburwrrwwuwurgwuugbbburugrurbubbgbwgbwgrbuw -> 24707843569
+
+Design rwwbrwubwuwuwubugwwurbwrgrwbgwwwbrwwwuuwwwgrwbgwwg is possible
+Worker 1 processed job: rwwbrwubwuwuwubugwwurbwrgrwbgwwwbrwwwuuwwwgrwbgwwg -> 194098046246
+
+Worker 1 processed job: urgbuwrurrubbuugwrurrurwgggugwwrgbggbbggr -> 0
+
+Worker 1 processed job: rwwbrbuwruubggruuuurrgbbuuwruuwgbgubrwrrwwbggr -> 0
+
+Worker 1 processed job: brguwwurugubuwuwbburgrgbbuuuwgggbuwgbwgbwgrgwrgubwrubgurbggr -> 0
+
+Design bruuwrugwbgwrwwgwugwuugurrubgurguwuuuwrbwrrgwrrwbbubuww is possible
+Worker 1 processed job: bruuwrugwbgwrwwgwugwuugurrubgurguwuuuwrbwrrgwrrwbbubuww -> 3625963173538
+
+Design uwgbwbgrrbgwbgugwuwrwbrrwwrwwuwrbbwuubggburruguuuu is possible
+Worker 1 processed job: uwgbwbgrrbgwbgugwuwrwbrrwwrwwuwrbbwuubggburruguuuu -> 305714690424
+
+Design wuugwrgggggruwrgugbwrgbgurrbgrbrggwruuuuwbrugwuubrgub is possible
+Worker 1 processed job: wuugwrgggggruwrgugbwrgbgurrbgrbrggwruuuuwbrugwuubrgub -> 357649169488
+
+Design rwubgbrgruwgrurrrggwwubguwbbrwuwrbgubrgruubwggrgrguwg is possible
+Worker 1 processed job: rwubgbrgruwgrurrrggwwubguwbbrwuwrbgubrgruubwggrgrguwg -> 79359363663
+
+Worker 1 processed job: rwbrgbubugubgbbgbuwbrgwwgbrgrwwrubgrurbbwggr -> 0
+
+Design ubwbuwburrurrwwwgggubrwbuwrgrrwbrwgurwwwurbwrrgb is possible
+Worker 1 processed job: ubwbuwburrurrwwwgggubrwbuwrgrrwbrwgurwwwurbwrrgb -> 42035930208
+
+Worker 1 processed job: gwwrbguuuubwubuugbbuugwwrwrwubuwbwrbwuurggrwubgrbguuggrggr -> 0
+
+Design rgwbrgwguggwbwbgugwbwwwrwbbwubwgwrrgbgrbwugrbwgwur is possible
+Worker 1 processed job: rgwbrgwguggwbwbgugwbwwwrwbbwubwgwrrgbgrbwugrbwgwur -> 63638447289
+
+Design rgwugrwurrggubwwuwgubgrggwububggwrwwgurwuwwbbbwbruwgggrubr is possible
+Worker 1 processed job: rgwugrwurrggubwwuwgubgrggwububggwrwwgurwuwwbbbwbruwgggrubr -> 5451707067148
+
+Design ugbwgbwrgubbrgrgrugrgrgggwbrbrrrwgwbguwgbg is possible
+Worker 1 processed job: ugbwgbwrgubbrgrgrugrgrgggwbrbrrrwgwbguwgbg -> 398145744
+
+Worker 1 processed job: rurggbuubwugggwgbrgugruwwugrwgrgrwgwgbwbbggwwggr -> 0
+
+Design uubwubbburuggrbwgwrubuwuwggrbgrugbgguwgrwugbgrbwbgwbgwbw is possible
+Worker 1 processed job: uubwubbburuggrbwgwrubuwuwggrbgrugbgguwgrwugbgrbwbgwbgwbw -> 1528392484040
+
+Design bgrbuggurwbrrggwbuwbrgwgrrwurrbrwwuubbgwurgwruuwgbg is possible
+Worker 1 processed job: bgrbuggurwbrrggwbuwbrgwgrrwurrbrwwuubbgwurgwruuwgbg -> 148068311040
+
+Worker 1 processed job: gwubbgbrgwbrgrwugugwrgubgwrrrgrugrgrgggbgbwwurggr -> 0
+
+Design rruuguwgrbwggubrwrurrrbggbwbbwubgwuwugrubub is possible
+Worker 1 processed job: rruuguwgrbwggubrwrurrrbggbwbbwubgwuwugrubub -> 1962061028
+
+Worker 1 processed job: ggwgugburuwbwubbuwrwbrrwubgbwgrrwgguguwruuruggr -> 0
+
+Worker 1 processed job: grrgrrggbuggwrrbwggbbrrbgbguubuwururbrbggr -> 0
+
+Design ugrrbgwwgwgbbrbbbwgrurwuruwrggrrguuuubwwugwgbgb is possible
+Worker 1 processed job: ugrrbgwwgwgbbrbbbwgrurwuruwrggrrguuuubwwugwgbgb -> 19430492504
+
+Design gwrggrruwbgwugrgrwbwuubrruuwuurgubuwurrruwbubrbubrrrurrw is possible
+Worker 1 processed job: gwrggrruwbgwugrgrwbwuubrruuwuurgubuwurrruwbubrbubrrrurrw -> 677832813520
+
+Worker 1 processed job: rrbrbwruwuurwrrurrwbrbbrwugbgrwbwwugwugwguggr -> 0
+
+Design rrwbbuwrwwuuwburguwurwrwggwrwrwuwwbgggubgrwrbg is possible
+Worker 1 processed job: rrwbbuwrwwuuwburguwurwrwggwrwrwuwwbgggubgrwrbg -> 12674736640
+
+Design ggrwggrbwubuugwuuwggwubgwrgrgwbwrwrbguuuurugggbugugrgww is possible
+Worker 1 processed job: ggrwggrbwubuugwuuwggwubgwrgrgwbwrwrbguuuurugggbugugrgww -> 787189002963
+
+Design uubwbgbbubwubrguwbuuwbgurwwggrguuggrwrurbwgbbwr is possible
+Worker 1 processed job: uubwbgbbubwubrguwbuuwbgurwwggrguuggrwrurbwgbbwr -> 27802796220
+
+Design wrbburgrguggrgrrgugbbgwbbbwbgrbubwuugwrbwbguwrwrrguwu is possible
+Worker 1 processed job: wrbburgrguggrgrrgugbbgwbbbwbgrbubwuugwrbwbguwrwrrguwu -> 193244665768
+
+Design rbbuwgguuuubwuwrbbrrurwgwbbbbruggggwuwggbb is possible
+Worker 1 processed job: rbbuwgguuuubwuwrbbrrurwgwbbbbruggggwuwggbb -> 6615038974
+
+Design bubwbwgbubuwrgbrwbwbrbrrrrgwurgbrruuwbwrbrgb is possible
+Worker 1 processed job: bubwbwgbubuwrgbrwbwbrbrrrrgwurgbrruuwbwrbrgb -> 4386952656
+
+Design gbrubrwgubwwwwwwubrugrrbuubugrwruugggbugbbrrwgbbwbg is possible
+Worker 1 processed job: gbrubrwgubwwwwwwubrugrrbuubugrwruugggbugbbrrwgbbwbg -> 417720821898
+
+Worker 1 processed job: bggrgurwbgbggguuwgurrggrubwbrgwugwubwruuuurgggwwuwubrugrwggr -> 0
+
+Design gbgwrbgwggruwugwwrrubbrgrgwguwgbgrgrrgwubbggguwwrwrgubrr is possible
+Worker 1 processed job: gbgwrbgwggruwugwwrrubbrgrgwguwgbgrgrrgwubbggguwwrwrgubrr -> 950552881152
+
+Design gbrgguwubbbuwrgrbrwuuggwuuururuugrgrwwugbbww is possible
+Worker 1 processed job: gbrgguwubbbuwrgrbrwuuggwuuururuugrgrwwugbbww -> 4549642416
+
+Worker 1 processed job: wbubwrbwrwguuuuwwbrrrwwrrbwubruwrwgbwggr -> 0
+
+Design ugwbrwbbbrggwbuggburubbrubugburbwbbuuruggwurrbwwggru is possible
+Worker 1 processed job: ugwbrwbbbrggwbuggburubbrubugburbwbbuuruggwurrbwwggru -> 549698340378
+
+Design gurwwbgrwgwwgbwuuuwugubgbwbgugwgrggrburwrbu is possible
+Worker 1 processed job: gurwwbgrwgwwgbwuuuwugubgbwbgugwgrggrburwrbu -> 4028519451
+
+Worker 1 processed job: buwrbgbuubrgbwwubwbgbrubuubugbbwbbuwrbbbrbggr -> 0
+
+Design bgrurrrgbubuugugrbubwurgbbgbuggrbggbrrguwuwwub is possible
+Worker 1 processed job: bgrurrrgbubuugugrbubwurgbbgbuggrbggbrrguwuwwub -> 7946040692
+
+Worker 1 processed job: brrbrubrwgrrrgrbwrrrwbuwburgwggrrbrugugguuwbggwwuggr -> 0
+
+Worker 1 processed job: gwuubrrbugbggbwbrwuwgbuuugwrbwwrubgrrgrrbbgubwwugrggr -> 0
+
+Design wrrrbwbgrwgbgbrbwgurrwrgwbbbgrrbrrgrgwggugbbw is possible
+Worker 1 processed job: wrrrbwbgrwgbgbrbwgurrwrgwbbbgrrbrrgrgwggugbbw -> 3994622400
+
+Worker 1 processed job: bgggbubuuguggbrbbwuwubwbbgwguggrburrgbggruburwrwrwrrwwggr -> 0
+
+Worker 1 processed job: wbbbbubwubgubburbbwrbrbbgwrrwruwugbbgugubwbgugubuurugrgrbggr -> 0
+
+Design gwbugbrbbubrgurrbguurwurbguwrgbrgrgrwwuuwbgwbggbgurrgur is possible
+Worker 1 processed job: gwbugbrbbubrgurrbguurwurbguwrgbrgrgrwwuuwbgwbggbgurrgur -> 806146064810
+
+Design ugwrbwrugbgwgbwwbgugwrwrgbwrbugggrguuwuwuugbruu is possible
+Worker 1 processed job: ugwrbwrugbgwgbwwbgugwrwrgbwrbugggrguuwuwuugbruu -> 20569857713
+
+Design ubwwrbugwgrubgubbbwwggugrubgbguruurubgwbbububrbbbgguurrw is possible
+Worker 1 processed job: ubwwrbugwgrubgubbbwwggugrubgbguruurubgwbbububrbbbgguurrw -> 9229435063296
+
+Worker 1 processed job: rguuwwbrrggbrurwwgubuwrwruubwubrgbrgwggwrrgggwrwrggr -> 0
+
+Design rruuggwruuwrrwbgbgububurrrbbwggrgburwrrbwwrburgbuurbbuggg is possible
+Worker 1 processed job: rruuggwruuwrrwbgbgububurrrbbwggrgburwrrbwwrburgbuurbbuggg -> 1677463945920
+
+Design ruurgrruwuuruwuwuugrbbbwruwbbwurguburuwuuwrbrr is possible
+Worker 1 processed job: ruurgrruwuuruwuwuugrbbbwruwbbwurguburuwuuwrbrr -> 3101671040
+
+Design rbwrrwrgubugwurwrrururrgrugwwgrrwrbubruwwuwrww is possible
+Worker 1 processed job: rbwrrwrgubugwurwrrururrgrugwwgrrwrbubruwwuwrww -> 1071616593
+
+Design rrgbwwgubwwbrrrrgggwguwgbuuwgurubbgwwggwubwugr is possible
+Worker 1 processed job: rrgbwwgubwwbrrrrgggwguwgbuuwgurubbgwwggwubwugr -> 13944078869
+
+Design gbrbubbrugbwbwwrugugbrubbbggubwwbuwugurugrgrgwburruwwg is possible
+Worker 1 processed job: gbrbubbrugbwbwwrugugbrubbbggubwwbuwugurugrgrgwburruwwg -> 1232519426888
+
+Design wrgbwrugwwrgrrgrbwubrrrrrgrrurbrgrbwuguuwrrg is possible
+Worker 1 processed job: wrgbwrugwwrgrrgrbwubrrrrrgrrurbrgrbwuguuwrrg -> 180846526
+
+Design wguwbrrbuuwwbrrwgruubbugwrrrwubuugugbuuruggwbbgw is possible
+Worker 1 processed job: wguwbrrbuuwwbrrwgruubbugwrrrwubuugugbuuruggwbbgw -> 50187688596
+
+Worker 1 processed job: ugrugrgbuuubgwwrrrrbbgugubgbbwgrwrbuugwbwgggrugwbubwgwruggr -> 0
+
+Worker 1 processed job: wruubggwugwggrggbwgwbrrgrwwwugbwrbwgrggr -> 0
+
+Design grgwrwwrgbbrguggguubbrbgrbrrrwbrgbrwbrruurggburrwww is possible
+Worker 1 processed job: grgwrwwrgbbrguggguubbrbgrbrrrwbrgbrwbrruurggburrwww -> 23954423040
+
+Design rbubgbrubwugbuurbrrwguwguwgbgwwguuururbbbggbg is possible
+Worker 1 processed job: rbubgbrubwugbuurbrrwguwguwgbgwwguuururbbbggbg -> 18049982814
+
+Worker 1 processed job: rggwwwwrguurgwuuwguugbugrggrrbuuubwrbgbwuwbrrrgrggr -> 0
+
+Design uwgwbuuuubwrruguurrruuuwurwwbugbwuwguwuuubuguwggbrrrugrb is possible
+Worker 1 processed job: uwgwbuuuubwrruguurrruuuwurwwbugbwuwguwuuubuguwggbrrrugrb -> 11760949124050
+
+Worker 1 processed job: uwuuruwwbgwuuwbrgbbuwbrwruuwbwrrbuuubwwggr -> 0
+
+Worker 1 processed job: wrbgwwggbuuwwgbubgbuurrggurwrrrugrugbbrbggr -> 0
+
+Design bwrwgbubrwruwgrgwuuurrbbwrggbgubwbrburrbbgwurguugrrugrgbg is possible
+Worker 1 processed job: bwrwgbubrwruwgrgwuuurrbbwrggbgubwbrburrbbgwurguugrrugrgbg -> 1385656554790
+
+Design bgwwwgbrbbwwbwrbubbgbwgruugbwgubbwuggbrrbggwruggrggggr is possible
+Worker 1 processed job: bgwwwgbrbbwwbwrbubbgbwgruugbwgubbwuggbrrbggwruggrggggr -> 274795008770
+
+Design guuwguuubuwrbwbgwugwwgwgbubbbwugbbggrrgubuwrwgggwbrbbwru is possible
+Worker 1 processed job: guuwguuubuwrbwbgwugwwgwgbubbbwugbbggrrgubuwrwgggwbrbbwru -> 33531762962286
+
+Design ruwburwgrgbbbubrbubwrbrgwburrubwggbgugrrwgwr is possible
+Worker 1 processed job: ruwburwgrgbbbubrbubwrbrgwburrubwggbgugrrwgwr -> 1447760846
+
+Design gugbwuuurwgwwbwuugubbbruurwugguuubwrugwbgburwb is possible
+Worker 1 processed job: gugbwuuurwgwwbwuugubbbruurwugguuubwrugwbgburwb -> 80495751358
+
+Worker 1 processed job: rgwbrguwgrgwbwrgbgwwubrbuugugbgwrbrbbgugruwrbwrbbggrbgr -> 0
+
+Design wbwwwwbggwugwurgrbgrgwbgwubgwrwgwrgubugbubuub is possible
+Worker 1 processed job: wbwwwwbggwugwurgrbgrgwbgwubgwrwgwrgubugbubuub -> 26635965558
+
+Design rgrruwrrwruwbrbggwrbuubrrbrwgrwuwwwwurgwbubgbwuugbwrgg is possible
+Worker 1 processed job: rgrruwrrwruwbrbggwrbuubrrbrwgrwuwwwwurgwbubgbwuugbwrgg -> 299421292800
+
+Design rurgubgrbururwwbggwwrruggbguwgbbwugubwgrbbruuurgwurburrr is possible
+Worker 1 processed job: rurgubgrbururwwbggwwrruggbguwgbbwugubwgrbbruuurgwurburrr -> 1004844786918
+
+Worker 1 processed job: rgwbwrbbwrgbgbgbgbbbbuurbuwubrrurgrrurrgbuubbwurggr -> 0
+
+Design rwuruuurrrurururbwggbrurwguurbrggbgrgwgurgr is possible
+Worker 1 processed job: rwuruuurrrurururbwggbrurwguurbrggbgrgwgurgr -> 149157487
+
+Design wuwuruubuggrwbbggbgrgggrwwwurwwuwuubbrrbwubb is possible
+Worker 1 processed job: wuwuruubuggrwbbggbgrgggrwwwurwwuwuubbrrbwubb -> 4582849390
+
+Design bwwgggrgbrwrbwggbgwubwgrwruwgubgwbwguwubbbugggrrbg is possible
+Worker 1 processed job: bwwgggrgbrwrbwggbgwubwgrwruwgubgwbwguwubbbugggrrbg -> 261683594544
+
+Worker 1 processed job: wwururrbwwbgwbwbuguurbgwggurbwbuwbuwbggururggrugr -> 0
+
+Design wgwggwubrugrbbwbwbrwgbbrwbwwbgguwubgwuuuuwrbg is possible
+Worker 1 processed job: wgwggwubrugrbbwbwbrwgbbrwbwwbgguwubgwuuuuwrbg -> 65970656315
+
+Design wrwurbgrugrwuubgrurwurrguurwubbgubrrwruwuwrbrgwuwbb is possible
+Worker 1 processed job: wrwurbgrugrwuubgrurwurrguurwubbgubrrwruwuwrbrgwuwbb -> 46951974324
+
+Design gurwrwbbbwgrwwggbgugwubrurbrwbwrruburgbrwuwgwgbuwgbwggg is possible
+Worker 1 processed job: gurwrwbbbwgrwwggbgugwubrurbrwbwrruburgbrwuwgwgbuwgbwggg -> 5329030458420
+
+Design bwgwwrgubggwrbbbbgugwugbwwbuwuwbrbwgrgggrguuururggw is possible
+Worker 1 processed job: bwgwwrgubggwrbbbbgugwugbwwbuwuwbrbwgrgggrguuururggw -> 337552103703
+
+Design wwugbrwbguuuubrwbwbwuwwrbburbubbwwrrgrruww is possible
+Worker 1 processed job: wwugbrwbguuuubrwbwbwuwwrbburbubbwwrrgrruww -> 4144423179
+
+Design urbbbubbrugrburbuggwggurwbwbrwurruggbuggbuwggg is possible
+Worker 1 processed job: urbbbubbrugrburbuggwggurwbwbrwurruggbuggbuwggg -> 25864641510
+
+Design bubbgbgrwwwggbrbugwrrwbwrgbbrrubrwuwugrguwgrggbuurrgu is possible
+Worker 1 processed job: bubbgbgrwwwggbrbugwrrwbwrgbbrrubrwuwugrguwgrggbuurrgu -> 300893875920
+
+Design wgbburwbuurwwwgurggrwuubrrubwuuwbwgrwururggurrgbubwb is possible
+Worker 1 processed job: wgbburwbuurwwwgurggrwuubrrubwuuwbwgrwururggurrgbubwb -> 417718254978
+
+Design ubbwgrbbrggbbbwwuwgruguwwbrwwbwwrbgrbuugwrgwubbgwbbgbuggwg is possible
+Worker 1 processed job: ubbwgrbbrggbbbwwuwgruguwwbrwwbwwrbgrbuugwrgwubbgwbbgbuggwg -> 18516606503806
+
+Worker 1 processed job: gggruuwgrwubrbgwuwgwggrbbububbwrubbubwrbbuggr -> 0
+
+Design brwwbugwwugrbguwwugugwrgwwrwwubgububugrbwgwb is possible
+Worker 1 processed job: brwwbugwwugrbguwwugugwrgwwrwwubgububugrbwgwb -> 14404280792
+
+Design wbgwubrgrbrwbggugwbbubgrgwbgbrwbwguugrrrwbrrwuu is possible
+Worker 1 processed job: wbgwubrgrbrwbggugwbbubgrgwbgbrwbwguugrrrwbrrwuu -> 16764296360
+
+Design wgbwgrgwwbggwwuwgbbuwwbgrbugrgwurbbbwwwrgurgbrrbww is possible
+Worker 1 processed job: wgbwgrgwwbggwwuwgbbuwwbgrbugrgwurbbbwwwrgurgbrrbww -> 154026519351
+
+Worker 1 processed job: bwwwbbrruubwbrgwbuuwwugubububgrwwbrbwbbwuruggr -> 0
+
+Design bbrrbrrwbwuubwgggbbrwbruwwburrwwubrbbbburggrgugg is possible
+Worker 1 processed job: bbrrbrrwbwuubwgggbbrwbruwwburrwwubrbbbburggrgugg -> 38819707200
+
+Design wuburgbrbwwrbbwrguwuwbruwrrrbgwgwuwrrurwwrgrgbwwrrwrwgbrr is possible
+Worker 1 processed job: wuburgbrbwwrbbwrguwuwbruwrrrbgwgwuwrrurwwrgrgbwwrrwrwgbrr -> 724778245536
+
+Worker 1 processed job: wwrrububgurwrrgwrgbbbubrruwuugbuurbgugurggr -> 0
+
+Design wgurwwbgrgrbwbrgrgwbruurbbubrwguwubggrrgubwubuugr is possible
+Worker 1 processed job: wgurwwbgrgrbwbrgrgwbruurbbubrwguwubggrrgubwubuugr -> 6380331688
+
+Design gubugwruwbwrgurwrwuwrggrbuuwuwgrrbgrwuwggwurbu is possible
+Worker 1 processed job: gubugwruwbwrgurwrwuwrggrbuuwuwgrrbgrwuwggwurbu -> 8914228044
+
+Design ggbbgbwuwwwgwrbbwuwubgwgruwugbubwrgubwugbwrrururgbgbururbw is possible
+Worker 1 processed job: ggbbgbwuwwwgwrbbwuwubgwgruwugbubwrgubwugbwrrururgbgbururbw -> 27293666814096
+
+Design wugrrrbbgrguuggwbugburwgrbgwguwwwgbbburruurwbbuur is possible
+Worker 1 processed job: wugrrrbbgrguuggwbugburwgrbgwguwwwgbbburruurwbbuur -> 28457745066
+
+Worker 1 processed job: ruwubbwbgbburrrgbbrggwrgbuwbrwguruwgrrgwggr -> 0
+
+Design uwwuubugrrbrwbuguuguwbgrguuwrbgrwrggrbrugugugb is possible
+Worker 1 processed job: uwwuubugrrbrwbuguuguwbgrguuwrbgrwrggrbrugugugb -> 2684179611
+
+Design burwuruwwubbwwgurggbggbbrurwwwgwggruwbuggbrurwg is possible
+Worker 1 processed job: burwuruwwubbwwgurggbggbbrurwwwgwggruwbuggbrurwg -> 51428938256
+
+Design gbrgbgbbbwwgbwrwbugguuwgbrbbubwuuurggrurrwuwbbwub is possible
+Worker 1 processed job: gbrgbgbbbwwgbwrwbugguuwgbrbbubwuuurggrurrwuwbbwub -> 167775139386
+
+Worker 1 processed job: rgburwrwrgbrbwrbgwrbbgwwbwgwrwwbgugwgubugurbguwgwrrurbuggr -> 0
+
+Worker 1 processed job: wgubuwbubbuuwrbwbrwwwrgwbbbwbggwwubwburwrwwwwggr -> 0
+
+Design uuugwbgguggbbgwwgrgurgrgwgwrwgwgurrbwwrgbrwrbr is possible
+Worker 1 processed job: uuugwbgguggbbgwwgrgurgrgwgwrwgwgurrbwwrgbrwrbr -> 6153760740
+
+Worker 1 processed job: bbwrugbgwwgwugrgwguwrrwrrwwuwrgrrgbgrurwbbgrrrrurbggr -> 0
+
+Worker 1 processed job: brgbbwgwbbbgwgwbwrwwggurbubrruwrbbbggwuguwrugrgbwgruurrggr -> 0
+
+Design bgwwwgruwwubrbrgubbgrrgugwuurguggubwbuwwwuuubrrgbbbbw is possible
+Worker 1 processed job: bgwwwgruwwubrbrgubbgrrgugwuurguggubwbuwwwuuubrrgbbbbw -> 2510487995904
+
+Worker 1 processed job: wwbugrgggrrguuugrbbgwwuubrruwrggwubrbbrwwugbgrggr -> 0
+
+Worker 1 processed job: wgwgruwwgubgwwuwurgrwwwbugugurwwubbbuwwwrggwrruwggwwubuggr -> 0
+
+Design bburubuuugbgwrugrwggbbrrruurrbwrggguubrrbbwggrwggwubu is possible
+Worker 1 processed job: bburubuuugbgwrugrwggbbrrruurrbwrggguubrrbbwggrwggwubu -> 385427041904
+
+Design wrwuwugbgugwgrbuurgbggwugrubbuuugwuwrrgbgbwuggb is possible
+Worker 1 processed job: wrwuwugbgugwgrbuurgbggwugrubbuuugwuwrrgbgbwuggb -> 29260847485
+
+Design ugruwrrwbuurbbubrrwbguurggwrgwbwwrguwrruuwbwguwbguwuwrwrrr is possible
+Worker 1 processed job: ugruwrrwbuurbbubrrwbguurggwrgwbwwrguwrruuwbwguwbguwuwrwrrr -> 5929945361340
+
+Design ruuburrrwrgugwrbrwgwwrggwuwgbbugbuwrubbwuw is possible
+Worker 1 processed job: ruuburrrwrgugwrbrwgwwrggwuwgbbugbuwrubbwuw -> 1962050032
+
+Design wrbrburgrrrgrbbbbggwbrubgubgrguuwwwgwrrggwu is possible
+Worker 1 processed job: wrbrburgrrrgrbbbbggwbrubgubgrguuwwwgwrrggwu -> 1199255112
+
+Design rbggugggwrubwwrrbrrububuwrubrugbgrgwurrgubrrg is possible
+Worker 1 processed job: rbggugggwrubwwrrbrrububuwrubrugbgrgwurrgubrrg -> 3390475527
+
+Design buubbubwguuwuburbuuuruwbburwurwwbbrrgurruwbgrgwbuurru is possible
+Worker 1 processed job: buubbubwguuwuburbuuuruwbburwurwwbbrrgurruwbgrgwbuurru -> 1599906193238
+
+Worker 1 processed job: wwbwbbuurwwggrwrrrgbugwrrgggrbwrbwubgwggr -> 0
+
+Design gbrurbwbbgurwuwuwwubbrugruwwrwgwguwwgrgbrwbgruubwurgrbrggg is possible
+Worker 1 processed job: gbrurbwbbgurwuwuwwubbrugruwwrwgwguwwgrgbrwbgruubwurgrbrggg -> 4321604205978
+
+Design rwbguwrggwbbwbwgbbwwrrubrrbrbrgurgwgugggrgwgrbbwrgrrgrugu is possible
+Worker 1 processed job: rwbguwrggwbbwbwgbbwwrrubrrbrbrgurgwgugggrgwgrbbwrgrrgrugu -> 513416437503
+
+Design brubguguwbubgruggggrwwubbrgbruwrwwurwggwruwrgwgwuwgubbg is possible
+Worker 1 processed job: brubguguwbubgruggggrwwubbrgbruwrwwurwggwruwrgwgwuwgubbg -> 2997413928910
+
+Design bbgugrgubbwwrurrrrgrururruwwwbubgwrbgguuwgwwwwrgugbugwuwg is possible
+Worker 1 processed job: bbgugrgubbwwrurrrrgrururruwwwbubgwrbgguuwgwwwwrgugbugwuwg -> 3905810630960
+
+Design gugubguwgrrbwwububrrgggbrrrgbrbugrwrwuuggbwuwbbgwug is possible
+Worker 1 processed job: gugubguwgrrbwwububrrgggbrrrgbrbugrwrwuuggbwuwbbgwug -> 242835680096
+
+Design guurwgrwbgbbrbwurbrwbgwgrugwbbgwrwwwrbubgw is possible
+Worker 1 processed job: guurwgrwbgbbrbwurbrwbgwgrugwbbgwrwwwrbubgw -> 1779589908
+
+Design brrbbgwuruwuuuuwwwrggruurbgggbrwbwgrubbwgrwbrgwgwwrgg is possible
+Worker 1 processed job: brrbbgwuruwuuuuwwwrggruurbgggbrwbwgrubbwgrwbrgwgwwrgg -> 393979522450
+
+Design wwugbwwrbbruwgwwgggugrwuruwgrggbrwrbwwguwgu is possible
+Worker 1 processed job: wwugbwwrbbruwgwwgggugrwuruwgrggbrwrbwwguwgu -> 4986316418
+
+Design grrwbuuwuwgwrbgbbbggggwwrubuwwwrwuggrgbbbuuwwuuuwb is possible
+Worker 1 processed job: grrwbuuwuwgwrbgbbbggggwwrubuwwwrwuggrgbbbuuwwuuuwb -> 608780285402
+
+Design rbwwruggbbrgwwwrggugrbrbwwwwwbwbuurbrgburwr is possible
+Worker 1 processed job: rbwwruggbbrgwwwrggugrbrbwwwwwbwbuurbrgburwr -> 688471703
+
+Design wrgrgburbruwuuwrgururbbubbwwubuwwgwwubbuubgbugwrrbu is possible
+Worker 1 processed job: wrgrgburbruwuuwrgururbbubbwwubuwwgwwubbuubgbugwrrbu -> 373897956457
+
+Design wwguguwrguburwwuugurbwbbwgrurwbugbwgurwgrgg is possible
+Worker 1 processed job: wwguguwrguburwwuugurbwbbwgrurwbugbwgurwgrgg -> 4308930184
+
+Worker 1 processed job: uwuwwwgubgbrruwwbrurwgruubuwuwuurrwurbrrrbwrwggr -> 0
+
+Design wgruwugwugrgwurbwugbubwwrruuwwrbgwwugrwgrubwbrburbu is possible
+Worker 1 processed job: wgruwugwugrgwurbwugbubwwrruuwwrbgwwugrwgrubwbrburbu -> 71365688608
+
+Worker 1 processed job: ubbrurbrgugwubwurbruruubwwbrbuwwgrrrwwubguurrgwwuwwrggr -> 0
+
+Worker 1 processed job: urguugbrburubwbgrgggrgrrubwwggbrgurbruuugbuugggguggr -> 0
+
+Design rwguuggwbgrgbbgurwrbbbrrwubbuwbuwubgwgwbbru is possible
+Worker 1 processed job: rwguuggwbgrgbbgurwrbbbrrwubbuwbuwubgwgwbbru -> 5015993232
+
+Worker 1 processed job: ruugbbggwbwrwubbgrwbbuwrwwurubbbbgwugguwuwrrwbwuggr -> 0
+
+Design ugwburggrwgbgwrrgruwbbbgwurbururwbbgbgwrbrwbgrbbb is possible
+Worker 1 processed job: ugwburggrwgbgwrrgruwbbbgwurbururwbbgbgwrbrwbgrbbb -> 17536008060
+
+Design bbwwggruuwrbuggwggwuwwugubrbgwwbuwubgwbrrbrrgrbgurbrrw is possible
+Worker 1 processed job: bbwwggruuwrbuggwggwuwwugubrbgwwbuwubgwbrrbrrgrbgurbrrw -> 837987371109
+
+Design rwbwrbwgwwugbbrurbrgrbgrgrugruwwuuubrrbbgwrrwuwbrubuwg is possible
+Worker 1 processed job: rwbwrbwgwwugbbrurbrgrbgrgrugruwwuuubrrbbgwrrwuwbrubuwg -> 136108553290
+
+Design wburuwbrwrwugubwwbwwugwrbwububrgrrbuuurwwgguug is possible
+Worker 1 processed job: wburuwbrwrwugubwwbwwugwrbwububrgrrbuuurwwgguug -> 16764713723
+
+Design uwrrbrgwgwbbubwrugrwwwuuwugugbbbrwguuugrbgwgubwr is possible
+Worker 1 processed job: uwrrbrgwgwbbubwrugrwwwuuwugugbbbrwguuugrbgwgubwr -> 47765555532
+
+Design bugrgwbggrbggbbggbwbgwguwrbwgrbrguurgbububbgurwwbwrrwbwr is possible
+Worker 1 processed job: bugrgwbggrbggbbggbwbgwguwrbwgrbrguurgbububbgurwwbwrrwbwr -> 2157834779226
+
+Design wubrwrrruuwubrgbbubrwggbwggurgwbuwuuwrgbwuwbrbrwrgubw is possible
+Worker 1 processed job: wubrwrrruuwubrgbbubrwggbwggurgwbuwuuwrgbwuwbrbrwrgubw -> 955373984918
+
+Design wbbbrgguugrrbwbuwburbrbwggguugruugwrbguuwbrgbrrgugub is possible
+Worker 1 processed job: wbbbrgguugrrbwbuwburbrbwggguugruugwrbguuwbrgbrrgugub -> 285846428343
+
+Design rugrugrwrugruubburrguuwrrrrbwwgbgwggrrbrwbrbguwgbwrugwbw is possible
+Worker 1 processed job: rugrugrwrugruubburrguuwrrrrbwwgbgwggrrbrwbrbguwgbwrugwbw -> 189565512876
+
+Design wwugbwrbrgbubwgbgbbuurbgbuwrguruurgrggbwugrgbrgggwbgug is possible
+Worker 1 processed job: wwugbwrbrgbubwgbgbbuurbgbuwrguruurgrggbwugrgbrgggwbgug -> 789683372544
+
+Worker 1 processed job: wgrgwruwbwuuwgubuurgrwwuwwugwrwwgwwgwrrggr -> 0
+
+Design guugubrbgubgurbrugbrbggruwbbrururgrrbbuguugggwbgbwgb is possible
+Worker 1 processed job: guugubrbgubgurbrugbrbggruwbbrururgrrbbuguugggwbgbwgb -> 311624929080
+
+Design wbbbggubrbwbwugwbbuwrbrrrwgurgugbwwrgrwwbbgwbwgbwugwbgbwbb is possible
+Worker 1 processed job: wbbbggubrbwbwugwbbuwrbrrrwgurgugbwwrgrwwbbgwbwgbwugwbgbwbb -> 47622138899760
+
+Worker 1 processed job: ubuwrruurbgrgrrrbwwbggbrugurrbwwwgbbgbburggr -> 0
+
+Worker 1 processed job: ugrrrgbbubbguubguuurruuruugbrubggrugwgbwrrbgbubrgbrrbggr -> 0
+
+Design brrbrwubuwgubgwrgwwwggrrggbrgurwwrgwuuurruurgbrwubwg is possible
+Worker 1 processed job: brrbrwubuwgubgwrgwwwggrrggbrgurwwrgwuuurruurgbrwubwg -> 332439787953
+
+Design grbbwwbbwwrbrgbwubugbrrrrbrwwbgrgrwrrbugurbwgrbubbbbu is possible
+Worker 1 processed job: grbbwwbbwwrbrgbwubugbrrrrbrwwbgrgrwrrbugurbwgrbubbbbu -> 83332568810
+
+Design wbruwwwruurbwburubrguwwwruwwgubgbrguuuwbgb is possible
+Worker 1 processed job: wbruwwwruurbwburubrguwwwruwwgubgbrguuuwbgb -> 5339949380
+
+Design rrgbugbbbrbbgurgrgrrruggwbwgwubwgrbgrggwbb is possible
+Worker 1 processed job: rrgbugbbbrbbgurgrgrrruggwbwgwubwgrbgrggwbb -> 472115667
+
+Worker 1 processed job: bwgwbuwrrbrwbuwwugrwwwuuurbbbggbbrwbbgwbwwggr -> 0
+
+Design uburuwbuburuwbbwuruugrubwubwwuggrggrwgugwwubgbgbbw is possible
+Worker 1 processed job: uburuwbuburuwbbwuruugrubwubwwuggrggrwgugwwubgbgbbw -> 145680694060
+
+Design ruurubrwrgbwrgwuruwubbwububwwbrgurgggbggwuw is possible
+Worker 1 processed job: ruurubrwrgbwrgwuruwubbwububwwbrgurgggbggwuw -> 2733775152
+
+Design urgrrrwbbwugbgrbgbbwbbbgbrrwbggubggubggbrbrbubrugrgb is possible
+Worker 1 processed job: urgrrrwbbwugbgrbgbbwbbbgbrrwbggubggubggbrbrbubrugrgb -> 231521110777
+
+Design uggwubgbgwggwuwbbuguubgwruuwwggwbwrugurwgrrubgrubbrr is possible
+Worker 1 processed job: uggwubgbgwggwuwbbuguubgwruuwwggwbwrugurwgrrubgrubbrr -> 552438003985
+
+Worker 1 processed job: wuwwuurwgubbbggbbbrubbrgruwwwurububgrggr -> 0
+
+Design wgrugrgbgbuguuuubbuubbguggwbwwguwgrugwwbubgwuwrubg is possible
+Worker 1 processed job: wgrugrgbgbuguuuubbuubbguggwbwwguwgrugwwbubgwuwrubg -> 452760780255
+
+Design gwguuwuuuwrurwrrggbrwwrruwbwuugbrwbubrbbbrg is possible
+Worker 1 processed job: gwguuwuuuwrurwrrggbrwwrruwbwuugbrwbubrbbbrg -> 4625258039
+
+Design buwrubrgurugrggrggugrwrwrgrbgguuurbuwuwbrugbruggwrgrbrw is possible
+Worker 1 processed job: buwrubrgurugrggrggugrwrwrgrbgguuurbuwuwbrugbruggwrgrbrw -> 93144411816
+
+Design wuurggbwwbgwgggrurbbgwrrbbwuugrurwwuwggwwgr is possible
+Worker 1 processed job: wuurggbwwbgwgggrurbbgwrrbbwuugrurwwuwggwwgr -> 753670786
+
+Worker 1 processed job: wurgbrbrurwugrbwbguwruwbrgrubrbbbbrrbguggr -> 0
+
+Design wgwbwwwgugwbwrbubuubbugruuubbbwurugrrrbbwuwgrww is possible
+Worker 1 processed job: wgwbwwwgugwbwrbubuubbugruuubbbwurugrrrbbwuwgrww -> 51122379808
+
+Design bwgbwwbruuuuwgbrrgrgbbwgrbbgwrgwgrwgrbguguww is possible
+Worker 1 processed job: bwgbwwbruuuuwgbrrgrgbbwgrbbgwrgwgrwgrbguguww -> 3375604414
+
+Design wwruwubbbwwgbwrwrrbbbbuugggbbrurgbwuugwrwwwgwrrrruwggb is possible
+Worker 1 processed job: wwruwubbbwwgbwrwrrbbbbuugggbbrurgbwuugwrwwwgwrrrruwggb -> 2139790738640
+
+Design wuuwuwubgugurubggwwgbgrbrrgrgugrbrubguuurbbggwrbuuruuw is possible
+Worker 1 processed job: wuuwuwubgugurubggwwgbgrbrrgrgugrbrubguuurbbggwrbuuruuw -> 917969318060
+
+Design grururwbrbwrgburbgrbwbuuwbwgrurruwuwwurubbrgggruwgggrgg is possible
+Worker 1 processed job: grururwbrbwrgburbgrbwbuuwbwgrurruwuwwurubbrgggruwgggrgg -> 133068499765
+
+Design rwuugggwbwrwrwgrrbbwrrwbbgbrwrgurbbbugubuugruwgruw is possible
+Worker 1 processed job: rwuugggwbwrwrwgrrbbwrrwbbgbrwrgurbbbugubuugruwgruw -> 41367944632
+
+Design rgubggrggguwbuwbrurbrgbrbuwrwgbuguuwwbwrwbrurguwrrbuwguw is possible
+Worker 1 processed job: rgubggrggguwbuwbrurbrgbrbuwrwgbuguuwwbwrwbrurguwrrbuwguw -> 1073646968448
+
+Design brggbbuubwbrrwrgbwwbbwuwrggubwwgwgbbgwwrwbr is possible
+Worker 1 processed job: brggbbuubwbrrwrgbwwbbwuwrggubwwgwgbbgwwrwbr -> 5380892496
+
+Design gurgurbbbbugurgrwugbbrbrbwggwgrruggwbbrgbwrr is possible
+Worker 1 processed job: gurgurbbbbugurgrwugbbrbrbwggwgrruggwbbrgbwrr -> 1154713930
+
+Design gubbwgruruugwwgbwurbugugbwubguwggruuurgbggurugww is possible
+Worker 1 processed job: gubbwgruruugwwgbwurbugugbwubguwggruuurgbggurugww -> 68723189862
+
+Design ubbubrwrrbrrgbuwggrrwbgggruwrbgrugwwbbggrg is possible
+Worker 1 processed job: ubbubrwrrbrrgbuwggrrwbgggruwrbgrugwwbbggrg -> 565430637
+
+Design gbrwurubuubrrrbwwwwgrwguurrbgruwggbrgggugbbwr is possible
+Worker 1 processed job: gbrwurubuubrrrbwwwwgrwguurrbgruwggbrgggugbbwr -> 6587435120
+
+Design ruugbgwgubgwugwrbrrrgrruurgwubbbbbbgbguggrgrwbbbbg is possible
+Worker 1 processed job: ruugbgwgubgwugwrbrrrgrruurgwubbbbbbgbguggrgrwbbbbg -> 25154695116
+
+Design wrwbgubgugrurggbgbggrbgbgubgggbrwuwrbggburbrgwurwu is possible
+Worker 1 processed job: wrwbgubgugrurggbgbggrbgbgubgggbrwuwrbggburbrgwurwu -> 131401865920
+
+Design bwrbgruugbwbgbugwrbruwruuuubwugrrugbrwggubgwrguubbbrwrg is possible
+Worker 1 processed job: bwrbgruugbwbgbugwrbruwruuuubwugrrugbrwggubgwrguubbbrwrg -> 993034990192
+
+Design rwbrrbuwrgrwwuwwrgubuugbgurrubbbuuwbbgubbbrw is possible
+Worker 1 processed job: rwbrrbuwrgrwwuwwrgubuugbgurrubbbuuwbbgubbbrw -> 6120712758
+
+Design gurwwrgrgbggbbruururrrbwubwwbrubrrgugugbwuuuguubrb is possible
+Worker 1 processed job: gurwwrgrgbggbbruururrrbwubwwbrubrrgugugbwuuuguubrb -> 84762758610
+
+Design uguwwububbugrbubuuuwwwbwgbbrrbbbbbbururrubwgrwrurbbbgrgb is possible
+Worker 1 processed job: uguwwububbugrbubuuuwwwbwgbbrrbbbbbbururrubwgrwrurbbbgrgb -> 3841712546165
+
+Design ugbwwrgguwururbwgwugbgggbrbuwwurubwgrburwbrgrwggruu is possible
+Worker 1 processed job: ugbwwrgguwururbwgwugbgggbrbuwwurubwgrburwbrgrwggruu -> 77520021837
+
+Design wrurbbruwuuwwwwuubbbgggbrrbwuuwbubbgwrgbrwbrur is possible
+Worker 1 processed job: wrurbbruwuuwwwwuubbbgggbrrbwuuwbubbgwrgbrwbrur -> 21580126212
+
+Design rgwrggbgwgrwwurubgrrrgubwggrrggwgrwrbbgbruggubugbubwbgwuwb is possible
+Worker 1 processed job: rgwrggbgwgrwwurubgrrrgubwggrrggwgrwrbbgbruggubugbubwbgwuwb -> 2831679462164
+
+Worker 1 processed job: gggwbggguggwgggggbwwggwruwwwwubwgwgbgugrubggggguggr -> 0
+
+Design ugurgrguubuggugwrgwbuuurwuwuwrrrrrbbggrrbwbuubwrrbwbwbur is possible
+Worker 1 processed job: ugurgrguubuggugwrgwbuuurwuwuwrrrrrbbggrrbwbuubwrrbwbwbur -> 1048109117260
+
+Design rruggwgwbrbwrgrubrwurrwuwuwururwgruggrrwbugwwbugurubuwuwr is possible
+Worker 1 processed job: rruggwgwbrbwrgrubrwurrwuwuwururwgruggrrwbugwwbugurubuwuwr -> 573201369720
+
+Design urgbbwrbwuwrgwrbwuwrururbugbbgrwbgurburbbuww is possible
+Worker 1 processed job: urgbbwrbwuwrgwrbwuwrururbugbbgrwbgurburbbuww -> 3553017138
+
+Design gbuwwuwwuwbbggruuruwrwwwugbrwbrbgbwwbrrbrugggrrwbgbgrggru is possible
+Worker 1 processed job: gbuwwuwwuwbbggruuruwrwwwugbrwbrbgbwwbrrbrugggrrwbgbgrggru -> 2150437727744
+
+Worker 1 processed job: rgbwbguurbwrwbbugwwrrwbwruwwrgwrbgrugwwwbbwbggr -> 0
+
+Worker 1 processed job: rbgrbbggbwbbwbururguuuggrubbubbgugbwuuggruwrwwurgggrugbbggr -> 0
+
+Design uubgguwrwbrbwwubbgggbrrrgurburuwgrwgurwrubwwwgwwrbwwbgrwrr is possible
+Worker 1 processed job: uubgguwrwbrbwwubbgggbrrrgurburuwgrwgurwrubwwwgwwrbwwbgrwrr -> 5141571829440
+
+Design bggwrwuwbuwwuugbgwgbwruuurruwrbgwrrwubgrwbgwwr is possible
+Worker 1 processed job: bggwrwuwbuwwuugbgwgbwruuurruwrbgwrrwubgrwbgwwr -> 14865684944
+
+Worker 1 processed job: burrubwwugrgrgwbrurrrguggbgbbbrrwwuwugwrbrburggr -> 0
+
+Worker 1 processed job: ubwguurwggugwuubbwgruuwrbwubgrwugwgguuggr -> 0
+
+Design wgwuwwwrgrgurwurgbwrbgugbgugwwugurggwrwbggwuruw is possible
+Worker 1 processed job: wgwuwwwrgrgurwurgbwrbgugbgugwwugurggwrwbggwuruw -> 26235112736
+
+Design rubgwuurwwbrbrrwubrrubrgrugwrwrwrbwuguugguruggurr is possible
+Worker 1 processed job: rubgwuurwwbrbrrwubrrubrgrugwrwrwrbwuguugguruggurr -> 4971659430
+
+Design urbgrwgrbbwwrubwurgbgggbugubbrbbrwgubuwwgggbrwrgrgwbw is possible
+Worker 1 processed job: urbgrwgrbbwwrubwurgbgggbugubbrbbrwgubuwwgggbrwrgrgwbw -> 437884597176
+
+Design wguuwubugruwrurbwrrurgggwrbgrurbwuurbrubwbgurbgwbbubrrurgw is possible
+Worker 1 processed job: wguuwubugruwrurbwrrurgggwrbgrurbwuurbrubwbgurbgwbbubrrurgw -> 1825558643736
+
+Design rrurbrwbrgwrbgugbrurbrrbrbgwwurbrrwugwgbgbrrubbrwrrbggu is possible
+Worker 1 processed job: rrurbrwbrgwrbgugbrurbrrbrbgwwurbrrwugwgbgbrrubbrwrrbggu -> 139165513578
+
+Worker 1 processed job: wgrgbuuwbwbrubrgwuuugrgrrrrbugwwrugrbggbrrwggr -> 0
+
+Worker 1 processed job: wguuurrrgbuuurwgububgrrbwrwwrwgguwrrrwbbbggbwwrwggr -> 0
+
+Design uuwwbbbubruurggugwbwuwbggbgggubrwbgwbbwgrbrguwrw is possible
+Worker 1 processed job: uuwwbbbubruurggugwbwuwbggbgggubrwbgwbbwgrbrguwrw -> 244070583504
+
+Design gbggggbugbbrbruwruurwuwrurwgurggbwgwgggubgggbubrgbbbw is possible
+Worker 1 processed job: gbggggbugbbrbruwruurwuwrurwgurggbwgwgggubgggbubrgbbbw -> 2111126086450
+
+Worker 1 processed job: wwwrrrbuwrurgwgwgggwwurugggbbbgwurrrugrggr -> 0
+
+Design bubbubruburgwggrbrugrwwuwwrwgwwbuurbrggrgwg is possible
+Worker 1 processed job: bubbubruburgwggrbrugrwwuwwrwgwwbuurbrggrgwg -> 1145560320
+
+Design rgwwrgbwgwubwbrrrgruggggrbguwwbgrbwbrbrubuwuugrrgrrrbg is possible
+Worker 1 processed job: rgwwrgbwgwubwbrrrgruggggrbguwwbgrbwbrbrubuwuugrrgrrrbg -> 54823317472
+
+Design wwbguwgwuwuwbbrggruurwugbbggwuugwrwwrwrugwu is possible
+Worker 1 processed job: wwbguwgwuwuwbbrggruurwugbbggwuugwrwwrwrugwu -> 7016054223
+
+Design grwwurbugbbbwgwgwwbwguurrbrwrrbgbrrrwugwbggbg is possible
+Worker 1 processed job: grwwurbugbbbwgwgwwbwguurrbrwrrbgbrrrwugwbggbg -> 8470673208
+
+Design bubbbwwbbgubwbwbgruwggrbbrwbbbbrrbbubwwrbrbbugbu is possible
+Worker 1 processed job: bubbbwwbbgubwbwbgruwggrbbrwbbbbrrbbubwwrbrbbugbu -> 121131437504
+
+Design wurgrwugrwbrrrugrgwgrrwuwururwwubuwgbggwrrrwrwbwurgwguwg is possible
+Worker 1 processed job: wurgrwugrwbrrrugrgwgrrwuwururwwubuwgbggwrrrwrwbwurgwguwg -> 534837138336
+
+Worker 1 processed job: wgwrrbuurrbwuburgrgbrrgbgurwrggwrrrurwwbuwrbbggr -> 0
+
+Worker 1 processed job: ggrggrrgurrwrrrubguruwwurwbgubrgrwwbgbgbrgbbwgbwuggr -> 0
+
+Design wwrgrgbbbgwburubwrrburwrurgbrgrbgrwgwgubgur is possible
+Worker 1 processed job: wwrgrgbbbgwburubwrrburwrurgbrgrbgrwgwgubgur -> 403434444
+
+Worker 1 processed job: rrurrurbgwurbwrbbugrwbrbbrwgburrrwruurgrgrubrrwbrbbggr -> 0
+
+Design gbubrwbbuuurwbrwggrwwgwwbgrubwgrbbbbgrwruwgwgwrbruruu is possible
+Worker 1 processed job: gbubrwbbuuurwbrwggrwwgwwbgrubwgrbbbbgrwruwgwgwrbruruu -> 234109263898
+
+Worker 1 processed job: wgrbwbbwrbgurugbrbgrrgubruwbrrbwwbbugwggr -> 0
+
+Design bubgrrwbwrwuburwwbgubrrrbbgwwubgrwwguwbbwburuurrwwbguuw is possible
+Worker 1 processed job: bubgrrwbwrwuburwwbgubrrrbbgwwubgrwwguwbbwburuurrwwbguuw -> 5478976390504
+
+Design wggugwbwruguwrugrbwrrwwuwwwwwgubggrbrbwgrrwrwugr is possible
+Worker 1 processed job: wggugwbwruguwrugrbwrrwwuwwwwwgubggrbrbwgrrwrwugr -> 3832431700
+
+Design rrrruurwrurbggwrgwgburggrbbwwgwbwubrwrrwgruwwgwurwwr is possible
+Worker 1 processed job: rrrruurwrurbggwrgwgburggrbbwwgwbwubrwrrwgruwwgwurwwr -> 37813858236
+
+Design rbbugbuwurbwgbuurwgbuwrgubuuuwguuwurbwbbwuwbbrrgrugbw is possible
+Worker 1 processed job: rbbugbuwurbwgbuurwgbuwrgubuuuwguuwurbwbbwuwbbrrgrugbw -> 2109904416764
+
+Design wgrgguuuugrrrubggbrwwgbrrgwuwwbwurgbwgrwurrwwgruugbwbub is possible
+Worker 1 processed job: wgrgguuuugrrrubggbrwwgbrrgwuwwbwurgbwgrwurrwwgruugbwbub -> 1233773515008
+
+Design grwwwbwuwuburrugugrwwurgubgbrgggbbrrgbgrrggburgggwuuwrrwr is possible
+Worker 1 processed job: grwwwbwuwuburrugugrwwurgubgbrgggbbrrgbgrrggburgggwuuwrrwr -> 827022721140
+
+Design gbbrwwbrwuwubbrubguuwbbbbwbbgbwbuugwgwuubrwrwbwbbggggbbbrg is possible
+Worker 1 processed job: gbbrwwbrwuwubbrubguuwbbbbwbbgbwbuugwgwuubrwrwbwbbggggbbbrg -> 240782940057264
+
+Design wuugrurwuwbubrwrrggwgbburubrbwubggbgbwrurbgw is possible
+Worker 1 processed job: wuugrurwuwbubrwrrggwgbburubrbwubggbgbwrurbgw -> 5432126141
+
+Design bbuwgbuurbuurguwubrubugburrrwbggubrurbrgwrgbwr is possible
+Worker 1 processed job: bbuwgbuurbuurguwubrubugburrrwbggubrurbrgwrgbwr -> 10869112518
+
+Design rbwrururwbuubwgwbrbwbbbburbwwrbubrwrwgrrgwbrwwbbgwbg is possible
+Worker 1 processed job: rbwrururwbuubwgwbrbwbbbburbwwrbubrwrwgrrgwbrwwbbgwbg -> 184550367782
+
+Worker 1 processed job: rwurwwbggbuugwwuwbrgwwurbwgrgwbgrrggbugwgwubwrrbwwbugrggr -> 0
+
+Design gwrwrbbwguwgugruugrguggrbrugrwruwwbgurwwwubwbbg is possible
+Worker 1 processed job: gwrwrbbwguwgugruugrguggrbrugrwruwwbgurwwwubwbbg -> 7410572448
+
+Design uugwuwwggrbbggbrbrbgrbrrugbwgubbrgururwbgwburwgwurru is possible
+Worker 1 processed job: uugwuwwggrbbggbrbrbgrbrrugbwgubbrgururwbgwburwgwurru -> 118244592858
+
+Design rgrwruwwruwruggrbuggrrwbguugwuuuuwggwuwwrurgubrggwur is possible
+Worker 1 processed job: rgrwruwwruwruggrbuggrrwbguugwuuuuwggwuwwrurgubrggwur -> 62339513456
+
+Design wgrubuuwggwgrwgrgwruubbubbrgurrrgwrggugbgbgugwb is possible
+Worker 1 processed job: wgrubuuwggwgrwgrgwruubbubbrgurrrgwrggugbgbgugwb -> 20751061773
+
+Worker 1 processed job: buwwrubrrrwruwubggwwbwrrbgbubugbugbwrrbwwrgwwububwbggr -> 0
+
+Design rwwrrwbuburwggbbwubgggruurgrgwrrwuwbgurwbwugbrbbwbrgrrgwr is possible
+Worker 1 processed job: rwwrrwbuburwggbbwubgggruurgrgwrrwuwbgurwbwugbrbbwbrgrrgwr -> 593342597928
+
+Design wgwwugwggbuwwbwgwgrrwrwbuwwbgbbuuwurwwwwrgbbrbbgrbubrbbg is possible
+Worker 1 processed job: wgwwugwggbuwwbwgwgrrwrwbuwwbgbbuuwurwwwwrgbbrbbgrbubrbbg -> 18306056982366
+
+Design grgbgwwruwggwwrruwubwbwgrbrgugbubrbwgwrrwr is possible
+Worker 1 processed job: grgbgwwruwggwwrruwubwbwgrbrgugbubrbwgwrrwr -> 610926231
+
+Design brbgwugbggguuwwwgburbguwbgurbrubbrugubrugwubwuuwuruurrrbu is possible
+Worker 1 processed job: brbgwugbggguuwwwgburbguwbgurbrubbrugubrugwubwuuwuruurrrbu -> 20039944825050
+
+Design rwuwurgrurbgurrwggbruggugurwgwbbwgwrwwbruwwwurgugurub is possible
+Worker 1 processed job: rwuwurgrurbgurrwggbruggugurwgwbbwgwrwwbruwwwurgugurub -> 248657106200
+
+Design rburwgbwrbgwwguruburwguubrrgwwrgbrwggbgwbguwwbbwgrgrwuuw is possible
+Worker 1 processed job: rburwgbwrbgwwguruburwguubrrgwwrgbrwggbgwbguwwbbwgrgrwuuw -> 4291025602576
+
+Worker 1 processed job: rbrbbguwwwuubgwgbgrwrrggrbwggbubrgubrbrbwwgguwwggwwggr -> 0
+
+Design ugruruggwguwubgrwrwbuwuwwuguguugrwbgrrbrggwwuugbbrwgwbg is possible
+Worker 1 processed job: ugruruggwguwubgrwrwbuwuwwuguguugrwbgrrbrggwwuugbbrwgwbg -> 1008480283015
+
+Worker 1 processed job: wrgbugbbbwuwurbbwbbbrggwuggguwgbgugrgbrbuuwruurgwbbrwggr -> 0
+
+Design wbrgwrgbwugbrwrbgrgrbgwrguruwrgwrbgurrugrbbbbgu is possible
+Worker 1 processed job: wbrgwrgbwugbrwrbgrgrbgwrguruwrgwrbgurrugrbbbbgu -> 2744906157
+
+Design wuwbwurbrugruurrurwrggbuuruuuubbwbwurgbuubbbbwgbubrgbrbbgu is possible
+Worker 1 processed job: wuwbwurbrugruurrurwrggbuuruuuubbwbwurgbuubbbbwgbubrgbrbbgu -> 12304592275114
+
+Worker 1 processed job: uggwrrubugburguwbbrbwbbrwgwwugwwgwwuwbrbbggr -> 0
+
+Design wubbwruurbbbgwrbwurrwuwwgrgwwurbggwgugggbr is possible
+Worker 1 processed job: wubbwruurbbbgwrbwurrwuwwgrgwwurbggwgugggbr -> 2448100071
+
+Design ugwbwgugbrwrrrrbrbugwgbbuuuuwbbrbguwrbrrgbrbgbuuwg is possible
+Worker 1 processed job: ugwbwgugbrwrrrrbrbugwgbbuuuuwbbrbguwrbrrgbrbgbuuwg -> 147208441191
+
+Design rururuwrbgugbugbbwrbguruubwgbubrrbubrbrwwww is possible
+Worker 1 processed job: rururuwrbgugbugbbwrbguruubwgbubrrbubrbrwwww -> 1996531884
+
+Design guurbubrbbrubwgbuuuwwbrgbrwbgrruurgrbguuugbgbuwggbuwu is possible
+Worker 1 processed job: guurbubrbbrubwgbuuuwwbrgbrwbgrruurgrbguuugbgbuwggbuwu -> 1569902326048
+
+Design brubrrggruurwwwwwbbuggrrwggbguuurrwwgbbgwrbgwwrwwrwrwgbuu is possible
+Worker 1 processed job: brubrrggruurwwwwwbbuggrrwggbguuurrwwgbbgwrbgwwrwwrwrwgbuu -> 4714928811378
+
+Design wgbbwwwwbbwbrgbwugbbwuggrbwgubuuwgububguwrgrbgrbwrrwwbggg is possible
+Worker 1 processed job: wgbbwwwwbbwbrgbwugbbwuggrbwgubuuwgububguwrgrbgrbwrrwwbggg -> 13001472079350
+
+Design urgbgrwwrgugbgwgwgrbuwrgwuwggrbgbugrgwwgwwbwbbrwuruwbb is possible
+Worker 1 processed job: urgbgrwwrgugbgwgwgrbuwrgwuwggrbgbugrgwwgwwbwbbrwuruwbb -> 540065539944
+
+Design ubwrwbbgwwwubuwrgggrwuwbwwgbubgrbgbrguruuwwbuwwgbgwbbb is possible
+Worker 1 processed job: ubwrwbbgwwwubuwrgggrwuwbwwgbubgrbgbrguruuwwbuwwgbgwbbb -> 6951203738040
+
+Design uuruwgrwuwburbrwgrubuwgbbwurrwuurbgrbrurbgruruwb is possible
+Worker 1 processed job: uuruwgrwuwburbrwgrubuwgbbwurrwuurbgrbrurbgruruwb -> 6439605602
+
+Design wwbwbggurwwgwbgrwuwurwrwbuwuuuwugwwggwrugbu is possible
+Worker 1 processed job: wwbwbggurwwgwbgrwuwurwrwbuwuuuwugwwggwrugbu -> 15526407790
+
+Worker 1 processed job: ugwwurgrburwguwwuurggbwwgbguwrubbgrggurwwrwrwugbbggr -> 0
+
+Design rwggburbrbrrrwrbubuuwgugbwuuubbgubbrggrbrgbugggwbr is possible
+Worker 1 processed job: rwggburbrbrrrwrbubuuwgugbwuuubbgubbrggrbrgbugggwbr -> 19901812143
+
+Worker 1 processed job: bwbwgubbwgurwgrrwbuwrrgrwuwrggrgrrwbguuuwgwuwbrbggr -> 0
+
+Design bwguuwgrbbuurrwrbbbgrbgwurwgbugbwwgubrbruuggbrwgrrgggu is possible
+Worker 1 processed job: bwguuwgrbbuurrwrbbbgrbgwurwgbugbwwgubrbruuggbrwgrrgggu -> 1170507994372
+
+Design wbwwwwugrwrbwbuburbugrgbrrgurubbbrgggbwubruw is possible
+Worker 1 processed job: wbwwwwugrwrbwbuburbugrgbrrgurubbbrgggbwubruw -> 4673439607
+
+Design wbbwuububrggbbrwbgwrwubgrgwburrgwrwwrugruwwrbg is possible
+Worker 1 processed job: wbbwuububrggbbrwbgwrwubgrgwburrgwrwwrugruwwrbg -> 13212469988
+
+Design grbbururuwburggbgguwguggbwuwwgubuwbwubrurbwu is possible
+Worker 1 processed job: grbbururuwburggbgguwguggbwuwwgubuwbwubrurbwu -> 14809814640
+
+Design rwrrwwbgbuuwrggbwubbbwrrwgwggugurrwguggwurguwrrurruwu is possible
+Worker 1 processed job: rwrrwwbgbuuwrggbwubbbwrrwgwggugurrwguggwurguwrrurruwu -> 407479062120
+
+Worker 1 processed job: bbrrwuwgrrbrbbwgrbgrrwgbwburrruugurbuwbwrwwbgrggr -> 0
+
+Design wwbruggrruwgrrgubruwbguwbgubbburrgrrwwgrbrurugbrbuggbrbub is possible
+Worker 1 processed job: wwbruggrruwgrrgubruwbguwbgubbburrgrrwwgrbrurugbrbuggbrbub -> 1201274007360
+
+Worker 1 processed job: guruwrururbgrgbrwuurwuurrrgggrwwguugrbggrbrbbrrwggr -> 0
+
+Design rrrguwgbwbrwbgwwrgrgbrbbggwbgugrgbbwgbggrbbgbbwubw is possible
+Worker 1 processed job: rrrguwgbwbrwbgwwrgrgbrbbggwbgugrgbbwgbggrbbgbbwubw -> 68395912649
+
+Design gwbrugwwguuurwbugrugwgruruwgwrrururwrrgbbgrrwwugwrrwbrbbg is possible
+Worker 1 processed job: gwbrugwwguuurwbugrugwgruruwgwrrururwrrgbbgrrwwugwrrwbrbbg -> 589121217216
+
+Design wugwurrubgrubbwgbgbgwwwggwbwgrubggggurwgwbubgbwwurb is possible
+Worker 1 processed job: wugwurrubgrubbwgbgbgwwwggwbwgrubggggurwgwbubgbwwurb -> 806101123846
+
+Design rgwbrgrwruwgrbbbrrggwwbuurrrguubuggrgrurbrggb is possible
+Worker 1 processed job: rgwbrgrwruwgrbbbrrggwwbuurrrguubuggrgrurbrggb -> 555335594
+
+Design bgggrrwruwuggrguwwwuwbgwrrubwggubgwwgggrbgwwwbgrrbuguggub is possible
+Worker 1 processed job: bgggrrwruwuggrguwwwuwbgwrrubwggubgwwgggrbgwwwbgrrbuguggub -> 6683219203845
+
+Design uruwugrrwwrgwuubwbrbwwuurbubwbwbbuwubrubuu is possible
+Worker 1 processed job: uruwugrrwwrgwuubwbrbwwuurbubwbwbbuwubrubuu -> 5781438025
+
+Design gbwwbbuuwuuuuggbugbuwrbrugrwggrbgguwrwubbwwugrb is possible
+Worker 1 processed job: gbwwbbuuwuuuuggbugbuwrbrugrwggrbgguwrwubbwwugrb -> 43266794870
+
+Worker 1 processed job: ubrbggurgruugrugrrurrbgrwrgburruwwguuwwguwgruuwuwuwuurwrwggr -> 0
+
+Design bgrwgbgwgwbwggwgbbrrwgbgwuguurrubbburuwwrbbu is possible
+Worker 1 processed job: bgrwgbgwgwbwggwgbbrrwgbgwuguurrubbburuwwrbbu -> 14787667020
+
+Worker 1 processed job: uuugrrgwgguwwbwgrwrurrrbrrgggwugrburggwbgubggr -> 0
+
+Design rrguwrwwbwwrugrwbrbrwwuuuwbrburrgbguuguggggwrwwwg is possible
+Worker 1 processed job: rrguwrwwbwwrugrwbrbrwwuuuwbrburrgbguuguggggwrwwwg -> 42857891172
+
+Design gugwwgwwrbrbrwbrugurrruwgbbbbuurwuggbrrgbbrbu is possible
+Worker 1 processed job: gugwwgwwrbrbrwbrugurrruwgbbbbuurwuggbrrgbbrbu -> 8799464757
+
+Design uggubwuwgububurrgwrgwubwgwgwwrrbgggugurgwuwurbuwbwbwb is possible
+Worker 1 processed job: uggubwuwgububurrgwrgwubwgwgwwrrbgggugurgwuwurbuwbwbwb -> 4760502726672
+
+Design brrugugrbugwwuurgbwrwwburbubgguguuuwgrgrwr is possible
+Worker 1 processed job: brrugugrbugwwuurgbwrwwburbubgguguuuwgrgrwr -> 446695890
+
+Design uguwurwrwbuwrbbbrwguggurbgbrwrugbwbrrgrwwrubwwbrrgg is possible
+Worker 1 processed job: uguwurwrwbuwrbbbrwguggurbgbrwrugbwbrrgrwwrubwwbrrgg -> 69660947993
+
+Design grbrguruwurggrguggburwuwbwwwubbwwbubgrwrrbbrgwgguwru is possible
+Worker 1 processed job: grbrguruwurggrguggburwuwbwwwubbwwbubgrwrrbbrgwgguwru -> 140155919688
+
+Design wbggwubgrgrwrgbbuwrbrurgugbbrurbguwruwwbgbbrgrguu is possible
+Worker 1 processed job: wbggwubgrgrwrgbbuwrbrurgugbbrurbguwruwwbgbbrgrguu -> 32147147172
+
+Design gbgwrubwbwruwgbwbuwubrwrgbrwwrwwrwguwbgwrrugbuw is possible
+Worker 1 processed job: gbgwrubwbwruwgbwbuwubrwrgbrwwrwwrwguwbgwrrugbuw -> 57223016904
+
+Design bugwruwwuruubuwbwbbbgrguuugbuubugwgbuuwgbwbgbgw is possible
+Worker 1 processed job: bugwruwwuruubuwbwbbbgrguuugbuubugwgbuuwgbwbgbgw -> 324234768220
+
+Design bburbrwrbubuubbrwuubbururgbrrggugguuurbbbwwwb is possible
+Worker 1 processed job: bburbrwrbubuubbrwuubbururgbrrggugguuurbbbwwwb -> 19085210237
+
+Design grugbuugrrrbgrbgugrwggrrrbwbbgbgrbgbwwgwgrgwbrrbrbrgru is possible
+Worker 1 processed job: grugbuugrrrbgrbgugrwggrrrbwbbgbgrbgbwwgwgrgwbrrbrbrgru -> 19175528250
+
+Design ugrbwuurbrggrwrguwwwbguggbguwwwrbbwwrurrgrubwrbbwurb is possible
+Worker 1 processed job: ugrbwuurbrggrwrguwwwbguggbguwwwrbbwwrurrgrubwrbbwurb -> 65932899926
+
+Design rwgrrwrruubrgbuugrgugbwwruguwrbbuwrwgrwgbgbbgbbwgbr is possible
+Worker 1 processed job: rwgrrwrruubrgbuugrgugbwwruguwrbbuwrwgrwgbgbbgbbwgbr -> 37120760235
+
+Design rurrrbbbwrwgggurubgggwruwgwubbbbwbubgwrbuuuubrb is possible
+Worker 1 processed job: rurrrbbbwrwgggurubgggwruwgwubbbbwbubgwrbuuuubrb -> 66100324816
+
+Design gwwwugrrguwwrwwrwwwuurbwwurwwrgwbrrrgbrrrrgbu is possible
+Worker 1 processed job: gwwwugrrguwwrwwrwwwuurbwwurwwrgwbrrrgbrrrrgbu -> 2398335186
+
+Design uuwbgwgubbrbubbwurbwwgubbbbbugbbuwgwwwbrrbrrrwur is possible
+Worker 1 processed job: uuwbgwgubbrbubbwurbwwgubbbbbugbbuwgwwwbrrbrrrwur -> 131537261201
+
+Design wwbrubgwgrbbggwuwrurrrbubrwurwwbwggrbrrgggwgbbgwgbggg is possible
+Worker 1 processed job: wwbrubgwgrbbggwuwrurrrbubrwurwwbwggrbrrgggwgbbgwgbggg -> 394973579040
+
+Worker 1 processed job: wrguwruguwwgrbrwrbgwbwuubbubggubrwbgbrrgrggr -> 0
+
+Design gubrwrgrbbguwwgbgbgrguggburggwbgbwuwuuuwbuubbwubrwurrrwrr is possible
+Worker 1 processed job: gubrwrgrbbguwwgbgbgrguggburggwbgbwuwuuuwbuubbwubrwurrrwrr -> 5335303009824
+
+Worker 1 processed job: bbrgbrwgbwbwwwguwgwbrwuwgubgguurrbwubbwgbuwwwrggrrgr -> 0
+
+Design wwwgugwuwwwubbbwgguuburbbbggburwbuugubrrugbbgruwr is possible
+Worker 1 processed job: wwwgugwuwwwubbbwgguuburbbbggburwbuugubrrugbbgruwr -> 263222085557
+
+Design rgrwbggubgguwwuwwwrrurrbruguwggguggbgrwwgubrbrrwrrwwrrrw is possible
+Worker 1 processed job: rgrwbggubgguwwuwwwrrurrbruguwggguggbgrwwgubrbrrwrrwwrrrw -> 1106709948960
+
+Design wuwurgwuburbbbgbrgwbbrbgururbggruuguwwrrrbguuug is possible
+Worker 1 processed job: wuwurgwuburbbbgbrgwbbrbgururbggruuguwwrrrbguuug -> 16056190565
+
+Design uugbrgbgwuggrrwwwrbuwwbgrrwbbrrruuuugrgwgrbwwwguuubuubbu is possible
+Worker 1 processed job: uugbrgbgwuggrrwwwrbuwwbgrrwbbrrruuuugrgwgrbwwwguuubuubbu -> 2720055699984
+
+Design brbgbbwggbwbrrurrrgugwbbwbrbuggwuurrurwubruruggwuuurrrgr is possible
+Worker 1 processed job: brbgbbwggbwbrrurrrgugwbbwbrbuggwuurrurwubruruggwuuurrrgr -> 376614332784
+
+Design gbrgbwgggbruuwwwurwrrgwubrggbwrgurbgwurrwgrurgbugrurguuu is possible
+Worker 1 processed job: gbrgbwgggbruuwwwurwrrgwubrggbwrgurbgwurrwgrurgbugrurguuu -> 1040681262335
+
+Design wbrgburguwrbbbuwbubbruugbrbuurwggburugbwugguwubrbguwwbg is possible
+Worker 1 processed job: wbrgburguwrbbbuwbubbruugbrbuurwggburugbwugguwubrbguwwbg -> 5591918326722
+
+Design wgwguguurbbwgrbgugubbuwbubururbgwwrguurbgrrrgb is possible
+Worker 1 processed job: wgwguguurbbwgrbgugubbuwbubururbgwwrguurbgrrrgb -> 15198575328
+
+Design rbrrgbbbrwbbrguububwuurgburuwwurwbgbbuggbrububugbururubrgu is possible
+Worker 1 processed job: rbrrgbbbrwbbrguububwuurgburuwwurwbgbbuggbrububugbururubrgu -> 6444314900312
+
+Design wguguubugbgwurggwrrrugrwgurbuggbbbrwbgrwrgwuwbwruwrbgb is possible
+Worker 1 processed job: wguguubugbgwurggwrrrugrwgurbuggbbbrwbgrwrgwuwbwruwrbgb -> 531410612369
+
+Worker 1 processed job: rgwwwwubbbgbruuggrurwbuwgbwgrbrubwggubbggr -> 0
+
+Design rwwbggwrbwbrbbwbbuurbgbggrrrbgrwuwrrwrugwrgguwwuwb is possible
+Worker 1 processed job: rwwbggwrbwbrbbwbbuurbgbggrrrbgrwuwrrwrugwrgguwwuwb -> 40864264853
+
+Design urbwrgwgrgrwrbwrgwgbgwwbgrrrbbbrrrrbwrwrgrrwbg is possible
+Worker 1 processed job: urbwrgwgrgrwrbwrgwgbgwwbgrrrbbbrrrrbwrwrgrrwbg -> 1064456462
+
+Worker 1 processed job: wuuggrgguwbwbuurbuwwwwbbrwwrrwrggurbruggr -> 0
+
+Worker 1 processed job: ruruwrburwwgugurguwurwugrwgbrrgrwrrbburburuubgbrgrwuggr -> 0
+
+Design gruwrbrrguuruwwbbuuwgurgbwugwguruwbwbgrgugw is possible
+Worker 1 processed job: gruwrbrrguuruwwbbuuwgurgbwugwguruwbwbgrgugw -> 2504542158
+
+Design brwrgrgbbbwbwrgguuwbrrgruruwuwgbbgbbrgbwbr is possible
+Worker 1 processed job: brwrgrgbbbwbwrgguuwbrrgruruwuwgbbgbbrgbwbr -> 518032830
+
+Design rwbbgrwguruurrwwuggbwggbwgwubrbbburbgubbgb is possible
+Worker 1 processed job: rwbbgrwguruurrwwuggbwggbwgwubrbbburbgubbgb -> 3434798688
+
+Worker 1 processed job: wwgbbguwbwugrbwubrwugrwbbggubugrrwgugrgwuwgbubggr -> 0
+
+Design gububbbbrwrbrrurrwwwruguwrurbbruubrurbubuug is possible
+Worker 1 processed job: gububbbbrwrbrrurrwwwruguwrurbbruubrurbubuug -> 1389312324
+
+Design ubwggwbrgbgwbwbrwbruwwbrrbburuugrruguguwwuggbbww is possible
+Worker 1 processed job: ubwggwbrgbgwbwbrwbruwwbrrbburuugrruguguwwuggbbww -> 47050176900
+
+Design gbuuubbwgwwbbwuubguugbbwgbgubbrbwwwgrurugwwwwrr is possible
+Worker 1 processed job: gbuuubbwgwwbbwuubguugbbwgbgubbrbwwwgrurugwwwwrr -> 213759145028
+
+Design ruwwgbwuuugbrgrwggwrbrwggbgwbugururwbubububbuugrwwwgbb is possible
+Worker 1 processed job: ruwwgbwuuugbrgrwggwrbrwggbgwbugururwbubububbuugrwwwgbb -> 1368650657808
+
+Design ubrwwurrggrwbrwbgugggbwgguwwgrubgbbwrrguugbrwgbbgrbwrg is possible
+Worker 1 processed job: ubrwwurrggrwbrwbgugggbwgguwwgrubgbbwrrguugbrwgbbgrbwrg -> 622394444004
+
+Design gurwbgwbugwurwrruguuwwugbwruwruubbwbbuwurbbbuwbrwgbbwwwgbb is possible
+Worker 1 processed job: gurwbgwbugwurwrruguuwwugbwruwruubbwbbuwurbbbuwbrwgbbwwwgbb -> 45986039482500
+
+Design rgwurrbuwugurbwrrwuwgbrwbbbwubuwuwwbgwbbrggrg is possible
+Worker 1 processed job: rgwurrbuwugurbwrrwuwgbrwbbbwubuwuwwbgwbbrggrg -> 10946084594
+
+Design ruwgwbbbwuwugwgrbgrbrbrwgwwggrgwwuruwgbruugggurwruuruwbgg is possible
+Worker 1 processed job: ruwgwbbbwuwugwgrbgrbrbrwgwwggrgwwuruwgbruugggurwruuruwbgg -> 1710651596238
+
+Worker 1 processed job: wgwuwrwrbrwruwggwbgrggrubbgrugubgbbwrrguuggr -> 0
+
+Design wguwbbrruwwrggbrgwbbrwubrgwuubuwwwwrrrguwugrwrugbgggbwbu is possible
+Worker 1 processed job: wguwbbrruwwrggbrgwbbrwubrgwuubuwwwwrrrguwugrwrugbgggbwbu -> 6505365811435
+
+Worker 1 processed job: ggbbbuuwgwbgwbwwwggbrwrggurrrbgwwugwubbggr -> 0
+
+Design bgwbwbbwrbwubruugwrbrwgggrrgbbrbubuggubuwrurgbugrb is possible
+Worker 1 processed job: bgwbwbbwrbwubruugwrbrwgggrrgbbrbubuggubuwrurgbugrb -> 97960619866
+
+Worker 1 processed job: ruuruuwggbwbwrgbruguwgurwwrwwrgruwrgrbgwwggr -> 0
+
+Design rwrgrgbbgubggrwbwrgbgrggbbbwbuuubwrgwrgwwuwwwruwgugbg is possible
+Worker 1 processed job: rwrgrgbbgubggrwbwrgbgrggbbbwbuuubwrgwrgwwuwwwruwgugbg -> 382899865678
+
+Design gbwbrbbwgurwrwuruwwwugugwrgrwbgrwrgwrgwgggbwwguwg is possible
+Worker 1 processed job: gbwbrbbwgurwrwuruwwwugugwrgrwbgrwrgwrgwgggbwwguwg -> 77343954774
+
+Design brrugwuubguurbbburuwbggwrbwuwuwurbggburwgrwurw is possible
+Worker 1 processed job: brrugwuubguurbbburuwbggwrbwuwuwurbggburwgrwurw -> 42295646068
+
+Design brbrbwuggubuwurruguuwruubgwbgurwugugwuwwwugugugwr is possible
+Worker 1 processed job: brbrbwuggubuwurruguuwruubgwbgurwugugwuwwwugugugwr -> 86982751456
+
+Design grrgrgbugrbgrgguggggrbgruuwbwbgrgbgbgbwrwubgubwwubwgu is possible
+Worker 1 processed job: grrgrgbugrbgrgguggggrbgruuwbwbgrgbgbgbwrwubgubwwubwgu -> 175493076876
+
+Design brgruubwbuurugbbbwggbwbrrrrugrububgurrrgwrrbwgg is possible
+Worker 1 processed job: brgruubwbuurugbbbwggbwbrrrrugrububgurrrgwrrbwgg -> 11840024188
+
+Design bbbwruuwwuuguwwubbbuuuuwbrrbbbwruwrrwbuwwuwr is possible
+Worker 1 processed job: bbbwruuwwuuguwwubbbuuuuwbrrbbbwruwrrwbuwwuwr -> 20224828596
+
+Design uwguubwgugrbuwugbrrgrrwbwuwwbbrrwbguurbgbwgbbwgwbrrbb is possible
+Worker 1 processed job: uwguubwgugrbuwugbrrgrrwbwuwwbbrrwbguurbgbwgbbwgwbrrbb -> 1693220146176
+
+Design rbbuurgrubuwgugubgbbbbwuuruwruwrbbrbgbbrubwbuwbwg is possible
+Worker 1 processed job: rbbuurgrubuwgugubgbbbbwuuruwruwrbbrbgbbrubwbuwbwg -> 106923266807
+
+Worker 1 processed job: brubrrrbuwrrwbubwguwggrbggggbgubbwgrguurwrrrwggr -> 0
+
+Design ubrrgubwuurubrgwbwgbbbwgbwgbruubrubwrguguguuuwwbgugbrgu is possible
+Worker 1 processed job: ubrrgubwuurubrgwbwgbbbwgbwgbruubrubwrguguguuuwwbgugbrgu -> 10590891649960
+
+Design uwubrubuwbubwbggggrgwrwrwwwrwruubbwgrbbuwgrwrg is possible
+Worker 1 processed job: uwubrubuwbubwbggggrgwrwrwwwrwruubbwgrbbuwgrwrg -> 13859643294
+
+Design buwgwbuurrgrwrrwrurubbubrbrbbbgggrguugbgwurbugwubgu is possible
+Worker 1 processed job: buwgwbuurrgrwrrwrurubbubrbrbbbgggrguugbgwurbugwubgu -> 95484870656
+
+Worker 1 processed job: gbugrrgwwuubrbrbururguburbbugbgwwbbbgbrgrurguurrrggbwgwrggr -> 0
+
+Design gbruwgbgbbbgurgwwbbgbwwgbgbrwgubwbbubwbugg is possible
+Worker 1 processed job: gbruwgbgbbbgurgwwbbgbwwgbgbrwgubwbbubwbugg -> 18812741536
+
+Design wguugwbwrgguwrgbrrbggguwrugrggugbugbuugwwuw is possible
+Worker 1 processed job: wguugwbwrgguwrgbrrbggguwrugrggugbugbuugwwuw -> 6648999184
+
+Worker 1 processed job: uwrwbgubgggrrrgruwbgrbgwugugwwwuburgbwwguuwuruggr -> 0
+
+Design urgrrwgwbrubgbggrruwrwuwbbburgggwugbgbgwwrwgwgrgurrrwggwrb is possible
+Worker 1 processed job: urgrrwgwbrubgbggrruwrwuwbbburgggwugbgbgwwrwgwgrgurrrwggwrb -> 2691550278450
+
+Design bbgbwgwubbbwwwwwguuwbrrrrurbuuuugguburugww is possible
+Worker 1 processed job: bbgbwgwubbbwwwwwguuwbrrrrurbuuuugguburugww -> 10819540296
+
+Design rrgwgggrubgbbwrrgrurgrubguwrggurbrgbguwwugw is possible
+Worker 1 processed job: rrgwgggrubgbbwrrgrurgrubguwrggurbrgbguwwugw -> 758476948
+
+Design wurwruwugrbrbbrbgbbwgbwbbbgwbugrurwwbwubruu is possible
+Worker 1 processed job: wurwruwugrbrbbrbgbbwgbwbbbgwbugrurwwbwubruu -> 3282163740
+
+Design bruwrbggubwwwwrurbbbuwwrgbwbbbubuubgbggruwurrw is possible
+Worker 1 processed job: bruwrbggubwwwwrurbbbuwwrgbwbbbubuubgbggruwurrw -> 41159646858
+
+Design rgrwbbwwwwbrggrburgrubrguugubuuwuubgrbbwrrrbr is possible
+Worker 1 processed job: rgrwbbwwwwbrggrburgrubrguugubuuwuubgrbbwrrrbr -> 705766050
+
+Worker 1 processed job: rguuwbuwbbwrbwwbwuurugrwwgrwrbuwwwwrwrrbggr -> 0
+
+Worker 1 processed job: gubbgbbwbrrrwrwruwgrwgbbbwwbgrwwwggrbruwgrwbgbbggr -> 0
+
+Design rwbwbugbbrwgbwgwgbburbgubuugrrrwwwubbrggbugb is possible
+Worker 1 processed job: rwbwbugbbrwgbwgwgbburbgubuugrrrwwwubbrggbugb -> 10499273112
+
+Worker 1 processed job: gurrbuurrbgbgwrgbgggwgwbbuwbrrwrgurguggwwrwgbrgbugwgrrwggr -> 0
+
+Worker 1 processed job: bbbbwbruwggrgbubrubwbbbbugbbbgrwurrbwgrgurwbuggr -> 0
+
+Design gbbbuguubrbrbubruubbwwrrwbubgrgbbbgruwuwbbugwbgrgbuu is possible
+Worker 1 processed job: gbbbuguubrbrbubruubbwwrrwbubgrgbbbgruwuwbbugwbgrgbuu -> 707001691250
+
+Worker 1 processed job: wugrwwbwrbggubrgubrwbwurubrbrbwgrwrbwrgguwbwwbggrugr -> 0
+
+Worker 1 processed job: rrubwbuuggbuwuggbwggbbrrrrgbwgwbwgwugwrggr -> 0
+
+Design uwguwbgwuruuuwrggrgggwrwugurgggubuurggrbuwrrbuwgruurbbg is possible
+Worker 1 processed job: uwguwbgwuruuuwrggrgggwrwugurgggubuurggrbuwrrbuwgruurbbg -> 449512000000
+
+Design wbwrwrgrgwbbrbggrwwubrgurggburbbrrgwubwwbw is possible
+Worker 1 processed job: wbwrwrgrgwbbrbggrwwubrgurggburbbrrgwubwwbw -> 883395458
+
+Design rgbguuggrubbugwgggurubbbrwubrrbgbwbggbggrrbuubb is possible
+Worker 1 processed job: rgbguuggrubbugwgggurubbbrwubrrbgbwbggbggrrbuubb -> 29917854792
+
+Design urggbugrwuwuurubbbbbgbrruuwwwguwubbrrgwgubbwrruwu is possible
+Worker 1 processed job: urggbugrwuwuurubbbbbgbrruuwwwguwubbrrgwgubbwrruwu -> 332051733933
+
+Design grbugwrrwurwgurbwbuwbwrbwbwurgwwugubgwbwbuw is possible
+Worker 1 processed job: grbugwrrwurwgurbwbuwbwrbwbwurgwwugubgwbwbuw -> 3795687252
+
+Design urgrbrburbuwubbugbbubrwuwgwrubruuuwrbwbbbwrgbrwrr is possible
+Worker 1 processed job: urgrbrburbuwubbugbbubrwuwgwrubruuuwrbwbbbwrgbrwrr -> 33619786157
+
+Design rgguurbuugrwbbrgwrrurwgruwbggbwugguwuuwbgg is possible
+Worker 1 processed job: rgguurbuugrwbbrgwrrurwgruwbggbwugguwuuwbgg -> 1623886926
+
+Worker 1 processed job: ugbbggburwguwbgugwbbgbbwgrgguwbgrrwwwwugrbrgwwrguggbrurgrggr -> 0
+
+Worker 1 processed job: gurbbwwuwgwburugbrgrwwurbuuubwwbrrrbrrurbggurggr -> 0
+
+Worker 1 processed job: rbuuruwbwbwgbbrurugbwbwugbwuuwwbrrgggwbrrwggurwubbrgrggr -> 0
+
+Worker 1 processed job: ruggubwwbwbubuurwbgbbrbgwuggwgrbrrrwbrugrurggwwrggbgwruuggr -> 0
+
+Worker 1 processed job: bubbrrbgwwwbbwwgwwrbrgbwwrgrbbuggbubrwgbruruuwugbggr -> 0
+
+Design gwugrwgwgurrgurbrgguubrburgurwugugggurgwubrgwgubg is possible
+Worker 1 processed job: gwugrwgwgurrgurbrgguubrburgurwugugggurgwubrgwgubg -> 59677248933
+
+Worker 1 processed job: rbuurbuubggbwgwrbrgrgbrurbwrrrwwbbwburwbwurbgbwrrbggr -> 0
+
+Design rbgubrrgwrwurwrgrgbbrrwbrurrrwwugugbbrwugrwbgbgguuuugw is possible
+Worker 1 processed job: rbgubrrgwrwurwrgrgbbrrwbrurrrwwugugbbrwugrwbgbgguuuugw -> 159480204795
+
+Design ugrwwgbwrwrruggrgugbuuwbgwbbwwbrgwurgruwrwwrwrw is possible
+Worker 1 processed job: ugrwwgbwrwrruggrgugbuuwbgwbbwwbrgwurgruwrwwrwrw -> 4142674800
+
+Design buuwgurbbggwrrgrurrwuwgrruwbbrubuuwgruguubrw is possible
+Worker 1 processed job: buuwgurbbggwrrgrurrwuwgrruwbbrubuuwgruguubrw -> 2554146465
+
+Design bgurugrbbbgrbugbwuwggruruuguwbbbwuwwbrugbgwrruwburbguur is possible
+Worker 1 processed job: bgurugrbbbgrbugbwuwggruruuguwbbbwuwwbrugbgwrruwburbguur -> 594081231651
+
+Design gggrwbwuwrbgwbwrurwwwrbwggbbgbugwrgggggubgu is possible
+Worker 1 processed job: gggrwbwuwrbgwbwrurwwwrbwggbbgbugwrgggggubgu -> 10209646764
+
+Design wrrbbuugrbbubgbwbwwrrguggrguwrwguruwrwguwrrg is possible
+Worker 1 processed job: wrrbbuugrbbubgbwbwwrrguggrguwrwguruwrwguwrrg -> 2320764594
+
+Worker 1 processed job: rugbbbbuuuugbrrrgrbrgbwuwbruwbbrwbbwuwbggwubugggguguwbbwwggr -> 0
+
+Design wgugwugwguugwwgugubbbrrggugwuruwrwbbgugwurgu is possible
+Worker 1 processed job: wgugwugwguugwwgugubbbrrggugwuruwrwbbgugwurgu -> 18013781172
+
+Design grwgugrggggbruurbwgwgwuururugbbrbwuurbbbrbbwrbuggbubwr is possible
+Worker 1 processed job: grwgugrggggbruurbwgwgwuururugbbrbwuurbbbrbbwrbuggbubwr -> 450006511284
+
+ -> Sum: 705756472327497
+Processing complete!

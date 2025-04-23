@@ -1,0 +1,643 @@
+Machine {83 59 34 99 4485 8127} added.
+Machine {13 33 57 19 13101 9731} added.
+Machine {18 60 83 58 9765 10902} added.
+Machine {22 54 29 17 11432 5896} added.
+Machine {64 24 12 23 3912 2466} added.
+Machine {11 87 88 86 7612 14454} added.
+Machine {73 50 29 87 5751 9310} added.
+Machine {21 41 53 11 13562 5160} added.
+Machine {13 34 70 39 7577 6540} added.
+Machine {23 52 60 35 4561 15619} added.
+Machine {78 31 13 69 2769 4356} added.
+Machine {92 42 37 81 9380 8898} added.
+Machine {69 41 18 71 4197 7077} added.
+Machine {16 69 71 62 3327 8243} added.
+Machine {35 15 19 47 19679 16267} added.
+Machine {17 54 50 24 15748 15296} added.
+Machine {38 26 11 30 3005 4236} added.
+Machine {31 68 63 22 7995 14780} added.
+Machine {58 18 30 74 11992 1888} added.
+Machine {86 12 28 44 9118 4600} added.
+Machine {20 39 41 14 4755 4326} added.
+Machine {54 93 80 11 6364 6523} added.
+Machine {53 30 14 29 12053 9374} added.
+Machine {20 78 93 58 4373 4562} added.
+Machine {17 40 52 37 745 7809} added.
+Machine {84 32 50 63 6626 5469} added.
+Machine {28 57 57 15 8045 11162} added.
+Machine {80 17 38 50 3662 1994} added.
+Machine {27 70 50 21 5823 8253} added.
+Machine {72 32 62 90 6540 7028} added.
+Machine {88 28 70 79 8992 5584} added.
+Machine {50 89 70 30 11130 10919} added.
+Machine {27 48 43 18 17836 1244} added.
+Machine {94 12 70 96 8188 3396} added.
+Machine {42 48 78 21 7482 5280} added.
+Machine {34 78 91 67 6544 8208} added.
+Machine {67 43 13 29 5459 1019} added.
+Machine {45 24 13 43 17179 13624} added.
+Machine {59 28 19 44 5712 7552} added.
+Machine {49 16 36 66 5605 14614} added.
+Machine {22 13 31 56 7729 722} added.
+Machine {42 61 27 11 3246 3868} added.
+Machine {19 46 63 37 3057 3818} added.
+Machine {82 18 24 94 8468 3456} added.
+Machine {22 79 47 39 4634 6518} added.
+Machine {50 69 96 39 2720 1884} added.
+Machine {55 62 78 22 7064 3480} added.
+Machine {73 40 29 49 5489 5524} added.
+Machine {20 76 66 12 4632 3580} added.
+Machine {31 74 59 12 17302 2696} added.
+Machine {36 25 14 34 2226 5848} added.
+Machine {25 64 63 12 2233 5872} added.
+Machine {68 30 22 48 3872 3240} added.
+Machine {17 50 32 14 7264 15250} added.
+Machine {24 65 35 12 19202 14787} added.
+Machine {57 26 16 40 10077 4906} added.
+Machine {35 22 14 85 2954 2695} added.
+Machine {96 76 19 58 6647 8570} added.
+Machine {18 79 73 37 3550 4245} added.
+Machine {62 17 45 55 8797 5697} added.
+Machine {55 26 18 40 17928 9376} added.
+Machine {43 17 46 69 2612 2433} added.
+Machine {27 47 41 14 2702 4474} added.
+Machine {22 39 25 11 10587 8043} added.
+Machine {12 84 91 18 4269 5742} added.
+Machine {26 63 58 17 11748 18204} added.
+Machine {41 74 47 17 13607 9098} added.
+Machine {49 33 12 35 13252 3498} added.
+Machine {52 24 40 90 3104 4008} added.
+Machine {24 78 72 42 6816 7368} added.
+Machine {28 85 86 51 7430 6800} added.
+Machine {74 36 19 52 3944 3800} added.
+Machine {27 11 15 21 1508 4370} added.
+Machine {44 81 20 12 3692 5928} added.
+Machine {53 26 14 48 4780 11140} added.
+Machine {51 77 96 26 12150 8472} added.
+Machine {54 15 17 66 9908 13556} added.
+Machine {70 11 15 64 15390 7930} added.
+Machine {35 56 89 16 4953 1984} added.
+Machine {43 13 38 80 4706 17042} added.
+Machine {47 29 12 41 1605 12525} added.
+Machine {66 11 62 61 7346 5987} added.
+Machine {40 67 53 23 7380 19395} added.
+Machine {22 93 93 31 6923 4278} added.
+Machine {97 33 73 96 9315 4023} added.
+Machine {38 95 88 67 5104 9700} added.
+Machine {11 60 37 15 16170 8135} added.
+Machine {53 22 27 48 19789 11586} added.
+Machine {64 34 16 54 15216 3216} added.
+Machine {16 93 86 51 4134 9216} added.
+Machine {75 56 13 98 8321 14336} added.
+Machine {59 15 36 66 8402 7764} added.
+Machine {13 99 81 92 7139 10804} added.
+Machine {86 23 69 85 5646 2974} added.
+Machine {79 12 86 77 6283 1338} added.
+Machine {39 63 40 11 6530 5455} added.
+Machine {26 64 41 18 15008 4724} added.
+Machine {30 68 64 25 14928 7306} added.
+Machine {20 83 84 76 4868 8753} added.
+Machine {11 62 44 11 12332 19376} added.
+Machine {31 58 78 22 2163 1940} added.
+Machine {78 25 17 37 3296 3265} added.
+Machine {73 50 11 25 3221 2525} added.
+Machine {27 42 98 33 1807 1497} added.
+Machine {13 58 35 12 15361 3534} added.
+Machine {30 83 46 11 17514 7809} added.
+Machine {15 58 62 12 3563 458} added.
+Machine {22 28 90 27 5552 1901} added.
+Machine {68 45 12 41 18572 7041} added.
+Machine {39 15 35 97 1349 853} added.
+Machine {45 81 53 23 6599 5507} added.
+Machine {72 85 86 16 9734 8327} added.
+Machine {18 41 60 41 8834 8594} added.
+Machine {48 29 12 25 2696 250} added.
+Machine {91 30 38 65 4446 2830} added.
+Machine {13 95 94 73 1464 6401} added.
+Machine {90 35 21 42 5376 4662} added.
+Machine {57 18 33 74 14663 2422} added.
+Machine {40 19 14 59 16340 10835} added.
+Machine {64 31 24 56 12560 17240} added.
+Machine {61 20 53 69 7318 4774} added.
+Machine {41 13 30 66 6542 4802} added.
+Machine {15 42 67 35 13213 3021} added.
+Machine {26 64 64 31 12694 18446} added.
+Machine {42 97 98 29 10304 10576} added.
+Machine {99 27 17 51 7846 5988} added.
+Machine {53 15 78 94 5597 6403} added.
+Machine {57 56 12 56 4203 8064} added.
+Machine {52 23 15 75 1797 4008} added.
+Machine {60 16 12 48 296 12064} added.
+Machine {85 51 21 45 7048 5136} added.
+Machine {38 12 19 53 9335 4557} added.
+Machine {29 11 30 61 1570 18306} added.
+Machine {49 16 30 69 14751 5106} added.
+Machine {31 95 91 54 6569 9337} added.
+Machine {12 91 73 92 2545 7760} added.
+Machine {64 25 17 37 1194 770} added.
+Machine {92 21 52 55 9612 3833} added.
+Machine {12 60 67 25 720 6240} added.
+Machine {37 51 84 26 6863 3983} added.
+Machine {26 12 50 76 4794 4620} added.
+Machine {19 41 46 22 2411 8601} added.
+Machine {19 56 69 16 13155 13040} added.
+Machine {72 30 42 94 5508 3672} added.
+Machine {63 20 25 75 19764 19285} added.
+Machine {28 60 68 32 2108 16436} added.
+Machine {19 59 68 27 14827 17875} added.
+Machine {12 17 33 14 3647 3114} added.
+Machine {19 63 96 62 10716 11182} added.
+Machine {74 45 11 34 13265 7642} added.
+Machine {77 46 20 62 2769 5308} added.
+Machine {43 94 72 31 9646 10343} added.
+Machine {49 15 31 56 13234 13663} added.
+Machine {44 13 25 97 4209 6710} added.
+Machine {74 40 41 89 3502 2294} added.
+Machine {36 51 91 33 5598 2751} added.
+Machine {59 24 16 44 4064 2468} added.
+Machine {22 91 79 15 6841 6161} added.
+Machine {32 54 44 17 1872 15556} added.
+Machine {13 63 54 24 4034 6714} added.
+Machine {20 32 44 17 11608 1474} added.
+Machine {26 63 84 48 9460 9546} added.
+Machine {28 71 47 11 1620 2377} added.
+Machine {48 20 31 57 848 8776} added.
+Machine {98 79 88 12 6120 3460} added.
+Machine {23 76 88 60 7772 6988} added.
+Machine {12 40 29 18 1049 6842} added.
+Machine {11 45 70 20 4943 2215} added.
+Machine {36 90 79 48 3738 4860} added.
+Machine {22 61 88 32 8932 5050} added.
+Machine {15 52 57 15 11138 7095} added.
+Machine {31 74 55 35 5894 8581} added.
+Machine {76 67 25 89 6388 9917} added.
+Machine {11 56 83 58 3439 4384} added.
+Machine {37 14 26 59 8358 18072} added.
+Machine {59 32 24 47 11808 869} added.
+Machine {92 30 19 67 2253 5295} added.
+Machine {93 17 12 99 1152 3502} added.
+Machine {52 45 70 11 3526 1217} added.
+Machine {19 45 35 14 7874 15842} added.
+Machine {20 93 72 40 3652 3421} added.
+Machine {72 21 49 71 6351 6786} added.
+Machine {72 53 11 27 18294 7815} added.
+Machine {48 25 29 56 5972 1830} added.
+Machine {77 17 13 52 9074 11897} added.
+Machine {49 15 28 62 15103 14661} added.
+Machine {36 88 92 13 5776 4796} added.
+Machine {44 16 31 73 2843 18061} added.
+Machine {89 44 43 88 7099 4444} added.
+Machine {59 20 13 46 17500 18952} added.
+Machine {13 58 84 36 5785 15058} added.
+Machine {61 35 22 69 4878 6858} added.
+Machine {16 70 63 19 12012 19664} added.
+Machine {11 67 79 13 16267 13249} added.
+Machine {75 34 13 39 10901 16433} added.
+Machine {27 11 12 50 17273 16755} added.
+Machine {79 55 25 64 5181 3840} added.
+Machine {34 85 69 19 5887 3512} added.
+Machine {31 59 45 25 17426 3314} added.
+Machine {28 15 12 56 1696 5717} added.
+Machine {75 28 57 90 8934 9314} added.
+Machine {23 49 41 16 3569 10787} added.
+Machine {82 64 95 12 9247 4172} added.
+Machine {13 48 46 14 9433 5068} added.
+Machine {43 19 16 56 8566 14078} added.
+Machine {81 30 41 98 1865 1022} added.
+Machine {26 60 57 20 3920 5700} added.
+Machine {64 27 13 24 6126 3288} added.
+Machine {18 36 45 14 6398 5228} added.
+Machine {43 18 18 45 15434 12194} added.
+Machine {21 72 68 11 19333 17956} added.
+Machine {52 75 51 11 5597 3631} added.
+Machine {33 74 51 13 12764 3562} added.
+Machine {45 17 27 42 1646 18249} added.
+Machine {78 49 18 63 5688 3780} added.
+Machine {47 15 31 68 6457 3672} added.
+Machine {98 22 96 93 7950 4857} added.
+Machine {74 27 12 58 4400 4072} added.
+Machine {13 29 87 35 2568 2388} added.
+Machine {38 74 53 20 4920 12732} added.
+Machine {15 75 88 35 1868 4885} added.
+Machine {18 78 74 62 1320 4944} added.
+Machine {89 16 33 92 7969 5736} added.
+Machine {34 14 13 27 3971 2869} added.
+Machine {93 13 65 80 11240 4195} added.
+Machine {75 38 56 90 12426 12212} added.
+Machine {12 38 82 14 6374 4216} added.
+Machine {14 13 12 82 1074 2131} added.
+Machine {69 43 25 90 4725 6740} added.
+Machine {28 11 61 79 16218 7104} added.
+Machine {19 70 71 14 14609 578} added.
+Machine {82 57 11 28 15455 13471} added.
+Machine {97 31 46 78 7469 8527} added.
+Machine {82 15 13 67 3923 561} added.
+Machine {15 91 70 22 4975 1995} added.
+Machine {37 21 22 50 13654 13634} added.
+Machine {39 15 18 67 18395 820} added.
+Machine {28 11 32 43 19024 8967} added.
+Machine {54 22 58 78 4364 5312} added.
+Machine {83 55 30 62 4125 3281} added.
+Machine {65 32 14 29 7440 1215} added.
+Machine {20 40 57 21 7224 9652} added.
+Machine {13 50 60 24 8386 16500} added.
+Machine {71 20 64 90 4960 4420} added.
+Machine {35 21 22 57 2033 3804} added.
+Machine {13 73 84 11 19057 11087} added.
+Machine {12 68 91 23 1769 4605} added.
+Machine {63 28 19 98 6417 6076} added.
+Machine {65 28 22 57 8245 526} added.
+Machine {22 11 27 62 13424 17229} added.
+Machine {96 18 52 79 8624 3002} added.
+Machine {39 15 19 69 3415 3411} added.
+Machine {19 46 40 22 10332 16596} added.
+Machine {69 39 24 62 3045 4385} added.
+Machine {48 57 13 74 2537 4711} added.
+Machine {64 34 14 37 15052 7562} added.
+Machine {27 75 75 34 3024 5262} added.
+Machine {41 42 81 19 7145 2777} added.
+Machine {11 46 67 19 13888 12889} added.
+Machine {14 62 64 24 10904 5320} added.
+Machine {31 84 62 38 5301 7344} added.
+Machine {43 86 83 51 5773 8671} added.
+Machine {86 15 91 98 11011 4795} added.
+Machine {15 84 42 29 2946 5569} added.
+Machine {45 20 17 41 15828 1629} added.
+Machine {40 39 15 72 2645 5046} added.
+Machine {29 91 63 28 2284 4452} added.
+Machine {24 69 70 14 18426 13552} added.
+Machine {78 24 51 90 7020 6024} added.
+Machine {62 12 64 84 8872 6372} added.
+Machine {95 56 34 61 3867 5679} added.
+Machine {67 13 48 81 10016 8897} added.
+Machine {17 49 70 28 8069 10413} added.
+Machine {21 47 69 31 10964 508} added.
+Machine {18 46 70 45 19446 14497} added.
+Machine {21 68 85 71 5587 5020} added.
+Machine {15 87 72 18 2814 5532} added.
+Machine {50 89 83 30 10887 8900} added.
+Machine {14 39 40 18 16352 18920} added.
+Machine {18 53 41 18 16105 5175} added.
+Machine {30 84 99 40 9792 8916} added.
+Machine {46 75 44 16 17188 4110} added.
+Machine {14 30 60 38 5124 898} added.
+Machine {90 36 60 90 8820 5310} added.
+Machine {58 19 15 32 14828 18209} added.
+Machine {86 80 27 89 2255 3567} added.
+Machine {51 71 88 15 5075 4915} added.
+Machine {14 89 23 27 2741 8007} added.
+Machine {36 14 43 75 14047 3583} added.
+Machine {23 76 60 12 17279 13868} added.
+Machine {22 45 61 36 5571 17909} added.
+Machine {56 23 18 57 11704 14914} added.
+Machine {65 61 18 81 2217 2337} added.
+Machine {13 68 66 24 16932 18832} added.
+Machine {22 50 64 34 14004 3484} added.
+Machine {94 69 22 77 1556 2846} added.
+Machine {32 42 89 19 3478 3978} added.
+Machine {90 53 38 74 2530 4071} added.
+Machine {63 22 17 39 16083 16531} added.
+Machine {56 74 73 13 2393 2411} added.
+Machine {29 83 46 37 4013 7226} added.
+Machine {73 47 13 56 5764 4235} added.
+Machine {15 71 49 13 13956 11004} added.
+Machine {22 62 66 14 11760 14244} added.
+Machine {19 53 40 18 1697 10527} added.
+Machine {88 22 49 78 12153 8364} added.
+Machine {14 71 46 13 9516 14718} added.
+Machine {69 41 27 52 5726 16245} added.
+Machine {23 67 83 24 6587 4379} added.
+Machine {25 54 76 46 3269 4816} added.
+Machine {77 86 58 12 8115 6794} added.
+Machine {82 45 22 69 7220 5670} added.
+Machine {41 16 15 62 10570 7964} added.
+Machine {97 14 70 78 8362 3108} added.
+Machine {13 80 86 23 727 424} added.
+Machine {24 99 90 79 6030 7631} added.
+Machine {72 34 18 45 2168 19786} added.
+Machine {97 14 11 83 2909 4002} added.
+Machine {78 13 15 68 7430 18378} added.
+Machine {57 27 22 48 4328 4380} added.
+We have 320 machines
+Worker 12 processed job: {23 52 60 35 4561 15619} -> 0
+Worker 2 processed job: {78 31 13 69 2769 4356} -> 132
+Worker 12 processed job: {16 69 71 62 3327 8243} -> 316
+Worker 11 processed job: {69 41 18 71 4197 7077} -> 199
+Worker 13 processed job: {92 42 37 81 9380 8898} -> 291
+Worker 2 processed job: {35 15 19 47 19679 16267} -> 0
+Worker 12 processed job: {17 54 50 24 15748 15296} -> 0
+Worker 2 processed job: {58 18 30 74 11992 1888} -> 0
+Worker 11 processed job: {38 26 11 30 3005 4236} -> 250
+Worker 13 processed job: {31 68 63 22 7995 14780} -> 0
+Worker 12 processed job: {86 12 28 44 9118 4600} -> 320
+Worker 2 processed job: {20 39 41 14 4755 4326} -> 327
+Worker 12 processed job: {20 78 93 58 4373 4562} -> 125
+Worker 13 processed job: {53 30 14 29 12053 9374} -> 0
+Worker 12 processed job: {84 32 50 63 6626 5469} -> 184
+Worker 12 processed job: {80 17 38 50 3662 1994} -> 125
+Worker 2 processed job: {17 40 52 37 745 7809} -> 0
+Worker 5 processed job: {83 59 34 99 4485 8127} -> 147
+Worker 7 processed job: {73 50 29 87 5751 9310} -> 221
+Worker 13 processed job: {28 57 57 15 8045 11162} -> 0
+Worker 13 processed job: {27 48 43 18 17836 1244} -> 0
+Worker 8 processed job: {21 41 53 11 13562 5160} -> 0
+Worker 7 processed job: {50 89 70 30 11130 10919} -> 367
+Worker 2 processed job: {72 32 62 90 6540 7028} -> 168
+Worker 3 processed job: {13 33 57 19 13101 9731} -> 0
+Worker 14 processed job: {13 34 70 39 7577 6540} -> 0
+Worker 3 processed job: {59 28 19 44 5712 7552} -> 0
+Worker 3 processed job: {22 13 31 56 7729 722} -> 0
+Worker 14 processed job: {49 16 36 66 5605 14614} -> 0
+Worker 11 processed job: {54 93 80 11 6364 6523} -> 233
+Worker 2 processed job: {45 24 13 43 17179 13624} -> 0
+Worker 2 processed job: {22 79 47 39 4634 6518} -> 210
+Worker 1 processed job: {22 54 29 17 11432 5896} -> 0
+Worker 2 processed job: {50 69 96 39 2720 1884} -> 68
+Worker 12 processed job: {27 70 50 21 5823 8253} -> 360
+Worker 2 processed job: {73 40 29 49 5489 5524} -> 211
+Worker 2 processed job: {31 74 59 12 17302 2696} -> 0
+Worker 11 processed job: {82 18 24 94 8468 3456} -> 312
+Worker 6 processed job: {11 87 88 86 7612 14454} -> 351
+Worker 6 processed job: {68 30 22 48 3872 3240} -> 172
+Worker 6 processed job: {17 50 32 14 7264 15250} -> 0
+Worker 7 processed job: {67 43 13 29 5459 1019} -> 0
+Worker 11 processed job: {25 64 63 12 2233 5872} -> 0
+Worker 3 processed job: {42 61 27 11 3246 3868} -> 204
+Worker 6 processed job: {24 65 35 12 19202 14787} -> 0
+Worker 7 processed job: {57 26 16 40 10077 4906} -> 0
+Worker 6 processed job: {18 79 73 37 3550 4245} -> 145
+Worker 13 processed job: {94 12 70 96 8188 3396} -> 228
+Worker 13 processed job: {43 17 46 69 2612 2433} -> 0
+Worker 7 processed job: {62 17 45 55 8797 5697} -> 335
+Worker 2 processed job: {36 25 14 34 2226 5848} -> 0
+Worker 13 processed job: {27 47 41 14 2702 4474} -> 286
+Worker 6 processed job: {55 26 18 40 17928 9376} -> 0
+Worker 2 processed job: {12 84 91 18 4269 5742} -> 219
+Worker 5 processed job: {88 28 70 79 8992 5584} -> 240
+Worker 8 processed job: {34 78 91 67 6544 8208} -> 240
+Worker 13 processed job: {26 63 58 17 11748 18204} -> 0
+Worker 2 processed job: {49 33 12 35 13252 3498} -> 0
+Worker 6 processed job: {41 74 47 17 13607 9098} -> 0
+Worker 6 processed job: {27 11 15 21 1508 4370} -> 0
+Worker 14 processed job: {19 46 63 37 3057 3818} -> 0
+Worker 4 processed job: {18 60 83 58 9765 10902} -> 357
+Worker 6 processed job: {44 81 20 12 3692 5928} -> 239
+Worker 14 processed job: {53 26 14 48 4780 11140} -> 0
+Worker 1 processed job: {55 62 78 22 7064 3480} -> 164
+Worker 1 processed job: {35 56 89 16 4953 1984} -> 113
+Worker 8 processed job: {24 78 72 42 6816 7368} -> 236
+Worker 8 processed job: {47 29 12 41 1605 12525} -> 0
+Worker 1 processed job: {43 13 38 80 4706 17042} -> 0
+Worker 12 processed job: {20 76 66 12 4632 3580} -> 0
+Worker 8 processed job: {66 11 62 61 7346 5987} -> 163
+Worker 12 processed job: {22 93 93 31 6923 4278} -> 138
+Worker 2 processed job: {74 36 19 52 3944 3800} -> 170
+Worker 8 processed job: {97 33 73 96 9315 4023} -> 273
+Worker 13 processed job: {28 85 86 51 7430 6800} -> 180
+Worker 12 processed job: {38 95 88 67 5104 9700} -> 284
+Worker 10 processed job: {42 48 78 21 7482 5280} -> 315
+Worker 12 processed job: {64 34 16 54 15216 3216} -> 0
+Worker 5 processed job: {52 24 40 90 3104 4008} -> 132
+Worker 11 processed job: {35 22 14 85 2954 2695} -> 251
+Worker 11 processed job: {13 99 81 92 7139 10804} -> 179
+Worker 5 processed job: {59 15 36 66 8402 7764} -> 345
+Worker 2 processed job: {11 60 37 15 16170 8135} -> 0
+Worker 1 processed job: {40 67 53 23 7380 19395} -> 0
+Worker 5 processed job: {39 63 40 11 6530 5455} -> 305
+Worker 8 processed job: {53 22 27 48 19789 11586} -> 0
+Worker 1 processed job: {30 68 64 25 14928 7306} -> 0
+Worker 5 processed job: {20 83 84 76 4868 8753} -> 243
+Worker 1 processed job: {31 58 78 22 2163 1940} -> 98
+Worker 5 processed job: {78 25 17 37 3296 3265} -> 151
+Worker 10 processed job: {16 93 86 51 4134 9216} -> 276
+Worker 1 processed job: {73 50 11 25 3221 2525} -> 0
+Worker 6 processed job: {54 15 17 66 9908 13556} -> 0
+Worker 8 processed job: {11 62 44 11 12332 19376} -> 0
+Worker 6 processed job: {15 58 62 12 3563 458} -> 0
+Worker 10 processed job: {13 58 35 12 15361 3534} -> 0
+Worker 8 processed job: {22 28 90 27 5552 1901} -> 92
+Worker 8 processed job: {39 15 35 97 1349 853} -> 97
+Worker 7 processed job: {22 39 25 11 10587 8043} -> 0
+Worker 10 processed job: {68 45 12 41 18572 7041} -> 0
+Worker 7 processed job: {45 81 53 23 6599 5507} -> 217
+Worker 7 processed job: {48 29 12 25 2696 250} -> 0
+Worker 6 processed job: {72 85 86 16 9734 8327} -> 310
+Worker 7 processed job: {91 30 38 65 4446 2830} -> 140
+Worker 9 processed job: {64 24 12 23 3912 2466} -> 207
+Worker 13 processed job: {86 23 69 85 5646 2974} -> 166
+Worker 7 processed job: {90 35 21 42 5376 4662} -> 202
+Worker 12 processed job: {75 56 13 98 8321 14336} -> 377
+Worker 4 processed job: {51 77 96 26 12150 8472} -> 329
+Worker 6 processed job: {64 31 24 56 12560 17240} -> 0
+Worker 12 processed job: {41 13 30 66 6542 4802} -> 0
+Worker 4 processed job: {15 42 67 35 13213 3021} -> 0
+Worker 11 processed job: {79 12 86 77 6283 1338} -> 225
+Worker 2 processed job: {26 64 41 18 15008 4724} -> 0
+Worker 14 processed job: {70 11 15 64 15390 7930} -> 0
+Worker 4 processed job: {99 27 17 51 7846 5988} -> 278
+Worker 11 processed job: {53 15 78 94 5597 6403} -> 88
+Worker 4 processed job: {60 16 12 48 296 12064} -> 0
+Worker 3 processed job: {96 76 19 58 6647 8570} -> 239
+Worker 13 processed job: {40 19 14 59 16340 10835} -> 0
+Worker 11 processed job: {85 51 21 45 7048 5136} -> 256
+Worker 13 processed job: {29 11 30 61 1570 18306} -> 0
+Worker 3 processed job: {38 12 19 53 9335 4557} -> 0
+Worker 6 processed job: {26 64 64 31 12694 18446} -> 0
+Worker 7 processed job: {61 20 53 69 7318 4774} -> 286
+Worker 13 processed job: {31 95 91 54 6569 9337} -> 261
+Worker 4 processed job: {49 16 30 69 14751 5106} -> 0
+Worker 14 processed job: {52 23 15 75 1797 4008} -> 110
+Worker 10 processed job: {18 41 60 41 8834 8594} -> 0
+Worker 13 processed job: {37 51 84 26 6863 3983} -> 202
+Worker 1 processed job: {30 83 46 11 17514 7809} -> 0
+Worker 14 processed job: {19 41 46 22 2411 8601} -> 0
+Worker 11 processed job: {12 91 73 92 2545 7760} -> 205
+Worker 14 processed job: {28 60 68 32 2108 16436} -> 0
+Worker 10 processed job: {19 56 69 16 13155 13040} -> 0
+Worker 3 processed job: {64 25 17 37 1194 770} -> 58
+Worker 1 processed job: {63 20 25 75 19764 19285} -> 0
+Worker 5 processed job: {27 42 98 33 1807 1497} -> 92
+Worker 1 processed job: {77 46 20 62 2769 5308} -> 124
+Worker 14 processed job: {12 17 33 14 3647 3114} -> 0
+Worker 10 processed job: {19 63 96 62 10716 11182} -> 347
+Worker 4 processed job: {26 12 50 76 4794 4620} -> 0
+Worker 12 processed job: {42 97 98 29 10304 10576} -> 334
+Worker 1 processed job: {49 15 31 56 13234 13663} -> 0
+Worker 11 processed job: {19 59 68 27 14827 17875} -> 0
+Worker 11 processed job: {32 54 44 17 1872 15556} -> 0
+Worker 10 processed job: {74 40 41 89 3502 2294} -> 138
+Worker 3 processed job: {74 45 11 34 13265 7642} -> 0
+Worker 3 processed job: {26 63 84 48 9460 9546} -> 344
+Worker 3 processed job: {28 71 47 11 1620 2377} -> 109
+Worker 3 processed job: {48 20 31 57 848 8776} -> 0
+Worker 4 processed job: {36 51 91 33 5598 2751} -> 111
+Worker 4 processed job: {23 76 88 60 7772 6988} -> 165
+Worker 4 processed job: {12 40 29 18 1049 6842} -> 0
+Worker 4 processed job: {11 45 70 20 4943 2215} -> 0
+Worker 4 processed job: {36 90 79 48 3738 4860} -> 144
+Worker 1 processed job: {22 91 79 15 6841 6161} -> 239
+Worker 4 processed job: {22 61 88 32 8932 5050} -> 195
+Worker 2 processed job: {57 56 12 56 4203 8064} -> 254
+Worker 1 processed job: {15 52 57 15 11138 7095} -> 0
+Worker 4 processed job: {31 74 55 35 5894 8581} -> 324
+Worker 2 processed job: {76 67 25 89 6388 9917} -> 253
+Worker 10 processed job: {20 32 44 17 11608 1474} -> 0
+Worker 2 processed job: {59 32 24 47 11808 869} -> 0
+Worker 10 processed job: {92 30 19 67 2253 5295} -> 102
+Worker 2 processed job: {93 17 12 99 1152 3502} -> 58
+Worker 12 processed job: {59 24 16 44 4064 2468} -> 0
+Worker 13 processed job: {72 30 42 94 5508 3672} -> 216
+Worker 11 processed job: {13 63 54 24 4034 6714} -> 312
+Worker 4 processed job: {37 14 26 59 8358 18072} -> 0
+Worker 3 processed job: {98 79 88 12 6120 3460} -> 145
+Worker 13 processed job: {72 21 49 71 6351 6786} -> 174
+Worker 2 processed job: {19 45 35 14 7874 15842} -> 0
+Worker 3 processed job: {48 25 29 56 5972 1830} -> 0
+Worker 7 processed job: {12 60 67 25 720 6240} -> 0
+Worker 11 processed job: {72 53 11 27 18294 7815} -> 0
+Worker 3 processed job: {36 88 92 13 5776 4796} -> 188
+Worker 12 processed job: {20 93 72 40 3652 3421} -> 97
+Worker 8 processed job: {13 95 94 73 1464 6401} -> 193
+Worker 3 processed job: {13 58 84 36 5785 15058} -> 0
+Worker 7 processed job: {44 16 31 73 2843 18061} -> 0
+Worker 8 processed job: {16 70 63 19 12012 19664} -> 0
+Worker 3 processed job: {11 67 79 13 16267 13249} -> 0
+Worker 13 processed job: {77 17 13 52 9074 11897} -> 0
+Worker 3 processed job: {79 55 25 64 5181 3840} -> 197
+Worker 13 processed job: {34 85 69 19 5887 3512} -> 148
+Worker 8 processed job: {27 11 12 50 17273 16755} -> 0
+Worker 9 processed job: {57 18 33 74 14663 2422} -> 0
+Worker 13 processed job: {28 15 12 56 1696 5717} -> 154
+Worker 13 processed job: {82 64 95 12 9247 4172} -> 217
+Worker 11 processed job: {59 20 13 46 17500 18952} -> 0
+Worker 5 processed job: {43 94 72 31 9646 10343} -> 331
+Worker 10 processed job: {52 45 70 11 3526 1217} -> 91
+Worker 10 processed job: {81 30 41 98 1865 1022} -> 67
+Worker 7 processed job: {75 34 13 39 10901 16433} -> 0
+Worker 11 processed job: {13 48 46 14 9433 5068} -> 0
+Worker 11 processed job: {43 18 18 45 15434 12194} -> 0
+Worker 1 processed job: {11 56 83 58 3439 4384} -> 159
+Worker 1 processed job: {52 75 51 11 5597 3631} -> 185
+Worker 8 processed job: {75 28 57 90 8934 9314} -> 246
+Worker 11 processed job: {21 72 68 11 19333 17956} -> 0
+Worker 8 processed job: {45 17 27 42 1646 18249} -> 0
+Worker 11 processed job: {78 49 18 63 5688 3780} -> 220
+Worker 8 processed job: {47 15 31 68 6457 3672} -> 0
+Worker 13 processed job: {43 19 16 56 8566 14078} -> 0
+Worker 6 processed job: {92 21 52 55 9612 3833} -> 287
+Worker 8 processed job: {74 27 12 58 4400 4072} -> 202
+Worker 5 processed job: {26 60 57 20 3920 5700} -> 285
+Worker 7 processed job: {18 36 45 14 6398 5228} -> 0
+Worker 14 processed job: {44 13 25 97 4209 6710} -> 244
+Worker 14 processed job: {18 78 74 62 1320 4944} -> 186
+Worker 14 processed job: {89 16 33 92 7969 5736} -> 263
+Worker 2 processed job: {49 15 28 62 15103 14661} -> 0
+Worker 7 processed job: {93 13 65 80 11240 4195} -> 322
+Worker 5 processed job: {34 14 13 27 3971 2869} -> 342
+Worker 7 processed job: {14 13 12 82 1074 2131} -> 205
+Worker 2 processed job: {75 38 56 90 12426 12212} -> 378
+Worker 2 processed job: {19 70 71 14 14609 578} -> 0
+Worker 1 processed job: {33 74 51 13 12764 3562} -> 0
+Worker 5 processed job: {69 43 25 90 4725 6740} -> 201
+Worker 13 processed job: {13 29 87 35 2568 2388} -> 192
+Worker 5 processed job: {82 15 13 67 3923 561} -> 0
+Worker 1 processed job: {97 31 46 78 7469 8527} -> 190
+Worker 4 processed job: {89 44 43 88 7099 4444} -> 233
+Worker 1 processed job: {39 15 18 67 18395 820} -> 0
+Worker 8 processed job: {15 75 88 35 1868 4885} -> 191
+Worker 1 processed job: {54 22 58 78 4364 5312} -> 98
+Worker 5 processed job: {37 21 22 50 13654 13634} -> 0
+Worker 11 processed job: {98 22 96 93 7950 4857} -> 160
+Worker 5 processed job: {20 40 57 21 7224 9652} -> 0
+Worker 5 processed job: {71 20 64 90 4960 4420} -> 138
+Worker 6 processed job: {38 74 53 20 4920 12732} -> 0
+Worker 10 processed job: {64 27 13 24 6126 3288} -> 302
+Worker 10 processed job: {12 68 91 23 1769 4605} -> 203
+Worker 8 processed job: {65 32 14 29 7440 1215} -> 0
+Worker 6 processed job: {13 73 84 11 19057 11087} -> 0
+Worker 10 processed job: {63 28 19 98 6417 6076} -> 309
+Worker 3 processed job: {31 59 45 25 17426 3314} -> 0
+Worker 10 processed job: {96 18 52 79 8624 3002} -> 257
+Worker 3 processed job: {39 15 19 69 3415 3411} -> 247
+Worker 6 processed job: {22 11 27 62 13424 17229} -> 0
+Worker 9 processed job: {23 49 41 16 3569 10787} -> 0
+Worker 4 processed job: {28 11 32 43 19024 8967} -> 0
+Worker 4 processed job: {27 75 75 34 3024 5262} -> 204
+Worker 4 processed job: {41 42 81 19 7145 2777} -> 173
+Worker 8 processed job: {65 28 22 57 8245 526} -> 0
+Worker 10 processed job: {19 46 40 22 10332 16596} -> 0
+Worker 7 processed job: {28 11 61 79 16218 7104} -> 0
+Worker 10 processed job: {31 84 62 38 5301 7344} -> 243
+Worker 7 processed job: {43 86 83 51 5773 8671} -> 283
+Worker 12 processed job: {61 35 22 69 4878 6858} -> 234
+Worker 7 processed job: {15 84 42 29 2946 5569} -> 197
+Worker 12 processed job: {45 20 17 41 15828 1629} -> 0
+Worker 6 processed job: {48 57 13 74 2537 4711} -> 164
+Worker 12 processed job: {29 91 63 28 2284 4452} -> 148
+Worker 11 processed job: {13 50 60 24 8386 16500} -> 0
+Worker 12 processed job: {78 24 51 90 7020 6024} -> 220
+Worker 6 processed job: {24 69 70 14 18426 13552} -> 0
+Worker 2 processed job: {82 57 11 28 15455 13471} -> 0
+Worker 4 processed job: {11 46 67 19 13888 12889} -> 0
+Worker 2 processed job: {17 49 70 28 8069 10413} -> 0
+Worker 2 processed job: {21 47 69 31 10964 508} -> 0
+Worker 4 processed job: {21 68 85 71 5587 5020} -> 85
+Worker 4 processed job: {15 87 72 18 2814 5532} -> 201
+Worker 9 processed job: {64 34 14 37 15052 7562} -> 0
+Worker 4 processed job: {50 89 83 30 10887 8900} -> 299
+Worker 9 processed job: {14 39 40 18 16352 18920} -> 0
+Worker 4 processed job: {18 53 41 18 16105 5175} -> 0
+Worker 5 processed job: {35 21 22 57 2033 3804} -> 122
+Worker 5 processed job: {14 30 60 38 5124 898} -> 0
+Worker 4 processed job: {46 75 44 16 17188 4110} -> 0
+Worker 9 processed job: {30 84 99 40 9792 8916} -> 285
+Worker 5 processed job: {90 36 60 90 8820 5310} -> 267
+Worker 9 processed job: {86 80 27 89 2255 3567} -> 80
+Worker 5 processed job: {51 71 88 15 5075 4915} -> 215
+Worker 14 processed job: {12 38 82 14 6374 4216} -> 326
+Worker 12 processed job: {95 56 34 61 3867 5679} -> 116
+Worker 9 processed job: {14 89 23 27 2741 8007} -> 277
+Worker 13 processed job: {15 91 70 22 4975 1995} -> 85
+Worker 2 processed job: {18 46 70 45 19446 14497} -> 0
+Worker 12 processed job: {22 45 61 36 5571 17909} -> 0
+Worker 14 processed job: {23 76 60 12 17279 13868} -> 0
+Worker 8 processed job: {14 62 64 24 10904 5320} -> 0
+Worker 8 processed job: {32 42 89 19 3478 3978} -> 282
+Worker 8 processed job: {90 53 38 74 2530 4071} -> 71
+Worker 11 processed job: {62 12 64 84 8872 6372} -> 293
+Worker 11 processed job: {56 74 73 13 2393 2411} -> 102
+Worker 8 processed job: {63 22 17 39 16083 16531} -> 0
+Worker 1 processed job: {83 55 30 62 4125 3281} -> 148
+Worker 11 processed job: {29 83 46 37 4013 7226} -> 246
+Worker 10 processed job: {86 15 91 98 11011 4795} -> 308
+Worker 10 processed job: {19 53 40 18 1697 10527} -> 0
+Worker 1 processed job: {15 71 49 13 13956 11004} -> 0
+Worker 10 processed job: {88 22 49 78 12153 8364} -> 360
+Worker 13 processed job: {65 61 18 81 2217 2337} -> 103
+Worker 1 processed job: {14 71 46 13 9516 14718} -> 0
+Worker 10 processed job: {69 41 27 52 5726 16245} -> 0
+Worker 1 processed job: {25 54 76 46 3269 4816} -> 238
+Worker 5 processed job: {36 14 43 75 14047 3583} -> 0
+Worker 10 processed job: {77 86 58 12 8115 6794} -> 262
+Worker 3 processed job: {69 39 24 62 3045 4385} -> 130
+Worker 3 processed job: {13 80 86 23 727 424} -> 17
+Worker 12 processed job: {22 50 64 34 14004 3484} -> 0
+Worker 3 processed job: {24 99 90 79 6030 7631} -> 149
+Worker 9 processed job: {56 23 18 57 11704 14914} -> 0
+Worker 3 processed job: {97 14 11 83 2909 4002} -> 119
+Worker 13 processed job: {23 67 83 24 6587 4379} -> 191
+Worker 3 processed job: {78 13 15 68 7430 18378} -> 0
+Worker 8 processed job: {73 47 13 56 5764 4235} -> 242
+Worker 9 processed job: {57 27 22 48 4328 4380} -> 218
+Worker 7 processed job: {40 39 15 72 2645 5046} -> 193
+Worker 10 processed job: {97 14 70 78 8362 3108} -> 226
+Worker 11 processed job: {22 62 66 14 11760 14244} -> 0
+Worker 5 processed job: {41 16 15 62 10570 7964} -> 0
+Worker 4 processed job: {58 19 15 32 14828 18209} -> 0
+Worker 14 processed job: {94 69 22 77 1556 2846} -> 58
+Worker 2 processed job: {13 68 66 24 16932 18832} -> 0
+Worker 1 processed job: {82 45 22 69 7220 5670} -> 270
+Worker 6 processed job: {67 13 48 81 10016 8897} -> 337
+Worker 12 processed job: {72 34 18 45 2168 19786} -> 0
+ -> Sum: 36838
+Processing complete!

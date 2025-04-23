@@ -1,0 +1,983 @@
+Registers A: 251359562578959, B: 0, C: 0
+iPointer: 0
+Program: [2 4 1 2 7 5 4 3 0 3 1 7 5 5 3 0]
+Output: []
+code: 2, operand 4
+Combo operand: 251359562578959
+-------------------------
+Registers A: 251359562578959
+Registers B: 7
+Registers C: 0
+iPointer: 2
+Output: []
+code: 1, operand 2
+-------------------------
+Registers A: 251359562578959
+Registers B: 5
+Registers C: 0
+iPointer: 4
+Output: []
+code: 7, operand 5
+Combo operand: 5
+-------------------------
+Registers A: 251359562578959
+Registers B: 5
+Registers C: 7854986330592
+iPointer: 6
+Output: []
+code: 4, operand 3
+-------------------------
+Registers A: 251359562578959
+Registers B: 7854986330597
+Registers C: 7854986330592
+iPointer: 8
+Output: []
+code: 0, operand 3
+Combo operand: 3
+-------------------------
+Registers A: 31419945322369
+Registers B: 7854986330597
+Registers C: 7854986330592
+iPointer: 10
+Output: []
+code: 1, operand 7
+-------------------------
+Registers A: 31419945322369
+Registers B: 7854986330594
+Registers C: 7854986330592
+iPointer: 12
+Output: []
+code: 5, operand 5
+Combo operand: 7854986330594
+-->Out: 2
+-------------------------
+Registers A: 31419945322369
+Registers B: 7854986330594
+Registers C: 7854986330592
+iPointer: 14
+Output: [2]
+code: 3, operand 0
+-------------------------
+Registers A: 31419945322369
+Registers B: 7854986330594
+Registers C: 7854986330592
+iPointer: 0
+Output: [2]
+code: 2, operand 4
+Combo operand: 31419945322369
+-------------------------
+Registers A: 31419945322369
+Registers B: 1
+Registers C: 7854986330592
+iPointer: 2
+Output: [2]
+code: 1, operand 2
+-------------------------
+Registers A: 31419945322369
+Registers B: 3
+Registers C: 7854986330592
+iPointer: 4
+Output: [2]
+code: 7, operand 5
+Combo operand: 3
+-------------------------
+Registers A: 31419945322369
+Registers B: 3
+Registers C: 3927493165296
+iPointer: 6
+Output: [2]
+code: 4, operand 3
+-------------------------
+Registers A: 31419945322369
+Registers B: 3927493165299
+Registers C: 3927493165296
+iPointer: 8
+Output: [2]
+code: 0, operand 3
+Combo operand: 3
+-------------------------
+Registers A: 3927493165296
+Registers B: 3927493165299
+Registers C: 3927493165296
+iPointer: 10
+Output: [2]
+code: 1, operand 7
+-------------------------
+Registers A: 3927493165296
+Registers B: 3927493165300
+Registers C: 3927493165296
+iPointer: 12
+Output: [2]
+code: 5, operand 5
+Combo operand: 3927493165300
+-->Out: 4
+-------------------------
+Registers A: 3927493165296
+Registers B: 3927493165300
+Registers C: 3927493165296
+iPointer: 14
+Output: [2 4]
+code: 3, operand 0
+-------------------------
+Registers A: 3927493165296
+Registers B: 3927493165300
+Registers C: 3927493165296
+iPointer: 0
+Output: [2 4]
+code: 2, operand 4
+Combo operand: 3927493165296
+-------------------------
+Registers A: 3927493165296
+Registers B: 0
+Registers C: 3927493165296
+iPointer: 2
+Output: [2 4]
+code: 1, operand 2
+-------------------------
+Registers A: 3927493165296
+Registers B: 2
+Registers C: 3927493165296
+iPointer: 4
+Output: [2 4]
+code: 7, operand 5
+Combo operand: 2
+-------------------------
+Registers A: 3927493165296
+Registers B: 2
+Registers C: 981873291324
+iPointer: 6
+Output: [2 4]
+code: 4, operand 3
+-------------------------
+Registers A: 3927493165296
+Registers B: 981873291326
+Registers C: 981873291324
+iPointer: 8
+Output: [2 4]
+code: 0, operand 3
+Combo operand: 3
+-------------------------
+Registers A: 490936645662
+Registers B: 981873291326
+Registers C: 981873291324
+iPointer: 10
+Output: [2 4]
+code: 1, operand 7
+-------------------------
+Registers A: 490936645662
+Registers B: 981873291321
+Registers C: 981873291324
+iPointer: 12
+Output: [2 4]
+code: 5, operand 5
+Combo operand: 981873291321
+-->Out: 1
+-------------------------
+Registers A: 490936645662
+Registers B: 981873291321
+Registers C: 981873291324
+iPointer: 14
+Output: [2 4 1]
+code: 3, operand 0
+-------------------------
+Registers A: 490936645662
+Registers B: 981873291321
+Registers C: 981873291324
+iPointer: 0
+Output: [2 4 1]
+code: 2, operand 4
+Combo operand: 490936645662
+-------------------------
+Registers A: 490936645662
+Registers B: 6
+Registers C: 981873291324
+iPointer: 2
+Output: [2 4 1]
+code: 1, operand 2
+-------------------------
+Registers A: 490936645662
+Registers B: 4
+Registers C: 981873291324
+iPointer: 4
+Output: [2 4 1]
+code: 7, operand 5
+Combo operand: 4
+-------------------------
+Registers A: 490936645662
+Registers B: 4
+Registers C: 30683540353
+iPointer: 6
+Output: [2 4 1]
+code: 4, operand 3
+-------------------------
+Registers A: 490936645662
+Registers B: 30683540357
+Registers C: 30683540353
+iPointer: 8
+Output: [2 4 1]
+code: 0, operand 3
+Combo operand: 3
+-------------------------
+Registers A: 61367080707
+Registers B: 30683540357
+Registers C: 30683540353
+iPointer: 10
+Output: [2 4 1]
+code: 1, operand 7
+-------------------------
+Registers A: 61367080707
+Registers B: 30683540354
+Registers C: 30683540353
+iPointer: 12
+Output: [2 4 1]
+code: 5, operand 5
+Combo operand: 30683540354
+-->Out: 2
+-------------------------
+Registers A: 61367080707
+Registers B: 30683540354
+Registers C: 30683540353
+iPointer: 14
+Output: [2 4 1 2]
+code: 3, operand 0
+-------------------------
+Registers A: 61367080707
+Registers B: 30683540354
+Registers C: 30683540353
+iPointer: 0
+Output: [2 4 1 2]
+code: 2, operand 4
+Combo operand: 61367080707
+-------------------------
+Registers A: 61367080707
+Registers B: 3
+Registers C: 30683540353
+iPointer: 2
+Output: [2 4 1 2]
+code: 1, operand 2
+-------------------------
+Registers A: 61367080707
+Registers B: 1
+Registers C: 30683540353
+iPointer: 4
+Output: [2 4 1 2]
+code: 7, operand 5
+Combo operand: 1
+-------------------------
+Registers A: 61367080707
+Registers B: 1
+Registers C: 30683540353
+iPointer: 6
+Output: [2 4 1 2]
+code: 4, operand 3
+-------------------------
+Registers A: 61367080707
+Registers B: 30683540352
+Registers C: 30683540353
+iPointer: 8
+Output: [2 4 1 2]
+code: 0, operand 3
+Combo operand: 3
+-------------------------
+Registers A: 7670885088
+Registers B: 30683540352
+Registers C: 30683540353
+iPointer: 10
+Output: [2 4 1 2]
+code: 1, operand 7
+-------------------------
+Registers A: 7670885088
+Registers B: 30683540359
+Registers C: 30683540353
+iPointer: 12
+Output: [2 4 1 2]
+code: 5, operand 5
+Combo operand: 30683540359
+-->Out: 7
+-------------------------
+Registers A: 7670885088
+Registers B: 30683540359
+Registers C: 30683540353
+iPointer: 14
+Output: [2 4 1 2 7]
+code: 3, operand 0
+-------------------------
+Registers A: 7670885088
+Registers B: 30683540359
+Registers C: 30683540353
+iPointer: 0
+Output: [2 4 1 2 7]
+code: 2, operand 4
+Combo operand: 7670885088
+-------------------------
+Registers A: 7670885088
+Registers B: 0
+Registers C: 30683540353
+iPointer: 2
+Output: [2 4 1 2 7]
+code: 1, operand 2
+-------------------------
+Registers A: 7670885088
+Registers B: 2
+Registers C: 30683540353
+iPointer: 4
+Output: [2 4 1 2 7]
+code: 7, operand 5
+Combo operand: 2
+-------------------------
+Registers A: 7670885088
+Registers B: 2
+Registers C: 1917721272
+iPointer: 6
+Output: [2 4 1 2 7]
+code: 4, operand 3
+-------------------------
+Registers A: 7670885088
+Registers B: 1917721274
+Registers C: 1917721272
+iPointer: 8
+Output: [2 4 1 2 7]
+code: 0, operand 3
+Combo operand: 3
+-------------------------
+Registers A: 958860636
+Registers B: 1917721274
+Registers C: 1917721272
+iPointer: 10
+Output: [2 4 1 2 7]
+code: 1, operand 7
+-------------------------
+Registers A: 958860636
+Registers B: 1917721277
+Registers C: 1917721272
+iPointer: 12
+Output: [2 4 1 2 7]
+code: 5, operand 5
+Combo operand: 1917721277
+-->Out: 5
+-------------------------
+Registers A: 958860636
+Registers B: 1917721277
+Registers C: 1917721272
+iPointer: 14
+Output: [2 4 1 2 7 5]
+code: 3, operand 0
+-------------------------
+Registers A: 958860636
+Registers B: 1917721277
+Registers C: 1917721272
+iPointer: 0
+Output: [2 4 1 2 7 5]
+code: 2, operand 4
+Combo operand: 958860636
+-------------------------
+Registers A: 958860636
+Registers B: 4
+Registers C: 1917721272
+iPointer: 2
+Output: [2 4 1 2 7 5]
+code: 1, operand 2
+-------------------------
+Registers A: 958860636
+Registers B: 6
+Registers C: 1917721272
+iPointer: 4
+Output: [2 4 1 2 7 5]
+code: 7, operand 5
+Combo operand: 6
+-------------------------
+Registers A: 958860636
+Registers B: 6
+Registers C: 14982197
+iPointer: 6
+Output: [2 4 1 2 7 5]
+code: 4, operand 3
+-------------------------
+Registers A: 958860636
+Registers B: 14982195
+Registers C: 14982197
+iPointer: 8
+Output: [2 4 1 2 7 5]
+code: 0, operand 3
+Combo operand: 3
+-------------------------
+Registers A: 119857579
+Registers B: 14982195
+Registers C: 14982197
+iPointer: 10
+Output: [2 4 1 2 7 5]
+code: 1, operand 7
+-------------------------
+Registers A: 119857579
+Registers B: 14982196
+Registers C: 14982197
+iPointer: 12
+Output: [2 4 1 2 7 5]
+code: 5, operand 5
+Combo operand: 14982196
+-->Out: 4
+-------------------------
+Registers A: 119857579
+Registers B: 14982196
+Registers C: 14982197
+iPointer: 14
+Output: [2 4 1 2 7 5 4]
+code: 3, operand 0
+-------------------------
+Registers A: 119857579
+Registers B: 14982196
+Registers C: 14982197
+iPointer: 0
+Output: [2 4 1 2 7 5 4]
+code: 2, operand 4
+Combo operand: 119857579
+-------------------------
+Registers A: 119857579
+Registers B: 3
+Registers C: 14982197
+iPointer: 2
+Output: [2 4 1 2 7 5 4]
+code: 1, operand 2
+-------------------------
+Registers A: 119857579
+Registers B: 1
+Registers C: 14982197
+iPointer: 4
+Output: [2 4 1 2 7 5 4]
+code: 7, operand 5
+Combo operand: 1
+-------------------------
+Registers A: 119857579
+Registers B: 1
+Registers C: 59928789
+iPointer: 6
+Output: [2 4 1 2 7 5 4]
+code: 4, operand 3
+-------------------------
+Registers A: 119857579
+Registers B: 59928788
+Registers C: 59928789
+iPointer: 8
+Output: [2 4 1 2 7 5 4]
+code: 0, operand 3
+Combo operand: 3
+-------------------------
+Registers A: 14982197
+Registers B: 59928788
+Registers C: 59928789
+iPointer: 10
+Output: [2 4 1 2 7 5 4]
+code: 1, operand 7
+-------------------------
+Registers A: 14982197
+Registers B: 59928787
+Registers C: 59928789
+iPointer: 12
+Output: [2 4 1 2 7 5 4]
+code: 5, operand 5
+Combo operand: 59928787
+-->Out: 3
+-------------------------
+Registers A: 14982197
+Registers B: 59928787
+Registers C: 59928789
+iPointer: 14
+Output: [2 4 1 2 7 5 4 3]
+code: 3, operand 0
+-------------------------
+Registers A: 14982197
+Registers B: 59928787
+Registers C: 59928789
+iPointer: 0
+Output: [2 4 1 2 7 5 4 3]
+code: 2, operand 4
+Combo operand: 14982197
+-------------------------
+Registers A: 14982197
+Registers B: 5
+Registers C: 59928789
+iPointer: 2
+Output: [2 4 1 2 7 5 4 3]
+code: 1, operand 2
+-------------------------
+Registers A: 14982197
+Registers B: 7
+Registers C: 59928789
+iPointer: 4
+Output: [2 4 1 2 7 5 4 3]
+code: 7, operand 5
+Combo operand: 7
+-------------------------
+Registers A: 14982197
+Registers B: 7
+Registers C: 117048
+iPointer: 6
+Output: [2 4 1 2 7 5 4 3]
+code: 4, operand 3
+-------------------------
+Registers A: 14982197
+Registers B: 117055
+Registers C: 117048
+iPointer: 8
+Output: [2 4 1 2 7 5 4 3]
+code: 0, operand 3
+Combo operand: 3
+-------------------------
+Registers A: 1872774
+Registers B: 117055
+Registers C: 117048
+iPointer: 10
+Output: [2 4 1 2 7 5 4 3]
+code: 1, operand 7
+-------------------------
+Registers A: 1872774
+Registers B: 117048
+Registers C: 117048
+iPointer: 12
+Output: [2 4 1 2 7 5 4 3]
+code: 5, operand 5
+Combo operand: 117048
+-->Out: 0
+-------------------------
+Registers A: 1872774
+Registers B: 117048
+Registers C: 117048
+iPointer: 14
+Output: [2 4 1 2 7 5 4 3 0]
+code: 3, operand 0
+-------------------------
+Registers A: 1872774
+Registers B: 117048
+Registers C: 117048
+iPointer: 0
+Output: [2 4 1 2 7 5 4 3 0]
+code: 2, operand 4
+Combo operand: 1872774
+-------------------------
+Registers A: 1872774
+Registers B: 6
+Registers C: 117048
+iPointer: 2
+Output: [2 4 1 2 7 5 4 3 0]
+code: 1, operand 2
+-------------------------
+Registers A: 1872774
+Registers B: 4
+Registers C: 117048
+iPointer: 4
+Output: [2 4 1 2 7 5 4 3 0]
+code: 7, operand 5
+Combo operand: 4
+-------------------------
+Registers A: 1872774
+Registers B: 4
+Registers C: 117048
+iPointer: 6
+Output: [2 4 1 2 7 5 4 3 0]
+code: 4, operand 3
+-------------------------
+Registers A: 1872774
+Registers B: 117052
+Registers C: 117048
+iPointer: 8
+Output: [2 4 1 2 7 5 4 3 0]
+code: 0, operand 3
+Combo operand: 3
+-------------------------
+Registers A: 234096
+Registers B: 117052
+Registers C: 117048
+iPointer: 10
+Output: [2 4 1 2 7 5 4 3 0]
+code: 1, operand 7
+-------------------------
+Registers A: 234096
+Registers B: 117051
+Registers C: 117048
+iPointer: 12
+Output: [2 4 1 2 7 5 4 3 0]
+code: 5, operand 5
+Combo operand: 117051
+-->Out: 3
+-------------------------
+Registers A: 234096
+Registers B: 117051
+Registers C: 117048
+iPointer: 14
+Output: [2 4 1 2 7 5 4 3 0 3]
+code: 3, operand 0
+-------------------------
+Registers A: 234096
+Registers B: 117051
+Registers C: 117048
+iPointer: 0
+Output: [2 4 1 2 7 5 4 3 0 3]
+code: 2, operand 4
+Combo operand: 234096
+-------------------------
+Registers A: 234096
+Registers B: 0
+Registers C: 117048
+iPointer: 2
+Output: [2 4 1 2 7 5 4 3 0 3]
+code: 1, operand 2
+-------------------------
+Registers A: 234096
+Registers B: 2
+Registers C: 117048
+iPointer: 4
+Output: [2 4 1 2 7 5 4 3 0 3]
+code: 7, operand 5
+Combo operand: 2
+-------------------------
+Registers A: 234096
+Registers B: 2
+Registers C: 58524
+iPointer: 6
+Output: [2 4 1 2 7 5 4 3 0 3]
+code: 4, operand 3
+-------------------------
+Registers A: 234096
+Registers B: 58526
+Registers C: 58524
+iPointer: 8
+Output: [2 4 1 2 7 5 4 3 0 3]
+code: 0, operand 3
+Combo operand: 3
+-------------------------
+Registers A: 29262
+Registers B: 58526
+Registers C: 58524
+iPointer: 10
+Output: [2 4 1 2 7 5 4 3 0 3]
+code: 1, operand 7
+-------------------------
+Registers A: 29262
+Registers B: 58521
+Registers C: 58524
+iPointer: 12
+Output: [2 4 1 2 7 5 4 3 0 3]
+code: 5, operand 5
+Combo operand: 58521
+-->Out: 1
+-------------------------
+Registers A: 29262
+Registers B: 58521
+Registers C: 58524
+iPointer: 14
+Output: [2 4 1 2 7 5 4 3 0 3 1]
+code: 3, operand 0
+-------------------------
+Registers A: 29262
+Registers B: 58521
+Registers C: 58524
+iPointer: 0
+Output: [2 4 1 2 7 5 4 3 0 3 1]
+code: 2, operand 4
+Combo operand: 29262
+-------------------------
+Registers A: 29262
+Registers B: 6
+Registers C: 58524
+iPointer: 2
+Output: [2 4 1 2 7 5 4 3 0 3 1]
+code: 1, operand 2
+-------------------------
+Registers A: 29262
+Registers B: 4
+Registers C: 58524
+iPointer: 4
+Output: [2 4 1 2 7 5 4 3 0 3 1]
+code: 7, operand 5
+Combo operand: 4
+-------------------------
+Registers A: 29262
+Registers B: 4
+Registers C: 1828
+iPointer: 6
+Output: [2 4 1 2 7 5 4 3 0 3 1]
+code: 4, operand 3
+-------------------------
+Registers A: 29262
+Registers B: 1824
+Registers C: 1828
+iPointer: 8
+Output: [2 4 1 2 7 5 4 3 0 3 1]
+code: 0, operand 3
+Combo operand: 3
+-------------------------
+Registers A: 3657
+Registers B: 1824
+Registers C: 1828
+iPointer: 10
+Output: [2 4 1 2 7 5 4 3 0 3 1]
+code: 1, operand 7
+-------------------------
+Registers A: 3657
+Registers B: 1831
+Registers C: 1828
+iPointer: 12
+Output: [2 4 1 2 7 5 4 3 0 3 1]
+code: 5, operand 5
+Combo operand: 1831
+-->Out: 7
+-------------------------
+Registers A: 3657
+Registers B: 1831
+Registers C: 1828
+iPointer: 14
+Output: [2 4 1 2 7 5 4 3 0 3 1 7]
+code: 3, operand 0
+-------------------------
+Registers A: 3657
+Registers B: 1831
+Registers C: 1828
+iPointer: 0
+Output: [2 4 1 2 7 5 4 3 0 3 1 7]
+code: 2, operand 4
+Combo operand: 3657
+-------------------------
+Registers A: 3657
+Registers B: 1
+Registers C: 1828
+iPointer: 2
+Output: [2 4 1 2 7 5 4 3 0 3 1 7]
+code: 1, operand 2
+-------------------------
+Registers A: 3657
+Registers B: 3
+Registers C: 1828
+iPointer: 4
+Output: [2 4 1 2 7 5 4 3 0 3 1 7]
+code: 7, operand 5
+Combo operand: 3
+-------------------------
+Registers A: 3657
+Registers B: 3
+Registers C: 457
+iPointer: 6
+Output: [2 4 1 2 7 5 4 3 0 3 1 7]
+code: 4, operand 3
+-------------------------
+Registers A: 3657
+Registers B: 458
+Registers C: 457
+iPointer: 8
+Output: [2 4 1 2 7 5 4 3 0 3 1 7]
+code: 0, operand 3
+Combo operand: 3
+-------------------------
+Registers A: 457
+Registers B: 458
+Registers C: 457
+iPointer: 10
+Output: [2 4 1 2 7 5 4 3 0 3 1 7]
+code: 1, operand 7
+-------------------------
+Registers A: 457
+Registers B: 461
+Registers C: 457
+iPointer: 12
+Output: [2 4 1 2 7 5 4 3 0 3 1 7]
+code: 5, operand 5
+Combo operand: 461
+-->Out: 5
+-------------------------
+Registers A: 457
+Registers B: 461
+Registers C: 457
+iPointer: 14
+Output: [2 4 1 2 7 5 4 3 0 3 1 7 5]
+code: 3, operand 0
+-------------------------
+Registers A: 457
+Registers B: 461
+Registers C: 457
+iPointer: 0
+Output: [2 4 1 2 7 5 4 3 0 3 1 7 5]
+code: 2, operand 4
+Combo operand: 457
+-------------------------
+Registers A: 457
+Registers B: 1
+Registers C: 457
+iPointer: 2
+Output: [2 4 1 2 7 5 4 3 0 3 1 7 5]
+code: 1, operand 2
+-------------------------
+Registers A: 457
+Registers B: 3
+Registers C: 457
+iPointer: 4
+Output: [2 4 1 2 7 5 4 3 0 3 1 7 5]
+code: 7, operand 5
+Combo operand: 3
+-------------------------
+Registers A: 457
+Registers B: 3
+Registers C: 57
+iPointer: 6
+Output: [2 4 1 2 7 5 4 3 0 3 1 7 5]
+code: 4, operand 3
+-------------------------
+Registers A: 457
+Registers B: 58
+Registers C: 57
+iPointer: 8
+Output: [2 4 1 2 7 5 4 3 0 3 1 7 5]
+code: 0, operand 3
+Combo operand: 3
+-------------------------
+Registers A: 57
+Registers B: 58
+Registers C: 57
+iPointer: 10
+Output: [2 4 1 2 7 5 4 3 0 3 1 7 5]
+code: 1, operand 7
+-------------------------
+Registers A: 57
+Registers B: 61
+Registers C: 57
+iPointer: 12
+Output: [2 4 1 2 7 5 4 3 0 3 1 7 5]
+code: 5, operand 5
+Combo operand: 61
+-->Out: 5
+-------------------------
+Registers A: 57
+Registers B: 61
+Registers C: 57
+iPointer: 14
+Output: [2 4 1 2 7 5 4 3 0 3 1 7 5 5]
+code: 3, operand 0
+-------------------------
+Registers A: 57
+Registers B: 61
+Registers C: 57
+iPointer: 0
+Output: [2 4 1 2 7 5 4 3 0 3 1 7 5 5]
+code: 2, operand 4
+Combo operand: 57
+-------------------------
+Registers A: 57
+Registers B: 1
+Registers C: 57
+iPointer: 2
+Output: [2 4 1 2 7 5 4 3 0 3 1 7 5 5]
+code: 1, operand 2
+-------------------------
+Registers A: 57
+Registers B: 3
+Registers C: 57
+iPointer: 4
+Output: [2 4 1 2 7 5 4 3 0 3 1 7 5 5]
+code: 7, operand 5
+Combo operand: 3
+-------------------------
+Registers A: 57
+Registers B: 3
+Registers C: 7
+iPointer: 6
+Output: [2 4 1 2 7 5 4 3 0 3 1 7 5 5]
+code: 4, operand 3
+-------------------------
+Registers A: 57
+Registers B: 4
+Registers C: 7
+iPointer: 8
+Output: [2 4 1 2 7 5 4 3 0 3 1 7 5 5]
+code: 0, operand 3
+Combo operand: 3
+-------------------------
+Registers A: 7
+Registers B: 4
+Registers C: 7
+iPointer: 10
+Output: [2 4 1 2 7 5 4 3 0 3 1 7 5 5]
+code: 1, operand 7
+-------------------------
+Registers A: 7
+Registers B: 3
+Registers C: 7
+iPointer: 12
+Output: [2 4 1 2 7 5 4 3 0 3 1 7 5 5]
+code: 5, operand 5
+Combo operand: 3
+-->Out: 3
+-------------------------
+Registers A: 7
+Registers B: 3
+Registers C: 7
+iPointer: 14
+Output: [2 4 1 2 7 5 4 3 0 3 1 7 5 5 3]
+code: 3, operand 0
+-------------------------
+Registers A: 7
+Registers B: 3
+Registers C: 7
+iPointer: 0
+Output: [2 4 1 2 7 5 4 3 0 3 1 7 5 5 3]
+code: 2, operand 4
+Combo operand: 7
+-------------------------
+Registers A: 7
+Registers B: 7
+Registers C: 7
+iPointer: 2
+Output: [2 4 1 2 7 5 4 3 0 3 1 7 5 5 3]
+code: 1, operand 2
+-------------------------
+Registers A: 7
+Registers B: 5
+Registers C: 7
+iPointer: 4
+Output: [2 4 1 2 7 5 4 3 0 3 1 7 5 5 3]
+code: 7, operand 5
+Combo operand: 5
+-------------------------
+Registers A: 7
+Registers B: 5
+Registers C: 0
+iPointer: 6
+Output: [2 4 1 2 7 5 4 3 0 3 1 7 5 5 3]
+code: 4, operand 3
+-------------------------
+Registers A: 7
+Registers B: 5
+Registers C: 0
+iPointer: 8
+Output: [2 4 1 2 7 5 4 3 0 3 1 7 5 5 3]
+code: 0, operand 3
+Combo operand: 3
+-------------------------
+Registers A: 0
+Registers B: 5
+Registers C: 0
+iPointer: 10
+Output: [2 4 1 2 7 5 4 3 0 3 1 7 5 5 3]
+code: 1, operand 7
+-------------------------
+Registers A: 0
+Registers B: 2
+Registers C: 0
+iPointer: 12
+Output: [2 4 1 2 7 5 4 3 0 3 1 7 5 5 3]
+code: 5, operand 5
+Combo operand: 2
+-->Out: 2
+-------------------------
+Registers A: 0
+Registers B: 2
+Registers C: 0
+iPointer: 14
+Output: [2 4 1 2 7 5 4 3 0 3 1 7 5 5 3 2]
+code: 3, operand 0
+-------------------------
+Registers A: 0
+Registers B: 2
+Registers C: 0
+iPointer: 16
+Output: [2 4 1 2 7 5 4 3 0 3 1 7 5 5 3 2]
+Program: [2 4 1 2 7 5 4 3 0 3 1 7 5 5 3 0]
+ -> Sum: 2,4,1,2,7,5,4,3,0,3,1,7,5,5,3,2
+Processing complete!

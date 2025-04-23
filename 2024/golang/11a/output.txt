@@ -1,0 +1,28 @@
+Stones: [3279 998884 1832781 517 8 18864 28 0]
+Stones: [32 79 998 884 3709548744 1046408 16192 38180736 2 8 1]
+Stones: [3 2 7 9 2019952 1789216 37095 48744 2117929792 32772608 3818 736 4048 16192 2024]
+Stones: [6072 4048 14168 18216 4088382848 3621373184 75080280 98657856 21179 29792 3277 2608 38 18 1489664 40 48 32772608 20 24]
+Stones count: 35
+Stones count: 52
+Stones count: 78
+Stones count: 126
+Stones count: 178
+Stones count: 254
+Stones count: 415
+Stones count: 660
+Stones count: 967
+Stones count: 1406
+Stones count: 2185
+Stones count: 3411
+Stones count: 5017
+Stones count: 7689
+Stones count: 11739
+Stones count: 17556
+Stones count: 26894
+Stones count: 40984
+Stones count: 62552
+Stones count: 94101
+Stones count: 141879
+Stones count: 218956
+ -> Sum: 218956
+Processing complete!

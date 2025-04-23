@@ -1,0 +1,1152 @@
+Visiting {0 0} (U)
+Visiting {0 10} (D)
+Visiting {0 14} (C)
+Visiting {0 24} (Q)
+Visiting {0 25} (O)
+Visiting {0 33} (R)
+Visiting {0 35} (Z)
+Visiting {0 59} (X)
+Visiting {0 63} (K)
+Visiting {0 65} (F)
+Visiting {0 78} (Z)
+Visiting {0 80} (E)
+Visiting {0 84} (S)
+Visiting {0 88} (V)
+Visiting {0 93} (V)
+Visiting {0 95} (N)
+Visiting {0 100} (I)
+Visiting {0 107} (T)
+Visiting {0 110} (P)
+Visiting {0 139} (E)
+Visiting {1 9} (N)
+Visiting {1 86} (L)
+Visiting {1 114} (V)
+Visiting {2 61} (W)
+Visiting {2 110} (J)
+Visiting {2 128} (C)
+Visiting {3 55} (U)
+Visiting {3 115} (Y)
+Visiting {3 120} (P)
+Visiting {4 39} (N)
+Visiting {4 112} (O)
+Visiting {5 18} (M)
+Visiting {5 55} (Y)
+Visiting {5 58} (D)
+Visiting {6 17} (Q)
+Visiting {6 20} (R)
+Visiting {6 42} (E)
+Visiting {6 101} (R)
+Visiting {7 31} (V)
+Visiting {7 34} (E)
+Visiting {7 137} (L)
+Visiting {8 46} (F)
+Visiting {8 58} (L)
+Visiting {8 82} (G)
+Visiting {10 24} (Y)
+Visiting {10 31} (M)
+Visiting {10 32} (V)
+Visiting {10 71} (L)
+Visiting {10 73} (L)
+Visiting {10 92} (H)
+Visiting {11 84} (C)
+Visiting {11 124} (O)
+Visiting {12 44} (R)
+Visiting {12 115} (R)
+Visiting {13 12} (Y)
+Visiting {13 14} (Z)
+Visiting {13 24} (W)
+Visiting {13 46} (O)
+Visiting {13 107} (M)
+Visiting {13 116} (T)
+Visiting {14 15} (F)
+Visiting {14 71} (A)
+Visiting {14 73} (P)
+Visiting {14 120} (W)
+Visiting {15 123} (H)
+Visiting {15 125} (E)
+Visiting {16 0} (H)
+Visiting {16 59} (F)
+Visiting {16 125} (S)
+Visiting {16 127} (Q)
+Visiting {17 16} (S)
+Visiting {17 18} (Y)
+Visiting {17 59} (X)
+Visiting {17 63} (W)
+Visiting {17 108} (L)
+Visiting {18 94} (B)
+Visiting {18 109} (C)
+Visiting {19 50} (P)
+Visiting {19 88} (X)
+Visiting {20 45} (Y)
+Visiting {20 91} (X)
+Visiting {20 110} (U)
+Visiting {20 120} (B)
+Visiting {21 3} (T)
+Visiting {21 11} (Z)
+Visiting {21 18} (Y)
+Visiting {21 71} (K)
+Visiting {21 112} (H)
+Visiting {22 77} (O)
+Visiting {22 84} (Q)
+Visiting {22 87} (H)
+Visiting {22 91} (P)
+Visiting {24 7} (G)
+Visiting {24 32} (H)
+Visiting {24 73} (G)
+Visiting {24 92} (D)
+Visiting {24 130} (Q)
+Visiting {24 132} (B)
+Visiting {25 14} (Z)
+Visiting {25 17} (O)
+Visiting {25 33} (X)
+Visiting {25 129} (N)
+Visiting {26 32} (G)
+Visiting {26 49} (X)
+Visiting {26 84} (V)
+Visiting {27 15} (R)
+Visiting {27 57} (X)
+Visiting {27 64} (M)
+Visiting {27 80} (G)
+Visiting {27 107} (I)
+Visiting {27 137} (I)
+Visiting {28 3} (L)
+Visiting {28 43} (H)
+Visiting {28 49} (I)
+Visiting {28 55} (W)
+Visiting {28 80} (B)
+Visiting {28 85} (A)
+Visiting {28 128} (O)
+Visiting {29 4} (E)
+Visiting {29 79} (V)
+Visiting {29 107} (U)
+Visiting {30 62} (S)
+Visiting {30 126} (A)
+Visiting {31 15} (J)
+Visiting {31 32} (U)
+Visiting {31 86} (H)
+Visiting {31 139} (P)
+Visiting {32 90} (I)
+Visiting {32 91} (H)
+Visiting {32 93} (E)
+Visiting {33 11} (J)
+Visiting {33 35} (K)
+Visiting {33 101} (C)
+Visiting {33 114} (Y)
+Visiting {33 115} (E)
+Visiting {34 27} (S)
+Visiting {34 34} (C)
+Visiting {34 50} (O)
+Visiting {34 70} (O)
+Visiting {34 122} (M)
+Visiting {35 31} (S)
+Visiting {35 36} (B)
+Visiting {35 72} (T)
+Visiting {35 96} (P)
+Visiting {36 37} (E)
+Visiting {36 39} (Q)
+Visiting {36 41} (D)
+Visiting {36 59} (Y)
+Visiting {37 12} (J)
+Visiting {37 41} (N)
+Visiting {37 76} (N)
+Visiting {37 100} (J)
+Visiting {37 103} (B)
+Visiting {38 81} (C)
+Visiting {39 9} (F)
+Visiting {39 62} (X)
+Visiting {39 83} (G)
+Visiting {39 113} (Y)
+Visiting {39 126} (Y)
+Visiting {39 132} (Y)
+Visiting {39 133} (C)
+Visiting {39 137} (V)
+Visiting {40 98} (Y)
+Visiting {41 1} (X)
+Visiting {41 9} (E)
+Visiting {41 42} (O)
+Visiting {41 91} (T)
+Visiting {42 2} (F)
+Visiting {42 36} (Z)
+Visiting {42 42} (D)
+Visiting {42 91} (I)
+Visiting {42 98} (L)
+Visiting {42 109} (D)
+Visiting {42 114} (Z)
+Visiting {43 0} (S)
+Visiting {43 44} (C)
+Visiting {43 49} (U)
+Visiting {43 57} (V)
+Visiting {43 61} (R)
+Visiting {43 78} (J)
+Visiting {43 94} (D)
+Visiting {43 112} (D)
+Visiting {44 31} (W)
+Visiting {44 111} (J)
+Visiting {44 125} (L)
+Visiting {45 23} (Q)
+Visiting {45 35} (C)
+Visiting {45 45} (K)
+Visiting {45 49} (F)
+Visiting {45 50} (J)
+Visiting {45 80} (C)
+Visiting {45 116} (Y)
+Visiting {45 134} (J)
+Visiting {46 26} (N)
+Visiting {46 28} (M)
+Visiting {46 46} (T)
+Visiting {46 61} (P)
+Visiting {47 56} (P)
+Visiting {47 106} (O)
+Visiting {47 139} (E)
+Visiting {48 45} (E)
+Visiting {48 50} (J)
+Visiting {48 53} (D)
+Visiting {48 73} (O)
+Visiting {48 76} (L)
+Visiting {49 3} (B)
+Visiting {50 16} (K)
+Visiting {50 17} (F)
+Visiting {50 18} (Q)
+Visiting {50 53} (J)
+Visiting {50 78} (U)
+Visiting {50 95} (M)
+Visiting {50 123} (S)
+Visiting {50 138} (Y)
+Visiting {51 37} (L)
+Visiting {51 120} (I)
+Visiting {52 30} (R)
+Visiting {52 49} (A)
+Visiting {52 82} (Q)
+Visiting {52 106} (S)
+Visiting {53 23} (L)
+Visiting {53 31} (A)
+Visiting {53 34} (S)
+Visiting {53 38} (J)
+Visiting {53 43} (B)
+Visiting {53 88} (Q)
+Visiting {53 124} (J)
+Visiting {54 18} (D)
+Visiting {54 44} (I)
+Visiting {54 71} (Q)
+Visiting {54 101} (W)
+Visiting {54 109} (X)
+Visiting {55 9} (S)
+Visiting {55 13} (C)
+Visiting {55 60} (P)
+Visiting {55 89} (V)
+Visiting {55 112} (O)
+Visiting {56 20} (K)
+Visiting {56 75} (J)
+Visiting {56 88} (L)
+Visiting {56 133} (M)
+Visiting {57 49} (N)
+Visiting {57 58} (Y)
+Visiting {57 105} (T)
+Visiting {57 134} (R)
+Visiting {58 44} (R)
+Visiting {58 89} (J)
+Visiting {58 111} (K)
+Visiting {58 124} (Y)
+Visiting {59 22} (I)
+Visiting {59 66} (O)
+Visiting {59 81} (Q)
+Visiting {59 100} (F)
+Visiting {59 120} (L)
+Visiting {60 0} (H)
+Visiting {60 8} (Q)
+Visiting {60 47} (V)
+Visiting {60 78} (R)
+Visiting {61 4} (V)
+Visiting {61 61} (S)
+Visiting {61 78} (U)
+Visiting {61 98} (I)
+Visiting {61 103} (G)
+Visiting {61 121} (G)
+Visiting {62 34} (M)
+Visiting {62 69} (V)
+Visiting {63 25} (H)
+Visiting {63 38} (U)
+Visiting {63 59} (F)
+Visiting {63 70} (Z)
+Visiting {63 104} (G)
+Visiting {63 115} (N)
+Visiting {63 138} (C)
+Visiting {64 40} (V)
+Visiting {64 61} (G)
+Visiting {64 71} (S)
+Visiting {64 72} (T)
+Visiting {64 85} (G)
+Visiting {65 105} (R)
+Visiting {65 115} (Q)
+Visiting {65 125} (Q)
+Visiting {65 128} (R)
+Visiting {65 134} (D)
+Visiting {66 0} (K)
+Visiting {66 15} (P)
+Visiting {66 46} (Q)
+Visiting {66 77} (W)
+Visiting {66 102} (B)
+Visiting {68 39} (H)
+Visiting {68 59} (R)
+Visiting {68 66} (U)
+Visiting {68 126} (O)
+Visiting {69 24} (X)
+Visiting {69 66} (J)
+Visiting {70 21} (Y)
+Visiting {70 68} (S)
+Visiting {70 98} (K)
+Visiting {70 114} (T)
+Visiting {71 25} (P)
+Visiting {71 35} (E)
+Visiting {71 93} (C)
+Visiting {73 23} (J)
+Visiting {73 47} (D)
+Visiting {73 57} (K)
+Visiting {73 82} (M)
+Visiting {73 89} (E)
+Visiting {73 127} (Y)
+Visiting {74 49} (N)
+Visiting {74 56} (N)
+Visiting {74 65} (L)
+Visiting {74 92} (B)
+Visiting {74 134} (R)
+Visiting {75 30} (H)
+Visiting {75 36} (J)
+Visiting {75 56} (E)
+Visiting {75 59} (S)
+Visiting {75 81} (P)
+Visiting {75 89} (K)
+Visiting {76 15} (F)
+Visiting {76 37} (D)
+Visiting {76 43} (J)
+Visiting {76 57} (K)
+Visiting {77 11} (X)
+Visiting {77 53} (P)
+Visiting {78 5} (Z)
+Visiting {78 20} (Z)
+Visiting {78 33} (T)
+Visiting {78 47} (S)
+Visiting {78 104} (K)
+Visiting {79 18} (Z)
+Visiting {79 33} (Z)
+Visiting {79 69} (T)
+Visiting {79 104} (H)
+Visiting {80 34} (U)
+Visiting {80 43} (I)
+Visiting {80 137} (L)
+Visiting {81 0} (Z)
+Visiting {81 2} (B)
+Visiting {81 19} (W)
+Visiting {81 22} (C)
+Visiting {81 26} (I)
+Visiting {81 120} (P)
+Visiting {81 131} (Z)
+Visiting {82 51} (Q)
+Visiting {82 104} (K)
+Visiting {82 111} (Y)
+Visiting {82 130} (A)
+Visiting {83 5} (D)
+Visiting {83 24} (Z)
+Visiting {83 25} (I)
+Visiting {83 26} (Q)
+Visiting {83 79} (Y)
+Visiting {83 81} (K)
+Visiting {83 119} (V)
+Visiting {83 133} (F)
+Visiting {84 14} (M)
+Visiting {84 33} (Z)
+Visiting {84 113} (Q)
+Visiting {85 19} (E)
+Visiting {85 58} (E)
+Visiting {85 69} (D)
+Visiting {85 88} (S)
+Visiting {85 116} (E)
+Visiting {86 49} (L)
+Visiting {86 106} (B)
+Visiting {86 125} (N)
+Visiting {86 136} (A)
+Visiting {87 40} (J)
+Visiting {87 76} (K)
+Visiting {87 101} (O)
+Visiting {88 79} (O)
+Visiting {88 95} (H)
+Visiting {89 13} (Y)
+Visiting {89 17} (Q)
+Visiting {89 19} (P)
+Visiting {89 32} (J)
+Visiting {89 42} (L)
+Visiting {89 81} (P)
+Visiting {89 96} (D)
+Visiting {90 94} (X)
+Visiting {90 136} (B)
+Visiting {91 28} (J)
+Visiting {91 122} (Y)
+Visiting {91 139} (P)
+Visiting {92 10} (B)
+Visiting {92 24} (U)
+Visiting {92 31} (B)
+Visiting {92 62} (Q)
+Visiting {92 112} (V)
+Visiting {92 119} (V)
+Visiting {92 133} (D)
+Visiting {93 34} (K)
+Visiting {93 53} (B)
+Visiting {93 66} (P)
+Visiting {93 85} (R)
+Visiting {93 91} (H)
+Visiting {93 115} (G)
+Visiting {94 43} (V)
+Visiting {95 30} (Q)
+Visiting {95 63} (C)
+Visiting {96 4} (D)
+Visiting {96 32} (P)
+Visiting {96 60} (Q)
+Visiting {96 98} (Y)
+Visiting {97 24} (S)
+Visiting {97 55} (V)
+Visiting {97 101} (C)
+Visiting {97 132} (Q)
+Visiting {98 57} (H)
+Visiting {98 126} (J)
+Visiting {99 7} (A)
+Visiting {99 19} (F)
+Visiting {100 0} (V)
+Visiting {100 66} (E)
+Visiting {100 73} (J)
+Visiting {100 84} (R)
+Visiting {100 102} (J)
+Visiting {101 68} (Z)
+Visiting {101 70} (Q)
+Visiting {101 74} (C)
+Visiting {101 80} (G)
+Visiting {101 94} (Y)
+Visiting {102 10} (Q)
+Visiting {102 103} (L)
+Visiting {102 117} (E)
+Visiting {103 7} (L)
+Visiting {103 34} (Z)
+Visiting {103 36} (T)
+Visiting {103 52} (K)
+Visiting {103 54} (J)
+Visiting {103 68} (V)
+Visiting {103 76} (D)
+Visiting {103 105} (Q)
+Visiting {103 108} (J)
+Visiting {103 130} (O)
+Visiting {103 139} (R)
+Visiting {104 8} (T)
+Visiting {104 60} (Y)
+Visiting {104 71} (H)
+Visiting {105 6} (N)
+Visiting {105 61} (B)
+Visiting {105 129} (G)
+Visiting {105 131} (L)
+Visiting {106 23} (M)
+Visiting {106 40} (O)
+Visiting {106 52} (B)
+Visiting {106 90} (A)
+Visiting {107 113} (P)
+Visiting {107 126} (Y)
+Visiting {108 35} (F)
+Visiting {108 84} (U)
+Visiting {109 106} (F)
+Visiting {110 12} (Z)
+Visiting {110 36} (W)
+Visiting {110 48} (H)
+Visiting {110 49} (Y)
+Visiting {110 87} (V)
+Visiting {110 88} (R)
+Visiting {110 104} (R)
+Visiting {110 105} (U)
+Visiting {110 127} (T)
+Visiting {110 130} (T)
+Visiting {111 10} (J)
+Visiting {111 26} (G)
+Visiting {111 120} (F)
+Visiting {112 30} (H)
+Visiting {112 32} (P)
+Visiting {112 89} (F)
+Visiting {112 91} (T)
+Visiting {113 7} (H)
+Visiting {113 34} (T)
+Visiting {113 45} (I)
+Visiting {114 4} (F)
+Visiting {114 27} (L)
+Visiting {114 28} (V)
+Visiting {114 74} (Z)
+Visiting {114 88} (I)
+Visiting {115 48} (L)
+Visiting {115 105} (O)
+Visiting {115 114} (J)
+Visiting {115 115} (S)
+Visiting {116 2} (W)
+Visiting {116 10} (L)
+Visiting {116 47} (D)
+Visiting {116 87} (L)
+Visiting {116 98} (Z)
+Visiting {116 117} (Q)
+Visiting {117 57} (Y)
+Visiting {117 63} (E)
+Visiting {117 64} (D)
+Visiting {117 67} (D)
+Visiting {117 94} (Z)
+Visiting {117 114} (X)
+Visiting {117 126} (J)
+Visiting {118 111} (R)
+Visiting {119 15} (B)
+Visiting {119 40} (Z)
+Visiting {119 53} (U)
+Visiting {119 89} (V)
+Visiting {120 44} (E)
+Visiting {120 59} (Z)
+Visiting {120 77} (Y)
+Visiting {120 93} (H)
+Visiting {120 117} (I)
+Visiting {121 1} (U)
+Visiting {121 10} (B)
+Visiting {121 23} (B)
+Visiting {122 23} (N)
+Visiting {122 46} (X)
+Visiting {122 71} (J)
+Visiting {123 67} (I)
+Visiting {123 70} (V)
+Visiting {123 85} (C)
+Visiting {123 136} (R)
+Visiting {123 137} (C)
+Visiting {124 65} (I)
+Visiting {124 78} (W)
+Visiting {124 102} (B)
+Visiting {124 138} (U)
+Visiting {125 2} (T)
+Visiting {125 51} (E)
+Visiting {125 60} (T)
+Visiting {125 74} (Q)
+Visiting {125 80} (F)
+Visiting {125 95} (C)
+Visiting {125 139} (Z)
+Visiting {126 78} (G)
+Visiting {126 115} (V)
+Visiting {127 42} (X)
+Visiting {127 113} (X)
+Visiting {127 135} (P)
+Visiting {128 8} (G)
+Visiting {128 98} (N)
+Visiting {128 112} (M)
+Visiting {128 113} (T)
+Visiting {128 131} (Y)
+Visiting {129 89} (L)
+Visiting {129 116} (C)
+Visiting {129 118} (K)
+Visiting {129 134} (U)
+Visiting {130 45} (W)
+Visiting {130 122} (V)
+Visiting {130 124} (Y)
+Visiting {131 84} (E)
+Visiting {131 110} (C)
+Visiting {131 115} (G)
+Visiting {131 121} (M)
+Visiting {131 128} (N)
+Visiting {132 35} (O)
+Visiting {132 36} (I)
+Visiting {133 22} (W)
+Visiting {133 61} (D)
+Visiting {133 63} (A)
+Visiting {133 89} (N)
+Visiting {134 81} (T)
+Visiting {134 84} (W)
+Visiting {135 56} (U)
+Visiting {135 59} (Q)
+Visiting {135 114} (G)
+Visiting {135 139} (D)
+Visiting {136 19} (J)
+Visiting {136 79} (G)
+Visiting {136 105} (E)
+Visiting {137 42} (N)
+Visiting {137 52} (X)
+Visiting {137 88} (E)
+Visiting {137 91} (Y)
+Visiting {137 99} (X)
+Visiting {137 117} (K)
+Visiting {137 132} (J)
+Visiting {138 136} (H)
+Visiting {139 24} (B)
+Visiting {139 55} (Q)
+Visiting {139 75} (V)
+Visiting {139 111} (G)
+Region 15420 (U) size=1, perimeter=4
+Region 16002 (Z) size=1, perimeter=4
+Region 8053 (K) size=1, perimeter=4
+Region 7663 (J) size=3, perimeter=8
+Region 13140 (H) size=1, perimeter=4
+Region 11046 (G) size=3, perimeter=8
+Region 9954 (A) size=101, perimeter=88
+Region 441 (T) size=1, perimeter=4
+Region 11089 (V) size=29, perimeter=42
+Region 4813 (S) size=1, perimeter=4
+Region 14757 (T) size=29, perimeter=28
+Region 18825 (D) size=1, perimeter=4
+Region 7915 (E) size=3, perimeter=8
+Region 1973 (Z) size=1, perimeter=4
+Region 10677 (N) size=43, perimeter=42
+Region 1790 (Z) size=28, perimeter=26
+Region 11325 (F) size=40, perimeter=58
+Region 7728 (W) size=2, perimeter=6
+Region 6903 (U) size=2, perimeter=6
+Region 6214 (I) size=113, perimeter=106
+Region 9590 (S) size=2, perimeter=6
+Region 19303 (C) size=53, perimeter=70
+Region 15947 (X) size=4, perimeter=10
+Region 12339 (X) size=3, perimeter=8
+Region 17586 (N) size=89, perimeter=74
+Region 16482 (E) size=84, perimeter=58
+Region 9077 (D) size=1, perimeter=4
+Region 12762 (P) size=99, perimeter=68
+Region 17413 (J) size=1, perimeter=4
+Region 9745 (D) size=1, perimeter=4
+Region 19163 (R) size=2, perimeter=6
+Region 17071 (M) size=1, perimeter=4
+Region 12593 (N) size=1, perimeter=4
+Region 5231 (L) size=2, perimeter=6
+Region 15302 (D) size=9, perimeter=14
+Region 17708 (O) size=50, perimeter=44
+Region 6946 (L) size=1, perimeter=4
+Region 16 (H) size=6, perimeter=12
+Region 12071 (H) size=2, perimeter=6
+Region 14481 (G) size=1, perimeter=4
+Region 16163 (N) size=64, perimeter=54
+Region 9901 (Q) size=10, perimeter=16
+Region 3894 (L) size=147, perimeter=76
+Region 7839 (Q) size=1, perimeter=4
+Region 15400 (P) size=111, perimeter=122
+Region 15622 (Y) size=1, perimeter=4
+Region 14926 (B) size=150, perimeter=86
+Region 8296 (Y) size=37, perimeter=42
+Region 12890 (H) size=1, perimeter=4
+Region 6100 (I) size=130, perimeter=102
+Region 12296 (L) size=2, perimeter=6
+Region 14980 (T) size=1, perimeter=4
+Region 6886 (X) size=2, perimeter=6
+Region 6203 (C) size=2, perimeter=6
+Region 3723 (Q) size=1, perimeter=4
+Region 6007 (X) size=2, perimeter=6
+Region 4504 (H) size=1, perimeter=4
+Region 14227 (O) size=6, perimeter=12
+Region 5143 (T) size=46, perimeter=50
+Region 3751 (G) size=11, perimeter=16
+Region 16215 (S) size=1, perimeter=4
+Region 17001 (G) size=37, perimeter=38
+Region 14404 (B) size=134, perimeter=96
+Region 4432 (B) size=1, perimeter=4
+Region 1083 (L) size=1, perimeter=4
+Region 6413 (I) size=23, perimeter=34
+Region 4511 (U) size=6, perimeter=12
+Region 5115 (J) size=2, perimeter=6
+Region 10743 (D) size=3, perimeter=8
+Region 16253 (T) size=1, perimeter=4
+Region 9739 (T) size=1, perimeter=4
+Region 17757 (J) size=59, perimeter=56
+Region 15658 (R) size=97, perimeter=70
+Region 4620 (R) size=23, perimeter=30
+Region 11928 (A) size=1, perimeter=4
+Region 18445 (L) size=1, perimeter=4
+Region 4312 (H) size=1, perimeter=4
+Region 12760 (X) size=4, perimeter=8
+Region 4252 (R) size=2, perimeter=6
+Region 4698 (T) size=1, perimeter=4
+Region 3457 (S) size=144, perimeter=114
+Region 7797 (V) size=3, perimeter=8
+Region 5719 (Z) size=91, perimeter=84
+Region 1248 (G) size=116, perimeter=78
+Region 16095 (G) size=1, perimeter=4
+Region 7045 (J) size=4, perimeter=8
+Region 12533 (E) size=1, perimeter=4
+Region 945 (N) size=1, perimeter=4
+Region 9994 (Q) size=88, perimeter=62
+Region 3814 (S) size=1, perimeter=4
+Region 4699 (Z) size=2, perimeter=6
+Region 19130 (B) size=59, perimeter=46
+Region 6830 (H) size=12, perimeter=20
+Region 3370 (Y) size=1, perimeter=4
+Region 8177 (Y) size=3, perimeter=8
+Region 12518 (J) size=14, perimeter=22
+Region 12572 (F) size=2, perimeter=6
+Region 13836 (Z) size=1, perimeter=4
+Region 13425 (C) size=106, perimeter=80
+Region 5032 (O) size=29, perimeter=36
+Region 16517 (K) size=8, perimeter=14
+Region 1299 (F) size=128, perimeter=82
+Region 6653 (D) size=1, perimeter=4
+Region 8496 (Q) size=32, perimeter=34
+Region 14949 (F) size=3, perimeter=8
+Region 10485 (Q) size=1, perimeter=4
+Region 2290 (K) size=22, perimeter=34
+Region 19491 (P) size=30, perimeter=30
+Region 5664 (V) size=4, perimeter=10
+Region 81 (Z) size=17, perimeter=26
+Region 9961 (K) size=125, perimeter=84
+Region 5921 (O) size=1, perimeter=4
+Region 8056 (K) size=171, perimeter=122
+Region 8772 (Q) size=1, perimeter=4
+Region 12434 (I) size=3, perimeter=8
+Region 12589 (L) size=1, perimeter=4
+Region 15531 (C) size=45, perimeter=46
+Region 5886 (E) size=1, perimeter=4
+Region 2759 (F) size=2, perimeter=6
+Region 10461 (C) size=1, perimeter=4
+Region 396 (W) size=2, perimeter=6
+Region 12579 (V) size=103, perimeter=76
+Region 12457 (E) size=1, perimeter=4
+Region 19219 (V) size=78, perimeter=74
+Region 13091 (C) size=26, perimeter=40
+Region 6172 (R) size=23, perimeter=34
+Region 4794 (C) size=73, perimeter=50
+Region 17679 (Y) size=2, perimeter=6
+Region 6934 (N) size=1, perimeter=4
+Region 16881 (P) size=83, perimeter=74
+Region 6320 (Y) size=149, perimeter=110
+Region 18817 (R) size=1, perimeter=4
+Region 6453 (O) size=30, perimeter=38
+Region 8023 (V) size=113, perimeter=64
+Region 17738 (J) size=1, perimeter=4
+Region 19178 (H) size=1, perimeter=4
+Region 9100 (F) size=2, perimeter=6
+Region 14887 (O) size=1, perimeter=4
+Region 4704 (Z) size=46, perimeter=38
+Region 8205 (E) size=109, perimeter=72
+Region 4011 (J) size=146, perimeter=94
+Region 6280 (E) size=2, perimeter=6
+Region 13848 (N) size=2, perimeter=6
+Region 15808 (M) size=1, perimeter=4
+Region 15137 (L) size=42, perimeter=36
+Region 11659 (G) size=172, perimeter=70
+Region 8328 (R) size=95, perimeter=72
+Region 16077 (X) size=4, perimeter=10
+Region 16231 (G) size=1, perimeter=4
+Region 8542 (W) size=3, perimeter=8
+Region 4933 (K) size=2, perimeter=6
+Region 11868 (U) size=94, perimeter=70
+Region 2796 (J) size=10, perimeter=18
+Region 15701 (H) size=126, perimeter=110
+Region 9299 (O) size=69, perimeter=52
+Region 6640 (V) size=77, perimeter=78
+Region 8323 (F) size=64, perimeter=56
+Region 16325 (E) size=1, perimeter=4
+Region 10230 (L) size=1, perimeter=4
+Region 2541 (Y) size=99, perimeter=78
+Region 5776 (D) size=1, perimeter=4
+Region 12954 (B) size=1, perimeter=4
+Region 1511 (J) size=2, perimeter=6
+Region 15402 (J) size=9, perimeter=16
+Region 3139 (I) size=1, perimeter=4
+Region 12535 (K) size=32, perimeter=36
+Region 11993 (R) size=40, perimeter=46
+Region 7417 (X) size=1, perimeter=4
+Region 14993 (M) size=142, perimeter=120
+Region 589 (E) size=16, perimeter=22
+Region 3010 (Y) size=36, perimeter=42
+Region 12041 (L) size=2, perimeter=6
+Region 3293 (J) size=44, perimeter=44
+Region 14346 (B) size=165, perimeter=82
+Region 5373 (J) size=80, perimeter=74
+Region 3563 (H) size=42, perimeter=44
+Region 17565 (Q) size=35, perimeter=50
+Region 4840 (U) size=1, perimeter=4
+Region 12877 (Y) size=2, perimeter=6
+Region 12320 (V) size=1, perimeter=4
+Region 18805 (J) size=30, perimeter=34
+Region 9309 (J) size=132, perimeter=92
+Region 12430 (R) size=1, perimeter=4
+Region 3341 (B) size=1, perimeter=4
+Region 1717 (J) size=5, perimeter=12
+Region 4393 (A) size=30, perimeter=28
+Region 6562 (X) size=3, perimeter=8
+Region 12782 (I) size=23, perimeter=38
+Region 3326 (M) size=70, perimeter=56
+Region 14815 (O) size=75, perimeter=78
+Region 11200 (E) size=15, perimeter=20
+Region 3583 (I) size=102, perimeter=96
+Region 15772 (V) size=164, perimeter=112
+Region 1224 (T) size=1, perimeter=4
+Region 6835 (L) size=2, perimeter=6
+Region 5528 (H) size=1, perimeter=4
+Region 16803 (P) size=1, perimeter=4
+Region 7470 (J) size=99, perimeter=80
+Region 14642 (K) size=39, perimeter=34
+Region 14000 (I) size=111, perimeter=88
+Region 14194 (W) size=27, perimeter=32
+Region 2745 (E) size=5, perimeter=10
+Region 13388 (H) size=1, perimeter=4
+Region 5008 (F) size=99, perimeter=56
+Region 16112 (R) size=92, perimeter=72
+Region 15679 (G) size=1, perimeter=4
+Region 4295 (Q) size=1, perimeter=4
+Region 11399 (Q) size=7, perimeter=14
+Region 1079 (A) size=1, perimeter=4
+Region 15223 (J) size=36, perimeter=36
+Region 13277 (Z) size=8, perimeter=12
+Region 19585 (Z) size=3, perimeter=8
+Region 6917 (N) size=1, perimeter=4
+Region 16285 (Y) size=1, perimeter=4
+Region 18310 (T) size=1, perimeter=4
+Region 16075 (J) size=6, perimeter=12
+Region 6430 (W) size=1, perimeter=4
+Region 4645 (X) size=2, perimeter=6
+Region 6114 (V) size=142, perimeter=72
+Region 13816 (Y) size=1, perimeter=4
+Region 15927 (P) size=44, perimeter=56
+Region 16369 (C) size=3, perimeter=8
+Region 0 (U) size=134, perimeter=78
+Region 5082 (Z) size=30, perimeter=22
+Region 8586 (P) size=41, perimeter=44
+Region 19563 (R) size=1, perimeter=4
+Region 2131 (J) size=3, perimeter=8
+Region 18421 (Z) size=67, perimeter=52
+Region 8915 (C) size=4, perimeter=10
+Region 7975 (U) size=2, perimeter=6
+Region 18617 (J) size=1, perimeter=4
+Region 13020 (V) size=1, perimeter=4
+Region 15278 (C) size=1, perimeter=4
+Region 2405 (O) size=302, perimeter=84
+Region 5256 (D) size=128, perimeter=64
+Region 2878 (Z) size=2, perimeter=6
+Region 15684 (O) size=23, perimeter=28
+Region 18676 (M) size=73, perimeter=58
+Region 8601 (S) size=5, perimeter=12
+Region 9308 (U) size=1, perimeter=4
+Region 16911 (F) size=83, perimeter=70
+Region 10474 (Z) size=62, perimeter=44
+Region 2219 (B) size=33, perimeter=38
+Region 15993 (Y) size=8, perimeter=16
+Region 15904 (Q) size=15, perimeter=18
+Region 9333 (P) size=54, perimeter=44
+Region 7468 (D) size=4, perimeter=8
+Region 8260 (X) size=5, perimeter=12
+Region 1693 (Y) size=47, perimeter=42
+Region 15598 (K) size=72, perimeter=50
+Region 4900 (Z) size=129, perimeter=78
+Region 14522 (L) size=45, perimeter=40
+Region 16193 (G) size=1, perimeter=4
+Region 13261 (Y) size=7, perimeter=12
+Region 14836 (E) size=13, perimeter=22
+Region 15735 (O) size=1, perimeter=4
+Region 14146 (R) size=245, perimeter=120
+Region 14457 (B) size=59, perimeter=48
+Region 12781 (T) size=2, perimeter=6
+Region 6345 (K) size=1, perimeter=4
+Region 5383 (U) size=1, perimeter=4
+Region 3443 (Z) size=1, perimeter=4
+Region 12833 (H) size=79, perimeter=62
+Region 3360 (Q) size=45, perimeter=44
+Region 7386 (B) size=3, perimeter=8
+Region 11301 (G) size=444, perimeter=226
+Region 4275 (H) size=1, perimeter=4
+Region 6096 (J) size=6, perimeter=14
+Region 10920 (Z) size=115, perimeter=72
+Region 2525 (M) size=106, perimeter=66
+Region 12632 (I) size=2, perimeter=6
+Region 13052 (E) size=1, perimeter=4
+Region 18303 (O) size=3, perimeter=8
+Region 15948 (T) size=56, perimeter=54
+Region 17922 (C) size=203, perimeter=118
+Region 18504 (B) size=33, perimeter=32
+Region 17670 (A) size=1, perimeter=4
+Region 43 (S) size=23, perimeter=24
+Region 6912 (A) size=1, perimeter=4
+Region 1180 (Q) size=2, perimeter=6
+Region 8128 (L) size=2, perimeter=6
+Region 19507 (E) size=1, perimeter=4
+Region 10144 (T) size=104, perimeter=76
+Region 17235 (H) size=2, perimeter=6
+Region 13178 (B) size=14, perimeter=18
+Region 1301 (E) size=1, perimeter=4
+Region 3571 (P) size=1, perimeter=4
+Region 18282 (A) size=1, perimeter=4
+Region 11196 (G) size=7, perimeter=12
+Region 8277 (X) size=35, perimeter=32
+Region 18224 (Q) size=1, perimeter=4
+Region 12515 (V) size=1, perimeter=4
+Region 66 (K) size=2, perimeter=6
+Region 3721 (I) size=2, perimeter=6
+Region 9923 (V) size=1, perimeter=4
+Region 19187 (L) size=38, perimeter=30
+Region 10115 (T) size=100, perimeter=76
+Region 7914 (N) size=5, perimeter=10
+Region 1573 (J) size=2, perimeter=6
+Region 10963 (J) size=2, perimeter=6
+Region 16165 (Q) size=2, perimeter=6
+Region 17171 (Y) size=2, perimeter=6
+Region 10044 (H) size=2, perimeter=6
+Region 2257 (S) size=48, perimeter=46
+Region 11245 (C) size=70, perimeter=64
+Region 1492 (B) size=1, perimeter=4
+Region 11760 (S) size=150, perimeter=86
+Region 8710 (S) size=1, perimeter=4
+Region 13203 (D) size=3, perimeter=8
+Region 16851 (I) size=96, perimeter=68
+Region 4576 (P) size=1, perimeter=4
+Region 6696 (D) size=132, perimeter=116
+Region 1261 (N) size=1, perimeter=4
+Region 8097 (Y) size=1, perimeter=4
+Region 7265 (E) size=135, perimeter=78
+Region 60 (H) size=139, perimeter=92
+Region 8380 (Z) size=111, perimeter=86
+Region 8455 (P) size=3, perimeter=8
+Region 6048 (H) size=89, perimeter=54
+Region 13760 (Y) size=91, perimeter=66
+Region 17544 (L) size=126, perimeter=86
+Region 17747 (Y) size=9, perimeter=20
+Region 16226 (V) size=1, perimeter=4
+Region 11786 (V) size=1, perimeter=4
+Region 2044 (M) size=148, perimeter=110
+Region 17490 (Y) size=3, perimeter=8
+Region 9863 (Z) size=1, perimeter=4
+Region 2166 (P) size=1, perimeter=4
+Region 13350 (M) size=116, perimeter=78
+Region 4853 (K) size=1, perimeter=4
+Region 12852 (T) size=48, perimeter=40
+Region 16500 (I) size=103, perimeter=96
+Region 19444 (U) size=1, perimeter=4
+Region 4945 (C) size=1, perimeter=4
+Region 10320 (J) size=1, perimeter=4
+Region 4863 (Z) size=2, perimeter=6
+Region 11891 (E) size=10, perimeter=18
+Region 8953 (A) size=1, perimeter=4
+Region 1315 (S) size=61, perimeter=48
+Region 2127 (R) size=11, perimeter=20
+Region 15584 (J) size=114, perimeter=78
+Region 10981 (U) size=10, perimeter=22
+Region 1617 (X) size=86, perimeter=60
+Region 16743 (V) size=2, perimeter=6
+Region 19126 (A) size=3, perimeter=8
+Region 1502 (Q) size=2, perimeter=6
+Region 4506 (G) size=34, perimeter=46
+Region 10900 (Y) size=18, perimeter=20
+Region 16859 (L) size=16, perimeter=26
+Region 783 (D) size=11, perimeter=18
+Region 13529 (D) size=2, perimeter=6
+Region 12023 (C) size=1, perimeter=4
+Region 8719 (X) size=55, perimeter=74
+Region 5496 (Q) size=2, perimeter=6
+Region 12290 (V) size=21, perimeter=28
+Region 14237 (C) size=1, perimeter=4
+Region 8820 (K) size=238, perimeter=96
+Region 5777 (N) size=61, perimeter=48
+Region 10268 (O) size=2, perimeter=6
+Region 8937 (E) size=23, perimeter=32
+Region 13997 (X) size=13, perimeter=20
+Region 9834 (O) size=1, perimeter=4
+Region 469 (B) size=111, perimeter=62
+Region 5150 (W) size=1, perimeter=4
+Region 3265 (Q) size=8, perimeter=14
+Region 17270 (S) size=1, perimeter=4
+Region 10980 (R) size=44, perimeter=50
+Region 19027 (P) size=12, perimeter=18
+Region 3686 (N) size=44, perimeter=36
+Region 17890 (T) size=111, perimeter=66
+Region 10244 (G) size=2, perimeter=6
+Region 17948 (O) size=2, perimeter=6
+Region 14623 (G) size=2, perimeter=6
+Region 17516 (S) size=1, perimeter=4
+Region 2806 (R) size=1, perimeter=4
+Region 1561 (Z) size=10, perimeter=18
+Region 11532 (Q) size=5, perimeter=12
+Region 10062 (J) size=2, perimeter=6
+Region 5464 (N) size=121, perimeter=80
+Region 15859 (Y) size=1, perimeter=4
+Region 8645 (B) size=1, perimeter=4
+Region 1516 (L) size=1, perimeter=4
+Region 7019 (P) size=96, perimeter=74
+Region 4384 (W) size=67, perimeter=48
+Region 2741 (W) size=15, perimeter=22
+Region 17210 (V) size=56, perimeter=42
+Region 5172 (I) size=49, perimeter=44
+Region 6017 (N) size=8, perimeter=16
+Region 14037 (J) size=1, perimeter=4
+Region 6448 (F) size=1, perimeter=4
+Region 11227 (G) size=1, perimeter=4
+Region 10970 (U) size=30, perimeter=32
+Region 15314 (X) size=9, perimeter=16
+Region 18703 (F) size=1, perimeter=4
+Region 8395 (Q) size=34, perimeter=34
+Region 15961 (V) size=131, perimeter=84
+Region 18085 (N) size=1, perimeter=4
+Region 4375 (S) size=3, perimeter=8
+Region 14892 (S) size=1, perimeter=4
+Region 261 (U) size=125, perimeter=108
+Region 1521 (B) size=1, perimeter=4
+Region 17371 (O) size=27, perimeter=40
+Region 16030 (T) size=150, perimeter=78
+Region 405 (T) size=100, perimeter=62
+Region 11964 (G) size=67, perimeter=54
+Region 11228 (B) size=69, perimeter=54
+Region 14638 (K) size=1, perimeter=4
+Region 1985 (Z) size=5, perimeter=10
+Region 16133 (E) size=32, perimeter=36
+Region 8583 (R) size=2, perimeter=6
+Region 6486 (T) size=3, perimeter=8
+Region 9722 (V) size=1, perimeter=4
+Region 14765 (R) size=1, perimeter=4
+Region 16649 (K) size=2, perimeter=6
+Region 3373 (W) size=77, perimeter=50
+Region 2537 (Y) size=2, perimeter=6
+Region 1004 (G) size=39, perimeter=42
+Region 13762 (L) size=1, perimeter=4
+Region 17985 (R) size=6, perimeter=14
+Region 3161 (C) size=31, perimeter=28
+Region 18468 (Y) size=97, perimeter=58
+Region 4490 (V) size=133, perimeter=78
+Region 3429 (X) size=47, perimeter=46
+Region 778 (Z) size=3, perimeter=8
+Region 8078 (H) size=30, perimeter=34
+Region 11378 (C) size=3, perimeter=8
+Region 4569 (J) size=2, perimeter=6
+Region 5969 (L) size=116, perimeter=80
+Region 3452 (U) size=5, perimeter=12
+Region 14380 (J) size=16, perimeter=30
+Region 10688 (L) size=1, perimeter=4
+Region 12772 (H) size=87, perimeter=64
+Region 19370 (Y) size=38, perimeter=30
+Region 13781 (I) size=3, perimeter=8
+Region 4822 (M) size=124, perimeter=122
+Region 11423 (K) size=3, perimeter=8
+Region 2386 (Q) size=1, perimeter=4
+Region 8837 (W) size=1, perimeter=4
+Region 19207 (I) size=124, perimeter=94
+Region 14173 (C) size=30, perimeter=36
+Region 2430 (F) size=1, perimeter=4
+Region 8504 (Y) size=18, perimeter=20
+Region 4347 (V) size=1, perimeter=4
+Region 8007 (X) size=137, perimeter=90
+Region 5075 (B) size=1, perimeter=4
+Region 1093 (H) size=98, perimeter=68
+Region 7539 (U) size=25, perimeter=30
+Region 11488 (G) size=6, perimeter=12
+Region 8987 (M) size=106, perimeter=72
+Region 7703 (U) size=133, perimeter=80
+Region 12376 (L) size=1, perimeter=4
+Region 2176 (F) size=7, perimeter=14
+Region 2114 (F) size=9, perimeter=14
+Region 2856 (K) size=1, perimeter=4
+Region 11148 (O) size=139, perimeter=90
+Region 7513 (B) size=1, perimeter=4
+Region 9621 (Z) size=2, perimeter=6
+Region 674 (F) size=1, perimeter=4
+Region 7887 (P) size=5, perimeter=10
+Region 8335 (S) size=4, perimeter=10
+Region 18165 (G) size=52, perimeter=52
+Region 11894 (W) size=3, perimeter=8
+Region 19595 (D) size=9, perimeter=16
+Region 18659 (C) size=1, perimeter=4
+Region 10556 (J) size=7, perimeter=14
+Region 2749 (P) size=20, perimeter=26
+Region 3342 (N) size=146, perimeter=84
+Region 7034 (O) size=1, perimeter=4
+Region 5922 (D) size=81, perimeter=60
+Region 4767 (E) size=17, perimeter=24
+Region 10846 (W) size=8, perimeter=14
+Region 14639 (H) size=51, perimeter=56
+Region 621 (V) size=147, perimeter=94
+Region 16496 (Q) size=3, perimeter=8
+Region 181 (X) size=1, perimeter=4
+Region 16820 (B) size=1, perimeter=4
+Region 322 (F) size=1, perimeter=4
+Region 14059 (F) size=133, perimeter=92
+Region 6658 (S) size=1, perimeter=4
+Region 8125 (D) size=2, perimeter=6
+Region 15723 (D) size=6, perimeter=14
+Region 2570 (Q) size=12, perimeter=16
+Region 19383 (C) size=114, perimeter=70
+Region 13790 (K) size=6, perimeter=12
+Region 6888 (I) size=9, perimeter=16
+Region 5216 (E) size=2, perimeter=6
+Region 6905 (F) size=23, perimeter=32
+Region 15009 (U) size=86, perimeter=68
+Region 17114 (M) size=111, perimeter=76
+Region 12373 (Q) size=13, perimeter=22
+Region 12202 (H) size=10, perimeter=14
+Region 9950 (L) size=15, perimeter=22
+Region 7497 (P) size=30, perimeter=34
+Region 7383 (K) size=1, perimeter=4
+Region 11474 (T) size=32, perimeter=32
+Region 7705 (Y) size=1, perimeter=4
+Region 11860 (R) size=1, perimeter=4
+Region 8673 (D) size=2, perimeter=6
+Region 3499 (B) size=1, perimeter=4
+Region 100 (V) size=142, perimeter=78
+Region 6348 (E) size=1, perimeter=4
+Region 11429 (P) size=10, perimeter=18
+Region 14803 (Q) size=4, perimeter=10
+Region 11782 (Q) size=3, perimeter=8
+Region 2599 (Z) size=1, perimeter=4
+Region 5687 (J) size=3, perimeter=8
+Region 13250 (X) size=14, perimeter=20
+Region 14810 (U) size=59, perimeter=66
+Region 17515 (E) size=90, perimeter=66
+Region 17796 (Q) size=1, perimeter=4
+Region 1875 (C) size=1, perimeter=4
+Region 17853 (Y) size=108, perimeter=84
+Region 11143 (Y) size=35, perimeter=38
+Region 16103 (Y) size=1, perimeter=4
+Region 15007 (I) size=44, perimeter=44
+Region 12405 (S) size=41, perimeter=42
+Region 16752 (V) size=1, perimeter=4
+Region 9340 (E) size=76, perimeter=50
+Region 4592 (P) size=16, perimeter=20
+Region 9503 (I) size=27, perimeter=40
+Region 18889 (U) size=1, perimeter=4
+Region 3500 (O) size=4, perimeter=10
+Region 6073 (B) size=8, perimeter=18
+Region 6218 (R) size=1, perimeter=4
+Region 9174 (L) size=1, perimeter=4
+Region 11415 (P) size=112, perimeter=80
+Region 7222 (Q) size=38, perimeter=34
+Region 9224 (I) size=1, perimeter=4
+Region 10639 (V) size=2, perimeter=6
+Region 1960 (C) size=121, perimeter=98
+Region 12706 (A) size=4, perimeter=10
+Region 8525 (T) size=110, perimeter=50
+Region 4971 (E) size=27, perimeter=26
+Region 7048 (J) size=3, perimeter=8
+Region 3273 (L) size=79, perimeter=56
+Region 18712 (D) size=38, perimeter=46
+Region 16814 (W) size=1, perimeter=4
+Region 4034 (V) size=6, perimeter=12
+Region 18519 (Y) size=14, perimeter=18
+Region 17418 (Y) size=1, perimeter=4
+Region 1909 (Y) size=136, perimeter=80
+Region 18051 (N) size=2, perimeter=6
+Region 19460 (E) size=22, perimeter=24
+Region 11553 (M) size=137, perimeter=94
+Region 10727 (K) size=9, perimeter=14
+Region 18577 (Q) size=77, perimeter=66
+Region 13475 (P) size=15, perimeter=20
+Region 12904 (D) size=1, perimeter=4
+Region 10004 (S) size=1, perimeter=4
+Region 18834 (R) size=45, perimeter=50
+Region 19551 (P) size=1, perimeter=4
+Region 9623 (V) size=1, perimeter=4
+Region 4873 (T) size=1, perimeter=4
+Region 11771 (C) size=3, perimeter=8
+Region 3966 (M) size=1, perimeter=4
+Region 2574 (D) size=43, perimeter=52
+Region 19260 (L) size=49, perimeter=44
+Region 6970 (Y) size=54, perimeter=44
+Region 14670 (R) size=1, perimeter=4
+Region 9497 (D) size=17, perimeter=24
+Region 13300 (N) size=36, perimeter=30
+Region 4350 (M) size=4, perimeter=10
+Region 10802 (O) size=1, perimeter=4
+Region 8604 (G) size=1, perimeter=4
+Region 2469 (Q) size=1, perimeter=4
+Region 656 (D) size=36, perimeter=40
+Region 5706 (O) size=3, perimeter=8
+Region 11044 (W) size=139, perimeter=88
+Region 1400 (D) size=170, perimeter=132
+Region 8276 (F) size=1, perimeter=4
+Region 448 (L) size=138, perimeter=78
+Region 6506 (Q) size=46, perimeter=36
+Region 361 (B) size=1, perimeter=4
+Region 3213 (W) size=1, perimeter=4
+Region 10234 (P) size=2, perimeter=6
+ -> Sum: 1451030
+Processing complete!

@@ -1,0 +1,38 @@
+Registers A: 7, B: 0, C: 0
+iPointer: 0
+Program: [2 4 1 2 7 5 4 3 0 3 1 7 5 5 3 0]
+Output: []
+code: 2, operand 4
+Registers A: 7, B: 7, C: 0
+iPointer: 2
+Output: []
+code: 1, operand 2
+Registers A: 7, B: 5, C: 0
+iPointer: 4
+Output: []
+code: 7, operand 5
+Registers A: 7, B: 5, C: 0
+iPointer: 6
+Output: []
+code: 4, operand 3
+Registers A: 7, B: 5, C: 0
+iPointer: 8
+Output: []
+code: 0, operand 3
+Registers A: 0, B: 5, C: 0
+iPointer: 10
+Output: []
+code: 1, operand 7
+Registers A: 0, B: 2, C: 0
+iPointer: 12
+Output: []
+code: 5, operand 5
+Registers A: 0, B: 2, C: 0
+iPointer: 14
+Output: [2]
+code: 3, operand 0
+Registers A: 0, B: 2, C: 0
+iPointer: 16
+Output: [2]
+ -> Sum: 2
+Processing complete!
