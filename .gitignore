@@ -1,3 +1,5 @@
+# Golang Template
+# ------------------
 # If you prefer the allow list template instead of the deny list, see community template:
 # https://github.com/github/gitignore/blob/main/community/Golang/Go.AllowList.gitignore
 #
@@ -23,3 +25,29 @@ go.work.sum
 
 # env file
 .env
+
+# Python template
+# ------------------
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.egg-info/
+
+# Lisp template
+# ------------------
+*.fas
+*.fasl
+*.lib
+*.x86f
+*.lx64fsl
+*.dx64fsl
+*.pfsl
+*.ufasl
+*.ufsl
+*.sse2fsl
+*.nfasl
+*.nufsl
+*.ufasl
+*.dx86fsl
+*.lx64fsl
