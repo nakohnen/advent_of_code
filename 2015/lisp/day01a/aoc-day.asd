@@ -1,5 +1,1 @@
-(asdf:defsystem :aoc-day
-  :description "Advent of Code Day 01A"
-  :depends-on (:helper-utils)
-  :components ((:file "main")))
-
+/Users/lobo/github_clones/advent_of_code/2015/lisp/template/aoc-day.asd

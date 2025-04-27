@@ -1,38 +1,46 @@
 import os
 import shutil
+import sys
 
 def create_day(day_code):
     src = "template"
     dest = f"day{day_code.lower()}"
-    
+
     if os.path.exists(dest):
         print(f"Directory {dest} already exists. Aborting.")
         return
-    
-    # Step 1: Copy the template folder
-    shutil.copytree(src, dest)
-    
-    # Step 2: Replace placeholder TEMPLATE_XYZ in aoc-day.asd (or other files)
-    replacements = {
-        "TEMPLATE_XYZ": day_code.upper(),  # Replace TEMPLATE_XYZ with DAY CODE (e.g., 02B)
-    }
-    
-    for root, _, files in os.walk(dest):
-        for filename in files:
-            filepath = os.path.join(root, filename)
-            with open(filepath, "r+", encoding="utf-8") as f:
-                content = f.read()
-                for old, new in replacements.items():
-                    content = content.replace(old, new)
-                f.seek(0)
-                f.write(content)
-                f.truncate()
-    
-    print(f"Created {dest} successfully!")
 
-# Example usage
+    # Step 1: Create the destination folder
+    os.makedirs(dest)
+
+    # Step 2: Copy input.txt (only this file is copied)
+    shutil.copy2(os.path.join(src, "input.txt"), os.path.join(dest, "input.txt"))
+
+    # Step 3: Create symlinks for launch.lisp and aoc-day.asd
+    os.symlink(os.path.abspath(os.path.join(src, "launch.lisp")),
+               os.path.join(dest, "launch.lisp"))
+
+    os.symlink(os.path.abspath(os.path.join(src, "aoc-day.asd")),
+               os.path.join(dest, "aoc-day.asd"))
+
+    # Step 4: Copy main.lisp and replace TEMPLATE_XYZ
+    main_src = os.path.join(src, "main.lisp")
+    main_dest = os.path.join(dest, "main.lisp")
+
+    with open(main_src, "r", encoding="utf-8") as f:
+        content = f.read()
+
+    content = content.replace("TEMPLATE_XYZ", day_code.upper())
+
+    with open(main_dest, "w", encoding="utf-8") as f:
+        f.write(content)
+
+    print(f"Created {dest} successfully with symlinks and updated main.lisp!")
+
+# 🔥 Entry point
 if __name__ == "__main__":
-    for x in range(24):
-        for sub_x in ("a", "b"):
-            create_day(f"{x+1:02}{sub_x}")
+    if len(sys.argv) != 2:
+        print("Usage: python copy_template.py <day_code>")
+    else:
+        create_day(sys.argv[1])
 
