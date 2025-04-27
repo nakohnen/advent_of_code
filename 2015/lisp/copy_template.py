@@ -16,24 +16,22 @@ def create_day(day_code):
     # Step 2: Copy input.txt (only this file is copied)
     shutil.copy2(os.path.join(src, "input.txt"), os.path.join(dest, "input.txt"))
 
-    # Step 3: Create symlinks for launch.lisp and aoc-day.asd
+    # Step 3: Create symlinks for launch.lisp
     os.symlink(os.path.abspath(os.path.join(src, "launch.lisp")),
                os.path.join(dest, "launch.lisp"))
 
-    os.symlink(os.path.abspath(os.path.join(src, "aoc-day.asd")),
-               os.path.join(dest, "aoc-day.asd"))
+    # Step 4: Copy main.lisp aoc-day.asd and replace TEMPLATE_XYZ
+    for filename in ("main.lisp", "aoc-day.asd"):
+        main_src = os.path.join(src, filename)
+        main_dest = os.path.join(dest, filename)
 
-    # Step 4: Copy main.lisp and replace TEMPLATE_XYZ
-    main_src = os.path.join(src, "main.lisp")
-    main_dest = os.path.join(dest, "main.lisp")
+        with open(main_src, "r", encoding="utf-8") as f:
+            content = f.read()
 
-    with open(main_src, "r", encoding="utf-8") as f:
-        content = f.read()
+        content = content.replace("TEMPLATE_XYZ", day_code.upper())
 
-    content = content.replace("TEMPLATE_XYZ", day_code.upper())
-
-    with open(main_dest, "w", encoding="utf-8") as f:
-        f.write(content)
+        with open(main_dest, "w", encoding="utf-8") as f:
+            f.write(content)
 
     print(f"Created {dest} successfully with symlinks and updated main.lisp!")
 
