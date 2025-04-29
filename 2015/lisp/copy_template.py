@@ -17,7 +17,7 @@ def create_day(day_code):
     shutil.copy2(os.path.join(src, "input.txt"), os.path.join(dest, "input.txt"))
 
     # Step 3: Create symlinks for launch.lisp
-    os.symlink(os.path.abspath(os.path.join(src, "launch.lisp")),
+    os.symlink(os.path.relpath(os.path.join(src, "launch.lisp"), start=dest),
                os.path.join(dest, "launch.lisp"))
 
     # Step 4: Copy main.lisp aoc-day.asd and replace TEMPLATE_XYZ
