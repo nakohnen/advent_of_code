@@ -1,0 +1,68 @@
+package main
+
+import "core:fmt"
+import "core:os"
+import "core:strings"
+import "core:strconv"
+
+main :: proc() {
+    
+
+    if len(os.args) - 1 != 1 {
+        fmt.println("Need exactly one argument with the filename")
+        return
+    }
+    filepath := os.args[1]
+
+    data, ok := os.read_entire_file(filepath, context.allocator)
+	if !ok {
+        fmt.println("Could not read file.")
+		return
+	}
+	defer delete(data, context.allocator)
+
+
+	it := string(data)
+
+    total_joltage := 0
+
+
+	for line in strings.split_lines_iterator(&it) {
+        max_val := 0
+        buf: [12]byte
+        for i1 in 0..<len(line)-11 {
+        for i2 in i1+1..<len(line)-10 {
+        for i3 in i2+1..<len(line)-9 {
+        for i4 in i3+1..<len(line)-8 {
+        for i5 in i4+1..<len(line)-7 {
+        for i6 in i5+1..<len(line)-6 {
+        for i7 in i6+1..<len(line)-5 {
+        for i8 in i7+1..<len(line)-4 {
+        for i9 in i8+1..<len(line)-3 {
+        for i10 in i9+1..<len(line)-2 {
+        for i11 in i10+1..<len(line)-1 {
+        for i12 in i11+1..<len(line) {
+                buf[0] = line[i1]
+                buf[1] = line[i2]
+                buf[2] = line[i3]
+                buf[3] = line[i4]
+                buf[4] = line[i5]
+                buf[5] = line[i6]
+                buf[6] = line[i7]
+                buf[7] = line[i8]
+                buf[8] = line[i9]
+                buf[9] = line[i10]
+                buf[10] = line[i11]
+                buf[11] = line[i12]
+                joltage, _ := strconv.parse_int(string(buf[:]))
+
+                if joltage > max_val {
+                    max_val = joltage
+                }
+            }}}}}}}}}}}
+        }
+        fmt.println(max_val)
+        total_joltage += max_val
+	}
+    fmt.println(total_joltage)
+}
