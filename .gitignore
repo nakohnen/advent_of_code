@@ -51,3 +51,7 @@ __pycache__/
 *.ufasl
 *.dx86fsl
 *.lx64fsl
+
+# Inout files
+input.txt
+test.txt
