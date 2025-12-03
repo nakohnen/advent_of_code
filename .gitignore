@@ -55,3 +55,4 @@ __pycache__/
 # Inout files
 input.txt
 test.txt
+out*.txt
