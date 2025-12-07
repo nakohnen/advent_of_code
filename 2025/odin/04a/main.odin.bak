@@ -1,0 +1,49 @@
+package main
+
+import "core:fmt"
+import "core:os"
+import "core:strings"
+import "core:strconv"
+
+main :: proc() {
+    if len(os.args) - 1 != 1 {
+        fmt.println("Need exactly one argument with the filename")
+        return
+    }
+    filepath := os.args[1]
+
+    data, ok := os.read_entire_file(filepath, context.allocator)
+	if !ok {
+        fmt.println("Could not read file.")
+		return
+	}
+	defer delete(data, context.allocator)
+
+
+	it := string(data)
+
+    sum_target := 0
+
+    width := 0
+    height := 0
+
+    Key_Type :: [2]int
+
+    grid := [dynamic][dynamic]bool
+    grid = make([dynamic][dynamic]bool)
+
+	for line in strings.split_lines_iterator(&it) {
+        row := make([dynamic]bool)
+        for r, i in line {
+            if r == '@' {
+                append(&row, true)
+            } else {
+                append(&row, false)
+            }
+        }
+
+
+        append(&grid, row)
+	}
+    fmt.println(sum_target)
+}
