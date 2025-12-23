@@ -1,0 +1,118 @@
+package main
+
+import "core:fmt"
+import "core:os"
+import "core:strings"
+import "core:strconv"
+import "core:math"
+import "core:slice"
+
+Connection :: struct {
+    distance: f64,
+    boxes: [2]int
+}
+
+main :: proc() {
+    if len(os.args) - 1 != 1 {
+        fmt.println("Need exactly one argument with the filename")
+        return
+    }
+    filepath := os.args[1]
+
+    data, ok := os.read_entire_file(filepath, context.allocator)
+	if !ok {
+        fmt.println("Could not read file.")
+		return
+	}
+	defer delete(data, context.allocator)
+
+
+	it := string(data)
+
+
+    total_sum := 0
+
+    red_tiles := make([dynamic][2]int)
+
+    line_nbr := 0
+    width := 0
+    height := 0
+	for line in strings.split_lines_iterator(&it) {
+        splits := strings.split(line, ",")
+
+        left, _ := strconv.parse_int(splits[0])
+        right, _ := strconv.parse_int(splits[1])
+
+        append(&red_tiles, [2]int{left, right})
+        width = max(width, left)
+        height = max(height, right)
+
+        line_nbr += 1
+    }
+    width += 1
+    height += 1
+
+    is_colored := make(map[[2]int]bool)
+
+    for t in red_tiles {
+        is_colored[t] = true
+    }
+
+    for t1, i1 in red_tiles[:len(red_tiles)-1] {
+        for t2, i2 in red_tiles[i1+1:] {
+            if t1.x == t2.x {
+                for y in min(t1.y, t2.y)+1..<max(t1.y, t2.y) {
+                    is_colored[[2]int{t1.x, y}] = true
+                }
+            } 
+            if t1.y == t2.y {
+                for x in min(t1.x, t2.x)+1..<max(t1.x, t2.x) {
+                    is_colored[[2]int{x, t1.y}] = true
+                }
+            }
+        }
+    }
+
+    fmt.println("Step1")
+
+    for x in 0..<width {
+        min_y := height
+        max_y := 0
+        for y in 0..<height {
+            pos := [2]int{x, y}
+            if is_colored[pos] {
+                min_y = min(min_y, y)
+                max_y = max(max_y, y)
+            }
+        }
+
+        for y in min_y+1..<max_y {
+            is_colored[[2]int{x, y}] = true
+        }
+
+    }
+
+    fmt.println("Step2")
+
+    current_max := 0
+    for t1, i1 in red_tiles[:len(red_tiles)-1] {
+        for t2, i2 in red_tiles[i1+1:] {
+            pos1 := [2]int{t1.x, t2.y}
+            pos2 := [2]int{t2.x, t1.y}
+
+            if is_colored[pos1] && is_colored[pos2] {
+
+                length := math.abs(t1.x - t2.x) + 1
+                height := math.abs(t1.y - t2.y) + 1 
+
+                current_max = max(current_max, length * height)
+                fmt.println(t1, t2, length, height, current_max)
+            }
+        
+        }
+    }
+
+    total_sum = current_max
+
+    fmt.println(total_sum)
+}

@@ -1,0 +1,180 @@
+package main
+
+import "core:fmt"
+import "core:os"
+import "core:strings"
+import "core:strconv"
+import "core:math"
+import "core:slice"
+import "core:terminal/ansi"
+
+Connection :: struct {
+    distance: f64,
+    boxes: [2]int
+}
+
+main :: proc() {
+    if len(os.args) - 1 != 1 {
+        fmt.println("Need exactly one argument with the filename")
+        return
+    }
+    filepath := os.args[1]
+
+    data, ok := os.read_entire_file(filepath, context.allocator)
+	if !ok {
+        fmt.println("Could not read file.")
+		return
+	}
+	defer delete(data, context.allocator)
+
+
+	it := string(data)
+
+
+    total_sum := 0
+
+    red_tiles := make([dynamic][2]int)
+
+    line_nbr := 0
+    width := 0
+    height := 0
+
+    min_x := max(int)
+    min_y := max(int)
+	for line in strings.split_lines_iterator(&it) {
+        splits := strings.split(line, ",")
+
+        left, _ := strconv.parse_int(splits[0])
+        right, _ := strconv.parse_int(splits[1])
+
+        append(&red_tiles, [2]int{left, right})
+        width = max(width, left)
+        height = max(height, right)
+
+        min_x = min(left, min_x)
+        min_y = min(right, min_y)
+
+        line_nbr += 1
+    }
+
+    min_x = 0
+    min_y = 0
+
+    width += 1 - min_x
+    height += 1 - min_y
+
+    for &t in red_tiles {
+        t.x -= min_x
+        t.y -= min_y
+    }
+
+    fmt.println("Width:", width, "Height:", height)
+
+
+    inside := make(map[[2]int]bool)
+
+    for t1, i1 in red_tiles[:len(red_tiles)-1] {
+        for t2, i2 in red_tiles[i1+1:] {
+            if t1.x == t2.x {
+                x := t1.x
+                // Red tiles are on same column
+                for y in min(t1.y, t2.y)..=max(t1.y, t2.y) {
+                    inside[[2]int{x, y}] = true
+                }
+            } 
+            if t1.y == t2.y {
+                y := t1.y
+                // Red tiles are on same column
+                for x in min(t1.x, t2.x)..=max(t1.x, t2.x) {
+                    inside[[2]int{x, y}] = true
+                }
+            }
+        }
+    }
+    if width <= 20 && height <= 20 {
+        for y in 0..<height {
+            for x in 0..<width {
+                if inside[[2]int{x, y}] {
+                    fmt.print("#")
+                } else {
+                    fmt.print(".")
+                }
+            }
+            fmt.println("")
+        }
+        fmt.println("")
+    }
+
+    outside := make(map[[2]int]bool)
+
+    for x in -1..=width {
+        outside[[2]int{x, -1}] = true
+        outside[[2]int{x, height}] = true
+    }
+
+    for y in -1..=height {
+        outside[[2]int{-1, y}] = true
+        outside[[2]int{width, y}] = true
+    }
+    fmt.println("Propagate")
+    to_work := make([dynamic][2]int)
+    append(&to_work, [2]int{0, 0})
+    done := make(map[[2]int]bool)
+    done[[2]int{0, 0}] = true
+
+    for len(to_work) > 0 { 
+
+        current := pop(&to_work)
+        // fmt.println(len(to_work), current)
+
+        outside[current] = true
+
+        candidates: [4][2]int
+        candidates[0] = [2]int{current.x-1, current.y}
+        candidates[1] = [2]int{current.x+1, current.y}
+        candidates[2] = [2]int{current.x,   current.y-1}
+        candidates[3] = [2]int{current.x,   current.y+1}
+
+        for c in candidates {
+            if !done[c] && !inside[c] && 
+                c.x >= 0 && c.x < width && 
+                c.y >= 0 && c.y < height {
+                    done[c] = true
+                    append(&to_work, c)
+            }
+        }
+
+    }
+    delete(done)
+    delete(to_work)
+    fmt.println("Done.")
+
+
+    current_max := 0
+    for t1, i1 in red_tiles[:len(red_tiles)-1] {
+        for t2, i2 in red_tiles[i1+1:] {
+            pos1 := [2]int{t1.x, t2.y}
+            pos2 := [2]int{t2.x, t1.y}
+
+            //fmt.println(t1, t2, pos1, pos2)
+        
+            if !outside[pos1] && !outside[pos2] {
+                length := math.abs(t1.x - t2.x) + 1
+                height := math.abs(t1.y - t2.y) + 1 
+                
+                last_max := current_max
+                current_max = max(current_max, length * height)
+                if last_max != current_max {
+                    fmt.println(t1, t2, length, height, current_max)
+                }
+                    
+            }
+            //fmt.println("")
+        
+        }
+    }
+
+    total_sum = current_max
+
+    fmt.println(total_sum)
+}

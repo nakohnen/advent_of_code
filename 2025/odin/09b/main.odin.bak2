@@ -1,0 +1,150 @@
+package main
+
+import "core:fmt"
+import "core:os"
+import "core:strings"
+import "core:strconv"
+import "core:math"
+import "core:slice"
+
+Connection :: struct {
+    distance: f64,
+    boxes: [2]int
+}
+
+main :: proc() {
+    if len(os.args) - 1 != 1 {
+        fmt.println("Need exactly one argument with the filename")
+        return
+    }
+    filepath := os.args[1]
+
+    data, ok := os.read_entire_file(filepath, context.allocator)
+	if !ok {
+        fmt.println("Could not read file.")
+		return
+	}
+	defer delete(data, context.allocator)
+
+
+	it := string(data)
+
+
+    total_sum := 0
+
+    red_tiles := make([dynamic][2]int)
+
+    line_nbr := 0
+    width := 0
+    height := 0
+	for line in strings.split_lines_iterator(&it) {
+        splits := strings.split(line, ",")
+
+        left, _ := strconv.parse_int(splits[0])
+        right, _ := strconv.parse_int(splits[1])
+
+        append(&red_tiles, [2]int{left, right})
+        width = max(width, left)
+        height = max(height, right)
+
+        line_nbr += 1
+    }
+    width += 1
+    height += 1
+
+
+    col_min_max := make([dynamic][2]int)
+    row_min_max := make([dynamic][2]int)
+    for _ in 0..<width {
+        append(&col_min_max, [2]int{width, 0})
+    }
+    for _ in 0..<height {
+        append(&row_min_max, [2]int{height, 0})
+    }
+
+    for t in red_tiles {
+        // In col x set min y and max y
+        col_min_max[t.x] = [2]int{ min(t.y, col_min_max[t.x][0]), max(t.y , col_min_max[t.x][1])}
+
+        // In row y set min x and max x
+        row_min_max[t.y] = [2]int{ min(t.x, row_min_max[t.y][0]), max(t.x , row_min_max[t.y][1])}
+    }
+
+    // for x in 0..<width {
+    //     fmt.println(x, col_min_max[x])
+    // }
+    // for y in 0..<height {
+    //     fmt.println(y, row_min_max[y])
+    // }
+
+    for t1, i1 in red_tiles[:len(red_tiles)-1] {
+        for t2, i2 in red_tiles[i1+1:] {
+            if t1.x == t2.x {
+                for y in min(t1.y, t2.y)+1..<max(t1.y, t2.y) {
+                    row_min_max[y] = [2]int{ min(t1.x, row_min_max[y][0]), max(t1.x , row_min_max[y][1])}
+                }
+            } 
+            if t1.y == t2.y {
+                for x in min(t1.x, t2.x)+1..<max(t1.x, t2.x) {
+                    col_min_max[x] = [2]int{ min(t1.y, col_min_max[x][0]), max(t1.y , col_min_max[x][1])}
+
+                }
+            }
+        }
+    }
+
+    // fmt.println("Step1")
+
+    // for x in 0..<width {
+    //     fmt.println("x", x, col_min_max[x])
+    // }
+    // for y in 0..<height {
+    //     fmt.println("y", y, row_min_max[y])
+    // }
+
+    for y in 0..<height {
+        for x in 0..<width {
+            pos := [2]int{x, y}
+            if col_min_max[pos.x][0] <= pos.y && pos.y <= col_min_max[pos.x][1] &&
+                row_min_max[pos.y][0] <= pos.x && pos.x <= row_min_max[pos.y][1] {
+                    fmt.print("#")
+                } else {
+                    fmt.print(".")
+                }
+        }
+        fmt.println("")
+    }
+
+    current_max := 0
+    for t1, i1 in red_tiles[:len(red_tiles)-1] {
+        for t2, i2 in red_tiles[i1+1:] {
+            pos1 := [2]int{t1.x, t2.y}
+            pos2 := [2]int{t2.x, t1.y}
+            // fmt.println(t1, t2, pos1, pos2)
+            // fmt.println(t1.x, col_min_max[t1.x], t2.y)
+            // fmt.println(t2.x, col_min_max[t2.x], t1.y)
+            // fmt.println(t1.y, row_min_max[t1.y], t2.x)
+            // fmt.println(t2.y, row_min_max[t2.y], t1.x)
+
+            if col_min_max[t1.x][0] <= t2.y && t2.y <= col_min_max[t1.x][1] &&
+               col_min_max[t2.x][0] <= t1.y && t1.y <= col_min_max[t2.x][1] &&
+               row_min_max[t1.y][0] <= t2.x && t2.x <= row_min_max[t1.y][1] &&
+               row_min_max[t2.y][0] <= t1.x && t1.x <= row_min_max[t2.y][1] {
+                length := math.abs(t1.x - t2.x) + 1
+                height := math.abs(t1.y - t2.y) + 1 
+                
+                last_max := current_max
+                current_max = max(current_max, length * height)
+                //if last_max != current_max {
+                    fmt.println(t1, t2, length, height, current_max)
+                //}
+                    
+            }
+        
+        }
+    }
+
+    total_sum = current_max
+
+    fmt.println(total_sum)
+}

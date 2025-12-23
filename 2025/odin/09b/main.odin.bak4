@@ -1,0 +1,267 @@
+package main
+
+import "core:fmt"
+import "core:os"
+import "core:strings"
+import "core:strconv"
+import "core:math"
+import "core:slice"
+
+Connection :: struct {
+    distance: f64,
+    boxes: [2]int
+}
+
+main :: proc() {
+    if len(os.args) - 1 != 1 {
+        fmt.println("Need exactly one argument with the filename")
+        return
+    }
+    filepath := os.args[1]
+
+    data, ok := os.read_entire_file(filepath, context.allocator)
+	if !ok {
+        fmt.println("Could not read file.")
+		return
+	}
+	defer delete(data, context.allocator)
+
+
+	it := string(data)
+
+
+    total_sum := 0
+
+    red_tiles := make([dynamic][2]int)
+
+    line_nbr := 0
+    width := 0
+    height := 0
+
+    min_x := max(int)
+    min_y := max(int)
+	for line in strings.split_lines_iterator(&it) {
+        splits := strings.split(line, ",")
+
+        left, _ := strconv.parse_int(splits[0])
+        right, _ := strconv.parse_int(splits[1])
+
+        append(&red_tiles, [2]int{left, right})
+        width = max(width, left)
+        height = max(height, right)
+
+        min_x = min(left, min_x)
+        min_y = min(right, min_y)
+
+        line_nbr += 1
+    }
+
+    min_x = 0
+    min_y = 0
+
+    width += 1 - min_x
+    height += 1 - min_y
+
+    for &t in red_tiles {
+        t.x -= min_x
+        t.y -= min_y
+    }
+
+    fmt.println("Width:", width, "Height:", height)
+
+    vert_lines := make([dynamic][dynamic][2]int) // Columns
+    for x in 0..<width {
+        append(&vert_lines, make([dynamic][2]int))
+    }
+
+    hor_lines := make([dynamic][dynamic][2]int) // Rows 
+    for y in 0..<height {
+        append(&hor_lines, make([dynamic][2]int))
+    }
+
+    for t1, i1 in red_tiles[:len(red_tiles)-1] {
+        for t2, i2 in red_tiles[i1+1:] {
+            if t1.x == t2.x {
+                x := t1.x
+                // Red tiles are on same column, add both tiles y coord to green_lines
+                append(&vert_lines[x], [2]int{min(t1.y, t2.y), max(t1.y, t2.y)})
+            } 
+            if t1.y == t2.y {
+                y := t1.y
+                // Red tiles are on same column, add both tiles x coord to green_lines
+                append(&hor_lines[y], [2]int{min(t1.x, t2.x), max(t1.x, t2.x)})
+            }
+        }
+    }
+    fmt.println("hor_lines y [x, x2]")
+    for &hl, i in hor_lines {
+        if len(hl) > 1 {
+            max_val := 0
+            min_val := max(int)
+
+            for l in hl {
+                max_val = max(max_val, l[1])
+                min_val = min(min_val, l[0])
+            }
+            clear(&hl)
+            append(&hl, [2]int{min_val, max_val})
+        }
+
+        if len(hl) > 0 {
+            fmt.println(i, hl)
+        }
+    }
+
+    fmt.println("vert_lines x [y, y2]")
+    for &vl, i in vert_lines {
+        if len(vl) > 1 {
+            max_val := 0
+            min_val := max(int)
+
+            for l in vl {
+                max_val = max(max_val, l[1])
+                min_val = min(min_val, l[0])
+            }
+            clear(&vl)
+            append(&vl, [2]int{min_val, max_val})
+        }
+        if len(vl) > 0 {
+            fmt.println(i, vl)
+        }
+    }
+
+    Line :: struct {
+        coord: int,
+        line: [2]int,
+    }
+    
+    h_lines := make([dynamic]Line)
+    v_lines := make([dynamic]Line)
+
+    for &hl, i in hor_lines {
+        if len(hl) > 0 {
+            append(&h_lines, Line{i, hl[0]})
+        }
+        delete(hl)
+    }
+    delete(hor_lines)
+
+    for &vl, i in vert_lines {
+        if len(vl) > 0 {
+            append(&v_lines, Line{i, vl[0]})
+        }
+        delete(vl)
+    }
+    delete(vert_lines)
+
+    fmt.println("h_lines")
+    for l in h_lines {
+        fmt.println(l)
+    }
+
+    fmt.println("v_lines")
+    for l in v_lines {
+        fmt.println(l)
+    }
+
+    is_inside :: proc(pos: [2]int, h_lines, v_lines: []Line, red_tiles: [][2]int) -> bool {
+        for r in red_tiles {
+            if pos == r {
+                return true
+            }
+        }
+
+        fmt.println("pos", pos)
+
+        // h_lines == horizontal lines with the index of the tuples being 
+        // the y coord of the line and the tuple being the start and end of 
+        // the line (on the x axis).
+        // Same for v_lines just inversed the axis: index == x and tuple == y.
+
+        // For pos.x we need to check vert_lines
+        // i.e. is x between two vertical lines
+        vert_lines_check := make([dynamic]int)
+        defer delete(vert_lines_check)
+        for vl in v_lines {
+            // Are the vertical lines on the same height as pos
+            if vl.line[0] <= pos.y && pos.y <= vl.line[1] {
+                append(&vert_lines_check, vl.coord)
+            }
+        }
+        slice.sort(vert_lines_check[:])
+        fmt.println("vert_lines_check", vert_lines_check)
+
+        x_ok := false
+        for i in 0..<len(vert_lines_check)-1 {
+            if vert_lines_check[i] <= pos.y && pos.y <= vert_lines_check[i+1] {
+                if i % 2 == 0 {
+                    x_ok = true
+                    break
+                }
+            }
+        }
+        if !x_ok {
+            return false
+        }
+
+
+        // For y we need to check hor_lines
+        hor_lines_check := make([dynamic]int)
+        defer delete(hor_lines_check)
+        for hl in h_lines {
+            if hl.line[0] <= pos.x && pos.x <= hl.line[1] {
+                append(&hor_lines_check, hl.coord)
+            }
+        }
+        slice.sort(hor_lines_check[:])
+        fmt.println("hor_lines_check", hor_lines_check)
+
+
+        y_ok := false
+        for i in 0..<len(hor_lines_check)-1 {
+            if hor_lines_check[i] <= pos.x && pos.x <= hor_lines_check[i+1] {
+                if i % 2 == 0 {
+                    y_ok = true
+                    break
+                }
+            }
+        }
+        if !y_ok {
+            return false
+        }
+        return true
+    }
+
+    current_max := 0
+    for t1, i1 in red_tiles[:len(red_tiles)-1] {
+        for t2, i2 in red_tiles[i1+1:] {
+            pos1 := [2]int{t1.x, t2.y}
+            pos2 := [2]int{t2.x, t1.y}
+
+            fmt.println(t1, t2, pos1, pos2)
+
+            pos1_inside := is_inside(pos1, h_lines[:], v_lines[:], red_tiles[:])
+            pos2_inside := is_inside(pos2, h_lines[:], v_lines[:], red_tiles[:])
+            fmt.println(pos1, pos1_inside)
+            fmt.println(pos2, pos2_inside)
+        
+            if pos1_inside && pos2_inside {
+                length := math.abs(t1.x - t2.x) + 1
+                height := math.abs(t1.y - t2.y) + 1 
+                
+                last_max := current_max
+                current_max = max(current_max, length * height)
+                //if last_max != current_max {
+                    fmt.println(t1, t2, length, height, current_max)
+                //}
+                    
+            }
+            fmt.println("")
+        
+        }
+    }
+
+    total_sum = current_max
+
+    fmt.println(total_sum)
+}
