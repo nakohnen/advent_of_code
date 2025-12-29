@@ -1,0 +1,80 @@
+package main
+
+import "core:fmt"
+import "core:os"
+import "core:strings"
+import "core:strconv"
+import "core:math"
+import "core:slice"
+import "core:terminal/ansi"
+
+sum_arr :: proc(input: []int) -> int {
+    r := 0
+    for v in input {
+        r += v
+    }
+    return r
+}
+
+get_combinations :: proc(target_val, elements: int) -> [dynamic][dynamic]int {
+    working_set := make([dynamic][dynamic]int)
+    for index in 0..<elements {
+        if index == 0 {
+            for x in 0..=target_val {
+                comb := make([dynamic]int)
+                append(&comb, x)
+                append(&working_set, comb)
+            }
+        } else {
+            new_working_set := make([dynamic][dynamic]int)
+            
+            is_last := index == elements - 1
+
+            for len(working_set) > 0 {
+                current := pop(&working_set)
+                remaining := target_val - sum_arr(current[:])
+
+                // Sanity check
+                if remaining < 0 {
+                    delete(current)
+                    continue
+                }
+
+                if is_last {
+                    new_comb := make([dynamic]int)
+                    for v in current {
+                        append(&new_comb, v)
+                    }
+                    append(&new_comb, remaining)
+                    append(&new_working_set, new_comb)
+                } else {
+                    for x in 0..=max(remaining, 0) {
+                        new_comb := make([dynamic]int)
+                        for v in current {
+                            append(&new_comb, v)
+                        }
+                        append(&new_comb, x)
+                        append(&new_working_set, new_comb)
+                    }
+                }
+
+                delete(current)
+            }
+            
+            delete(working_set)
+            working_set = new_working_set
+        }
+    }
+    return working_set
+}
+
+main :: proc() {
+    t := 20
+    v := 5
+    fmt.println(t, v)
+    vs := get_combinations(t, v) 
+    for vec in vs {
+        fmt.println(vec)
+    }
+    fmt.println(len(vs))
+}

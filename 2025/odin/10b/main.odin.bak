@@ -1,0 +1,165 @@
+package main
+
+import "core:fmt"
+import "core:os"
+import "core:strings"
+import "core:strconv"
+import "core:math"
+import "core:slice"
+import "core:terminal/ansi"
+
+Connection :: struct {
+    distance: f64,
+    boxes: [2]int
+}
+
+main :: proc() {
+    if len(os.args) - 1 != 1 {
+        fmt.println("Need exactly one argument with the filename")
+        return
+    }
+    filepath := os.args[1]
+
+    data, ok := os.read_entire_file(filepath, context.allocator)
+	if !ok {
+        fmt.println("Could not read file.")
+		return
+	}
+
+
+	it := string(data)
+
+
+    total_sum := 0
+
+    lights := make([dynamic][10]int)
+    buttons := make([dynamic][dynamic][10]int)
+    joltages := make([dynamic][10]int)
+
+    line_nbr := 0
+	for line in strings.split_lines_iterator(&it) {
+        row_buttons := make([dynamic][10]int)
+
+        splits := strings.split(line, " ")
+
+        for s in splits {
+           switch s[0] {
+            case '[':
+                light: [10]int
+                for r, i in s[1:len(s)-1] {
+                    if r == '#' {
+                        light[i] += 1
+                    }
+                }
+                append(&lights, light)
+            case '(':
+                button: [10]int
+                for r in s {
+                    switch r {
+                    case '1':
+                        button[1] += 1
+                    case '2':
+                        button[2] += 1
+                    case '3':
+                        button[3] += 1
+                    case '4':
+                        button[4] += 1
+                    case '5':
+                        button[5] += 1
+                    case '6':
+                        button[6] += 1
+                    case '7':
+                        button[7] += 1
+                    case '8':
+                        button[8] += 1
+                    case '9':
+                        button[9] += 1
+                    case '0':
+                        button[0] += 1
+                    }
+                }
+                append(&row_buttons, button)
+            case '{':
+                joltage_total: [10]int
+                index := 0
+                for sub in strings.split(s[1:len(s)-1], ",") {
+                    joltage, _ := strconv.parse_int(sub)
+                    joltage_total[index] = joltage
+                    index += 1
+                }
+                append(&joltages, joltage_total)
+           }
+        }
+
+        line_nbr += 1
+        append(&buttons, row_buttons)
+    }
+    delete(data, context.allocator)
+
+    to_work := make([dynamic][10]int)
+    new_to_work := make([dynamic][10]int)
+    shortest_path := max(int)
+    done := make(map[[10]int]bool)
+    for i in 0..<len(buttons) {
+        fmt.println(joltages[i]) 
+        for b in buttons[i] {
+            fmt.println(b)
+        }
+        clear(&to_work)
+        clear(&done)
+        start_element : [10]int
+        for n, j in joltages[i] {
+            start_element[j] = n
+        }
+        append(&to_work, start_element)
+
+        found := false
+        round := 1
+        for !found {
+            clear(&new_to_work)
+            //fmt.println("to_work:", to_work)
+            for len(to_work) > 0 {
+                current := pop(&to_work)
+                done[current] = true
+                for b in buttons[i] {
+                    new_current: [10]int
+                    same := true
+                    for j in 0..<len(new_current) {
+                        new_current[j] = current[j] - b[j]
+
+                        if same && new_current[j] != 0 {
+                            same = false
+                        }
+                    }
+
+                    if same {
+                        found = true
+                        shortest_path = round
+                        break
+                    }
+
+                    //fmt.println(current, b, new_current)
+                    
+                    if !done[new_current] {
+                        append(&new_to_work, new_current)
+                        done[new_current] = true
+                    }
+
+                }
+            }
+            clear(&to_work)
+            for w in new_to_work {
+                append(&to_work, w)
+            }
+            round += 1
+            if len(to_work) == 0 && !found {
+                break
+            }
+        }
+
+
+        fmt.println(joltages[i], "in", shortest_path, "steps.")
+        total_sum += shortest_path
+    }
+    fmt.println(total_sum)
+}
