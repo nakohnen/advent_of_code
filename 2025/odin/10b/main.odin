@@ -7,7 +7,12 @@ import "core:strconv"
 import "core:math"
 import "core:slice"
 import "core:terminal/ansi"
+import vmem "core:mem/virtual"
+import "core:thread"
+import "core:mem"
+import "core:sys/info"
 
+VERBOSE_OUTPUT :: false
 
 get_smallest :: proc(input: [10]int, lower_bound: int) -> (int, int) {
     min:= max(int)
@@ -29,70 +34,87 @@ sum_arr :: proc(input: []int) -> int {
     return r
 }
 
-gt_0 :: proc(input: []int) -> bool {
-    r := len(input)
-    for v in input {
-        if v <= 0 {
-            r -= 1
-        }
+write_map_to_disk :: proc(filename: string, data: map[[10]int]int) -> bool {
+    b := strings.builder_make()
+    defer strings.builder_destroy(&b)
+    for key in data {
+        fmt.sbprintln(&b, key, data[key])
     }
-    return r > 0
+    output_txt := strings.to_string(b)
+
+    // os.write_entire_file(filepath, output_txt[:])
+    return os.write_entire_file(filename, transmute([]u8)output_txt)
 }
 
-
-get_combinations :: proc(target_val, elements: int) -> [dynamic][dynamic]int {
-    working_set := make([dynamic][dynamic]int)
-    for index in 0..<elements {
-        if index == 0 {
-            for x in 0..=target_val {
-                comb := make([dynamic]int)
-                append(&comb, x)
-                append(&working_set, comb)
-            }
-        } else {
-            new_working_set := make([dynamic][dynamic]int)
-            
-            is_last := index == elements - 1
-
-            for len(working_set) > 0 {
-                current := pop(&working_set)
-                remaining := target_val - sum_arr(current[:])
-
-                // Sanity check
-                if remaining < 0 {
-                    delete(current)
-                    continue
-                }
-
-                if is_last {
-                    new_comb := make([dynamic]int)
-                    for v in current {
-                        append(&new_comb, v)
-                    }
-                    append(&new_comb, remaining)
-                    append(&new_working_set, new_comb)
-                } else {
-                    for x in 0..=max(remaining, 0) {
-                        new_comb := make([dynamic]int)
-                        for v in current {
-                            append(&new_comb, v)
-                        }
-                        append(&new_comb, x)
-                        append(&new_working_set, new_comb)
-                    }
-                }
-
-                delete(current)
-            }
-            
-            delete(working_set)
-            working_set = new_working_set
-        }
+sort_by_card :: proc(v1, v2: [10]int) -> bool {
+    sum1 := 0
+    sum2 := 0
+    for x in v1 {
+        sum1 += x
     }
-    return working_set
+    for x in v2 {
+        sum2 += x
+    }
+    return sum1 > sum2
 }
 
-solve :: proc(target: [10]int, vectors: [][10]int) -> int {
+WorkData :: struct {
+    target: [10]int,
+    vectors: [][10]int,
+}
+
+Task_Data :: struct {
+    item: ^WorkData,
+    result: ^int,
+}
+
+process_one :: proc(item: WorkData) -> int {
+    fmt.println("Started:", item.target, item.vectors)
+    res := solve2(item.target, item.vectors[:])
+    fmt.println("Done:", item.target, res)
+    return res
+}
+
+worker :: proc(task: thread.Task) {
+    data := cast(^Task_Data)task.data
+    data.result^ = process_one(data.item^)
+}
+
+parallel_map :: proc(input: []WorkData, allocator := context.allocator) -> [dynamic]int {
+    count := len(input)
+    
+    results := make([dynamic]int, count, allocator)
+    mem.zero_slice(results[:])
+    
+    if count == 0 do return results
+    
+    pool: thread.Pool
+    thread.pool_init(&pool, allocator, thread_count = 12)
+    defer thread.pool_destroy(&pool)
+    thread.pool_start(&pool)
+    
+    // Task data array - lives until pool_finish returns
+    tasks := make([]Task_Data, count, context.temp_allocator)
+    
+    for i in 0..<count {
+        tasks[i] = Task_Data{
+            item   = &input[i],
+            result = &results[i],
+        }
+        thread.pool_add_task(&pool, allocator, worker, &tasks[i])
+    }
+    
+    thread.pool_finish(&pool)
+    
+    return results
+}
+
+solve2 :: proc(target: [10]int, vectors: [][10]int, rec: int = 0) -> int {
+    when VERBOSE_OUTPUT {
+        if rec >= 0 {
+            fmt.println("Solving:", target, vectors)
+        }
+    }
     // Solve recursively
     // Search for the place with the fewest possible matching vectors
     // For all matching vectors do a combination matching up the the target
@@ -102,8 +124,34 @@ solve :: proc(target: [10]int, vectors: [][10]int) -> int {
     // And solve again lower
     // For each combination we then take the one with the smallest steps if the steps are > 0 
     // else it was invalid
-    if len(vectors) == 0 {
+
+    max_t := -1
+    for t in target {
+        max_t = max(max_t, t)
+        if t < 0 {
+            when VERBOSE_OUTPUT {
+                fmt.println("t < 0", target, t)
+            }
+            return -1
+        }
+    }
+
+    all_zero := true
+    for t in target {
+        if t != 0 {
+            all_zero = false
+            break
+        }
+    }
+    if all_zero {
+        when VERBOSE_OUTPUT {
+            fmt.println("All zeros, returning 0")
+        }
         return 0
+    }
+
+    if len(vectors) == 0 {
+        return -1
     } else if len(vectors) == 1 {
         v := vectors[0]
 
@@ -113,6 +161,9 @@ solve :: proc(target: [10]int, vectors: [][10]int) -> int {
 
         for t in new_target {
             if t != 0 {
+                when VERBOSE_OUTPUT {
+                    fmt.println("t != 0", new_target, t)
+                }
                 return -1
             }
         }
@@ -120,18 +171,52 @@ solve :: proc(target: [10]int, vectors: [][10]int) -> int {
 
     }
 
+    vectors_2 := make([dynamic][10]int)
+    defer delete(vectors_2)
+    for v in vectors {
+        out := false
+        for t_v, t_i in v {
+            if target[t_i] == 0 && t_v > 0 {
+                out = true
+                break
+            }
+        }
+
+        if !out {
+            append(&vectors_2, v)
+        }
+    }
+    when VERBOSE_OUTPUT {
+        if rec >= 0 && len(vectors) != len(vectors_2) {
+            fmt.println("Reduced the vectors to:", vectors_2)
+        }
+
+    }
+
+
+    results := make([dynamic]int)
+    defer delete(results)
+
+    indexes_targeted: [10]int
+    for b in vectors_2 {
+        indexes_targeted += b
+    }
 
     min_v, min_index := get_smallest(target, 0)
-    //fmt.println("min", min, "min_index", min_index)
-    //fmt.println(target, vectors, min_v, min_index)
+    t_val := min_v
+    t_index := min_index
 
-    // Create a list of all buttons targeting the index
+    if min_index == -1 {
+        return 0
+    }
+
     sub_vectors := make([dynamic][10]int)
-    defer delete(sub_vectors)
     other_vectors := make([dynamic][10]int)
+    defer delete(sub_vectors)
     defer delete(other_vectors)
-    for b in vectors {
-        if b[min_index] == 1 {
+
+    for b in vectors_2 {
+        if b[t_index] == 1 {
             append(&sub_vectors, b) }
         else {
             append(&other_vectors, b)
@@ -142,34 +227,70 @@ solve :: proc(target: [10]int, vectors: [][10]int) -> int {
         return -1
     }
     
-    combs := get_combinations(min_v, len(sub_vectors))
-    defer delete(combs)
+    slice.sort_by(sub_vectors[:], sort_by_card)
+    slice.sort_by(other_vectors[:], sort_by_card)
 
-    result := min_v
-    sub_result := 0
-    results := make([dynamic]int)
-    defer delete(results)
-    for comb in combs {
-        defer delete(comb)
+    comb := make([dynamic]int, len(sub_vectors))
+    defer delete(comb)
+    comb[0] = t_val
+
+    for {
         new_target := target
         for n, i in comb {
             new_target -= n * sub_vectors[i]
         }
-        target_ok := true
-        for t in new_target {
-            if t < 0 {
-                target_ok = false
+        when VERBOSE_OUTPUT {
+            if rec >= 0 {
+                fmt.println("\t", comb, new_target, sub_vectors)
+            }
+        }
+
+
+        // Sanity check
+        valid_target := true
+        for n in new_target {
+            if n < 0 {
+                when VERBOSE_OUTPUT {
+                    fmt.println("Panic: Sanity check not passed:", new_target)
+                }
+                valid_target = false
                 break
             }
         }
-        if !target_ok {
-            continue
-        }
-        
+        if valid_target {
+            if sub_res := solve2(new_target, other_vectors[:], rec + 1); sub_res >= 0 && sub_res + t_val >= max_t {
 
-        sub_res := solve(new_target, other_vectors[:])
-        if sub_res >= 0 {
-            append(&results, sub_res)
+                when VERBOSE_OUTPUT {
+                    if rec >= 0 {
+                        fmt.println("\t Result added", t_val+sub_res, t_val, sub_res, comb)
+                    }
+                }
+                append(&results, t_val + sub_res)
+            }
+        }
+
+        // --- Exit condition: all weight in last bin ---
+        if comb[len(comb) - 1] == t_val {
+            break
+        }
+
+        // --- Find rightmost non-zero before last ---
+        i := len(comb) - 2
+        for i >= 0 && comb[i] == 0 {
+            i -= 1
+        }
+
+        // --- Collect tail ---
+        tail := 0
+        for j in (i + 1)..<len(comb) {
+            tail += comb[j]
+        }
+
+        // --- Advance: decrement i, put tail+1 in i+1, zero rest ---
+        comb[i] -= 1
+        comb[i + 1] = tail + 1
+        for j in (i + 2)..<len(comb) {
+            comb[j] = 0
         }
     }
 
@@ -185,11 +306,15 @@ solve :: proc(target: [10]int, vectors: [][10]int) -> int {
     if !sol_found {
         return -1
     }
-
-
-    return result + min_r
+    
+    
+    when VERBOSE_OUTPUT {
+        if rec >= 0 {
+            fmt.println("Result:", min_r, "from", results)
+        }
+    }
+    return min_r
 }
-
 
 main :: proc() {
     if len(os.args) - 1 != 1 {
@@ -198,128 +323,132 @@ main :: proc() {
     }
     filepath := os.args[1]
 
-    data, ok := os.read_entire_file(filepath, context.allocator)
-	if !ok {
-        fmt.println("Could not read file.")
-		return
-	}
-
-
-	it := string(data)
-
 
     total_sum := 0
-
     lights := make([dynamic][10]int)
     buttons := make([dynamic][dynamic][10]int)
     joltages := make([dynamic][10]int)
 
-    line_nbr := 0
-	for line in strings.split_lines_iterator(&it) {
-        row_buttons := make([dynamic][10]int)
+    {
+        data, ok := os.read_entire_file(filepath, context.allocator)
+        if !ok {
+            fmt.println("Could not read file.")
+            return
+        }
+        it := string(data)
+        line_nbr := 0
+        for line in strings.split_lines_iterator(&it) {
+            row_buttons := make([dynamic][10]int)
 
-        splits := strings.split(line, " ")
+            splits := strings.split(line, " ")
+            defer delete(splits)
 
-        for s in splits {
-           switch s[0] {
-            case '[':
-                light: [10]int
-                for r, i in s[1:len(s)-1] {
-                    if r == '#' {
-                        light[i] += 1
+            for s in splits {
+                switch s[0] {
+                case '[':
+                    light: [10]int
+                    for r, i in s[1:len(s)-1] {
+                        if r == '#' {
+                            light[i] += 1
+                        }
                     }
-                }
-                append(&lights, light)
-            case '(':
-                button: [10]int
-                for r in s {
-                    switch r {
-                    case '1':
-                        button[1] += 1
-                    case '2':
-                        button[2] += 1
-                    case '3':
-                        button[3] += 1
-                    case '4':
-                        button[4] += 1
-                    case '5':
-                        button[5] += 1
-                    case '6':
-                        button[6] += 1
-                    case '7':
-                        button[7] += 1
-                    case '8':
-                        button[8] += 1
-                    case '9':
-                        button[9] += 1
-                    case '0':
-                        button[0] += 1
+                    append(&lights, light)
+                case '(':
+                    button: [10]int
+                    for r in s {
+                        switch r {
+                        case '1':
+                            button[1] += 1
+                        case '2':
+                            button[2] += 1
+                        case '3':
+                            button[3] += 1
+                        case '4':
+                            button[4] += 1
+                        case '5':
+                            button[5] += 1
+                        case '6':
+                            button[6] += 1
+                        case '7':
+                            button[7] += 1
+                        case '8':
+                            button[8] += 1
+                        case '9':
+                            button[9] += 1
+                        case '0':
+                            button[0] += 1
+                        }
                     }
+                    append(&row_buttons, button)
+                case '{':
+                    joltage_total: [10]int
+                    index := 0
+                    joltage_splits := strings.split(s[1:len(s)-1], ",")
+                    for sub in joltage_splits {
+                        joltage, _ := strconv.parse_int(sub)
+                        joltage_total[index] = joltage
+                        index += 1
+                    }
+                    append(&joltages, joltage_total)
+                    delete(joltage_splits)
                 }
-                append(&row_buttons, button)
-            case '{':
+            }
+
+            line_nbr += 1
+            append(&buttons, row_buttons)
+        }
+        delete(data, context.allocator)
+    }
+
+    result_already_done := make(map[[10]int]int)
+    {
+        data, ok := os.read_entire_file("working.txt", context.allocator)
+        if ok {
+            it := string(data)
+            line_nbr := 0
+            for line in strings.split_lines_iterator(&it) {
+                splits := strings.split(line, "]")
+                defer delete(splits)
+                s := splits[0]
                 joltage_total: [10]int
                 index := 0
-                for sub in strings.split(s[1:len(s)-1], ",") {
-                    joltage, _ := strconv.parse_int(sub)
+                sub_splits := strings.split(s[1:], ",") 
+                defer delete(sub_splits)
+                for sub in sub_splits {
+                    joltage, _ := strconv.parse_int(strings.trim_space(sub))
                     joltage_total[index] = joltage
                     index += 1
                 }
-                append(&joltages, joltage_total)
-           }
+                joltage_result, _ := strconv.parse_int(strings.trim_space(splits[1]))
+                result_already_done[joltage_total] = joltage_result
+            }
         }
-
-        line_nbr += 1
-        append(&buttons, row_buttons)
+        delete(data, context.allocator)
+        
     }
-    delete(data, context.allocator)
 
-
-    for i in 0..<len(buttons) {
-        fmt.println(joltages[i]) 
-        fmt.println("Buttons")
-        for b in buttons[i] {
-            fmt.println(b)
-        }
-
-        shortest_path := max(int)
-
-
-        current_joltage: [10]int
-        current_joltage += joltages[i]
-
-        steps := 0
-
-        // Get the quick easy wins:
-        indexes_targeted: [10]int
-        for b in buttons[i] {
-            indexes_targeted += b
-        }
-        fmt.println("indexes_targeted", indexes_targeted)
-        new_buttons := make([dynamic][10]int)
-        for b in buttons[i] {
-            used := false
-            for t, j in indexes_targeted {
-                if t == 1 {
-                    if b[j] == t {
-                        used = true
-                        steps += current_joltage[j]
-                        current_joltage -= current_joltage[j] * b
-                    }
+    work_data := make([dynamic]WorkData)
+    for i in 0..<len(joltages) {
+        if res, ok := result_already_done[joltages[i]]; ok {
+            total_sum += res
+        } else {
+            append(&work_data, WorkData{joltages[i], buttons[i][:]})
+            when VERBOSE_OUTPUT {
+                fmt.println(joltages[i])
+                for b in buttons[i] {
+                    fmt.println("Button:", b)
                 }
             }
-            if !used {
-                append(&new_buttons, b)
-            }
         }
+    }
 
+    delete(joltages)
+    delete(lights)
 
-        fmt.println("current joltage:", current_joltage)
+    result := parallel_map(work_data[:])
 
-        steps += solve(current_joltage, new_buttons[:])
-
-        fmt.println(joltages[i], "in", steps, "steps.")
-        total_sum += steps
+    for res in result {
+        total_sum += res
     }
     fmt.println(total_sum)
 }
